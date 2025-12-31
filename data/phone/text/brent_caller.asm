@@ -1,162 +1,165 @@
 BrentRareTradeText:
-	text "Oh yeah, I got an"
-	line "extremely rare"
+	text "Ah sí, vaig"
+	line "aconseguir un"
 
-	para "#MON in a trade"
-	line "a while back."
+	para "#MON molt rar"
+	line "en un intercanvi."
 
-	para "Do you want to"
-	line "know what it is?"
+	para "Vols saber"
+	line "quin és?"
 
-	para "Hehe, I'm keeping"
-	line "it a secret!"
+	para "Hehe, és un"
+	line "secret!"
 	done
 
 BrentDefeatedMonText:
-	text "Oh yeah, I took"
-	line "down this wild"
+	text "Ah sí, vaig"
+	line "derrotar un"
 
 	para "@"
 	text_ram wStringBuffer4
-	text "."
-	line "It wasn't rare"
+	text " salvatge."
+	line "No era prou rar"
 
-	para "enough to bother"
-	line "catching."
+	para "per molestar-me"
+	line "a atrapar-lo."
 	done
 
 BrentLostAMonText:
-	text "Oh yeah, I saw a"
-	line "rare #MON about"
-	cont "an hour ago."
+	text "Ah sí, vaig veure"
+	line "un #MON rar fa"
+	cont "una hora."
 
-	para "It was my first"
-	line "sighting. But I"
+	para "Era el primer cop"
+	line "que el veia. Però"
 
-	para "didn't have any"
-	line "# BALLS…"
+	para "no tenia cap"
+	line "# BALL…"
 
-	para "Would BILL laugh"
-	line "at my mistakes?"
+	para "En BILL riuria"
+	line "dels meus errors?"
 	done
 
 BrentBattleRematchText:
-	text "You've got time"
-	line "like usual, right?"
+	text "Tens temps com"
+	line "sempre, oi?"
 
-	para "Feel like having a"
-	line "battle?"
+	para "Vols fer un"
+	line "combat?"
 
-	para "It'll be a chance"
-	line "to see my rare"
+	para "Serà l'ocasió de"
+	line "veure el meu"
 
-	para "#MON. It'll be"
-	line "worth your time!"
+	para "#MON rar."
+	line "Valdrà la pena!"
 
-	para "You know where--"
+	para "Ja saps on--"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 BrentHangUpText:
-	text "So that's it then."
+	text "Doncs això és tot."
 	done
 
 BrentFatherGossipText:
-	text "Did you know…?"
-	line "BILL's father is"
+	text "Ho sabies…?"
+	line "El pare d'en BILL"
 
-	para "supposed to be a"
-	line "great #MANIAC."
+	para "sembla que és un"
+	line "gran #MANÍAC."
 	done
 
 BrentGrandpaGossipText:
-	text "Did you know…?"
-	line "Apparently BILL's"
+	text "Ho sabies…?"
+	line "Sembla que l'avi"
 
-	para "grandpa isn't a"
-	line "#MANIAC."
+	para "d'en BILL no és"
+	line "un #MANÍAC."
 	done
 
 BrentGoldenrodGossipText:
-	text "Did you know…?"
-	line "BILL's originally"
-	cont "from GOLDENROD."
+	text "Ho sabies…?"
+	line "En BILL és"
+	cont "de POKEMON GROC."
 	done
 
 BrentRoute25GossipText:
-	text "Did you know…?"
-	line "BILL evidently"
+	text "Ho sabies…?"
+	line "En BILL viu a la"
 
-	para "lives on ROUTE 25"
-	line "in KANTO."
+	para "RUTA 25, sembla,"
+	line "a KANTO."
 	done
 
 BrentAbraGossipText:
-	text "Did you know…?"
-	line "ABRA was the first"
+	text "Ho sabies…?"
+	line "ABRA va ser el"
 
-	para "#MON that BILL"
-	line "ostensibly caught."
+	para "primer #MON que"
+	line "en BILL va"
+	cont "atrapar."
 	done
 
 BrentSisterGossipText:
-	text "Did you know…?"
-	line "BILL's younger"
+	text "Ho sabies…?"
+	line "La germana petita"
 
-	para "sister apparently"
-	line "can't wink."
+	para "d'en BILL sembla"
+	line "que no sap picar"
+	cont "l'ullet."
 	done
 
 BrentMilkGossipText:
-	text "Did you know…?"
-	line "BILL supposedly"
+	text "Ho sabies…?"
+	line "En BILL odia la"
 
-	para "hates milk and"
-	line "can't drink it."
+	para "llet i no la pot"
+	line "beure, diuen."
 	done
 
 BrentBattlingGossipText:
-	text "Did you know…?"
-	line "Evidently, BILL"
+	text "Ho sabies…?"
+	line "En BILL no és"
 
-	para "isn't very good at"
-	line "battling."
+	para "gaire bo en els"
+	line "combats, sembla."
 	done
 
 BrentFlowerShopGossipText:
-	text "Did you know…?"
-	line "BILL appears to"
+	text "Ho sabies…?"
+	line "Sembla que a en"
 
-	para "like the lady at"
-	line "the FLOWER SHOP."
+	para "BILL li agrada la"
+	line "noia de la FLORIS-"
+	cont "TERIA."
 	done
 
 BrentKimonoGirlGossipText:
-	text "Did you know…?"
-	line "BILL's mother is"
+	text "Ho sabies…?"
+	line "La mare d'en BILL"
 
-	para "said to have been"
-	line "a KIMONO GIRL."
+	para "diuen que va ser"
+	line "una NOIA QUIMONO."
 	done
 
 BrentSorryImTooBusyText:
-	text "You wanted to hear"
-	line "about BILL?"
+	text "Volies saber"
+	line "coses d'en BILL?"
 
-	para "Sorry, but I'm too"
-	line "busy for you."
+	para "Perdona, però ara"
+	line "estic molt ocupat."
 
-	para "I'll call when I"
-	line "have time."
+	para "Et trucaré quan"
+	line "tingui temps."
 	done
 
 BrentReminderText:
-	text "You want to see my"
-	line "rare #MON."
+	text "Vols veure el meu"
+	line "#MON rar."
 
-	para "Hurry over to"
+	para "Vine ràpid a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."

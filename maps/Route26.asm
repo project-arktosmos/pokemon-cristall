@@ -253,161 +253,163 @@ Route26MaxElixer:
 	itemball MAX_ELIXER
 
 CooltrainermJakeSeenText:
-	text "I'm making my"
-	line "final preparations"
+	text "Estic fent els"
+	line "preparatius finals"
 
-	para "for the #MON"
-	line "LEAGUE."
+	para "per a la LLIGA"
+	line "#MON."
 	done
 
 CooltrainermJakeBeatenText:
-	text "I blew it!"
+	text "L'he espifiada!"
 	done
 
 CooltrainermJakeAfterBattleText:
-	text "It's going to be"
-	line "tough to win at"
-	cont "the LEAGUE."
+	text "Serà difícil"
+	line "guanyar a la"
+	cont "LLIGA."
 
-	para "I need to do some"
-	line "more training."
+	para "He d'entrenar"
+	line "més."
 
-	para "I hear that the"
-	line "LEAGUE's ELITE"
+	para "Diuen que l'ALT"
+	line "COMANDAMENT de la"
 
-	para "FOUR are tougher"
-	line "than GYM LEADERS."
+	para "LLIGA és més dur"
+	line "que els LÍDERS."
 	done
 
 CooltrainermGaven3SeenText:
-	text "By experiencing"
-	line "tough battles, you"
-	cont "gain power."
+	text "Lluitant en"
+	line "batalles dures,"
+	cont "guanyes poder."
 	done
 
 CooltrainermGaven3BeatenText:
-	text "Gaah! Life is even"
-	line "tougher!"
+	text "Aaah! La vida és"
+	line "encara més dura!"
 	done
 
 CooltrainermGavenAfterText:
-	text "To get to #MON"
-	line "LEAGUE, you have"
+	text "Per anar a la"
+	line "LLIGA #MON, has"
 
-	para "to get through"
-	line "VICTORY ROAD."
+	para "de passar pel CAMÍ"
+	line "VICTÒRIA."
 
-	para "But VICTORY ROAD"
-	line "is tough."
+	para "Però el CAMÍ"
+	line "VICTÒRIA és dur."
 
-	para "Practically nobody"
-	line "goes there!"
+	para "Quasi ningú no"
+	line "hi va!"
 	done
 
 CooltrainerfJoyceSeenText:
-	text "Since you've come"
-	line "this far, you must"
-	cont "be good."
+	text "Si has arribat"
+	line "fins aquí, deus"
+	cont "ser bo."
 
-	para "I'm going to give"
-	line "this battle every-"
-	cont "thing I've got!"
+	para "Donaré tot el que"
+	line "tinc en aquesta"
+	cont "batalla!"
 	done
 
 CooltrainerfJoyceBeatenText:
-	text "No! I don't"
-	line "believe this!"
+	text "No! No m'ho puc"
+	line "creure!"
 	done
 
 CooltrainerfJoyceAfterBattleText:
-	text "I've defeated"
-	line "eight GYM LEADERS,"
+	text "He vençut vuit"
+	line "LÍDERS DE GIMNÀS,"
 
-	para "so I was feeling"
-	line "confident."
+	para "així que em sentia"
+	line "confiada."
 
-	para "I'll have to try"
-	line "harder next time."
+	para "El proper cop ho"
+	line "hauré d'intentar"
+	cont "més."
 	done
 
 CooltrainerfBeth1SeenText:
-	text "I lost to a train-"
-	line "er named <RIVAL>."
+	text "Vaig perdre contra"
+	line "un tal <RIVAL>."
 
-	para "He was really"
-	line "strong, but…"
+	para "Era molt fort,"
+	line "però…"
 
-	para "It was as if he"
-	line "absolutely had to"
-	cont "win at any cost."
+	para "Era com si hagués"
+	line "de guanyar fos"
+	cont "com fos."
 
-	para "I felt sorry for"
-	line "his #MON."
+	para "Em van fer pena"
+	line "els seus #MON."
 	done
 
 CooltrainerfBeth1BeatenText:
-	text "#MON aren't"
-	line "tools of war."
+	text "Els #MON no són"
+	line "eines de guerra."
 	done
 
 CooltrainerfBethAfterText:
-	text "#MON are in-"
-	line "valuable, lifelong"
-	cont "partners."
+	text "Els #MON són"
+	line "companys de tota"
+	cont "la vida."
 	done
 
 PsychicRichardSeenText:
-	text "Wow, look at all"
-	line "those BADGES!"
-	cont "I'm impressed."
+	text "Uau, mira quantes"
+	line "MEDALLES!"
+	cont "Impressionant."
 
-	para "But you're not"
-	line "satisfied by just"
+	para "Però no et"
+	line "conformes només"
 
-	para "collecting them,"
-	line "right?"
+	para "col·leccionant-"
+	line "les, oi?"
 	done
 
 PsychicRichardBeatenText:
-	text "Good battle!"
+	text "Bona batalla!"
 	done
 
 PsychicRichardAfterBattleText:
-	text "People and #MON"
-	line "grow from their"
-	cont "experiences."
+	text "Les persones i els"
+	line "#MON creixen"
+	cont "amb l'experiència."
 
-	para "Don't get lazy and"
-	line "complacent."
+	para "No et tornis"
+	line "mandrós ni"
+	cont "complaent."
 	done
 
 FisherScottSeenText:
-	text "I'm feeling great"
-	line "today!"
+	text "Avui em trobo"
+	line "genial!"
 
-	para "I feel like I"
-	line "could boot even"
-	cont "the LEAGUE CHAMP!"
+	para "Em sembla que"
+	line "podria vèncer fins"
+	cont "i tot el CAMPIÓ!"
 	done
 
 FisherScottBeatenText:
-	text "No! Not in this"
-	line "battle!"
+	text "No! En aquesta"
+	line "batalla no!"
 	done
 
 FisherScottAfterBattleText:
-	text "Just like in fish-"
-	line "ing, it's all over"
+	text "Com a la pesca,"
+	line "tot s'acaba amb"
 
-	para "in #MON if you"
-	line "give up."
+	para "els #MON si"
+	line "t'hi rendeixes."
 	done
 
 Route26SignText:
-	text "ROUTE 26"
+	text "RUTA 26"
 
-	para "#MON LEAGUE"
-	line "RECEPTION GATE"
+	para "PORTA D'ACCÉS A"
+	line "LA LLIGA #MON"
 	done
 
 Route26_MapEvents:

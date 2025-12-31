@@ -275,189 +275,196 @@ Route35FruitTree:
 	fruittree FRUITTREE_ROUTE_35
 
 CamperIvanSeenText:
-	text "I've been getting"
-	line "#MON data off"
+	text "He estat rebent"
+	line "dades de #MON"
 
-	para "my radio. I think"
-	line "I'm good."
+	para "per la ràdio. Crec"
+	line "que estic bé."
 	done
 
 CamperIvanBeatenText:
-	text "I give!"
+	text "Em rendeixo!"
 	done
 
 CamperIvanAfterBattleText:
-	text "Music on the radio"
-	line "changes the moods"
-	cont "of wild #MON."
+	text "La música a la"
+	line "ràdio canvia"
+	cont "l'humor dels"
+	cont "#MON salvatges."
 	done
 
 CamperElliotSeenText:
-	text "I'm gonna show my"
-	line "girlfriend I'm hot"
-	cont "stuff!"
+	text "Li ensenyaré a la"
+	line "meva xicota que"
+	cont "sóc el millor!"
 	done
 
 CamperElliotBeatenText:
-	text "I wish you would"
-	line "have lost for me…"
+	text "M'hauria agradat"
+	line "que haguessis"
+	cont "perdut per mi…"
 	done
 
 CamperElliotAfterBattleText:
-	text "I was humiliated"
-	line "in front of my"
-	cont "girlfriend…"
+	text "M'han humiliat"
+	line "davant de la meva"
+	cont "xicota…"
 	done
 
 PicnickerBrookeSeenText:
-	text "My boyfriend's"
-	line "weak, so I can't"
-	cont "rely on him."
+	text "El meu xicot és"
+	line "fluix, així que no"
+	cont "puc confiar-hi."
 	done
 
 PicnickerBrookeBeatenText:
-	text "Oh, my! You're so"
-	line "strong!"
+	text "Oh! Ets tan fort!"
 	done
 
 PicnickerBrookeAfterBattleText:
-	text "I can count on my"
-	line "#MON more than"
-	cont "my boyfriend."
+	text "Puc confiar més"
+	line "en els meus"
+	cont "#MON"
+	cont "que en el meu"
+	cont "xicot."
 	done
 
 PicnickerKimSeenText:
-	text "Are you going to"
-	line "the GYM? Me too!"
+	text "Vas al GIMNÀS?"
+	line "Jo també!"
 	done
 
 PicnickerKimBeatenText:
-	text "Oh. I couldn't"
-	line "win…"
+	text "Oh. No he pogut"
+	line "guanyar…"
 	done
 
 PicnickerKimAfterBattleText:
-	text "The GYM BADGES are"
-	line "pretty. I collect"
-	cont "them."
+	text "Les MEDALLES de"
+	line "GIMNÀS són bonics."
+	cont "Les col·lecciono."
 	done
 
 BirdKeeperBryanSeenText:
-	text "What kinds of"
-	line "BALLS do you use?"
+	text "Quins tipus de"
+	line "BALLS fas servir?"
 	done
 
 BirdKeeperBryanBeatenText:
-	text "Yikes! Not fast"
-	line "enough!"
+	text "Ui! No he estat"
+	line "prou ràpid!"
 	done
 
 BirdKeeperBryanAfterBattleText:
-	text "Some #MON flee"
-	line "right away."
+	text "Alguns #MON"
+	line "fugen de seguida."
 
-	para "Try catching them"
-	line "with KURT's FAST"
-	cont "BALL."
+	para "Prova d'atrapar-"
+	line "los amb la FAST"
+	cont "BALL d'en KURT."
 
-	para "Whenever I find a"
-	line "WHT APRICORN, I"
-	cont "take it to KURT."
+	para "Quan trobo un"
+	line "BONGUR BLANC, el"
+	cont "porto a en KURT."
 
-	para "He turns it into a"
-	line "custom BALL."
+	para "Ell el converteix"
+	line "en una BALL."
 	done
 
 JugglerIrwin1SeenText:
-	text "Behold my graceful"
-	line "BALL dexterity!"
+	text "Mira la meva"
+	line "destresa elegant"
+	cont "amb les BALLS!"
 	done
 
 JugglerIrwin1BeatenText:
-	text "Whew! That was a"
-	line "jolt!"
+	text "Uf! Això ha estat"
+	line "un cop!"
 	done
 
 JugglerIrwinAfterBattleText:
-	text "I was going to"
-	line "dazzle you with my"
-	cont "prize #MON."
+	text "T'anava a enlluer-"
+	line "nar amb el meu"
+	cont "#MON premiat."
 
-	para "But your prowess"
-	line "electrified me!"
+	para "Però la teva"
+	line "habilitat m'ha"
+	cont "electrificat!"
 	done
 
 BugCatcherArnieSeenText:
-	text "I'll go anywhere"
-	line "if bug #MON"
-	cont "appear there."
+	text "Aniré on sigui si"
+	line "hi apareixen"
+	cont "#MON insecte."
 	done
 
 BugCatcherArnieBeatenText:
-	text "Huh? I shouldn't"
-	line "have lost that…"
+	text "Eh? No hauria"
+	line "d'haver perdut…"
 	done
 
 BugCatcherArnieAfterBattleText:
-	text "My VENONAT won me"
-	line "the Bug-Catching"
+	text "El meu VENONAT em"
+	line "va fer guanyar el"
 
-	para "Contest at the"
-	line "NATIONAL PARK."
+	para "Concurs d'Insectes"
+	line "al PARC NACIONAL."
 	done
 
 BugCatcherArnieYanmaText:
-	text "Wow… Look at all"
-	line "those YANMA!"
+	text "Uau… Mira tots"
+	line "aquests YANMA!"
 
-	para "I'm so blown away,"
-	line "I can't move."
+	para "Estic tan sorprès"
+	line "que no em puc"
+	cont "moure."
 	done
 
 FirebreatherWaltSeenText:
-	text "I'm practicing my"
-	line "fire breathing."
+	text "Estic practicant"
+	line "com bufar foc."
 	done
 
 FirebreatherWaltBeatenText:
-	text "Ow! I scorched the"
-	line "tip of my nose!"
+	text "Au! M'he cremat"
+	line "la punta del nas!"
 	done
 
 FirebreatherWaltAfterBattleText:
-	text "The #MON March"
-	line "on the radio lures"
-	cont "wild #MON."
+	text "La Marxa #MON"
+	line "a la ràdio atrau"
+	cont "#MON salvatges."
 	done
 
 OfficerDirkSeenText:
-	text "Danger lurks in"
-	line "the night!"
+	text "El perill aguaita"
+	line "a la nit!"
 	done
 
 OfficerDirkBeatenText:
-	text "Whoops!"
+	text "Upa!"
 	done
 
 OfficerDirkAfterBattleText:
-	text "You know, night-"
-	line "time is fun in its"
-	cont "own ways."
+	text "Saps, la nit és"
+	line "divertida a la"
+	cont "seva manera."
 
-	para "But don't overdo"
-	line "it, OK?"
+	para "Però no t'excedis"
+	line "gaire, d'acord?"
 	done
 
 OfficerDirkPrettyToughText:
-	text "Your #MON look"
-	line "pretty tough."
+	text "Els teus #MON"
+	line "semblen forts."
 
-	para "You could go any-"
-	line "where safely."
+	para "Podries anar on"
+	line "vulguis sense"
+	cont "perill."
 	done
 
 Route35SignText:
-	text "ROUTE 35"
+	text "RUTA 35"
 	done
 
 Route35_MapEvents:

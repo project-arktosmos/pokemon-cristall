@@ -51,75 +51,76 @@ FuchsiaCityFruitTree:
 	fruittree FRUITTREE_FUCHSIA_CITY
 
 FuchsiaCityYoungsterText:
-	text "One of the ELITE"
-	line "FOUR used to be"
+	text "Un de l'ELIT"
+	line "QUATRE va ser el"
 
-	para "the LEADER of"
-	line "FUCHSIA's GYM."
+	para "LÍDER del GIMNÀS"
+	line "de FÚCSIA."
 	done
 
 FuchsiaCityPokefanMText:
-	text "KOGA's daughter"
-	line "succeeded him as"
+	text "La filla de KOGA"
+	line "el va succeir com"
 
-	para "the GYM LEADER"
-	line "after he joined"
-	cont "the ELITE FOUR."
+	para "a LÍDER del GIM-"
+	line "NÀS quan ell va"
+	cont "unir-se a l'ELIT."
 	done
 
 FuchsiaCityTeacherText:
-	text "The SAFARI ZONE is"
-	line "closed… It's sad,"
+	text "La ZONA SAFARI"
+	line "està tancada…"
 
-	para "considering it's"
-	line "FUCHSIA's main"
-	cont "attraction."
+	para "Quin desastre,"
+	line "era l'atracció"
+	cont "principal."
 	done
 
 FuchsiaCitySignText:
-	text "FUCHSIA CITY"
+	text "CIUTAT FÚCSIA"
 
-	para "Behold! It's"
-	line "Passion Pink!"
+	para "Observa! És rosa"
+	line "passió!"
 	done
 
 FuchsiaGymSignText:
-	text "FUCHSIA CITY"
-	line "#MON GYM"
-	cont "LEADER: JANINE"
+	text "CIUTAT FÚCSIA"
+	line "GIMNÀS #MON"
+	cont "LÍDER: JANINE"
 
-	para "The Poisonous"
-	line "Ninja Master"
+	para "La Mestra Ninja"
+	line "Verinosa"
 	done
 
 SafariZoneOfficeSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "SAFARI ZONE OFFICE"
-	line "is closed until"
-	cont "further notice."
+	para "L'OFICINA ZONA"
+	line "SAFARI és tancada"
+	cont "fins a nou avís."
 	done
 
 WardensHomeSignText:
-	text "SAFARI ZONE"
-	line "WARDEN'S HOME"
+	text "CASA DEL GUARDA"
+	line "DE LA ZONA SAFARI"
 	done
 
 SafariZoneClosedSignText:
-	text "The WARDEN is"
-	line "traveling abroad."
+	text "El GUARDA és de"
+	line "viatge a fora."
 
-	para "Therefore, the"
-	line "SAFARI ZONE is"
-	cont "closed."
+	para "Per tant, la"
+	line "ZONA SAFARI és"
+	cont "tancada."
 	done
 
 NoLitteringSignText:
-	text "No littering."
+	text "Prohibit llençar"
+	line "escombraries."
 
-	para "Please take your"
-	line "waste with you."
+	para "Endús els teus"
+	line "residus, sisplau."
 	done
 
 FuchsiaCity_MapEvents:

@@ -1,5 +1,5 @@
-	object_const_def
-	const DAYOFWEEKSIBLINGSHOUSE_POKEDEX
+object_const_def
+const DAYOFWEEKSIBLINGSHOUSE_POKEDEX
 
 DayOfWeekSiblingsHouse_MapScripts:
 	def_scene_scripts
@@ -21,51 +21,51 @@ DayOfWeekSiblingsHousePokedexScript:
 	end
 
 DayOfWeekSiblingsHousePokedexText1:
-	text "There's something"
-	line "written here."
+	text "Hi ha alguna cosa"
+	line "escrita aquí."
 
-	para "Read it?"
+	para "Llegir-ho?"
 	done
 
 DayOfWeekSiblingsHousePokedexText2:
-	text "To my brothers and"
-	line "sisters:"
+	text "Als meus germans i"
+	line "germanes:"
 
-	para "We take pride in"
-	line "serving #MON"
-	cont "trainers."
+	para "Estem orgullosos"
+	line "de servir els"
+	cont "entrenadors #."
 
-	para "When trainers talk"
-	line "to you, give them"
-	cont "something useful."
+	para "Quan un entrenador"
+	line "us parli, doneu-li"
+	cont "quelcom útil."
 
-	para "Love,"
+	para "Petons,"
 	line "MONICA"
 
-	para "Keep reading?"
+	para "Seguir llegint?"
 	done
 
 DayOfWeekSiblingsHousePokedexText3:
-	text "Monday, MONICA"
-	line "ROUTE 40"
+	text "Dilluns, MONICA"
+	line "RUTA 40"
 
-	para "Tuesday, TUSCANY"
-	line "ROUTE 29"
+	para "Dimarts, TRISTANY"
+	line "RUTA 29"
 
-	para "Wednesday, WESLEY"
-	line "LAKE OF RAGE"
+	para "Dimecres, MERCÈ"
+	line "LLAC DE LA FÚRIA"
 
-	para "Thursday, ARTHUR"
-	line "ROUTE 36"
+	para "Dijous, JORDINA"
+	line "RUTA 36"
 
-	para "Friday, FRIEDA"
-	line "ROUTE 32"
+	para "Divendres, VENTURA"
+	line "RUTA 32"
 
-	para "Saturday, SANTOS"
-	line "BLACKTHORN CITY"
+	para "Dissabte, SADURNÍ"
+	line "CIUTAT ATZAVARA"
 
-	para "Sunday, SUNNY"
-	line "ROUTE 37"
+	para "Diumenge, DOMÈNEC"
+	line "RUTA 37"
 	done
 
 DayOfWeekSiblingsHouse_MapEvents:

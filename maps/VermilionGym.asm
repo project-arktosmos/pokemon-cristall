@@ -103,159 +103,163 @@ VermilionGymStatue:
 	jumpstd GymStatue2Script
 
 LtSurgeIntroText:
-	text "SURGE: Hey, you"
-	line "little tyke!"
+	text "SURGE: Ei, tu,"
+	line "menut!"
 
-	para "I have to hand it"
-	line "to you. It may not"
+	para "T'ho he de dir."
+	line "Potser no és gaire"
 
-	para "be very smart to"
-	line "challenge me, but"
-	cont "it takes guts!"
+	para "intel·ligent que"
+	line "em desafiïs, però"
+	cont "tens valor!"
 
-	para "When it comes to"
-	line "electric #MON,"
-	cont "I'm number one!"
+	para "Quan es tracta de"
+	line "#MON elèctrics,"
+	cont "sóc el número u!"
 
-	para "I've never lost on"
-	line "the battlefield."
+	para "No he perdut mai"
+	line "al camp de batalla"
 
-	para "I'll zap you just"
-	line "like I did my"
-	cont "enemies in war!"
+	para "Et fulminare com"
+	line "vaig fer amb els"
+	cont "enemics a guerra!"
 	done
 
 LtSurgeWinLossText:
 	text "SURGE: Arrrgh!"
-	line "You are strong!"
+	line "Ets molt fort!"
 
-	para "OK, kid. You get"
-	line "THUNDERBADGE!"
+	para "D'acord, nen."
+	line "T'has guanyat la"
+	cont "MEDALLA TRON!"
 	done
 
 ReceivedThunderBadgeText:
-	text "<PLAYER> received"
-	line "THUNDERBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA TRON."
 	done
 
 LtSurgeThunderBadgeText:
-	text "SURGE: THUNDER-"
-	line "BADGE increases"
-	cont "#MON's speed. "
+	text "SURGE: La MEDALLA"
+	line "TRON augmenta la"
+	cont "velocitat #MON."
 
-	para "Consider it proof"
-	line "that you defeated"
+	para "Considera-la prova"
+	line "que m'has vençut."
 
-	para "me. You wear it"
-	line "proudly, hear?"
+	para "Porta-la amb"
+	line "orgull, entesos?"
 	done
 
 LtSurgeFightDoneText:
-	text "SURGE: Hey, kid!"
-	line "Still slugging and"
-	cont "chugging away?"
+	text "SURGE: Ei, nen!"
+	line "Continues lluitant"
+	cont "sense parar?"
 
-	para "My #MON and I"
-	line "are still at it!"
+	para "Els meus #MON i"
+	line "jo seguim igual!"
 	done
 
 GentlemanGregorySeenText:
-	text "You're here to"
-	line "defeat LT.SURGE?"
+	text "Has vingut a"
+	line "vèncer LT.SURGE?"
 
-	para "Not if I can help"
-	line "it!"
+	para "No si jo ho puc"
+	line "evitar!"
 	done
 
 GentlemanGregoryBeatenText:
-	text "Sorry I failed"
-	line "you, LT.SURGE,"
-	cont "sir!"
+	text "Perdoni per haver"
+	line "fallat, LT.SURGE,"
+	cont "senyor!"
 	done
 
 GentlemanGregoryAfterBattleText:
-	text "When I was still"
-	line "in the army, LT."
+	text "Quan era a"
+	line "l'exèrcit, LT."
 
-	para "SURGE saved my"
-	line "life."
+	para "SURGE em va salvar"
+	line "la vida."
 	done
 
 GuitaristVincentSeenText:
-	text "LT.SURGE recog-"
-	line "nized my potential"
+	text "LT.SURGE va"
+	line "reconèixer el meu"
 
-	para "with electric"
-	line "#MON."
+	para "potencial amb"
+	line "#MON elèctrics."
 
-	para "Think you can beat"
-	line "me?"
+	para "Creus que em pots"
+	line "vèncer?"
 	done
 
 GuitaristVincentBeatenText:
-	text "Ooh, how shocking!"
+	text "Ui, quin xoc!"
 	done
 
 GuitaristVincentAfterBattleText:
-	text "If the GYM's traps"
-	line "were working, you"
+	text "Si les trampes del"
+	line "GIMNÀS"
+	cont "funcionessin"
 
-	para "would have been"
-	line "toast…"
+	para "hauries quedat"
+	line "fregit…"
 	done
 
 JugglerHortonSeenText:
-	text "I'm going to take"
-	line "you down! Prepare"
-	cont "to be shocked!"
+	text "Et derrotaré!"
+	line "Prepara't per"
+	cont "rebre una"
+	cont "descàrrega!"
 	done
 
 JugglerHortonBeatenText:
 	text "Gwaaah!"
-	line "I was overpowered…"
+	line "M'has superat…"
 	done
 
 JugglerHortonAfterBattleText:
-	text "Don't get too com-"
-	line "fortable about"
+	text "No et confiïs per"
+	line "haver-me vençut…"
 
-	para "beating me…"
-	line "LT.SURGE is tough."
+	para "LT.SURGE és molt"
+	line "dur."
 	done
 
 VermilionGymGuideText:
-	text "Yo! CHAMP in"
-	line "making!"
+	text "Ei! Futur CAMPIÓ!"
 
-	para "You lucked out"
-	line "this time."
+	para "Has tingut sort"
+	line "aquest cop."
 
-	para "LT.SURGE is very"
-	line "cautious. He has"
+	para "LT.SURGE és molt"
+	line "prudent. Té"
+	cont "trampes"
 
-	para "traps set all over"
-	line "the GYM."
+	para "posades per tot el"
+	line "GIMNÀS."
 
-	para "But--he-heh--the"
-	line "traps aren't"
-	cont "active right now."
+	para "Però, he he, les"
+	line "trampes ara no"
+	cont "estan actives."
 
-	para "You'll have no"
-	line "problem getting to"
-	cont "LT.SURGE."
+	para "No tindràs cap"
+	line "problema per"
+	cont "arribar a SURGE."
 	done
 
 VermilionGymGuideWinText:
-	text "Whew! That was an"
-	line "electrifying bout!"
+	text "Uau! Ha estat un"
+	line "combat"
+	cont "electritzant"
 
-	para "It sure made me"
-	line "nervous."
+	para "M'ha posat molt"
+	line "nerviós."
 	done
 
 VermilionGymTrashCanText:
-	text "Nope! Nothing here"
-	line "but trash."
+	text "No! Aquí només hi"
+	line "ha escombraries."
 	done
 
 VermilionGym_MapEvents:

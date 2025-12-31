@@ -205,134 +205,136 @@ LancesRoomMovementData_MaryRunsBackAndForth:
 	step_end
 
 LanceBattleIntroText:
-	text "LANCE: I've been"
-	line "waiting for you."
+	text "LANCE: T'estava"
+	line "esperant."
 
 	para "<PLAY_G>!"
 
-	para "I knew that you,"
-	line "with your skills,"
+	para "Sabia que tu, amb"
+	line "les teves habili-"
+	cont "tats,"
 
-	para "would eventually"
-	line "reach me here."
+	para "acabaries"
+	line "arribant aquí."
 
-	para "There's no need"
-	line "for words now."
+	para "Ara no calen les"
+	line "paraules."
 
-	para "We will battle to"
-	line "determine who is"
+	para "Lluitarem per"
+	line "determinar qui és"
 
-	para "the stronger of"
-	line "the two of us."
+	para "el més fort de"
+	line "nosaltres dos."
 
-	para "As the most power-"
-	line "ful trainer and as"
+	para "Com a l'entrenador"
+	line "més poderós i com"
 
-	para "the #MON LEAGUE"
-	line "CHAMPION…"
+	para "a CAMPIÓ de la"
+	line "LLIGA #MON…"
 
-	para "I, LANCE the drag-"
-	line "on master, accept"
-	cont "your challenge!"
+	para "Jo, LANCE, el"
+	line "mestre dels dracs,"
+	cont "accepto el repte!"
 	done
 
 LanceBattleWinText:
-	text "…It's over."
+	text "…S'ha acabat."
 
-	para "But it's an odd"
-	line "feeling."
+	para "Però és una"
+	line "sensació estranya."
 
-	para "I'm not angry that"
-	line "I lost. In fact, I"
-	cont "feel happy."
+	para "No estic enfadat"
+	line "per haver perdut."
 
-	para "Happy that I"
-	line "witnessed the rise"
+	para "De fet, estic"
+	line "content."
 
-	para "of a great new"
-	line "CHAMPION!"
+	para "Content d'haver"
+	line "vist el naixement"
+
+	para "d'un nou gran"
+	line "CAMPIÓ!"
 	done
 
 LanceBattleAfterText:
-	text "…Whew."
+	text "…Buf."
 
-	para "You have become"
-	line "truly powerful,"
+	para "T'has tornat molt"
+	line "poderós,"
 	cont "<PLAY_G>."
 
-	para "Your #MON have"
-	line "responded to your"
+	para "Els teus #MON"
+	line "han respost a la"
 
-	para "strong and up-"
-	line "standing nature."
+	para "teva naturalesa"
+	line "forta i recta."
 
-	para "As a trainer, you"
-	line "will continue to"
+	para "Com a entrenador,"
+	line "continuaràs"
 
-	para "grow strong with"
-	line "your #MON."
+	para "creixent amb els"
+	line "teus #MON."
 	done
 
 LancesRoomMaryOhNoOakText:
 	text "MARY: Oh, no!"
-	line "It's all over!"
+	line "Ja ha acabat!"
 
-	para "PROF.OAK, if you"
-	line "weren't so slow…"
+	para "PROF.OAK, si no"
+	line "fossis tan lent…"
 	done
 
 LancesRoomOakCongratulationsText:
 	text "PROF.OAK: Ah,"
 	line "<PLAY_G>!"
 
-	para "It's been a long"
-	line "while."
+	para "Ha passat molt"
+	line "de temps."
 
-	para "You certainly look"
-	line "more impressive."
+	para "Segur que sembla"
+	line "més impressionant."
 
-	para "Your conquest of"
-	line "the LEAGUE is just"
-	cont "fantastic!"
+	para "La teva conquesta"
+	line "de la LLIGA és"
+	cont "fantàstica!"
 
-	para "Your dedication,"
-	line "trust and love for"
+	para "La teva dedicació,"
+	line "confiança i amor"
 
-	para "your #MON made"
-	line "this happen."
+	para "pels teus #MON"
+	line "ho han fet real."
 
-	para "Your #MON were"
-	line "outstanding too."
+	para "Els teus #MON"
+	line "també han estat"
+	cont "excel·lents."
 
-	para "Because they be-"
-	line "lieved in you as a"
+	para "Perquè creien en"
+	line "tu com a entrena-"
+	cont "dor, han perseve-"
+	cont "rat."
 
-	para "trainer, they per-"
-	line "severed."
-
-	para "Congratulations,"
+	para "Felicitats,"
 	line "<PLAY_G>!"
 	done
 
 LancesRoomMaryInterviewText:
-	text "MARY: Let's inter-"
-	line "view the brand new"
-	cont "CHAMPION!"
+	text "MARY: Entrevistem"
+	line "el nou CAMPIÓ!"
 	done
 
 LancesRoomNoisyText:
-	text "LANCE: This is"
-	line "getting to be a"
-	cont "bit too noisy…"
+	text "LANCE: Això es"
+	line "comença a tornar"
+	cont "massa sorollós…"
 
-	para "<PLAY_G>, could you"
-	line "come with me?"
+	para "<PLAY_G>, podries"
+	line "venir amb mi?"
 	done
 
 LancesRoomMaryNoInterviewText:
-	text "MARY: Oh, wait!"
-	line "We haven't done"
-	cont "the interview!"
+	text "MARY: Ei, espera!"
+	line "Encara no hem fet"
+	cont "l'entrevista!"
 	done
 
 LancesRoom_MapEvents:

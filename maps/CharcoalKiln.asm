@@ -76,70 +76,72 @@ CharcoalKilnRadio:
 	jumpstd Radio2Script
 
 CharcoalKilnBossText1:
-	text "All the SLOWPOKE"
-	line "have disappeared"
-	cont "from the town."
+	text "Tots els SLOWPOKE"
+	line "han desaparegut"
+	cont "del poble."
 
-	para "The forest's pro-"
-	line "tector may be"
-	cont "angry with us…"
+	para "El protector del"
+	line "bosc pot estar"
+	cont "enfadat amb nós…"
 
-	para "It may be a bad"
-	line "omen. We should"
-	cont "stay in."
+	para "Pot ser un mal"
+	line "presagi. Hauríem"
+	cont "de quedar-nos."
 	done
 
 CharcoalKilnBossText2:
-	text "The SLOWPOKE have"
-	line "returned…"
+	text "Els SLOWPOKE han"
+	line "tornat…"
 
-	para "But my APPRENTICE"
-	line "hasn't come back"
-	cont "from ILEX FOREST."
+	para "Però el meu APRE-"
+	line "NENT no ha tornat"
+	cont "del BOSC POKEMON."
 
-	para "Where in the world"
-	line "is that lazy guy?"
+	para "On dimonis deu"
+	line "ser aquest dropo?"
 	done
 
 CharcoalKilnBossText3:
-	text "You chased off"
-	line "TEAM ROCKET and"
+	text "Has foragitat el"
+	line "TEAM ROCKET i"
 
-	para "went to ILEX"
-	line "FOREST alone?"
+	para "has anat al BOSC"
+	line "POKEMON tu sol?"
 
-	para "That takes guts!"
-	line "I like that. Come"
-	cont "train with us."
+	para "Tens valor! M'a-"
+	line "grada. Vine a"
+	cont "entrenar amb nós."
 	done
 
 CharcoalKilnApprenticeText1:
-	text "Where have all the"
-	line "SLOWPOKE gone?"
+	text "On han anat tots"
+	line "els SLOWPOKE?"
 
-	para "Are they out play-"
-	line "ing somewhere?"
+	para "Deuen estar jugant"
+	line "per algun lloc?"
 	done
 
 CharcoalKilnApprenticeText2:
-	text "I'm sorry--I for-"
-	line "got to thank you."
+	text "Perdona, m'havia"
+	line "oblidat de donar-"
+	cont "te les gràcies."
 
-	para "This is CHARCOAL"
-	line "that I made."
+	para "Aquest és CARBÓ"
+	line "que he fet jo."
 
-	para "Fire-type #MON"
-	line "would be happy to"
-	cont "hold that."
+	para "Els #MON de foc"
+	line "estaran contents"
+	cont "de portar-lo."
 	done
 
 CharcoalKilnApprenticeText3:
-	text "The SLOWPOKE came"
-	line "back, and you even"
-	cont "found FARFETCH'D."
+	text "Els SLOWPOKE han"
+	line "tornat, i fins i"
+	cont "tot has trobat el"
+	cont "FARFETCH'D."
 
-	para "You're the cool-"
-	line "est, man!"
+	para "Ets el més guai,"
+	line "tio!"
 	done
 
 FarfetchdText:

@@ -19,53 +19,53 @@ Route40BattleTowerGateTwinScript:
 	jumptextfaceplayer Route40BattleTowerGateTwinText
 
 Route40BattleTowerGateUnusedText1: ; unreferenced
-	text "Did you come to"
-	line "see the BATTLE"
-	cont "TOWER too?"
+	text "Has vingut a"
+	line "veure la TORRE"
+	cont "BATALLA també?"
 
-	para "But I guess you"
-	line "can't go in yet."
+	para "Però encara no"
+	line "s'hi pot entrar."
 	done
 
 Route40BattleTowerGateUnusedText2: ; unreferenced
-	text "BATTLE TOWER has"
-	line "opened."
+	text "La TORRE BATALLA"
+	line "ha obert."
 
-	para "I want to go, but"
-	line "I haven't thought"
+	para "Vull anar-hi,"
+	line "però no he pensat"
 
-	para "up a cool line for"
-	line "when I win."
+	para "cap frase per"
+	line "quan guanyi."
 	done
 
 Route40BattleTowerGateRockerText:
-	text "Are you going to"
-	line "the BATTLE TOWER?"
+	text "Vas a la TORRE"
+	line "BATALLA?"
 
-	para "This is a secret,"
-	line "but if you win a"
+	para "Això és un secret"
+	line "però si guanyes"
 
-	para "whole lot, you can"
-	line "win special gifts."
+	para "molt, pots rebre"
+	line "regals especials."
 	done
 
 Route40BattleTowerGateUnusedText3: ; unreferenced
-	text "I'm going to train"
-	line "my #MON so I'll"
+	text "Entrenaré els"
+	line "meus #MON per"
 
-	para "be all ready for"
-	line "the BATTLE TOWER."
+	para "estar preparat"
+	line "per la TORRE."
 	done
 
 Route40BattleTowerGateTwinText:
-	text "The levels of the"
-	line "#MON I want to"
+	text "Els nivells dels"
+	line "#MON que vull"
 
-	para "use are all"
-	line "different."
+	para "fer servir són"
+	line "tots diferents."
 
-	para "I have to go train"
-	line "them now!"
+	para "Els he d'anar a"
+	line "entrenar ara!"
 	done
 
 Route40BattleTowerGate_MapEvents:

@@ -1,45 +1,48 @@
 ReenaAskNumber1Text:
-	text "Not bad…"
-	line "It's something to"
+	text "No està malament…"
+	line "No és fàcil"
 
-	para "beat me, even by"
-	line "an unlikely fluke…"
+	para "guanyar-me, ni que"
+	line "sigui de xamba…"
 
-	para "I like you! Give"
-	line "me your number!"
+	para "M'agrades! Dóna'm"
+	line "el teu número!"
 
-	para "You can be my"
-	line "practice partner!"
+	para "Seràs el meu"
+	line "company d'entrena-"
+	cont "ment!"
 	done
 
 ReenaAskNumber2Text:
-	text "Give me your phone"
-	line "number!"
+	text "Dóna'm el teu"
+	line "número de telèfon!"
 
-	para "You are going to"
-	line "be my practice"
-	cont "partner!"
+	para "Seràs el meu"
+	line "company d'entrena-"
+	cont "ment!"
 	done
 
 ReenaNumberAcceptedText:
-	text "Don't be too proud"
-	line "about beating me!"
+	text "No et creguis"
+	line "gaire"
+	cont "per guanyar-me!"
 
-	para "It was a fluke!"
+	para "Va ser un cop de"
+	line "sort!"
 	done
 
 ReenaNumberDeclinedText:
-	text "I don't believe"
-	line "it! You're going"
-	cont "to regret this!"
+	text "No m'ho puc"
+	line "creure!"
+	cont "Te'n penediràs!"
 	done
 
 ReenaPhoneFullText:
-	text "What? Your phone"
-	line "list has no room!"
+	text "Què? La llista del"
+	line "telèfon és plena!"
 	done
 
 ReenaRematchText:
-	text "What took you?"
-	line "Start right away!"
+	text "Per què has trigat"
+	line "tant? Comencem ja!"
 	done

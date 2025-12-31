@@ -244,130 +244,131 @@ AzaleaTownPlayerLeavesKurtsHouseMovement:
 	step_end
 
 AzaleaTownRivalBeforeText:
-	text "…Tell me some-"
-	line "thing."
+	text "…Explica'm una"
+	line "cosa."
 
-	para "Is it true that"
-	line "TEAM ROCKET has"
-	cont "returned?"
+	para "És cert que"
+	line "l'EQUIP ROCKET"
+	cont "ha tornat?"
 
-	para "What? You beat"
-	line "them? Hah! Quit"
-	cont "lying."
+	para "Què? Els has"
+	line "vençut? Ha! No"
+	cont "m'enganyis."
 
-	para "You're not joking?"
-	line "Then let's see how"
-	cont "good you are."
+	para "No és broma?"
+	line "Doncs a veure com"
+	cont "de bo ets."
 	done
 
 AzaleaTownRivalWinText:
-	text "… Humph! Useless"
-	line "#MON!"
+	text "… Bah! #MON"
+	line "inútils!"
 
-	para "Listen, you. You"
-	line "only won because"
+	para "Escolta'm bé."
+	line "Només has guanyat"
 
-	para "my #MON were"
-	line "weak."
+	para "perquè els meus"
+	line "#MON eren"
+	cont "febles."
 	done
 
 AzaleaTownRivalAfterText:
-	text "I hate the weak."
+	text "Odio els febles."
 
-	para "#MON, trainers."
-	line "It doesn't matter"
-	cont "who or what."
+	para "#MON, entrena-"
+	line "dors. No importa"
+	cont "qui o què."
 
-	para "I'm going to be"
-	line "strong and wipe"
-	cont "out the weak."
+	para "Seré fort i"
+	line "eliminaré tots"
+	cont "els febles."
 
-	para "That goes for TEAM"
-	line "ROCKET too."
+	para "Això inclou"
+	line "l'EQUIP ROCKET."
 
-	para "They act big and"
-	line "tough in a group."
+	para "Fan els durs en"
+	line "grup."
 
-	para "But get them"
-	line "alone, and they're"
-	cont "weak."
+	para "Però a soles,"
+	line "són febles."
 
-	para "I hate them all."
+	para "Els odio a tots."
 
-	para "You stay out of my"
-	line "way. A weakling"
+	para "No et fiquis al"
+	line "meu camí. Un"
 
-	para "like you is only a"
-	line "distraction."
+	para "feble com tu"
+	line "només em destorba."
 	done
 
 AzaleaTownRivalLossText:
-	text "…Humph! I knew"
-	line "you were lying."
+	text "…Bah! Ja sabia"
+	line "que m'enganyaves."
 	done
 
 AzaleaTownRocket1Text:
-	text "It's unsafe to go"
-	line "in there, so I'm"
-	cont "standing guard."
+	text "És perillós"
+	line "entrar-hi, així"
+	cont "que vigilo."
 
-	para "Aren't I a good"
-	line "Samaritan?"
+	para "No soc un bon"
+	line "samarità?"
 	done
 
 AzaleaTownRocket2Text:
-	text "Do you know about"
-	line "SLOWPOKETAIL? I"
-	cont "heard it's tasty!"
+	text "Coneixes la CUA"
+	line "DE SLOWPOKE? M'han"
+	cont "dit que és bona!"
 
-	para "Aren't you glad I"
-	line "told you that?"
+	para "No t'alegra que"
+	line "t'ho hagi dit?"
 	done
 
 AzaleaTownGrampsTextBefore:
-	text "The SLOWPOKE have"
-	line "disappeared from"
-	cont "town…"
+	text "Els SLOWPOKE han"
+	line "desaparegut del"
+	cont "poble…"
 
-	para "I heard their"
-	line "TAILS are being"
-	cont "sold somewhere."
+	para "He sentit que les"
+	line "seves CUES es"
+	cont "venen en algun"
+	cont "lloc."
 	done
 
 AzaleaTownGrampsTextAfter:
-	text "The SLOWPOKE have"
-	line "returned."
+	text "Els SLOWPOKE han"
+	line "tornat."
 
-	para "Knowing them, they"
-	line "could've just been"
+	para "Coneixent-los,"
+	line "potser només"
 
-	para "goofing off some-"
-	line "where."
+	para "estaven fent el"
+	line "ròssec per aquí."
 	done
 
 AzaleaTownTeacherText:
-	text "Did you come to"
-	line "get KURT to make"
-	cont "some BALLS?"
+	text "Has vingut perquè"
+	line "en KURT et faci"
+	cont "unes BALLS?"
 
-	para "A lot of people do"
-	line "just that."
+	para "Molta gent ve per"
+	line "això."
 	done
 
 AzaleaTownYoungsterText:
-	text "Cut through AZALEA"
-	line "and you'll be in"
-	cont "ILEX FOREST."
+	text "Si creues AZALEA"
+	line "arribaràs al BOSC"
+	cont "D'ILEX."
 
-	para "But these skinny"
-	line "trees make it"
+	para "Però aquests"
+	line "arbres prims fan"
 
-	para "impossible to get"
-	line "through."
+	para "impossible"
+	line "passar-hi."
 
-	para "The CHARCOAL MAN's"
-	line "#MON can CUT"
-	cont "down trees."
+	para "El # de l'HOME"
+	line "DEL CARBÓ pot"
+	cont "TALLAR arbres."
 	done
 
 AzaleaTownSlowpokeText1:
@@ -377,7 +378,7 @@ AzaleaTownSlowpokeText1:
 	done
 
 AzaleaTownSlowpokeText2:
-	text "<……> <……>Yawn?"
+	text "<……> <……>Badall?"
 	done
 
 WoosterText:
@@ -385,71 +386,78 @@ WoosterText:
 	done
 
 AzaleaTownKurtText1:
-	text "ILEX FOREST is"
-	line "restless!"
+	text "El BOSC D'ILEX"
+	line "està inquiet!"
 
-	para "What is going on?"
+	para "Què hi passa?"
 	done
 
 AzaleaTownKurtText2:
-	text "<PLAYER>, here's"
-	line "your GS BALL back!"
+	text "<PLAYER>, aquí"
+	line "tens la GS BALL!"
 	done
 
 AzaleaTownKurtText3:
-	text "Could you go see"
-	line "why ILEX FOREST is"
-	cont "so restless?"
+	text "Podries anar a"
+	line "veure per què el"
+	cont "BOSC D'ILEX està"
+	cont "tan inquiet?"
 	done
 
 AzaleaTownSignText:
-	text "AZALEA TOWN"
-	line "Where People and"
+	text "CIUTAT D'AZALEA"
+	line "On Persones i"
 
-	para "#MON Live in"
-	line "Happy Harmony"
+	para "# Viuen en"
+	line "Feliç Harmonia"
 	done
 
 KurtsHouseSignText:
-	text "KURT'S HOUSE"
+	text "CASA D'EN KURT"
 	done
 
 AzaleaGymSignText:
-	text "AZALEA TOWN"
-	line "#MON GYM"
-	cont "LEADER: BUGSY"
+	text "CIUTAT D'AZALEA"
+	line "GIMNÀS #MON"
+	cont "LÍDER: BUGSY"
 
-	para "The Walking"
-	line "Bug #MON"
-	cont "Encyclopedia"
+	para "L'Enciclopèdia"
+	line "Ambulant de #"
+	cont "de Tipus Insecte"
 	done
 
 SlowpokeWellSignText:
-	text "SLOWPOKE WELL"
+	text "POU SLOWPOKE"
 
-	para "Also known as the"
-	line "RAINMAKER WELL."
+	para "També conegut com"
+	line "el POU DE LA"
+	cont "PLUJA."
 
-	para "Locals believe"
-	line "that a SLOWPOKE's"
-	cont "yawn summons rain."
+	para "Els locals creuen"
+	line "que el badall"
 
-	para "Records show that"
-	line "a SLOWPOKE's yawn"
+	para "d'un SLOWPOKE"
+	line "fa ploure."
 
-	para "ended a drought"
-	line "400 years ago."
+	para "Segons els"
+	line "registres, el"
+
+	para "badall d'un"
+	line "SLOWPOKE va posar"
+
+	para "fi a una sequera"
+	line "fa 400 anys."
 	done
 
 CharcoalKilnSignText:
-	text "CHARCOAL KILN"
+	text "FORN DE CARBÓ"
 	done
 
 AzaleaTownIlexForestSignText:
-	text "ILEX FOREST"
+	text "BOSC D'ILEX"
 
-	para "Enter through the"
-	line "gate."
+	para "Entra per la"
+	line "porta."
 	done
 
 AzaleaTown_MapEvents:

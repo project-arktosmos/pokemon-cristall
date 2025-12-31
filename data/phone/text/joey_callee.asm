@@ -1,73 +1,73 @@
 JoeyAnswerPhoneText:
-	text "Hi, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
-	text " here!"
+	text " a l'aparell!"
 
-	para "Oh, <PLAYER>? You"
-	line "doing well?"
+	para "Oh, <PLAYER>? Com"
+	line "estàs?"
 	done
 
 JoeyAnswerPhoneDayText:
-	text "Hi, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
-	text " here!"
+	text " a l'aparell!"
 
-	para "Oh, <PLAYER>? You"
-	line "doing well?"
+	para "Oh, <PLAYER>? Com"
+	line "estàs?"
 	done
 
 JoeyAnswerPhoneNiteText:
-	text "Hi, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
-	text " here!"
+	text " a l'aparell!"
 
-	para "Oh, <PLAYER>? You"
-	line "doing well?"
+	para "Oh, <PLAYER>? Com"
+	line "estàs?"
 	done
 
 JoeyGreetText:
-	text "Yo, <PLAYER>!"
-	line "How're you doing?"
+	text "Ep, <PLAYER>!"
+	line "Com va?"
 
-	para "This is @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text ","
-	line "got a minute?"
+	line "tens un moment?"
 	done
 
 JoeyGreetDayText:
-	text "Yo, <PLAYER>! How's"
-	line "it going?"
+	text "Ep, <PLAYER>! Com"
+	line "va tot?"
 
-	para "This is @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text "."
-	line "Got a minute?"
+	line "Tens un moment?"
 	done
 
 JoeyGreetNiteText:
-	text "Yo, <PLAYER>!"
-	line "How're you doing?"
+	text "Ep, <PLAYER>!"
+	line "Com va?"
 
-	para "This is @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text ","
-	line "got a minute?"
+	line "tens un moment?"
 	done
 
 JoeyGenericText:
-	text "How are your"
-	line "#MON doing?"
+	text "Com van els teus"
+	line "#MON?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "raring to go, just"
-	cont "like always."
+	text ""
+	line "està molt animat,"
+	cont "com sempre."
 
-	para "It's the only one"
-	line "I have. I'm going"
+	para "És l'únic que"
+	line "tinc. Em faré un"
 
-	para "to become a great"
-	line "trainer with it!"
+	para "gran entrenador"
+	line "amb ell!"
 	done

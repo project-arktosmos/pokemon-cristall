@@ -161,175 +161,175 @@ Route40_StepUp4Movement: ; unreferenced
 	step_end
 
 SwimmermSimonSeenText:
-	text "You have to warm"
-	line "up before going"
-	cont "into the water."
+	text "Has d'escalfar"
+	line "abans d'entrar"
+	cont "a l'aigua."
 
-	para "That's basic."
+	para "És bàsic."
 	done
 
 SwimmermSimonBeatenText:
-	text "OK! Uncle! I give!"
+	text "D'acord! Em rendo!"
 	done
 
 SwimmermSimonAfterBattleText:
-	text "CIANWOOD CITY is"
-	line "a good distance"
-	cont "away from here."
+	text "CIANWOOD CITY és"
+	line "bastant lluny"
+	cont "d'aquí."
 	done
 
 SwimmermRandallSeenText:
-	text "Hey, you're young"
-	line "and fit!"
+	text "Ei, ets jove i"
+	line "estàs en forma!"
 
-	para "Don't ride your"
-	line "#MON! Swim!"
+	para "No muntis el teu"
+	line "#MON! Neda!"
 	done
 
 SwimmermRandallBeatenText:
-	text "Uh-oh. I lost…"
+	text "Oh, no. He perdut…"
 	done
 
 SwimmermRandallAfterBattleText:
-	text "Swimming exercises"
-	line "your entire body."
-	cont "It's healthy."
+	text "Nedar exercita"
+	line "tot el cos."
+	cont "És saludable."
 	done
 
 SwimmerfElaineSeenText:
-	text "Are you going to"
-	line "CIANWOOD?"
+	text "Vas a CIANWOOD?"
 
-	para "How about a quick"
-	line "battle first?"
+	para "Què tal un combat"
+	line "ràpid primer?"
 	done
 
 SwimmerfElaineBeatenText:
-	text "I lost that one!"
+	text "He perdut!"
 	done
 
 SwimmerfElaineAfterBattleText:
-	text "I'd say I'm a bet-"
-	line "ter swimmer than"
-	cont "you. Yeah!"
+	text "Jo diria que sóc"
+	line "millor nedadora"
+	cont "que tu. Sí!"
 	done
 
 SwimmerfPaulaSeenText:
-	text "No inner tube for"
-	line "me."
+	text "Jo no porto"
+	line "flotador."
 
-	para "I'm hanging on to"
-	line "a sea #MON!"
+	para "M'agafo a un"
+	line "#MON marí!"
 	done
 
 SwimmerfPaulaBeatenText:
-	text "Ooh, I'm feeling"
-	line "dizzy!"
+	text "Oh, estic"
+	line "marejada!"
 	done
 
 SwimmerfPaulaAfterBattleText:
-	text "While I float like"
-	line "this, the waves"
-	cont "carry me along."
+	text "Mentre floto així,"
+	line "les onades"
+	cont "m'arrosseguen."
 	done
 
 Route40Lass1Text:
-	text "Although you can't"
-	line "see it from here,"
+	text "Tot i que no ho"
+	line "pots veure d'aquí,"
 
-	para "CIANWOOD is across"
-	line "the sea."
+	para "CIANWOOD és a"
+	line "l'altre costat."
 	done
 
 Route40PokefanMText:
-	text "Hm! There's a big"
-	line "building up ahead!"
+	text "Hm! Hi ha un gran"
+	line "edifici endavant!"
 
-	para "What is it?"
+	para "Què és?"
 	done
 
 Route40PokefanMText_Mobile:
-	text "Hm! Look at all"
-	line "those serious-"
-	cont "looking trainers"
-	cont "streaming in."
+	text "Hm! Mira tots"
+	line "aquests entrena-"
+	cont "dors tan seriosos"
+	cont "que hi entren."
 
-	para "What? What?"
+	para "Què? Què?"
 	done
 
 Route40Lass2Text:
-	text "I came to OLIVINE"
-	line "by ship to see the"
+	text "Vaig venir a"
+	line "OLIVINE en vaixell"
 
-	para "sights and soak up"
-	line "the atmosphere."
+	para "per veure llocs i"
+	line "gaudir l'ambient."
 
-	para "Being a port, it"
-	line "feels so different"
-	cont "from a big city."
+	para "Com que és port,"
+	line "és molt diferent"
+	cont "d'una gran ciutat."
 	done
 
 Route40StandingYoungsterText:
-	text "Have you gone to"
-	line "the BATTLE TOWER?"
+	text "Has anat a la"
+	line "TORRE BATALLA?"
 
-	para "I think a lot of"
-	line "tough trainers"
+	para "Crec que molts"
+	line "entrenadors forts"
 
-	para "have gathered"
-	line "there already."
+	para "ja s'hi han"
+	line "reunit."
 
-	para "But since you have"
-	line "so many BADGES,"
+	para "Però com que tens"
+	line "tantes MEDALLES,"
 
-	para "you shouldn't do"
-	line "badly at all."
+	para "no t'hauria d'anar"
+	line "gens malament."
 	done
 
 MeetMonicaText:
-	text "MONICA: Glad to"
-	line "meet you. I'm"
+	text "MONICA: Encantada"
+	line "de conèixer-te."
 
-	para "MONICA of Monday."
+	para "Sóc la MONICA,"
+	line "la del dilluns."
 	done
 
 MonicaGivesGiftText:
-	text "As a token of our"
-	line "friendship, I have"
-	cont "a gift for you!"
+	text "Com a mostra de la"
+	line "nostra amistat,"
+	cont "tinc un regal!"
 	done
 
 MonicaGaveGiftText:
-	text "MONICA: It's an"
-	line "item that raises"
+	text "MONICA: És un"
+	line "objecte que puja"
 
-	para "the power of fly-"
-	line "ing-type moves."
+	para "el poder dels"
+	line "atacs de vol."
 
-	para "You should equip a"
-	line "bird #MON with"
-	cont "that item."
+	para "Hauries d'equipar"
+	line "un #MON ocell"
+	cont "amb això."
 	done
 
 MonicaMondayText:
-	text "MONICA: My broth-"
-	line "ers and sisters"
+	text "MONICA: Els meus"
+	line "germans i germanes"
 
-	para "are all over the"
-	line "place."
+	para "són per tot"
+	line "arreu."
 
-	para "See if you could"
-	line "find them all!"
+	para "A veure si pots"
+	line "trobar-los a tots!"
 	done
 
 MonicaNotMondayText:
-	text "MONICA: I don't"
-	line "think today is"
-	cont "Monday. How sad…"
+	text "MONICA: No crec"
+	line "que avui sigui"
+	cont "dilluns. Quina…"
 	done
 
 Route40SignText:
-	text "ROUTE 40"
+	text "RUTA 40"
 
 	para "CIANWOOD CITY -"
 	line "OLIVINE CITY"

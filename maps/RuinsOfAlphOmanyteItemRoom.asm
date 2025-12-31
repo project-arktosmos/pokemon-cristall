@@ -25,9 +25,9 @@ RuinsOfAlphOmanyteItemRoomAncientReplica:
 	jumptext RuinsOfAlphOmanyteItemRoomAncientReplicaText
 
 RuinsOfAlphOmanyteItemRoomAncientReplicaText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "És la rèplica"
+	line "d'un #MON"
+	cont "antic."
 	done
 
 RuinsOfAlphOmanyteItemRoom_MapEvents:

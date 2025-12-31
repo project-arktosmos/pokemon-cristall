@@ -1,67 +1,68 @@
 ToddAskNumber1Text:
-	text "From here, I can"
-	line "see GOLDENROD's"
+	text "Des d'aquí veig"
+	line "els GRANS MAGAT-"
 
-	para "DEPT.STORE. They"
-	line "have bargain sales"
+	para "ZEMS de GOLDROD."
+	line "Fan rebaixes al"
 
-	para "up on the rooftop"
-	line "every so often."
+	para "terrat de tant"
+	line "en tant."
 
-	para "Could I get your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu número?"
 
-	para "I'll call you when"
-	line "they have a sale."
+	para "Et trucaré quan"
+	line "hi hagi rebaixes."
 	done
 
 ToddAskNumber2Text:
-	text "If you give me"
-	line "your number, I'll"
+	text "Si em dones el"
+	line "teu número, et"
 
-	para "call you when they"
-	line "have a sale."
+	para "trucaré quan hi"
+	line "hagi rebaixes."
 	done
 
 ToddNumberAcceptedText:
-	text "I check GOLDENROD"
-	line "DEPT.STORE every"
+	text "Miro els GRANS"
+	line "MAGATZEMS GOLDROD"
 
-	para "day, so I know"
-	line "when there's a"
-	cont "sale."
+	para "cada dia, així sé"
+	line "quan hi ha"
+	cont "rebaixes."
 	done
 
 ToddNumberDeclinedText:
-	text "Anyway…"
+	text "En fi…"
 
-	para "If you're short on"
-	line "money, take down"
-	cont "my number."
+	para "Si vas curt de"
+	line "diners, apunta't"
+	cont "el meu número."
 
-	para "I'll call you when"
-	line "there's a sale."
+	para "Et trucaré quan"
+	line "hi hagi rebaixes."
 	done
 
 ToddPhoneFullText:
-	text "Your phone doesn't"
-	line "have enough memory"
-	cont "for more numbers."
+	text "El teu telèfon no"
+	line "té prou memòria"
+	cont "per més números."
 	done
 
 ToddRematchText:
-	text "I waited for you!"
-	line "I even cut back my"
+	text "T'he esperat!"
+	line "He reduït les"
 
-	para "shopping to raise"
-	line "my #MON better!"
+	para "compres per criar"
+	line "millor els"
+	cont "#MON!"
 	done
 
 ToddSaleText: ; unreferenced
 ; This is a duplicate of CamperToddSaleText in maps/Route34.asm.
-	text "Shopping under the"
-	line "sky!"
+	text "Comprar a l'aire"
+	line "lliure!"
 
-	para "It feels so nice"
-	line "up on a rooftop."
+	para "Fa molt bon temps"
+	line "aquí al terrat."
 	done

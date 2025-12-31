@@ -1,5 +1,5 @@
-	object_const_def
-	const LAKEOFRAGEMAGIKARPHOUSE_FISHING_GURU
+object_const_def
+const LAKEOFRAGEMAGIKARPHOUSE_FISHING_GURU
 
 LakeOfRageMagikarpHouse_MapScripts:
 	def_scene_scripts
@@ -90,116 +90,121 @@ MagikarpHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 MagikarpLengthRaterText_LakeOfRageHistory:
-	text "LAKE OF RAGE is"
-	line "actually a crater"
+	text "El LLAC FÚRIA és"
+	line "de fet un cràter"
 
-	para "made by rampaging"
-	line "GYARADOS."
+	para "creat per GYARADOS"
+	line "enfurismats."
 
-	para "The crater filled"
-	line "up with rainwater"
+	para "El cràter es va"
+	line "omplir d'aigua de"
 
-	para "and the LAKE was"
-	line "formed."
+	para "pluja i així es"
+	line "va formar el LLAC."
 
-	para "That's the story"
-	line "passed on from my"
+	para "Aquesta és la"
+	line "història que ens"
 
-	para "Grandpa's great-"
-	line "great-grandpa."
+	para "va transmetre el"
+	line "besavi del meu"
+	cont "avi."
 
-	para "It used to be that"
-	line "you could catch"
+	para "Abans s'hi podien"
+	line "pescar MAGIKARP"
 
-	para "lively MAGIKARP"
-	line "there, but…"
+	para "ben vivaços,"
+	line "però…"
 
-	para "I don't understand"
-	line "what's happening."
+	para "No entenc què està"
+	line "passant."
 	done
 
 MagikarpLengthRaterText_MenInBlack:
-	text "The LAKE hasn't"
-	line "been normal since"
+	text "El LLAC no és"
+	line "normal des que van"
 
-	para "those men wearing"
-	line "black arrived."
+	para "arribar aquells"
+	line "homes de negre."
 	done
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
-	text "LAKE OF RAGE is"
-	line "back to normal."
+	text "El LLAC FÚRIA ha"
+	line "tornat a la"
+	cont "normalitat."
 
-	para "The MAGIKARP have"
-	line "returned."
+	para "Els MAGIKARP han"
+	line "tornat."
 
-	para "I may yet realize"
-	line "my dream of see-"
-	cont "ing the world's"
-	cont "largest MAGIKARP."
+	para "Potser encara puc"
+	line "complir el meu"
+	cont "somni de veure el"
+	cont "MAGIKARP més gran"
+	cont "del món."
 
-	para "Do you have a ROD?"
-	line "Please help me if"
-	cont "you do."
+	para "Tens una CANYA?"
+	line "Si en tens, si us"
+	cont "plau, ajuda'm."
 	done
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
-	text "Ah, you have a"
-	line "MAGIKARP! Let's"
+	text "Oh, tens un"
+	line "MAGIKARP! A veure"
 
-	para "see how big that"
-	line "baby is."
+	para "com n'és de gran"
+	line "aquest petitó."
 	done
 
 MagikarpLengthRaterText_Memento:
-	text "Wow! This one is"
-	line "outstanding!"
+	text "Uau! Aquest és"
+	line "excepcional!"
 
-	para "I tip my hat to"
-	line "you!"
+	para "Em trec el barret"
+	line "davant teu!"
 
-	para "Take this as a"
-	line "memento!"
+	para "Pren això com a"
+	line "record!"
 	done
 
 MagikarpLengthRaterText_Bonus:
-	text "The record is the"
-	line "important thing."
+	text "El rècord és el"
+	line "que importa."
 
-	para "Think of that as"
-	line "a bonus!"
+	para "Considera-ho un"
+	line "extra!"
 	done
 
 MagikarpLengthRaterText_TooShort:
-	text "Wow! This one is"
-	line "outstanding!"
+	text "Uau! Aquest és"
+	line "excepcional!"
 
-	para "…I wish I could"
-	line "say that, but I've"
+	para "…M'agradaria"
+	line "poder dir-ho, però"
 
-	para "seen a bigger one"
-	line "before."
+	para "n'he vist un de"
+	line "més gran abans."
 	done
 
 MagikarpLengthRaterText_NotMagikarp:
-	text "What? That's not a"
-	line "MAGIKARP!"
+	text "Què? Això no és"
+	line "un MAGIKARP!"
 	done
 
 MagikarpLengthRaterText_Refused:
-	text "Oh… So you didn't"
-	line "get one good"
+	text "Oh… Així que no"
+	line "n'has pescat cap"
 
-	para "enough to show me?"
-	line "Maybe next time."
+	para "prou bo per"
+	line "ensenyar-me'l?"
+	cont "Potser un altre"
+	cont "cop."
 	done
 
 LakeOfRageMagikarpHouseUnusedRecordText:
-	text "CURRENT RECORD"
+	text "RÈCORD ACTUAL"
 
 	para "@"
 	text_ram wStringBuffer3
-	text " caught by"
+	text " capturat per"
 	line "@"
 	text_ram wStringBuffer4
 	text_end

@@ -93,106 +93,109 @@ OlivineGymStatue:
 	jumpstd GymStatue2Script
 
 Jasmine_SteelTypeIntro:
-	text "…Thank you for"
-	line "your help at the"
-	cont "LIGHTHOUSE…"
+	text "…Gràcies per la"
+	line "teva ajuda al"
+	cont "FAR…"
 
-	para "But this is dif-"
-	line "ferent. Please"
+	para "Però ara és"
+	line "diferent. Deixa'm"
 
-	para "allow me to intro-"
-	line "duce myself."
+	para "que em presenti,"
+	line "si us plau."
 
-	para "I am JASMINE, a"
-	line "GYM LEADER. I use"
-	cont "the steel-type."
+	para "Sóc JASMINE, la"
+	line "LÍDER del GIMNÀS."
+	cont "Faig servir acer."
 
-	para "…Do you know about"
-	line "the steel-type?"
+	para "…Coneixes el"
+	line "tipus acer?"
 
-	para "It's a type that"
-	line "was only recently"
-	cont "discovered."
+	para "És un tipus que"
+	line "s'ha descobert"
+	cont "fa poc."
 
-	para "…Um… May I begin?"
+	para "…Hum… Comencem?"
 	done
 
 Jasmine_BetterTrainer:
-	text "…You are a better"
-	line "trainer than me,"
+	text "…Ets millor"
+	line "entrenador que"
+	cont "jo,"
 
-	para "in both skill and"
-	line "kindness."
+	para "tant en habilitat"
+	line "com en amabilitat."
 
-	para "In accordance with"
-	line "LEAGUE rules, I"
+	para "Segons les normes"
+	line "de la LLIGA,"
 
-	para "confer upon you"
-	line "this BADGE."
+	para "et lliuro"
+	line "aquesta MEDALLA."
 	done
 
 Text_ReceivedMineralBadge:
-	text "<PLAYER> received"
-	line "MINERALBADGE."
+	text "<PLAYER> ha rebut"
+	line "MEDALLAMINERAL."
 	done
 
 Jasmine_BadgeSpeech:
-	text "MINERALBADGE"
-	line "raises #MON's"
-	cont "DEFENSE."
+	text "MEDALLAMINERAL"
+	line "puja la DEFENSA"
+	cont "dels #MON."
 
-	para "…Um… Please take"
-	line "this too…"
+	para "…Hum… Pren això"
+	line "també, si us plau…"
 	done
 
 Text_ReceivedTM09: ; unreferenced
-	text "<PLAYER> received"
-	line "TM09."
+	text "<PLAYER> ha rebut"
+	line "MT09."
 	done
 
 Jasmine_IronTailSpeech:
-	text "…You could use"
-	line "that TM to teach"
-	cont "IRON TAIL."
+	text "…Podries fer"
+	line "servir aquesta MT"
+	cont "per IRON TAIL."
 	done
 
 Jasmine_GoodLuck:
-	text "Um… I don't know"
-	line "how to say this,"
-	cont "but good luck…"
+	text "Hum… No sé com"
+	line "dir-ho, però"
+	cont "molta sort…"
 	done
 
 OlivineGymGuideText:
-	text "JASMINE uses the"
-	line "newly discovered"
-	cont "steel-type."
+	text "JASMINE fa servir"
+	line "el tipus acer,"
+	cont "descobert fa poc."
 
-	para "I don't know very"
-	line "much about it."
+	para "No en sé gaire"
+	line "cosa, d'això."
 	done
 
 OlivineGymGuideWinText:
-	text "That was awesome."
+	text "Això ha estat"
+	line "increïble."
 
-	para "The steel-type,"
-	line "huh?"
+	para "El tipus acer,"
+	line "oi?"
 
-	para "That was a close"
-	line "encounter of an"
-	cont "unknown kind!"
+	para "Ha estat un"
+	line "encontre proper"
+	cont "de tipus"
+	cont "desconegut!"
 	done
 
 OlivineGymGuidePreText:
-	text "JASMINE, the GYM"
-	line "LEADER, is at the"
-	cont "LIGHTHOUSE."
+	text "JASMINE, la LÍDER"
+	line "del GIMNÀS, és"
+	cont "al FAR."
 
-	para "She's been tending"
-	line "to a sick #MON."
+	para "Ha estat cuidant"
+	line "un #MON malalt."
 
-	para "A strong trainer"
-	line "has to be compas-"
-	cont "sionate."
+	para "Un entrenador"
+	line "fort ha de ser"
+	cont "compassiu."
 	done
 
 OlivineGym_MapEvents:

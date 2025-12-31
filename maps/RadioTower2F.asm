@@ -344,21 +344,22 @@ RadioTower2FPlayerWalksToMicrophoneMovement:
 	step_end
 
 RadioTower2FSuperNerdText:
-	text "You can listen to"
-	line "the radio any-"
-	cont "where. Tune in!"
+	text "Pots escoltar la"
+	line "ràdio a qualsevol"
+	cont "lloc. Sintonitza!"
 	done
 
 RadioTower2FTeacherText:
-	text "Lullabies on the"
-	line "radio may make"
-	cont "#MON sleep."
+	text "Les cançons de"
+	line "bressol a la ràdio"
+	cont "adormen els"
+	cont "#MON."
 	done
 
 RadioTower2FTeacherText_Rockets:
-	text "Why would they"
-	line "want to take over"
-	cont "the RADIO TOWER?"
+	text "Per què voldrien"
+	line "apoderar-se de la"
+	cont "TORRE de RÀDIO?"
 	done
 
 RadioTowerJigglypuffText:
@@ -367,347 +368,347 @@ RadioTowerJigglypuffText:
 	done
 
 RadioTower2FBlackBelt1Text:
-	text "Sorry. Authorized"
-	line "personnel only"
-	cont "beyond this point."
+	text "Ho sento. Només"
+	line "personal"
+	cont "autoritzat"
+	cont "pot passar."
 
-	para "It wasn't that way"
-	line "before."
+	para "Abans no era així."
 
-	para "There's something"
-	line "wrong with the"
-	cont "DIRECTOR…"
+	para "Al DIRECTOR li"
+	line "passa alguna cosa"
+	cont "estranya…"
 	done
 
 RadioTower2FBlackBelt2Text:
-	text "Feel free to look"
-	line "around anywhere."
+	text "Pots mirar on"
+	line "vulguis."
 
-	para "The DIRECTOR is"
-	line "nice again, just"
-	cont "as he was before."
+	para "El DIRECTOR torna"
+	line "a ser amable, com"
+	cont "abans."
 	done
 
 GruntM4SeenText:
-	text "Three years ago,"
-	line "TEAM ROCKET was"
-	cont "forced to disband."
+	text "Fa tres anys, el"
+	line "TEAM ROCKET es va"
+	cont "veure forçat a"
+	cont "dissoldre's."
 
-	para "But we're making a"
-	line "comeback here!"
+	para "Però ara tornem"
+	line "aquí!"
 	done
 
 GruntM4BeatenText:
-	text "Gwah! Don't get"
-	line "cute!"
+	text "Gwah! No et"
+	line "passis!"
 	done
 
 GruntM4AfterBattleText:
-	text "We won't let you"
-	line "ruin our plans"
-	cont "for our comeback!"
+	text "No deixarem que"
+	line "arruïnis els plans"
+	cont "del nostre retorn!"
 	done
 
 GruntM5SeenText:
-	text "We're TEAM ROCKET,"
-	line "the exploiters of"
+	text "Som el TEAM"
+	line "ROCKET,"
+	cont "els explotadors de"
 	cont "#MON!"
 
-	para "We love being"
-	line "evil! Scared?"
+	para "Ens encanta ser"
+	line "dolents! Por?"
 	done
 
 GruntM5BeatenText:
-	text "You think you're a"
-	line "hero?"
+	text "Et creus un heroi?"
 	done
 
 GruntM5AfterBattleText:
-	text "We're not always"
-	line "evil. We just do"
-	cont "whatever we like."
+	text "No sempre som"
+	line "dolents. Fem el"
+	cont "que ens ve de"
+	cont "gust."
 	done
 
 GruntM6SeenText:
-	text "Hey, hey! Keep out"
-	line "of our way!"
+	text "Eh, eh! No et"
+	line "fiquis al mig!"
 	done
 
 GruntM6BeatenText:
-	text "Arggh. I give up."
+	text "Arggh. Em renyo."
 	done
 
 GruntM6AfterBattleText:
-	text "Our EXECUTIVES are"
-	line "trying to take"
-	cont "this place over."
+	text "Els EXECUTIUS"
+	line "intenten ocupar"
+	cont "aquest lloc."
 
-	para "They have some big"
-	line "plan. I wonder"
-	cont "what that is?"
+	para "Tenen un gran pla."
+	line "Què deu ser?"
 	done
 
 GruntF2SeenText:
 	text "Hahaha!"
 
-	para "How boring."
-	line "It was far too"
+	para "Que avorrit."
+	line "Ha estat massa"
 
-	para "easy to take over"
-	line "this place!"
+	para "fàcil ocupar"
+	line "aquest lloc!"
 
-	para "Come on, keep me"
-	line "amused!"
+	para "Va, entreté'm!"
 	done
 
 GruntF2BeatenText:
-	text "Wh-who are you?"
+	text "Q-qui ets?"
 	done
 
 GruntF2AfterBattleText:
-	text "You beat me, and"
-	line "I won't forget it!"
+	text "M'has guanyat, i"
+	line "no ho oblidaré!"
 	done
 
 RadioTower2FBuenaShowIntroductionText:
-	text "BUENA: Hi! I'm"
-	line "BUENA!"
+	text "BUENA: Hola! Sóc"
+	line "la BUENA!"
 
-	para "Do you know about"
-	line "a radio program"
-	cont "called PASSWORD?"
+	para "Coneixes el"
+	line "programa de ràdio"
+	cont "CONTRASENYA?"
 
-	para "If you can tell me"
-	line "the password from"
+	para "Si em dius la"
+	line "contrasenya del"
 
-	para "the program, you"
-	line "will earn points."
+	para "programa, guanyes"
+	line "punts."
 
-	para "Save up those"
-	line "points and trade"
+	para "Acumula punts i"
+	line "canvia'ls per"
 
-	para "them to that sweet"
-	line "young lady over"
+	para "premis amb aquella"
+	line "noia d'allà!"
 
-	para "there for some"
-	line "choice prizes!"
+	para "Aquí tens!"
 
-	para "Here you go!"
-
-	para "It's your very own"
-	line "point card!"
+	para "La teva targeta"
+	line "de punts!"
 	done
 
 RadioTower2FBuenaTuneInToMyShowText:
-	text "BUENA: Tune in to"
-	line "my PASSWORD SHOW!"
+	text "BUENA: Sintonitza"
+	line "CONTRASENYA!"
 	done
 
 RadioTower2FBuenaDoYouKnowPasswordText:
-	text "BUENA: Hi!"
-	line "Did you tune in to"
-	cont "my radio show?"
+	text "BUENA: Hola!"
+	line "Has escoltat el"
+	cont "meu programa?"
 
-	para "Do you remember"
-	line "today's password?"
+	para "Recordes la"
+	line "contrasenya"
+	cont "d'avui?"
 	done
 
 RadioTower2FBuenaJoinTheShowText:
-	text "BUENA: Oh, wow!"
-	line "Thank you!"
+	text "BUENA: Oh, genial!"
+	line "Gràcies!"
 
-	para "What was your name"
-	line "again?"
+	para "Com et deies?"
 
-	para "…<PLAY_G>, OK!"
+	para "…<PLAY_G>, d'acord!"
 
-	para "Come on, <PLAY_G>."
-	line "Join the show."
+	para "Va, <PLAY_G>."
+	line "Vine al programa."
 	done
 
 RadioTower2FBuenaEveryoneSayPasswordText:
-	text "BUENA: Everyone"
-	line "ready?"
+	text "BUENA: Tothom a"
+	line "punt?"
 
-	para "I want to hear you"
-	line "shout out today's"
+	para "Vull que crideu"
+	line "la contrasenya"
 
-	para "password for"
+	para "d'avui per a"
 	line "<PLAY_G>!"
 	done
 
 RadioTower2FBuenaComeBackAfterListeningText:
-	text "BUENA: Come back"
-	line "after you listen"
+	text "BUENA: Torna quan"
+	line "hagis escoltat el"
 
-	para "to my show, OK?"
-	line "Catch ya later!"
+	para "meu programa, va?"
+	line "Fins aviat!"
 	done
 
 RadioTower2FBuenaAlreadyPlayedText:
-	text "BUENA: Sorry…"
+	text "BUENA: Ho sento…"
 
-	para "You get just one"
-	line "chance each day."
+	para "Només tens una"
+	line "oportunitat al"
+	cont "dia."
 
-	para "Come back tomorrow"
-	line "for another try!"
+	para "Torna demà per"
+	line "tornar-ho a"
+	cont "provar!"
 	done
 
 RadioTower2FBuenaCorrectAnswerText:
-	text "BUENA: YIPPEE!"
-	line "That's right!"
+	text "BUENA: VISCA!"
+	line "És correcte!"
 
-	para "You did tune in!"
-	line "I'm so happy!"
+	para "Has escoltat!"
+	line "Estic tan"
+	cont "contenta!"
 
-	para "You earned one"
-	line "point! Congrats!"
+	para "Has guanyat un"
+	line "punt! Felicitats!"
 	done
 
 RadioTower2FBuenaDidYouForgetText:
-	text "BUENA: Aww…"
-	line "That's not it…"
+	text "BUENA: Ai…"
+	line "No és això…"
 
-	para "Did you forget the"
-	line "password?"
+	para "Has oblidat la"
+	line "contrasenya?"
 	done
 
 RadioTower2FBuenaThanksForComingText:
-	text "BUENA: Yup! Our"
-	line "contestant was"
+	text "BUENA: Sí! El"
+	line "nostre concursant"
 
-	para "<PLAY_G>."
-	line "Thanks for coming!"
+	para "ha estat <PLAY_G>."
+	line "Gràcies per venir!"
 
-	para "I hope all you"
-	line "listeners will"
+	para "Espero que tots"
+	line "els oients vingueu"
 
-	para "come too!"
-	line "I'll be waiting!"
+	para "també!"
+	line "Us esperaré!"
 	done
 
 RadioTower2FBuenaPasswordIsHelpText:
-	text "BUENA: Huh?"
-	line "Today's password?"
+	text "BUENA: Eh?"
+	line "La contrasenya?"
 
-	para "HELP, of course!"
+	para "HELP, és clar!"
 	done
 
 RadioTower2FBuenaCardIsFullText:
-	text "BUENA: Your BLUE"
-	line "CARD's full."
+	text "BUENA: La TARGETA"
+	line "BLAVA és plena."
 
-	para "Trade it in for a"
-	line "fabulous prize!"
+	para "Canvia-la per un"
+	line "premi fabulós!"
 	done
 
 RadioTower2FBuenaTuneInAfterSixText:
-	text "BUENA: Tune in to"
-	line "PASSWORD every"
+	text "BUENA: Sintonitza"
+	line "CONTRASENYA cada"
 
-	para "night from six to"
-	line "midnight!"
+	para "nit de sis a"
+	line "mitjanit!"
 
-	para "Tune in, then drop"
-	line "in for a visit!"
+	para "Escolta i vine"
+	line "a visitar-nos!"
 	done
 
 RadioTower2FBuenaNoBlueCardText:
-	text "BUENA: Oh? You"
-	line "forgot to bring"
-	cont "your BLUE CARD?"
+	text "BUENA: Oh? T'has"
+	line "oblidat la TARGETA"
+	cont "BLAVA?"
 
-	para "I can't give you"
-	line "points if you"
-	cont "don't have it."
+	para "No puc donar-te"
+	line "punts si no"
+	cont "la tens."
 	done
 
 RadioTower2FBuenaOfferPhoneNumberText:
-	text "BUENA: Oh! Your"
-	line "BLUE CARD reached"
+	text "BUENA: Oh! La"
+	line "TARGETA BLAVA ha"
 
-	para "{d:BLUE_CARD_POINT_CAP} points today!"
-	line "That's so wild!"
+	para "arribat a {d:BLUE_CARD_POINT_CAP}"
+	line "punts! Increïble!"
 
-	para "Hmm… There isn't a"
-	line "prize for hitting"
-	cont "{d:BLUE_CARD_POINT_CAP} points, but…"
+	para "Hmm… No hi ha"
+	line "premi per arribar"
+	cont "a {d:BLUE_CARD_POINT_CAP} punts, però…"
 
-	para "You came by so"
-	line "often, <PLAY_G>."
+	para "Has vingut tantes"
+	line "vegades, <PLAY_G>."
 
-	para "I'll make you a"
-	line "special deal!"
+	para "Et faré una"
+	line "oferta especial!"
 
-	para "How would you like"
-	line "my phone number?"
+	para "Vols el meu"
+	line "número de telèfon?"
 	done
 
 RadioTower2FBuenaOfferNumberAgainText:
 	text "BUENA: <PLAY_G>,"
-	line "do you want to"
+	line "vols registrar"
 
-	para "register my phone"
-	line "number?"
+	para "el meu número"
+	line "de telèfon?"
 	done
 
 RadioTower2FRegisteredBuenasNumberText:
-	text "<PLAYER> registered"
-	line "BUENA's number."
+	text "<PLAYER> ha"
+	line "registrat"
+	cont "el núm. de BUENA."
 	done
 
 RadioTower2FBuenaCallMeText:
-	text "BUENA: I look"
-	line "forward to hearing"
-	cont "from you!"
+	text "BUENA: Espero"
+	line "notícies teves!"
 	done
 
 RadioTower2FBuenaSadRejectedText:
-	text "BUENA: Aww… It's a"
-	line "special prize…"
+	text "BUENA: Ai… És un"
+	line "premi especial…"
 	done
 
 RadioTower2FBuenaYourPhoneIsFullText:
 	text "BUENA: <PLAY_G>,"
-	line "your phone list"
+	line "la teva llista"
 
-	para "has no room left"
-	line "for me…"
+	para "de telèfon no té"
+	line "espai per a mi…"
 	done
 
 RadioTower2FBuenaReceptionistPointsForPrizesText:
-	text "You can cash in"
-	line "your saved points"
+	text "Pots canviar els"
+	line "punts acumulats"
 
-	para "for a lovely prize"
-	line "of your choice!"
+	para "per un premi"
+	line "al teu gust!"
 	done
 
 RadioTower2FBuenaReceptionistNoCardText:
-	text "You can't trade in"
-	line "points without"
-	cont "your BLUE CARD."
+	text "No pots canviar"
+	line "punts sense la"
+	cont "TARGETA BLAVA."
 
-	para "Don't forget your"
-	line "BLUE CARD!"
+	para "No oblidis la"
+	line "TARGETA BLAVA!"
 	done
 
 RadioTower2FSalesSignText:
-	text "2F SALES"
+	text "2P VENDES"
 	done
 
 RadioTower2FOaksPKMNTalkSignText:
-	text "PROF.OAK'S #MON"
-	line "TALK"
+	text "CONVERSA #MON"
+	line "DEL PROF.OAK"
 
-	para "The Hottest Show"
-	line "on the Air!"
+	para "El programa més"
+	line "escoltat!"
 	done
 
 RadioTower2FPokemonRadioSignText:
-	text "Anywhere, Anytime"
-	line "#MON Radio"
+	text "Arreu, sempre"
+	line "Ràdio #MON"
 	done
 
 RadioTower2F_MapEvents:

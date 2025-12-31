@@ -19,15 +19,16 @@ Kyle:
 	end
 
 VioletKylesHousePokefanMText:
-	text "A #MON you get"
-	line "in a trade grows"
-	cont "quickly."
+	text "Un #MON"
+	line "obtingut"
+	cont "en un intercanvi"
+	cont "creix ràpidament."
 
-	para "But if you don't"
-	line "have the right GYM"
+	para "Però si no tens la"
+	line "MEDALLA de GIMNÀS"
 
-	para "BADGE, they may"
-	line "disobey you."
+	para "adequada, potser"
+	line "no t'obeiran."
 	done
 
 VioletKylesHouse_MapEvents:

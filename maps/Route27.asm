@@ -315,154 +315,156 @@ Route27FisherStepLeftOnceMovement:
 	step_end
 
 Route27FisherHeyText:
-	text "Hey!"
+	text "Ei!"
 	done
 
 Route27FisherText:
-	text "Do you know what"
-	line "you just did?"
+	text "Saps què acabes"
+	line "de fer?"
 
-	para "You've taken your"
-	line "first step into"
-	cont "KANTO."
+	para "Has fet el primer"
+	line "pas cap a KANTO."
 
-	para "Check your #-"
-	line "GEAR MAP and see."
+	para "Mira el mapa del"
+	line "#GEAR i ho"
+	cont "veuràs."
 	done
 
 CooltrainermBlakeSeenText:
-	text "You look pretty"
-	line "strong."
-	cont "Let me battle you!"
+	text "Sembla que ets"
+	line "força fort."
+	cont "Lluitem!"
 	done
 
 CooltrainermBlakeBeatenText:
-	text "Yow!"
+	text "Au!"
 	done
 
 CooltrainermBlakeAfterBattleText:
-	text "If you prevail on"
-	line "this harsh trek,"
+	text "Si superes aquest"
+	line "dur camí,"
 
-	para "the truth will be"
-	line "revealed!"
+	para "la veritat es"
+	line "revelarà!"
 
-	para "Heh, sorry, I just"
-	line "wanted to say"
-	cont "something cool."
+	para "Perdona, només"
+	line "volia dir alguna"
+	cont "cosa interessant."
 	done
 
 CooltrainermBrianSeenText:
-	text "Hm? You're good,"
-	line "aren't you?"
+	text "Hm? Ets bo,"
+	line "oi?"
 	done
 
 CooltrainermBrianBeatenText:
-	text "Just as I thought!"
+	text "Com pensava!"
 	done
 
 CooltrainermBrianAfterBattleText:
-	text "A good trainer can"
-	line "recognize other"
-	cont "good trainers."
+	text "Un bon entrenador"
+	line "sap reconèixer"
+	cont "altres bons."
 	done
 
 CooltrainerfReenaSeenText:
-	text "You shouldn't"
-	line "underestimate the"
+	text "No hauríes de"
+	line "subestimar els"
 
-	para "wild #MON in"
-	line "these parts."
+	para "#MON salvatges"
+	line "d'aquest lloc."
 	done
 
 CooltrainerfReenaBeatenText:
-	text "Oh! You're much"
-	line "too strong!"
+	text "Oh! Ets massa"
+	line "fort!"
 	done
 
 CooltrainerfReenaAfterBattleText:
-	text "You're just a kid,"
-	line "but you're not to"
+	text "Només ets un nen,"
+	line "però tampoc se"
 
-	para "be underestimated"
-	line "either."
+	para "t'ha de"
+	line "subestimar."
 	done
 
 CooltrainerfMeganSeenText:
-	text "It's rare to see"
-	line "anyone come here."
+	text "És rar veure algú"
+	line "per aquí."
 
-	para "Are you training"
-	line "on your own?"
+	para "Entrenes tot"
+	line "sol?"
 	done
 
 CooltrainerfMeganBeatenText:
-	text "Oh! You're really"
-	line "strong!"
+	text "Oh! Ets molt"
+	line "fort!"
 	done
 
 CooltrainerfMeganAfterBattleText:
-	text "I'm checking out"
-	line "pre- and post-"
-	cont "evolution #MON."
+	text "Estudio #MON"
+	line "abans i després"
+	cont "d'evolucionar."
 
-	para "Evolution really"
-	line "does make #MON"
-	cont "stronger."
+	para "L'evolució fa que"
+	line "els #MON siguin"
+	cont "més forts."
 
-	para "But evolved forms"
-	line "also learn moves"
-	cont "later on."
+	para "Però les formes"
+	line "evolucionades"
+	cont "aprenen més tard."
 	done
 
 PsychicGilbertSeenText:
-	text "Don't say a thing!"
+	text "No diguis res!"
 
-	para "Let me guess what"
-	line "you're thinking."
+	para "Deixa'm endevinar"
+	line "què penses."
 
 	para "Mmmmmmm…"
 
-	para "I got it! You're"
-	line "on the #MON"
-	cont "LEAGUE challenge!"
+	para "Ja ho tinc! Vas"
+	line "cap al repte de"
+	cont "la LLIGA #MON!"
 	done
 
 PsychicGilbertBeatenText:
-	text "You're too much!"
+	text "Ets massa fort!"
 	done
 
 PsychicGilbertAfterBattleText:
-	text "With your skills,"
-	line "you'll do well at"
-	cont "the LEAGUE."
+	text "Amb les teves"
+	line "habilitats,"
+	cont "t'anirà"
+	cont "bé a la LLIGA."
 
-	para "That's what my"
-	line "premonition says."
+	para "Això és el que"
+	line "diu la meva"
+	cont "premonició."
 	done
 
 BirdKeeperJose2SeenText:
-	text "Tweet! Tweet!"
-	line "Tetweet!"
+	text "Piu! Piu!"
+	line "Piupiu!"
 	done
 
 BirdKeeperJose2BeatenText:
-	text "Tweet!"
+	text "Piu!"
 	done
 
 BirdKeeperJose2AfterBattleText:
-	text "BIRD KEEPERS like"
-	line "me mimic bird"
+	text "Els OCELLAIRES"
+	line "com jo imitem"
 
-	para "whistles to com-"
-	line "mand #MON."
+	para "xiulets d'ocells"
+	line "per manar #MON."
 	done
 
 TohjoFallsSignText:
-	text "TOHJO FALLS"
+	text "CASCADES TOHJO"
 
-	para "THE LINK BETWEEN"
-	line "KANTO AND JOHTO"
+	para "L'ENLLAÇ ENTRE"
+	line "KANTO I JOHTO"
 	done
 
 Route27_MapEvents:

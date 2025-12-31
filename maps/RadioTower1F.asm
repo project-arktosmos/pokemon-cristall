@@ -158,7 +158,7 @@ RadioTower1FRadioCardWomanScript:
 	end
 
 .RadioCardText:
-	db "RADIO CARD@"
+	db "TARGETA RÀDIO@"
 
 .ReceiveItem:
 	jumpstd ReceiveItemScript
@@ -211,39 +211,39 @@ RadioTower1FLuckyNumberManReturnToPlayerMovement:
 	step_end
 
 RadioTower1FReceptionistWelcomeText:
-	text "Welcome!"
+	text "Benvingut!"
 	done
 
 RadioTower1FReceptionistNoToursText:
-	text "Hello. I'm sorry,"
-	line "but we're not"
-	cont "offering any tours"
-	cont "today."
+	text "Hola. Ho sento,"
+	line "però avui no fem"
+	cont "visites guiades."
 	done
 
 RadioTower1FLuckyNumberManAskToPlayText:
-	text "Hi, are you here"
-	line "for the LUCKY NUM-"
-	cont "BER SHOW?"
+	text "Hola, véns pel"
+	line "SORTEIG DEL NÚMERO"
+	cont "DE LA SORT?"
 
-	para "Want me to check"
-	line "the ID numbers of"
-	cont "your #MON?"
+	para "Vols que comprovi"
+	line "els números d'ID"
+	cont "dels teus #MON?"
 
-	para "If you get lucky,"
-	line "you win a prize."
+	para "Si tens sort,"
+	line "guanyes un premi."
 	done
 
 RadioTower1FLuckyNumberManThisWeeksIdIsText:
-	text "This week's ID"
-	line "number is @"
+	text "El número d'ID"
+	line "d'aquesta setmana"
+	cont "és @"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 RadioTower1FLuckyNumberManCheckIfMatchText:
-	text "Let's see if you"
-	line "have a match."
+	text "Vegem si hi ha"
+	line "coincidència."
 	done
 
 RadioTower1FLuckyNumberManDotDotDotText:
@@ -252,222 +252,232 @@ RadioTower1FLuckyNumberManDotDotDotText:
 	done
 
 RadioTower1FLuckyNumberManComeAgainText:
-	text "Please come back"
-	line "next week for the"
-	cont "next LUCKY NUMBER."
+	text "Torna la setmana"
+	line "que ve pel proper"
+	cont "NÚMERO DE LA SORT."
 	done
 
 RadioTower1FLuckyNumberManPerfectMatchText:
-	text "Wow! You have a"
-	line "perfect match of"
-	cont "all five numbers!"
+	text "Uau! Tens una"
+	line "coincidència"
+	cont "perfecta dels"
+	cont "cinc números!"
 
-	para "We have a grand"
-	line "prize winner!"
+	para "Tenim un guanyador"
+	line "del gran premi!"
 
-	para "You have won a"
+	para "Has guanyat una"
 	line "MASTER BALL!"
 	done
 
 RadioTower1FLuckyNumberManOkayMatchText:
-	text "Hey! You've"
-	line "matched the last"
-	cont "three numbers!"
+	text "Ei! Has encertat"
+	line "els últims tres"
+	cont "números!"
 
-	para "You've won second"
-	line "prize, an EXP."
-	cont "SHARE!"
+	para "Has guanyat el"
+	line "segon premi, un"
+	cont "EXP. SHARE!"
 	done
 
 RadioTower1FLuckyNumberManWeakMatchText:
-	text "Ooh, you've"
-	line "matched the last"
-	cont "two numbers."
+	text "Oh, has encertat"
+	line "els últims dos"
+	cont "números."
 
-	para "You've won third"
-	line "prize, a PP UP."
+	para "Has guanyat el"
+	line "tercer premi,"
+	cont "un PP UP."
 	done
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
-	text "Nope, none of your"
-	line "ID numbers match."
+	text "No, cap dels teus"
+	line "números d'ID no"
+	cont "coincideix."
 	done
 
 RadioTower1FLuckyNumberManNoRoomForYourPrizeText:
-	text "You've got no room"
-	line "for your prize."
+	text "No tens espai per"
+	line "al teu premi."
 
-	para "Make room and come"
-	line "back right away."
+	para "Fes lloc i torna"
+	line "de seguida."
 	done
 
 RadioTower1FRadioCardWomanOfferQuizText:
-	text "We have a special"
-	line "quiz campaign on"
-	cont "right now."
+	text "Tenim una campanya"
+	line "especial de"
+	cont "preguntes."
 
-	para "Answer five ques-"
-	line "tions correctly to"
-	cont "win a RADIO CARD."
+	para "Respon cinc pre-"
+	line "guntes bé i guanya"
+	cont "TARGETA RÀDIO."
 
-	para "Slide it into your"
-	line "#GEAR to play"
+	para "Posa-la al"
+	line "#GEAR"
+	cont "per escoltar la"
 
-	para "the radio anytime,"
-	line "anywhere."
+	para "ràdio on vulguis"
+	line "i quan vulguis."
 
-	para "Would you like to"
-	line "take the quiz?"
+	para "Vols fer el"
+	line "qüestionari?"
 	done
 
 RadioTower1FRadioCardWomanQuestion1Text:
-	text "Question 1:"
+	text "Pregunta 1:"
 
-	para "Is there a #MON"
-	line "that appears only"
-	cont "in the morning?"
+	para "Hi ha un #MON"
+	line "que només apareix"
+	cont "al matí?"
 	done
 
 RadioTower1FRadioCardWomanQuestion2Text:
-	text "Correct!"
-	line "Question 2:"
+	text "Correcte!"
+	line "Pregunta 2:"
 
-	para "Is this statement"
-	line "correct?"
+	para "Aquesta afirmació"
+	line "és correcta?"
 
-	para "You can't buy a"
-	line "BERRY at a MART."
+	para "No pots comprar"
+	line "BAIES a una BOTI-"
+	cont "GA."
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
-	text "Bull's-eye!"
-	line "Question 3:"
+	text "Molt bé!"
+	line "Pregunta 3:"
 
-	para "Does HM01 contain"
-	line "the move FLASH?"
+	para "La MO01 conté el"
+	line "moviment FLASH?"
 	done
 
 RadioTower1FRadioCardWomanQuestion4Text:
-	text "So far so good!"
-	line "Question 4:"
+	text "De moment, bé!"
+	line "Pregunta 4:"
 
-	para "Is FALKNER the"
-	line "VIOLET GYM LEADER"
+	para "En BLAU és el"
+	line "LÍDER DEL GIMNÀS"
 
-	para "who uses bird"
-	line "#MON?"
+	para "VIOLETA que usa"
+	line "#MON ocell?"
 	done
 
 RadioTower1FRadioCardWomanQuestion5Text:
-	text "Wow! Right again!"
-	line "Here's the final"
-	cont "question:"
+	text "Uau! Una altra"
+	line "encertada! Última"
+	cont "pregunta:"
 
-	para "Do GOLDENROD GAME"
-	line "CORNER's slots"
+	para "Les màquines del"
+	line "CASINO POKEMON"
 
-	para "have CHARMANDER"
-	line "on their reels?"
+	para "D'ARAM tenen"
+	line "Charmander als"
+	cont "rodets?"
 	done
 
 RadioTower1FRadioCardWomanYouWinText:
-	text "Bingo! You got it!"
-	line "Congratulations!"
+	text "Bingo! Ho has"
+	line "encertat!"
+	cont "Felicitats!"
 
-	para "Here's your prize,"
-	line "a RADIO CARD!"
+	para "Aquí tens el premi"
+	line "TARGETA RÀDIO!"
 	done
 
 RadioTower1FPokegearIsARadioText:
-	text "<PLAYER>'s #GEAR"
-	line "can now double as"
-	cont "a radio!"
+	text "El #GEAR de"
+	line "<PLAYER> ara també"
+	cont "és una ràdio!"
 	done
 
 RadioTower1FRadioCardWomanTuneInText:
-	text "Please tune in to"
-	line "our radio shows."
+	text "Escolta els"
+	line "nostres programes"
+	cont "de ràdio."
 	done
 
 RadioTower1FRadioCardWomanWrongAnswerText:
-	text "Oh, dear."
-	line "Sorry, but you"
+	text "Oh, vaja."
+	line "Ho sento, però"
 
-	para "got it wrong."
-	line "Please try again!"
+	para "t'has equivocat."
+	line "Torna-ho a provar!"
 	done
 
 RadioTower1FRadioCardWomanNotTakingQuizText:
-	text "Oh. I see. Please"
-	line "see me if you"
-	cont "change your mind."
+	text "Ah, ja veig. Vine"
+	line "a veure'm si"
+	cont "canvies d'opinió."
 	done
 
 RadioTower1FLassText:
-	text "BEN is a fabulous"
-	line "DJ."
+	text "En BLAU és un DJ"
+	line "fabulós."
 
-	para "His sweet voice"
-	line "makes me melt!"
+	para "La seva veu dolça"
+	line "em fa fondre!"
 	done
 
 RadioTower1FYoungsterText:
-	text "I love MARY, from"
-	line "#MON TALK."
+	text "M'encanta la MARY"
+	line "de #MON TALK."
 
-	para "I only know what"
-	line "she sounds like,"
-	cont "though."
+	para "Però només sé"
+	line "quina veu té."
 	done
 
 GruntM3SeenText:
-	text "We've finally"
-	line "taken over the"
-	cont "RADIO TOWER!"
+	text "Per fi hem ocupat"
+	line "la TORRE DE RÀDIO!"
 
-	para "Now everyone will"
-	line "get to experience"
+	para "Ara tothom podrà"
+	line "experimentar el"
 
-	para "the true terror of"
-	line "TEAM ROCKET!"
+	para "veritable terror"
+	line "del TEAM ROCKET!"
 
-	para "We'll show you"
-	line "how scary we are!"
+	para "Et mostrarem"
+	line "com de temibles"
+	cont "som!"
 	done
 
 GruntM3BeatenText:
-	text "Too strong! We"
-	line "must watch you…"
+	text "Massa fort! T'hem"
+	line "de vigilar…"
 	done
 
 GruntM3AfterBattleText:
-	text "You're too strong."
+	text "Ets massa fort."
 
-	para "Our plan could be"
-	line "ruined. I must"
-	cont "warn the others…"
+	para "El nostre pla"
+	line "podria fracassar."
+	cont "He d'avisar els"
+	cont "altres…"
 	done
 
 RadioTower1FDirectoryText:
-	text "1F RECEPTION"
-	line "2F SALES"
+	text "1P RECEPCIÓ"
+	line "2P VENDES"
 
-	para "3F PERSONNEL"
-	line "4F PRODUCTION"
+	para "3P PERSONAL"
+	line "4P PRODUCCIÓ"
 
-	para "5F DIRECTOR'S"
-	line "   OFFICE"
+	para "5P DESPATX DEL"
+	line "   DIRECTOR"
 	done
 
 RadioTower1FLuckyChannelSignText:
-	text "LUCKY CHANNEL!"
+	text "CANAL DE LA SORT!"
 
-	para "Win with #MON"
-	line "ID numbers!"
+	para "Guanya amb els"
+	line "números d'ID dels"
+	cont "#MON!"
 
-	para "Trade your #MON"
-	line "to collect differ-"
-	cont "ent ID numbers!"
+	para "Intercanvia"
+	line "#MON"
+	cont "per aconseguir"
+	cont "més números d'ID!"
 	done
 
 RadioTower1F_MapEvents:

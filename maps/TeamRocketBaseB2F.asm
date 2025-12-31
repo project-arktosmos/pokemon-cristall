@@ -558,303 +558,308 @@ RocketBasePlayerLeavesElectrodesMovement3:
 	step_end
 
 RocketBaseExecutiveFHoldItText:
-	text "Hold it right"
-	line "there!"
+	text "Quiets aquí"
+	line "mateix!"
 	done
 
 RocketBaseBossFThrashText:
-	text "We can't have a"
-	line "brat like you on"
-	cont "the loose."
+	text "No podem tenir un"
+	line "marrec com tu"
+	cont "deixat anar."
 
-	para "It's harmful to"
-	line "TEAM ROCKET's"
-	cont "pride, you see."
+	para "Perjudica"
+	line "l'orgull de"
+	cont "l'EQUIP ROCKET."
 
-	para "However strong you"
-	line "may be, you can't"
+	para "Per fort que"
+	line "siguis, no pots"
 
-	para "take both of us at"
-	line "the same time."
+	para "guanyar-nos a tots"
+	line "dos alhora."
 
-	para "Sorry, baby. Now"
-	line "get ready to be"
-	cont "thrashed."
+	para "Ho sento, nen."
+	line "Prepara't per a"
+	cont "una pallissa."
 	done
 
 RocketBaseLanceShareFunText:
-	text "Hey! Don't be so"
-	line "selfish. Spread"
-	cont "the fun around."
+	text "Ep! No sigueu tan"
+	line "egoistes. Repartiu"
+	cont "la diversió."
 	done
 
 RocketBaseBossDontMeddleText:
-	text "What? You had an"
-	line "accomplice?"
+	text "Què? Tenies un"
+	line "còmplice?"
 
-	para "Where is your"
-	line "sense of honor?"
+	para "On és el teu"
+	line "sentit de l'honor?"
 
-	para "As the interim"
-	line "boss in place of"
+	para "Com a cap interina"
+	line "en lloc de"
 
-	para "GIOVANNI, I'll"
-	line "show you how wrong"
+	para "GIOVANNI, et"
+	line "mostraré l'error"
 
-	para "it is to meddle"
-	line "with TEAM ROCKET!"
+	para "de ficar-te amb"
+	line "l'EQUIP ROCKET!"
 	done
 
 RocketBaseBossWinText:
-	text "Tch, you really"
-	line "are strong."
+	text "Txe, realment ets"
+	line "fort."
 
-	para "It's too bad."
+	para "Quina llàstima."
 
-	para "If you were to"
-	line "join TEAM ROCKET,"
+	para "Si t'unissis a"
+	line "l'EQUIP ROCKET,"
 
-	para "you could become"
-	line "an EXECUTIVE."
+	para "podries ser un"
+	line "EXECUTIU."
 	done
 
 RocketBaseBossRetreatText:
-	text "…This hideout is"
-	line "done for…"
+	text "…Aquest amagatall"
+	line "està acabat…"
 
-	para "But that's fine."
-	line "The broadcast ex-"
-	cont "periment was a"
-	cont "total success."
+	para "Però no importa."
+	line "L'experiment de"
+	cont "l'emissió ha estat"
+	cont "un èxit total."
 
-	para "It doesn't matter"
-	line "what happens to"
-	cont "this hideout now."
+	para "No importa què"
+	line "passi ara amb"
+	cont "aquest amagatall."
 
-	para "We have much big-"
-	line "ger plans."
+	para "Tenim plans molt"
+	line "més grans."
 
-	para "You'll come to"
-	line "appreciate TEAM"
+	para "Aviat apreciaràs"
+	line "el veritable poder"
 
-	para "ROCKET's true"
-	line "power soon enough."
+	para "de l'EQUIP"
+	line "ROCKET."
 
-	para "Enjoy yourself"
-	line "while you can…"
+	para "Gaudeix mentre"
+	line "puguis…"
 
 	para "Fufufufu…"
 	done
 
 RocketBaseLancePostBattleText:
-	text "LANCE: That did"
-	line "it. We defeated"
+	text "LLORENÇ: Ja està."
+	line "Hem derrotat tots"
 
-	para "all the ROCKETS"
-	line "here."
+	para "els ROCKETS"
+	line "d'aquí."
 
-	para "But I'm concerned"
-	line "about the young"
+	para "Però em preocupa"
+	line "el jove amb qui"
 
-	para "guy I battled in"
-	line "the process…"
+	para "he lluitat durant"
+	line "el procés…"
 	done
 
 RocketBaseLancePowerOffText:
-	text "Sorry, <PLAY_G>."
-	line "I saw how well you"
+	text "Perdona, <PLAY_G>."
+	line "Vaig veure que ho"
 
-	para "were doing, so I"
-	line "just hung back."
+	para "feies molt bé,"
+	line "així que vaig"
+	cont "quedar enrere."
 
-	para "Now all there is"
-	line "left to do is to"
+	para "Ara només queda"
+	line "apagar aquell"
 
-	para "turn off that odd"
-	line "radio signal."
+	para "estrany senyal"
+	line "de ràdio."
 	done
 
 RockerBaseLanceElectrodeFaintText:
-	text "It's this machine"
-	line "that's causing all"
-	cont "the problems."
+	text "Aquesta màquina"
+	line "causa tots els"
+	cont "problemes."
 
-	para "I don't see a"
-	line "switch on it…"
+	para "No veig cap"
+	line "interruptor…"
 
-	para "We have no choice."
-	line "We have to make"
+	para "No tenim opció."
+	line "Hem de fer"
 
-	para "all the ELECTRODE"
-	line "faint."
+	para "desmaiar tots"
+	line "els ELECTRODE."
 
-	para "That should stop"
-	line "this machine from"
+	para "Això hauria"
+	line "d'aturar la"
 
-	para "transmitting that"
-	line "strange signal."
+	para "transmissió del"
+	line "senyal estrany."
 
-	para "It's no fault of"
-	line "the #MON, so it"
+	para "No és culpa dels"
+	line "#MON, així que"
 
-	para "makes me feel"
-	line "guilty."
+	para "em sento una mica"
+	line "culpable."
 
-	para "<PLAY_G>, let's"
-	line "split the job."
+	para "<PLAY_G>,"
+	line "repartim la feina."
 	done
 
 RocketBaseLancesSideText:
-	text "LANCE: Leave this"
-	line "side to me."
+	text "LLORENÇ: Deixa'm"
+	line "aquest costat."
 	done
 
 RocketBaseLanceElectrodeDoneText:
-	text "LANCE: That odd"
-	line "signal has finally"
-	cont "stopped."
+	text "LLORENÇ: L'estrany"
+	line "senyal finalment"
+	cont "s'ha aturat."
 
-	para "The LAKE should be"
-	line "back to normal."
+	para "El LLAC hauria de"
+	line "tornar a la"
+	cont "normalitat."
 
-	para "You're the hero!"
-	line "Let me thank you"
+	para "Ets l'heroi!"
+	line "Deixa'm donar-te"
 
-	para "on behalf of all"
-	line "the #MON."
+	para "les gràcies en nom"
+	line "de tots els"
+	cont "#MON."
 
-	para "Oh, yes. You"
-	line "should take this."
+	para "Ah, sí. Hauries"
+	line "d'agafar això."
 
-	para "I found it here,"
-	line "but I don't have"
-	cont "any need for it."
+	para "Ho vaig trobar"
+	line "aquí, però no ho"
+	cont "necessito."
 	done
 
 RocketBaseReceivedHM06Text: ; unreferenced
-	text "<PLAYER> received"
-	line "HM06."
+	text "<PLAYER> ha rebut"
+	line "MO06."
 	done
 
 RocketBaseLanceWhirlpoolText:
-	text "That's WHIRLPOOL."
-	line "Teach it to a"
+	text "Això és REMOLÍ."
+	line "Ensenya-ho a un"
 
-	para "#MON to get"
-	line "across wild water."
+	para "#MON per creuar"
+	line "aigües agitades."
 
-	para "But keep this in"
-	line "mind."
+	para "Però recorda"
+	line "això."
 
-	para "You can use that"
-	line "out of battle only"
+	para "Només pots usar-ho"
+	line "fora de combat"
 
-	para "with the BADGE"
-	line "from MAHOGANY GYM."
+	para "amb la INSÍGNIA"
+	line "del GIM MAHOGANY."
 	done
 
 RocketBaseLanceMonMasterText:
 	text "<PLAY_G>…"
 
-	para "The journey to be-"
-	line "coming the #MON"
+	para "El viatge per ser"
+	line "MESTRE #MON és"
 
-	para "MASTER is long and"
-	line "difficult."
+	para "llarg i"
+	line "difícil."
 
-	para "Knowing that, will"
-	line "you keep going?"
+	para "Sabent això,"
+	line "continuaràs?"
 
 	para "…"
 
-	para "I see. No, you're"
-	line "right."
+	para "Ja veig. No, tens"
+	line "raó."
 
-	para "If you would give"
-	line "up that easily,"
+	para "Si et rendissis"
+	line "tan fàcilment,"
 
-	para "you would have"
-	line "never chased that"
+	para "mai no hauries"
+	line "perseguit aquest"
 
-	para "dream in the first"
-	line "place."
+	para "somni des del"
+	line "principi."
 
-	para "I look forward to"
-	line "seeing you again!"
+	para "Espero veure't"
+	line "aviat!"
 	done
 
 LanceHealsText1:
-	text "LANCE: Are you all"
-	line "right?"
+	text "LLORENÇ: Estàs"
+	line "bé?"
 
-	para "Your #MON are"
-	line "hurt and tired."
+	para "Els teus #MON"
+	line "estan ferits i"
+	cont "cansats."
 
-	para "Here, give them"
-	line "some of my medi-"
-	cont "cine."
+	para "Dóna'ls una mica"
+	line "de la meva"
+	cont "medicina."
 	done
 
 LanceHealsText2:
-	text "LANCE: <PLAY_G>,"
-	line "let's give it our"
-	cont "best for #MON."
+	text "LLORENÇ: <PLAY_G>,"
+	line "donem el millor"
+	cont "pels #MON."
 	done
 
 GruntM17SeenText:
-	text "The door won't"
-	line "open?"
+	text "La porta no"
+	line "s'obre?"
 
-	para "Well, duh."
-	line "It has to have a"
+	para "És clar que no."
+	line "Té una contrasenya"
 
-	para "password that only"
-	line "TEAM ROCKET knows."
+	para "que només l'EQUIP"
+	line "ROCKET coneix."
 	done
 
 GruntM17BeatenText:
-	text "What? I lost?"
+	text "Què? He perdut?"
 	done
 
 GruntM17AfterBattleText:
-	text "Heh, I'm just a"
-	line "GRUNT."
+	text "Heh, només sóc un"
+	line "RECLUITA."
 
-	para "I don't know the"
-	line "password. Too bad"
-	cont "for you."
+	para "No sé la"
+	line "contrasenya."
+	cont "Mala sort."
 	done
 
 GruntM18SeenText:
-	text "Oh, a kid? I don't"
-	line "really like this,"
+	text "Oh, un nen? No"
+	line "m'agrada gaire,"
 
-	para "but eliminate you"
-	line "I must."
+	para "però t'he"
+	line "d'eliminar."
 	done
 
 GruntM18BeatenText:
-	text "I knew I'd lose…"
+	text "Sabia que perdria…"
 	done
 
 GruntM18AfterBattleText:
-	text "I got wiped out on"
-	line "the last mission"
-	cont "by a kid too."
+	text "A l'última missió"
+	line "també em va"
+	cont "vèncer un nen."
 
-	para "When we were ab-"
-	line "ducting #MON,"
+	para "Quan segrestàvem"
+	line "#MON,"
 
-	para "this kid with long"
-	line "red hair and mean-"
+	para "un nen amb el"
+	line "cabell llarg i"
 
-	para "looking eyes just"
-	line "creamed me…"
+	para "roig i ulls"
+	line "dolents"
+	cont "em va derrotar…"
 	done
 
 GruntM19SeenText:
-	text "You rotten little"
-	line "pest!"
+	text "Maleït"
+	line "marrec!"
 	done
 
 GruntM19BeatenText:
@@ -862,48 +867,52 @@ GruntM19BeatenText:
 	done
 
 GruntM19AfterBattleText:
-	text "Heh, only the boss"
-	line "knows the password"
-	cont "for that door."
+	text "Heh, només el cap"
+	line "sap la contrasenya"
+	cont "d'aquella porta."
 
-	para "Where's the boss?"
-	line "Who knows? Go look"
-	cont "for yourself."
+	para "On és el cap?"
+	line "Qui sap? Busca-ho"
+	cont "tu mateix."
 	done
 
 RocketBaseDoorNoPasswordText:
-	text "The door's closed…"
+	text "La porta és"
+	line "tancada…"
 
-	para "It needs a pass-"
-	line "word to open."
+	para "Cal una"
+	line "contrasenya"
+	cont "per obrir-la."
 	done
 
 RocketBaseDoorKnowPasswordText:
-	text "The door's closed…"
+	text "La porta és"
+	line "tancada…"
 
-	para "<PLAYER> entered"
-	line "the password."
+	para "<PLAYER> ha entrat"
+	line "la contrasenya."
 
-	para "The door opened!"
+	para "La porta s'ha"
+	line "obert!"
 	done
 
 RocketBaseB2FTransmitterText:
-	text "It's the radio"
-	line "transmitter that's"
+	text "És el transmissor"
+	line "de ràdio que envia"
 
-	para "sending the"
-	line "sinister signal."
+	para "el senyal"
+	line "sinistre."
 
-	para "It's working at"
-	line "full capacity."
+	para "Funciona a"
+	line "màxima capacitat."
 	done
 
 RocketBaseB2FDeactivateTransmitterText:
-	text "The radio trans-"
-	line "mitter has finally"
+	text "El transmissor de"
+	line "ràdio finalment ha"
 
-	para "stopped its evil"
-	line "broadcast."
+	para "aturat la seva"
+	line "emissió maligna."
 	done
 
 TeamRocketBaseB2F_MapEvents:

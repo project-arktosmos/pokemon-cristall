@@ -35,35 +35,36 @@ CherrygrovePokecenter1FTeacherScript:
 	end
 
 CherrygrovePokecenter1FFisherText:
-	text "It's great. I can"
-	line "store any number"
+	text "És genial. Puc"
+	line "desar tants"
+	cont "#MON"
 
-	para "of #MON, and"
-	line "it's all free."
+	para "com vulgui, i és"
+	line "totalment gratis."
 	done
 
 CherrygrovePokecenter1FGentlemanText:
-	text "That PC is free"
-	line "for any trainer"
-	cont "to use."
+	text "Aquest PC és"
+	line "gratuït per a"
+	cont "tots els ENTRENA."
 	done
 
 CherrygrovePokecenter1FTeacherText:
-	text "The COMMUNICATION"
-	line "CENTER upstairs"
-	cont "was just built."
+	text "El CENTRE DE"
+	line "COMUNICACIONS de"
+	cont "dalt és nou."
 
-	para "But they're still"
-	line "finishing it up."
+	para "Però encara no"
+	line "l'han acabat."
 	done
 
 CherrygrovePokecenter1FTeacherText_CommCenterOpen:
-	text "The COMMUNICATION"
-	line "CENTER upstairs"
-	cont "was just built."
+	text "El CENTRE DE"
+	line "COMUNICACIONS de"
+	cont "dalt és nou."
 
-	para "I traded #MON"
-	line "there already!"
+	para "Ja hi he canviat"
+	line "#MON!"
 	done
 
 CherrygrovePokecenter1F_MapEvents:

@@ -74,33 +74,33 @@ GoldenrodDeptStoreB1FUltraBall:
 	itemball ULTRA_BALL
 
 GoldenrodDeptStoreB1FBlackBelt1Text:
-	text "Hey, kid! You're"
-	line "holding us up!"
+	text "Ei, nen! Ens fas"
+	line "anar amb retard!"
 
-	para "Our policy is to"
-	line "work behind the"
+	para "La nostra norma és"
+	line "treballar on ningú"
 
-	para "scenes where no"
-	line "one can see us!"
+	para "no ens pugui"
+	line "veure!"
 	done
 
 GoldenrodDeptStoreB1FBlackBelt2Text:
-	text "I lose my passion"
-	line "for work if some-"
-	cont "one's watching."
+	text "Perdo les ganes de"
+	line "treballar si algú"
+	cont "em mira."
 
-	para "Come on, kid,"
-	line "scoot!"
+	para "Vinga, nen,"
+	line "marxa d'aquí!"
 	done
 
 GoldenrodDeptStoreB1FBlackBelt3Text:
 	text "Oohah! Oohah!"
 
-	para "The stuff on the"
-	line "ground's junk."
+	para "Les coses del"
+	line "terra són brossa."
 
-	para "Take it if you"
-	line "want it!"
+	para "Agafa-les si les"
+	line "vols!"
 	done
 
 GoldenrodDeptStoreB1FMachokeText:

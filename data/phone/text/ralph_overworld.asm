@@ -1,58 +1,58 @@
 RalphAskNumber1Text:
-	text "Don't young people"
-	line "fish anymore?"
+	text "Els joves ja no"
+	line "pesquen?"
 
-	para "I've seen rare"
-	line "#MON while I've"
-	cont "been fishing…"
+	para "He vist #MON"
+	line "rars mentre"
+	cont "pescava…"
 
-	para "You young people"
-	line "like that, right?"
+	para "Això us agrada,"
+	line "oi, als joves?"
 
-	para "Want to trade"
-	line "phone numbers?"
+	para "Vols intercanviar"
+	line "números?"
 
-	para "I'll let you know"
-	line "if I see anything."
+	para "T'avisaré si veig"
+	line "res interessant."
 	done
 
 RalphAskNumber2Text:
-	text "Hm? So you do want"
-	line "me to phone if I"
-	cont "see rare #MON?"
+	text "Hm? Vols que et"
+	line "truqui si veig"
+	cont "#MON rars?"
 	done
 
 RalphNumberAcceptedText:
-	text "Yep, phone if I"
-	line "see rare #MON."
+	text "Sí, trucar si veig"
+	line "#MON rars."
 
-	para "Don't worry, I"
-	line "won't forget!"
+	para "Tranquil, no"
+	line "m'oblidaré!"
 	done
 
 RalphNumberDeclinedText:
 	text "Oh…"
-	line "My own kids won't"
+	line "Els meus fills"
 
-	para "even give me their"
-	line "phone numbers…"
+	para "tampoc em donen"
+	line "els seus números…"
 
-	para "Is that how young"
-	line "people are today?"
+	para "Els joves d'avui"
+	line "són així?"
 	done
 
 RalphPhoneFullText:
-	text "Your phone's"
-	line "memory is full."
+	text "La memòria del"
+	line "telèfon és plena."
 
-	para "It seems that"
-	line "young people all"
-	cont "have #GEAR."
+	para "Sembla que tots"
+	line "els joves tenen"
+	cont "#GEAR."
 	done
 
 RalphRematchText:
-	text "Hey, kid!"
+	text "Ei, nano!"
 
-	para "No losing for me"
-	line "this day!"
+	para "Avui no perdré"
+	line "de cap manera!"
 	done

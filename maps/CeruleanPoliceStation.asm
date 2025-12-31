@@ -23,18 +23,18 @@ CeruleanDiglett:
 	end
 
 CeruleanPoliceStationFishingGuruText:
-	text "I heard that some"
-	line "shady character is"
-	cont "skulking about."
+	text "He sentit que un"
+	line "individu sospitós"
+	cont "ronda per aquí."
 
-	para "I won't stand for"
-	line "it if he turns out"
-	cont "to be a thief."
+	para "No ho toleraré si"
+	line "resulta ser un"
+	cont "lladre."
 	done
 
 CeruleanPoliceStationPokefanFText:
-	text "We were held up by"
-	line "robbers before."
+	text "Uns lladres ens"
+	line "van atracar abans."
 	done
 
 CeruleanDiglettText:

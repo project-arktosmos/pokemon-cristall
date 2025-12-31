@@ -31,100 +31,102 @@ BattleTowerOutsideSign:
 	jumptext BattleTowerOutsideSignText
 
 BattleTowerOutsideYoungsterText_NotYetOpen: ; unreferenced
-	text "Wow, the BATTLE"
-	line "TOWER is huge! My"
+	text "Uau, la TORRE"
+	line "BATALLA és enorme!"
 
-	para "neck is tired from"
-	line "looking up at it."
+	para "Em fa mal el coll"
+	line "de mirar amunt."
 	done
 
 BattleTowerOutsideYoungsterText_Mobile: ; unreferenced
-	text "Wow, the BATTLE"
-	line "TOWER is huge!"
+	text "Uau, la TORRE"
+	line "BATALLA és enorme!"
 
-	para "Since there are a"
-	line "whole bunch of"
+	para "Com que hi ha"
+	line "molts entrenadors"
 
-	para "trainers inside,"
-	line "there must also be"
+	para "a dins, hi deu"
+	line "haver una gran"
 
-	para "a wide variety of"
+	para "varietat de"
 	line "#MON."
 	done
 
 BattleTowerOutsideYoungsterText:
-	text "Wow, the BATTLE"
-	line "TOWER is huge!"
+	text "Uau, la TORRE"
+	line "BATALLA és enorme!"
 
-	para "There must be many"
-	line "kinds of #MON"
-	cont "in there!"
+	para "Hi deu haver molts"
+	line "tipus de #MON"
+	cont "allà dins!"
 	done
 
 BattleTowerOutsideBeautyText_NotYetOpen: ; unreferenced
-	text "What on earth do"
-	line "they do here?"
+	text "Què deu ser això?"
+	line "Què s'hi fa aquí?"
 
-	para "If the name says"
-	line "anything, I guess"
+	para "Pel nom, suposo"
+	line "que deu ser per a"
 
-	para "it must be for"
-	line "#MON battles."
+	para "combats de"
+	line "#MON."
 	done
 
 BattleTowerOutsideBeautyText:
-	text "You can use only"
-	line "three #MON."
+	text "Només pots fer"
+	line "servir tres"
+	cont "#MON."
 
-	para "It's so hard to"
-	line "decide which three"
+	para "És tan difícil"
+	line "decidir quins tres"
 
-	para "should go into"
-	line "battle…"
+	para "han d'entrar en"
+	line "combat…"
 	done
 
 BattleTowerOutsideSailorText_Mobile: ; unreferenced
 	text "Ehehehe…"
-	line "I sneaked out of"
-	cont "work to come here."
+	line "M'he escapat de la"
+	cont "feina per venir."
 
-	para "I'm never giving"
-	line "up until I become"
-	cont "a LEADER!"
+	para "No em rendiré fins"
+	line "que sigui un"
+	cont "LÍDER!"
 	done
 
 BattleTowerOutsideSailorText:
-	text "Hehehe, I snuck"
-	line "out from work."
+	text "Hehehe, m'he"
+	line "escapat de feina."
 
-	para "I can't bail out"
-	line "until I've won!"
+	para "No puc marxar fins"
+	line "que no guanyi!"
 
-	para "I have to win it"
-	line "all. That I must!"
+	para "Ho he de guanyar"
+	line "tot. Sí, senyor!"
 	done
 
 BattleTowerOutsideSignText_NotYetOpen: ; unreferenced
 ; originally shown when the Battle Tower was closed
-	text "BATTLE TOWER"
+	text "TORRE BATALLA"
 	done
 
 BattleTowerOutsideSignText:
-	text "BATTLE TOWER"
+	text "TORRE BATALLA"
 
-	para "Take the Ultimate"
-	line "Trainer Challenge!"
+	para "Accepta el Repte"
+	line "Definitiu!"
 	done
 
 BattleTowerOutsideText_DoorsClosed: ; unreferenced
 ; originally shown when the Battle Tower was closed
-	text "The BATTLE TOWER's"
-	line "doors are closed…"
+	text "Les portes de la"
+	line "TORRE BATALLA…"
+	cont "estan tancades."
 	done
 
 BattleTowerOutsideText_DoorsOpen: ; unreferenced
 ; originally shown after the Battle Tower opened
-	text "It's open!"
+	text "Està oberta!"
 	done
 
 BattleTowerOutside_MapEvents:

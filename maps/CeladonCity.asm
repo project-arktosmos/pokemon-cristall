@@ -76,172 +76,172 @@ CeladonCityHiddenPpUp:
 	hiddenitem PP_UP, EVENT_CELADON_CITY_HIDDEN_PP_UP
 
 CeladonCityFisherText:
-	text "This POLIWRATH is"
-	line "my partner."
+	text "Aquest POLIWRATH"
+	line "és el meu company."
 
-	para "I wonder if it'll"
-	line "ever evolve into a"
-	cont "frog #MON."
+	para "Em pregunto si"
+	line "algun dia evolu-"
+	cont "cionarà a granota."
 	done
 
 CeladonCityPoliwrathText:
-	text "POLIWRATH: Croak!"
+	text "POLIWRATH: Croac!"
 	done
 
 CeladonCityTeacher1Text:
 if DEF(_CRYSTAL_AU)
-	text "I lost at the"
-	line "machines."
+	text "He perdut a les"
+	line "màquines."
 	done
 else
-	text "I lost at the slot"
-	line "machines again…"
+	text "He tornat a perdre"
+	line "a les màquines…"
 
-	para "We girls also play"
-	line "the slots now."
+	para "Les noies també"
+	line "juguem ara."
 
-	para "You should check"
-	line "them out too."
+	para "Tu també hauries"
+	line "de provar-les."
 	done
 endc
 
 CeladonCityGramps1Text:
-	text "GRIMER have been"
-	line "appearing lately."
+	text "Últimament aparei-"
+	line "xen molts GRIMER."
 
-	para "See that pond out"
-	line "in front of the"
+	para "Veus aquell estany"
+	line "davant de casa?"
 
-	para "house? GRIMER live"
-	line "there now."
+	para "Ara hi viuen"
+	line "GRIMER."
 
-	para "Where did they"
-	line "come from? This is"
-	cont "a serious problem…"
+	para "D'on han sortit?"
+	line "És un problema"
+	cont "greu…"
 	done
 
 CeladonCityGramps2Text:
-	text "Nihihi! This GYM"
-	line "is great! Only"
+	text "Nihihi! Aquest GIM"
+	line "és genial!"
 
-	para "girls are allowed"
-	line "here!"
+	para "Només s'hi admeten"
+	line "noies!"
 	done
 
 CeladonCityYoungster1Text:
-	text "Want to know a"
+	text "Vols saber un"
 	line "secret?"
 
-	para "CELADON MANSION"
-	line "has a hidden back"
-	cont "door."
+	para "La MANSIÓ CELADON"
+	line "té una porta del"
+	cont "darrere amagada."
 	done
 
 CeladonCityYoungster2Text:
-	text "They're holding an"
-	line "eating contest at"
-	cont "the restaurant."
+	text "Fan un concurs de"
+	line "menjar al"
+	cont "restaurant."
 
-	para "Just watching them"
-	line "go at it makes me"
-	cont "feel bloated…"
+	para "Només de mirar-los"
+	line "ja em sento"
+	cont "tip…"
 	done
 
 CeladonCityTeacher2Text:
-	text "CELADON DEPT.STORE"
-	line "has the biggest"
+	text "Els GRANS MAGAT-"
+	line "ZEMS CELADON tenen"
 
-	para "and best selection"
-	line "of merchandise."
+	para "la millor selecció"
+	line "de productes."
 
-	para "If you can't get"
-	line "it there, you"
+	para "Si no ho trobes"
+	line "allà, no ho"
 
-	para "can't get it any-"
-	line "where."
+	para "trobaràs enlloc."
 
-	para "Gee… I sound like"
-	line "a sales clerk."
+	para "Semblo una"
+	line "dependenta…"
 	done
 
 CeladonCityLassText_Mobile: ; unreferenced
-	text "I love being"
-	line "surrounded by tall"
-	cont "buildings!"
+	text "M'encanta estar"
+	line "envoltada"
+	cont "d'edificis alts!"
 
-	para "Isn't it true that"
-	line "GOLDENROD #MON"
+	para "És cert que el"
+	line "CENTRE # de"
 
-	para "CENTER was made"
-	line "much, much bigger?"
+	para "POKEMON DAURADA"
+	line "l'han fet molt"
+	cont "més gran?"
 
-	para "That is so neat!"
-	line "I wish we had a"
+	para "Què genial!"
+	line "M'agradaria tenir"
 
-	para "place like that in"
+	para "un lloc així a"
 	line "KANTO…"
 	done
 
 CeladonCityLassText:
-	text "Looking at the"
-	line "ground while I was"
+	text "Mirar a terra"
+	line "mentre caminava"
 
-	para "walking made me"
-	line "dizzy."
+	para "m'ha marejat."
 	done
 
 CeladonCitySignText:
-	text "CELADON CITY"
+	text "CIUTAT CELADON"
 
-	para "The City of"
-	line "Rainbow Dreams"
+	para "La Ciutat dels"
+	line "Somnis de l'Arc"
+	cont "de Sant Martí"
 	done
 
 CeladonGymSignText:
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "GIM # DE"
+	line "CIUTAT CELADON"
+	cont "LÍDER: ERIKA"
 
-	para "The Nature-Loving"
-	line "Princess"
+	para "La Princesa"
+	line "Amant de la"
+	cont "Natura"
 	done
 
 CeladonCityDeptStoreSignText:
-	text "Find What You"
-	line "Need at CELADON"
-	cont "DEPT.STORE!"
+	text "Troba el que"
+	line "necessites als"
+	cont "G.M. CELADON!"
 	done
 
 CeladonCityMansionSignText:
-	text "CELADON MANSION"
+	text "MANSIÓ CELADON"
 	done
 
 CeladonCityGameCornerSignText:
 if DEF(_CRYSTAL_AU)
-	text "The Game Area for"
-	line "Grown-ups--CELADON"
-	cont "GAME CORNER"
+	text "Zona de Jocs per"
+	line "a Adults--SALA DE"
+	cont "JOCS CELADON"
 	done
 else
-	text "The Playground for"
-	line "Everybody--CELADON"
-	cont "GAME CORNER"
+	text "Diversió per a"
+	line "Tothom--SALA DE"
+	cont "JOCS CELADON"
 	done
 endc
 
 CeladonCityTrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "GUARD SPEC."
-	line "protects #MON"
+	para "El GUARDAESP."
+	line "protegeix els #"
 
-	para "against SPECIAL"
-	line "attacks such as"
-	cont "fire and water."
+	para "d'atacs ESPECIALS"
+	line "com el foc i"
+	cont "l'aigua."
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Compra objectes"
+	line "als G.M. CELADON!"
 	done
 
 CeladonCity_MapEvents:

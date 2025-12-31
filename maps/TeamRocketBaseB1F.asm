@@ -629,99 +629,100 @@ SecurityCameraMovement9:
 	step_end
 
 CameraGrunt1SeenText:
-	text "Hey!"
-	line "Intruder alert!"
+	text "Ep!"
+	line "Alerta d'intrús!"
 	done
 
 CameraGrunt1BeatenText:
-	text "Dang… I failed…"
+	text "Maleït… He fallat…"
 	done
 
 CameraGrunt2SeenText:
-	text "It's my turn!"
-	line "There's no escape!"
+	text "Em toca a mi!"
+	line "No pots escapar!"
 	done
 
 CameraGrunt2BeatenText:
-	text "Surveillance cams"
-	line "are in the #MON"
-	cont "statues."
+	text "Les càmeres són a"
+	line "les estàtues de"
+	cont "#MON."
 
-	para "We'll keep appear-"
-	line "ing until you trip"
-	cont "a secret switch."
+	para "Seguirem aparei-"
+	line "xent fins que tro-"
+	cont "bis un"
+	cont "interruptor."
 	done
 
 ScientistJedSeenText:
-	text "This was once a"
-	line "ninja hideout."
+	text "Això era un ama-"
+	line "gatall de ninjas."
 
-	para "There are traps to"
-	line "confound intruders"
-	cont "like you."
+	para "Hi ha trampes per"
+	line "confondre intrusos"
+	cont "com tu."
 	done
 
 ScientistJedBeatenText:
-	text "I get it…"
+	text "Ho entenc…"
 	done
 
 ScientistJedAfterBattleText:
-	text "All right. I'll"
-	line "divulge a secret"
-	cont "about our hideout."
+	text "D'acord. Et diré"
+	line "un secret del nos-"
+	cont "tre amagatall."
 
-	para "That thing on the"
-	line "floor up ahead is"
-	cont "a warp panel."
+	para "Allò del terra més"
+	line "endavant és un pa-"
+	cont "nell de transport."
 
-	para "If you step on it,"
-	line "you'll be warped"
+	para "Si hi passes per"
+	line "sobre, tornaràs"
 
-	para "back to the en-"
-	line "trance."
+	para "a l'entrada."
+	line ""
 	done
 
 GruntM16SeenText:
-	text "Heheh. Feeling"
-	line "lucky, punk?"
+	text "Hehe. Et sents"
+	line "amb sort, brivall?"
 
-	para "Go ahead, take"
-	line "another step."
+	para "Endavant, fes un"
+	line "altre pas."
 
-	para "We've got traps"
-	line "set in the floor!"
+	para "Tenim trampes"
+	line "al terra!"
 	done
 
 GruntM16BeatenText:
-	text "Kaboom!"
+	text "Kabum!"
 	done
 
 GruntM16AfterBattleText:
-	text "I don't even know"
-	line "where the traps"
-	cont "are planted."
+	text "Ni jo sé on són"
+	line "les trampes."
 
-	para "You'll just have"
-	line "to collect your"
-	cont "courage and walk."
+	para "Hauràs d'agafar"
+	line "coratge i caminar."
 	done
 
 TeamRocketBaseB1FSecurityCameraText:
-	text "It's a PERSIAN"
-	line "statue…"
+	text "És una estàtua"
+	line "de PERSIAN…"
 
-	para "Its eyes are oddly"
-	line "shiny."
+	para "Els seus ulls"
+	line "brillen estranya-"
+	cont "ment."
 	done
 
 TeamRocketBaseB1FSecretSwitchText:
-	text "A secret switch!"
-	line "Better press it."
+	text "Un interruptor"
+	line "secret! Millor"
+	cont "prémer-lo."
 	done
 
 TeamRocketBaseB1FSwitchOffText:
-	text "The switch is"
-	line "turned off."
+	text "L'interruptor"
+	line "està apagat."
 	done
 
 TeamRocketBaseB1F_MapEvents:

@@ -40,60 +40,63 @@ GoldenrodDeptStore2FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore2FUnusedText1: ; unreferenced
-	text "We intend to sell"
-	line "items for #MON"
-	cont "to hold."
+	text "Volem vendre"
+	line "objectes que els"
+	cont "#MON portin."
 
-	para "This is a free"
-	line "gift. Have a #-"
-	cont "MON hold it."
+	para "Això és un regal"
+	line "gratuït. Fes que"
+	cont "un #MON el"
+	cont "porti."
 	done
 
 GoldenrodDeptStore2FUnusedText2: ; unreferenced
-	text "By giving #MON"
-	line "items to hold, I"
+	text "Fent que #MON"
+	line "portin objectes,"
 
-	para "bet trainers will"
-	line "develop new battle"
-	cont "techniques."
+	para "aposto que els"
+	line "entrenadors"
+	cont "crearan"
+	cont "noves tàctiques."
 	done
 
 GoldenrodDeptStore2FYoungsterText:
-	text "#GEAR can store"
-	line "up to ten phone"
-	cont "numbers."
+	text "El #GEAR pot"
+	line "guardar fins a"
+	cont "deu números."
 
-	para "It's hard to de-"
-	line "cide which numbers"
-	cont "to keep."
+	para "És difícil decidir"
+	line "quins números"
+	cont "conservar."
 	done
 
 GoldenrodDeptStore2FCooltrainerFText:
-	text "I got my ABRA at"
-	line "the GAME CORNER."
+	text "Vaig aconseguir"
+	line "l'ABRA al CASINO."
 
-	para "Now it's my best"
-	line "partner."
+	para "Ara és el meu"
+	line "millor company."
 	done
 
 GoldenrodDeptStore2FGentlemanText:
-	text "This DEPT.STORE"
-	line "makes me realize"
+	text "Aquests GRANS"
+	line "MAGATZEMS em fan"
 
-	para "that GOLDENROD is"
-	line "a big city."
+	para "veure que TRIGAL"
+	line "és una gran"
+	cont "ciutat."
 
-	para "The selection here"
-	line "is unmatched any-"
-	cont "where else."
+	para "La selecció d'aquí"
+	line "no té rival enlloc"
+	cont "més."
 	done
 
 GoldenrodDeptStore2FDirectoryText:
-	text "Your Travel"
-	line "Companion"
+	text "El teu company"
+	line "de viatge"
 
-	para "2F TRAINER'S"
-	line "   MARKET"
+	para "2P MERCAT DE"
+	line "   L'ENTRENADOR"
 	done
 
 GoldenrodDeptStore2F_MapEvents:

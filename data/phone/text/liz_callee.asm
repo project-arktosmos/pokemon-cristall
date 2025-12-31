@@ -1,81 +1,81 @@
 LizAnswerPhoneText:
-	text "Hello, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
 	text_start
-	line "speaking."
+	line "a l'aparell."
 
 	para "Oh, <PLAY_G>."
-	line "Good morning."
+	line "Bon dia."
 	done
 
 LizAnswerPhoneDayText:
-	text "Hello, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
 	text_start
-	line "speaking."
+	line "a l'aparell."
 
 	para "Oh, <PLAY_G>."
-	line "How are you?"
+	line "Com estàs?"
 	done
 
 LizAnswerPhoneNiteText:
-	text "Hello, @"
+	text "Hola, @"
 	text_ram wStringBuffer3
 	text_start
-	line "speaking."
+	line "a l'aparell."
 
 	para "Oh, <PLAY_G>."
-	line "Good evening."
+	line "Bona nit."
 	done
 
 LizGreetText:
-	text "Good morning,"
+	text "Bon dia,"
 	line "<PLAY_G>."
 
-	para "This is @"
+	para "Sóc @"
 	text_ram wStringBuffer3
 	text "."
-	line "Were you sleeping?"
+	line "Dormies?"
 	done
 
 LizGreetDayText:
-	text "Hi, <PLAY_G>."
-	line "This is @"
+	text "Hola, <PLAY_G>."
+	line "Sóc @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "How are things"
-	line "going for you?"
+	para "Com et van les"
+	line "coses?"
 	done
 
 LizGreetNiteText:
-	text "Good evening,"
+	text "Bona nit,"
 	line "<PLAY_G>."
 
-	para "This is @"
+	para "Sóc @"
 	text_ram wStringBuffer3
 	text "."
-	line "Are you awake?"
+	line "Ets despert?"
 	done
 
 LizGenericText:
-	text "I had some time,"
-	line "so I called you."
+	text "Tenia temps,"
+	line "i t'he trucat."
 
-	para "So anyway, how are"
-	line "your #MON?"
+	para "I bé, com van els"
+	line "teus #MON?"
 
-	para "Me, I take my"
+	para "Jo porto el meu"
 	line "@"
 	text_ram wStringBuffer4
-	text " to the"
+	text " al"
 
-	para "#MON CENTER in"
-	line "VIOLET every day,"
+	para "CENTRE #MON de"
+	line "VIOLA cada dia,"
 
-	para "so it's doing just"
-	line "fantastic!"
+	para "i per això està"
+	line "fantàstic!"
 
-	para "I'm friends with"
-	line "the receptionist!"
+	para "Sóc amiga de"
+	line "la recepcionista!"
 	done

@@ -178,102 +178,104 @@ VioletCitySpinningEarl_MovementData:
 	step_end
 
 Text_EarlAsksIfYouBeatFalkner:
-	text "Hello!"
-	line "You are trainer?"
+	text "Hola!"
+	line "Ets entrenador?"
 
-	para "Battle GYM LEADER,"
-	line "win you did?"
+	para "Amb el LÍDER,"
+	line "guanyar vas?"
 	done
 
 Text_VeryNiceIndeed:
-	text "Ooh, la la!"
-	line "Very indeed nice!"
+	text "Oh, la la!"
+	line "Molt bé, molt bé!"
 	done
 
 Text_FollowEarl:
-	text "Is that so? Then"
-	line "study shall you!"
-	cont "Follow me!"
+	text "Ah sí? Doncs"
+	line "estudiar hauràs!"
+	cont "Segueix-me!"
 	done
 
 Text_HereTeacherIAm:
-	text "Here, teacher I"
-	line "am. Good it is"
-	cont "you study here!"
+	text "Aquí, el mestre"
+	line "soc. Bo és que"
+	cont "estudiïs aquí!"
 	done
 
 VioletCityLassText:
-	text "Ghosts are rumored"
-	line "to appear in"
-	cont "SPROUT TOWER."
+	text "Diuen que hi ha"
+	line "fantasmes a la"
+	cont "TORRE BELLBROT."
 
-	para "They said normal-"
-	line "type #MON moves"
+	para "Els moviments de"
+	line "tipus normal no"
 
-	para "had no effect on"
-	line "ghosts."
+	para "afecten els"
+	line "fantasmes."
 	done
 
 VioletCitySuperNerdText:
-	text "Hey, you're a"
-	line "#MON trainer?"
+	text "Ei, ets un"
+	line "entrenador"
+	cont "#MON?"
 
-	para "If you beat the"
-	line "GYM LEADER here,"
+	para "Si vences el"
+	line "LÍDER del GIMNÀS,"
 
-	para "you'll be ready"
-	line "for prime time!"
+	para "estaràs preparat"
+	line "per al gran salt!"
 	done
 
 VioletCityGrampsText:
-	text "FALKNER, from the"
-	line "VIOLET #MON"
+	text "En FALKNER, del"
+	line "GIMNÀS #MON de"
 
-	para "GYM, is a fine"
-	line "trainer!"
+	para "VIOLETA, és un"
+	line "gran entrenador!"
 
-	para "He inherited his"
-	line "father's gym and"
+	para "Va heretar el"
+	line "gimnàs del seu"
 
-	para "has done a great"
-	line "job with it."
+	para "pare i ho fa molt"
+	line "bé."
 	done
 
 VioletCityYoungsterText:
-	text "I saw a wiggly"
-	line "tree up ahead!"
+	text "He vist un arbre"
+	line "que es movia!"
 
-	para "If you touch it,"
-	line "it squirms and"
-	cont "dances! Cool!"
+	para "Si el toques, es"
+	line "revinclava i"
+	cont "ballava! Guai!"
 	done
 
 VioletCitySignText:
-	text "VIOLET CITY"
+	text "CIUTAT VIOLETA"
 
-	para "The City of"
-	line "Nostalgic Scents"
+	para "La ciutat de les"
+	line "aromes d'antany"
 	done
 
 VioletGymSignText:
-	text "VIOLET CITY"
-	line "#MON GYM"
-	cont "LEADER: FALKNER"
+	text "GIMNÀS #MON"
+	line "CIUTAT VIOLETA"
+	cont "LÍDER: FALKNER"
 
-	para "The Elegant Master"
-	line "of Flying #MON"
+	para "L'elegant mestre"
+	line "dels #MON"
+	cont "voladors"
 	done
 
 SproutTowerSignText:
-	text "SPROUT TOWER"
+	text "TORRE BELLBROT"
 
-	para "Experience the"
-	line "Way of #MON"
+	para "Viu el camí"
+	line "dels #MON"
 	done
 
 EarlsPokemonAcademySignText:
-	text "EARL'S #MON"
-	line "ACADEMY"
+	text "ACADÈMIA #MON"
+	line "D'EN EARL"
 	done
 
 VioletCity_MapEvents:

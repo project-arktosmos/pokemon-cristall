@@ -64,82 +64,90 @@ DaisyScript:
 	end
 
 DaisyHelloText:
-	text "DAISY: Hi! My kid"
-	line "brother is the GYM"
+	text "DAISY: Hola! El"
+	line "meu germà petit és"
 
-	para "LEADER in VIRIDIAN"
-	line "CITY."
+	para "el LÍDER del GIM"
+	line "de CIUTAT"
+	cont "VIRIDIAN."
 
-	para "But he goes out"
-	line "of town so often,"
+	para "Però surt de la"
+	line "ciutat tan sovint"
 
-	para "it causes problems"
-	line "for the trainers."
+	para "que causa"
+	line "problemes"
+	cont "als entrenadors."
 	done
 
 DaisyOfferGroomingText:
-	text "DAISY: Hi! Good"
-	line "timing. I'm about"
-	cont "to have some tea."
+	text "DAISY: Hola! Bones"
+	line "hores. Ara prendré"
+	cont "una mica de te."
 
-	para "Would you like to"
-	line "join me?"
+	para "Vols"
+	line "acompanyar-me?"
 
-	para "Oh, your #MON"
-	line "are a bit dirty."
+	para "Ai, els teus"
+	line "#MON"
+	cont "estan una mica"
+	cont "bruts."
 
-	para "Would you like me"
-	line "to groom one?"
+	para "Vols que en"
+	line "pentini"
+	cont "un?"
 	done
 
 DaisyWhichMonText:
-	text "DAISY: Which one"
-	line "should I groom?"
+	text "DAISY: Quin vols"
+	line "que pentini?"
 	done
 
 DaisyAlrightText:
-	text "DAISY: OK, I'll"
-	line "get it looking"
-	cont "nice in no time."
+	text "DAISY: D'acord,"
+	line "el deixaré ben"
+	cont "bonic de seguida."
 	done
 
 GroomedMonLooksContentText:
 	text_ram wStringBuffer3
-	text " looks"
+	text " sembla"
 	line "content."
 	done
 
 DaisyAllDoneText:
-	text "DAISY: There you"
-	line "go! All done."
+	text "DAISY: Aquí el"
+	line "tens! Ja està."
 
-	para "See? Doesn't it"
-	line "look nice?"
+	para "Veus? No et sembla"
+	line "que està bonic?"
 
-	para "It's such a cute"
-	line "#MON."
+	para "És un #MON tan"
+	line "bufó."
 	done
 
 DaisyAlreadyGroomedText:
-	text "DAISY: I always"
-	line "have tea around"
+	text "DAISY: Sempre"
+	line "prenc el te a"
 
-	para "this time. Come"
-	line "join me."
+	para "aquesta hora. Vine"
+	line "a fer-me"
+	cont "companyia."
 	done
 
 DaisyRefusedText:
-	text "DAISY: You don't"
-	line "want to have one"
+	text "DAISY: No en vols"
+	line "cap de pentinat?"
 
-	para "groomed? OK, we'll"
-	line "just have tea."
+	para "D'acord, només"
+	line "prendrem el te."
 	done
 
 DaisyCantGroomEggText:
-	text "DAISY: Oh, sorry."
-	line "I honestly can't"
-	cont "groom an EGG."
+	text "DAISY: Ui,"
+	line "perdona."
+	cont "Sincerament, no"
+	cont "puc pentinar un"
+	cont "OU."
 	done
 
 BluesHouse_MapEvents:

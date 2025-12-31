@@ -1,10 +1,10 @@
-	object_const_def
-	const COPYCATSHOUSE2F_COPYCAT1 ; if player is male
-	const COPYCATSHOUSE2F_DODRIO
-	const COPYCATSHOUSE2F_FAIRYDOLL ; lost item
-	const COPYCATSHOUSE2F_MONSTERDOLL
-	const COPYCATSHOUSE2F_BIRDDOLL
-	const COPYCATSHOUSE2F_COPYCAT2 ; if player is female
+object_const_def
+const COPYCATSHOUSE2F_COPYCAT1 ; if player is male
+const COPYCATSHOUSE2F_DODRIO
+const COPYCATSHOUSE2F_FAIRYDOLL ; lost item
+const COPYCATSHOUSE2F_MONSTERDOLL
+const COPYCATSHOUSE2F_BIRDDOLL
+const COPYCATSHOUSE2F_COPYCAT2 ; if player is female
 
 CopycatsHouse2F_MapScripts:
 	def_scene_scripts
@@ -199,144 +199,149 @@ CopycatSpinAroundMovementData:
 	step_end
 
 CopycatText_Male_1:
-	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	text "<PLAYER>: Hola!"
+	line "T'agraden els"
+	cont "#?"
 
-	para "<PLAYER>: Uh, no, I"
-	line "just asked you."
+	para "<PLAYER>: Eh, no,"
+	line "t'ho pregunto jo."
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+	para "<PLAYER>: Què?"
+	line "Ets estranya!"
 	done
 
 CopycatText_QuickMimicking:
-	text "COPYCAT: Hmm?"
-	line "Quit mimicking?"
+	text "IMITADORA: Hmm?"
+	line "Que deixi"
+	cont "d'imitar?"
 
-	para "But that's my"
-	line "favorite hobby!"
+	para "Però és el meu"
+	line "passatemps"
+	cont "preferit!"
 	done
 
 CopycatText_Male_2:
-	text "<PLAYER>: Hi!"
-	line "I heard that you"
+	text "<PLAYER>: Hola!"
+	line "M'han dit que has"
 
-	para "lost your favorite"
-	line "# DOLL."
+	para "perdut la teva"
+	line "NINA #"
+	cont "preferida."
 
-	para "<PLAYER>: If I find"
-	line "it, you'll give me"
-	cont "a rail PASS?"
+	para "<PLAYER>: Si la"
+	line "trobo, em donaràs"
+	cont "un ABONAMENT?"
 
-	para "<PLAYER>: I'll go"
-	line "find it for you."
+	para "<PLAYER>: Aniré"
+	line "a buscar-la."
 
-	para "You think you lost"
-	line "it when you went"
-	cont "to VERMILION CITY?"
+	para "Creus que la vas"
+	line "perdre quan vas"
+	cont "anar a VERMILION?"
 	done
 
 CopycatText_Worried:
-	text "COPYCAT: Pardon?"
+	text "IMITADORA:"
+	line "Perdona?"
 
-	para "I shouldn't decide"
-	line "what you should"
-	cont "do?"
+	para "No hauria de dir"
+	line "què has de fer?"
 
-	para "But I'm really"
-	line "worried… What if"
-	cont "someone finds it?"
+	para "Però estic molt"
+	line "preocupada… I si"
+	cont "algú la troba?"
 	done
 
 CopycatText_GiveDoll:
-	text "COPYCAT: Yay!"
-	line "That's my CLEFAIRY"
-	cont "# DOLL!"
+	text "IMITADORA: Bé!"
+	line "És la meva NINA"
+	cont "# de CLEFAIRY!"
 
-	para "See the tear where"
-	line "the right leg is"
+	para "Veus l'esquinç on"
+	line "està cosida la"
 
-	para "sewn on? That's"
-	line "proof!"
+	para "cama dreta? Això"
+	line "ho demostra!"
 	done
 
 CopycatText_GivePass:
-	text "OK. Here's the"
-	line "MAGNET TRAIN PASS"
-	cont "like I promised!"
+	text "Bé. Aquí tens"
+	line "l'ABONAMENT del"
+	cont "TREN MAGNÈTIC!"
 	done
 
 CopycatText_ExplainPass:
-	text "COPYCAT: That's"
-	line "the PASS for the"
-	cont "MAGNET TRAIN."
+	text "IMITADORA: Aquest"
+	line "és l'ABONAMENT"
+	cont "del TREN MAGNÈTIC."
 
-	para "The rail company"
-	line "man gave me that"
+	para "L'home de la"
+	line "companyia me'l va"
 
-	para "when they tore"
-	line "down our old house"
-	cont "for the STATION."
+	para "donar quan van"
+	line "enderrocar casa"
+	cont "per a l'ESTACIÓ."
 	done
 
 CopycatText_Male_3:
-	text "<PLAYER>: Hi!"
-	line "Thanks a lot for"
-	cont "the rail PASS!"
+	text "<PLAYER>: Hola!"
+	line "Moltes gràcies"
+	cont "per l'ABONAMENT!"
 
-	para "<PLAYER>: Pardon?"
+	para "<PLAYER>: Perdona?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+	para "<PLAYER>: És tan"
+	line "divertit imitar"
+	cont "tot el que faig?"
 	done
 
 CopycatText_ItsAScream:
-	text "COPYCAT: You bet!"
-	line "It's a scream!"
+	text "IMITADORA: I tant!"
+	line "És molt divertit!"
 	done
 
 CopycatText_Female_1:
-	text "<PLAYER>: Hi. You"
-	line "must like #MON."
+	text "<PLAYER>: Hola."
+	line "T'agraden els"
+	cont "#."
 
-	para "<PLAYER>: No, not"
-	line "me. I asked you."
+	para "<PLAYER>: No, jo"
+	line "no. T'ho pregunto."
 
-	para "<PLAYER>: Pardon?"
-	line "You're weird!"
+	para "<PLAYER>: Perdona?"
+	line "Ets estranya!"
 	done
 
 CopycatText_Female_2:
-	text "<PLAYER>: Hi. Did"
-	line "you really lose"
-	cont "your # DOLL?"
+	text "<PLAYER>: Hola. De"
+	line "veritat has perdut"
+	cont "la teva NINA #?"
 
-	para "<PLAYER>: You'll"
-	line "really give me a"
+	para "<PLAYER>: De"
+	line "veritat em donaràs"
 
-	para "rail PASS if I"
-	line "find it for you?"
+	para "un ABONAMENT si"
+	line "la trobo?"
 
-	para "<PLAYER>: Sure,"
-	line "I'll look for it!"
+	para "<PLAYER>: D'acord,"
+	line "la buscaré!"
 
-	para "You think you lost"
-	line "it when you were"
-	cont "in VERMILION?"
+	para "Creus que la vas"
+	line "perdre quan eres"
+	cont "a VERMILION?"
 	done
 
 CopycatText_Female_3:
-	text "<PLAYER>: Thank you"
-	line "for the rail PASS!"
+	text "<PLAYER>: Gràcies"
+	line "per l'ABONAMENT!"
 
-	para "<PLAYER>: …Pardon?"
+	para "<PLAYER>: …Perdona?"
 
-	para "<PLAYER>: Is it"
-	line "really that fun to"
+	para "<PLAYER>: De"
+	line "veritat és tan"
 
-	para "copy what I say"
-	line "and do?"
+	para "divertit copiar el"
+	line "que dic i faig?"
 	done
 
 CopycatsDodrioText1:
@@ -344,18 +349,18 @@ CopycatsDodrioText1:
 	done
 
 CopycatsDodrioText2:
-	text "MIRROR, MIRROR ON"
-	line "THE WALL, WHO'S"
+	text "MIRALLET, MIRALLET"
+	line "DE LA PARET, QUI"
 
-	para "THE FAIREST ONE OF"
-	line "ALL?"
+	para "ÉS LA MÉS BONICA"
+	line "DEL MÓN?"
 	done
 
 CopycatsHouse2FDollText:
-	text "This is a rare"
-	line "#MON! Huh?"
+	text "Això és un #MON"
+	line "rar! Eh?"
 
-	para "It's only a doll…"
+	para "Només és una nina…"
 	done
 
 CopycatsHouse2F_MapEvents:

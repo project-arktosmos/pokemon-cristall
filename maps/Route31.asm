@@ -241,8 +241,8 @@ Route31MailRecipientScript:
 	end
 
 ReceivedSpearowMailText:
-	db   "DARK CAVE leads"
-	next "to another road@"
+	db   "DARK CAVE porta"
+	next "a una altra ruta@"
 
 Route31YoungsterScript:
 	jumptextfaceplayer Route31YoungsterText
@@ -268,147 +268,148 @@ Route31PokeBall:
 Route31CooltrainerMText:
 	text "DARK CAVE…"
 
-	para "If #MON could"
-	line "light it up, I'd"
-	cont "explore it."
+	para "Si els #MON"
+	line "la il·luminessin,"
+	cont "l'exploraria."
 	done
 
 BugCatcherWade1SeenText:
-	text "I caught a bunch"
-	line "of #MON. Let me"
-	cont "battle with you!"
+	text "He capturat molts"
+	line "#MON. Deixa'm"
+	cont "lluitar amb tu!"
 	done
 
 BugCatcherWade1BeatenText:
-	text "Awwwww…"
+	text "Ooooh…"
 	done
 
 BugCatcherWade1AfterText:
-	text "You can catch"
-	line "#MON even if"
+	text "Pots capturar"
+	line "#MON encara"
 
-	para "you have six with"
-	line "you."
+	para "que en tinguis"
+	line "sis amb tu."
 
-	para "If you catch one,"
-	line "it'll go to your"
-	cont "BOX automatically."
+	para "Si en captures"
+	line "un, anirà a la"
+	cont "CAIXA automàtic."
 	done
 
 Text_Route31SleepyMan:
-	text "… Hnuurg… Huh?"
+	text "… Hnuurg… Eh?"
 
-	para "I walked too far"
-	line "today looking for"
+	para "Avui he caminat"
+	line "massa buscant"
 	cont "#MON."
 
-	para "My feet hurt and"
-	line "I'm sleepy…"
+	para "Em fan mal els"
+	line "peus i tinc son…"
 
-	para "If I were a wild"
-	line "#MON, I'd be"
-	cont "easy to catch…"
+	para "Si fos un #MON"
+	line "salvatge, seria"
+	cont "fàcil capturar-me"
 
 	para "…Zzzz…"
 	done
 
 Text_Route31SleepyManGotMail:
-	text "…Zzzz… Huh?"
+	text "…Zzzz… Eh?"
 
-	para "What's that? You"
-	line "have MAIL for me?"
+	para "Què? Tens una"
+	line "CARTA per a mi?"
 	done
 
 Text_Route31HandOverMailMon:
-	text "<PLAYER> handed"
-	line "over the #MON"
-	cont "holding the MAIL."
+	text "<PLAYER> ha donat"
+	line "el #MON que"
+	cont "duia la CARTA."
 	done
 
 Text_Route31ReadingMail:
-	text "Let's see…"
+	text "A veure…"
 
-	para "…DARK CAVE leads"
-	line "to another road…"
+	para "…DARK CAVE porta"
+	line "a una altra ruta…"
 
-	para "That's good to"
-	line "know."
+	para "Està bé"
+	line "saber-ho."
 
-	para "Thanks for bring-"
-	line "ing this to me."
+	para "Gràcies per"
+	line "portar-m'ho."
 
-	para "My friend's a good"
-	line "guy, and you're"
-	cont "swell too!"
+	para "El meu amic és un"
+	line "bon noi, i tu"
+	cont "també!"
 
-	para "I'd like to do"
-	line "something good in"
-	cont "return too!"
+	para "Voldria fer alguna"
+	line "cosa bona a"
+	cont "canvi!"
 
-	para "I know! I want you"
-	line "to have this!"
+	para "Ja ho sé! Vull que"
+	line "tinguis això!"
 	done
 
 Text_Route31DescribeNightmare:
-	text "TM50 is NIGHTMARE."
+	text "MT50 és NIGHTMARE."
 
-	para "It's a wicked move"
-	line "that steadily cuts"
+	para "És un moviment"
+	line "malvat que redueix"
 
-	para "the HP of a sleep-"
-	line "ing enemy."
+	para "els PS d'un enemic"
+	line "adormit."
 
 	para "Ooooh…"
-	line "That's scary…"
+	line "Quina por…"
 
-	para "I don't want to"
-	line "have bad dreams."
+	para "No vull tenir"
+	line "malsons."
 	done
 
 Text_Route31WrongMail:
-	text "This MAIL isn't"
-	line "for me."
+	text "Aquesta CARTA no"
+	line "és per a mi."
 	done
 
 Text_Route31MissingMail:
-	text "Why is this #-"
-	line "MON so special?"
+	text "Per què és tan"
+	line "especial aquest"
+	cont "#MON?"
 
-	para "It doesn't have"
-	line "any MAIL."
+	para "No porta cap"
+	line "CARTA."
 	done
 
 Text_Route31DeclinedToHandOverMail:
-	text "What? You don't"
-	line "want anything?"
+	text "Què? No vols"
+	line "res?"
 	done
 
 Text_Route31CantTakeLastMon:
-	text "If I take that"
-	line "#MON from you,"
+	text "Si et prenc aquest"
+	line "#MON,"
 
-	para "what are you going"
-	line "to use in battle?"
+	para "què faràs servir"
+	line "en combat?"
 	done
 
 Route31YoungsterText:
-	text "I found a good"
-	line "#MON in DARK"
+	text "He trobat un bon"
+	line "#MON a DARK"
 	cont "CAVE."
 
-	para "I'm going to raise"
-	line "it to take on"
+	para "El criaré per"
+	line "enfrontar-me a"
 	cont "FALKNER."
 
-	para "He's the leader of"
-	line "VIOLET CITY's GYM."
+	para "És el líder del"
+	line "GIM de VIOLETA."
 	done
 
 Route31SignText:
-	text "ROUTE 31"
+	text "RUTA 31"
 
-	para "VIOLET CITY -"
-	line "CHERRYGROVE CITY"
+	para "VIOLETA -"
+	line "XAMPINYÓ"
 	done
 
 DarkCaveSignText:

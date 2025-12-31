@@ -797,226 +797,235 @@ Pokecenter2FMovementData_ReceptionistStepsRightLooksLeft_2:
 	step_end
 
 Text_BattleReceptionistMobile:
-	text "Would you like to"
-	line "battle over a GAME"
+	text "Vols combatre amb"
+	line "un CABLE GAME LINK"
 
-	para "LINK cable or by"
-	line "mobile phone?"
+	para "o per telèfon"
+	line "mòbil?"
 	done
 
 Text_TradeReceptionistMobile:
-	text "Would you like to"
-	line "trade over a GAME"
+	text "Vols intercanviar"
+	line "amb un CABLE GAME"
 
-	para "LINK cable or by"
-	line "mobile phone?"
+	para "LINK o per telèfon"
+	line "mòbil?"
 	done
 
 Text_ThisWayToMobileRoom: ; unreferenced
-	text "This way to the"
-	line "MOBILE ROOM."
+	text "Per aquí a la SALA"
+	line "MÒBIL."
 	done
 
 Text_BattleReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB COLOSSEUM."
+	text "Benvingut al"
+	line "COLISEU DEL CLUB"
+	cont "CABLE."
 
-	para "You may battle a"
-	line "friend here."
+	para "Pots combatre amb"
+	line "un amic aquí."
 
-	para "Would you like to"
-	line "battle?"
+	para "Vols combatre?"
 	done
 
 Text_TradeReceptionistIntro:
-	text "Welcome to CABLE"
-	line "TRADE CENTER."
+	text "Benvingut al"
+	line "CENTRE D'INTERCAN-"
+	cont "VI DEL CLUB CABLE."
 
-	para "You may trade your"
-	line "#MON here with"
-	cont "a friend."
+	para "Pots intercanviar"
+	line "els teus # amb"
+	cont "un amic."
 
-	para "Would you like to"
-	line "trade?"
+	para "Vols intercanviar?"
 	done
 
 Text_TimeCapsuleReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB TIME CAPSULE."
+	text "Benvingut a la"
+	line "CÀPSULA DEL TEMPS"
+	cont "DEL CLUB CABLE."
 
-	para "You can travel to"
-	line "the past and trade"
-	cont "your #MON."
+	para "Pots viatjar al"
+	line "passat i inter-"
+	cont "canviar els #."
 
-	para "Would you like to"
-	line "trade across time?"
+	para "Vols intercanviar"
+	line "a través del"
+	cont "temps?"
 	done
 
 YourFriendIsNotReadyText:
-	text "Your friend is not"
-	line "ready."
+	text "El teu amic no"
+	line "està preparat."
 	prompt
 
 Text_MustSaveGame:
-	text "Before opening the"
-	line "link, you must"
-	cont "save your game."
+	text "Abans d'obrir"
+	line "l'enllaç, has de"
+	cont "desar la partida."
 	done
 
 Text_PleaseWait:
-	text "Please wait."
+	text "Espera, si us"
+	line "plau."
 	done
 
 Text_LinkTimedOut:
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "L'enllaç s'ha"
+	line "tancat per"
+	cont "inactivitat."
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again."
+	para "Contacta amb el"
+	line "teu amic i torna"
+	cont "més tard."
 	prompt
 
 Text_PleaseComeAgain:
-	text "Please come again."
+	text "Torna quan"
+	line "vulguis."
 	prompt
 
 Text_PleaseComeInDuplicate: ; unreferenced
-	text "Please come in."
+	text "Entra, si us plau."
 	prompt
 
 Text_TemporaryStagingInLinkRoom: ; unreferenced
-	text "We'll put you in"
-	line "the link room for"
-	cont "the time being."
+	text "Et posarem a la"
+	line "sala d'enllaç"
+	cont "provisionalment."
 	done
 
 Text_CantLinkToThePast:
-	text "You can't link to"
-	line "the past here."
+	text "No pots enllaçar"
+	line "amb el passat"
+	cont "aquí."
 	prompt
 
 Text_IncompatibleRooms:
-	text "Incompatible rooms"
-	line "were chosen."
+	text "S'han escollit"
+	line "sales incompati-"
+	cont "bles."
 	prompt
 
 Text_PleaseComeIn:
-	text "Please come in."
+	text "Entra, si us plau."
 	done
 
 Text_PleaseEnter: ; unreferenced
-	text "Please enter."
+	text "Entra, si us plau."
 	prompt
 
 Text_RejectNewMon:
-	text "Sorry--@"
+	text "Disculpa, @"
 	text_ram wStringBuffer1
 	text_start
-	line "can't be taken."
+	line "no pot anar-hi."
 	prompt
 
 Text_RejectMonWithNewMove:
-	text "You can't take the"
+	text "No pots portar el"
 	line "@"
 	text_ram wStringBuffer1
-	text " with a"
+	text " amb un"
 	cont "@"
 	text_ram wStringBuffer2
 	text "."
 	prompt
 
 Text_RejectMonWithMail:
-	text "You can't take the"
+	text "No pots portar el"
 	line "@"
 	text_ram wStringBuffer1
-	text " that"
-	cont "has MAIL with you."
+	text " que"
+	cont "porta CARTA."
 	prompt
 
 Text_TimeCapsuleClosed:
-	text "I'm sorry--the"
-	line "TIME CAPSULE is"
-	cont "being adjusted."
+	text "Disculpa, la"
+	line "CÀPSULA DEL TEMPS"
+	cont "s'està ajustant."
 	done
 
 Text_TradeRoomClosed:
-	text "I'm sorry--the"
-	line "TRADE MACHINE is"
-	cont "being adjusted."
+	text "Disculpa, la"
+	line "MÀQUINA D'INTER-"
+	cont "CANVI s'ajusta."
 	done
 
 Text_BattleRoomClosed:
-	text "I'm sorry--the"
-	line "BATTLE MACHINE is"
-	cont "being adjusted."
+	text "Disculpa, la"
+	line "MÀQUINA DE COMBAT"
+	cont "s'està ajustant."
 	done
 
 Text_MysteryGiftDeliveryGuy_Intro:
-	text "Hello! You're"
-	line "<PLAYER>, right?"
+	text "Hola! Tu ets"
+	line "<PLAYER>, oi?"
 
-	para "I have some-"
-	line "thing for you."
+	para "Tinc una cosa"
+	line "per a tu."
 	done
 
 Text_MysteryGiftDeliveryGuy_HereYouGo:
-	text "Here you go!"
+	text "Aquí tens!"
 	done
 
 Text_MysteryGiftDeliveryGuy_Outro:
-	text "We hope to serve"
-	line "you again."
+	text "Esperem poder"
+	line "servir-te de nou."
 	done
 
 Text_MysteryGiftDeliveryGuy_NoRoom:
-	text "Oh, you have no"
-	line "space for this."
+	text "Oh, no tens espai"
+	line "per a això."
 
-	para "Stop in at any"
-	line "#MON CENTER"
+	para "Passa per"
+	line "qualsevol"
+	cont "CENTRE # del"
 
-	para "across the country"
-	line "to pick it up."
+	para "país per recollir-"
+	line "ho."
 	done
 
 Text_MysteryGiftDeliveryGuy_SaidNo:
-	text "No? That's very"
-	line "strange…"
+	text "No? Això és molt"
+	line "estrany…"
 	done
 
 Text_OhPleaseWait:
-	text "Oh, please wait."
+	text "Oh, espera."
 	done
 
 Text_ChangeTheLook:
-	text "We need to change"
-	line "the look here…"
+	text "Hem de canviar"
+	line "l'aspecte aquí…"
 	done
 
 Text_LikeTheLook:
-	text "How does this"
-	line "style look to you?"
+	text "Què et sembla"
+	line "aquest estil?"
 	done
 
 Text_BrokeStadiumRules:
-	text "Excuse me!"
+	text "Disculpa!"
 
-	para "For STADIUM rules,"
-	line "please bring six"
+	para "Per les normes"
+	line "d'ESTADI, porta"
 
-	para "different #MON,"
-	line "excluding EGGS."
+	para "sis #"
+	line "diferents,"
+	cont "sense OUS."
 
-	para "The six #MON"
-	line "must be different."
+	para "Els sis # han"
+	line "de ser diferents."
 
-	para "Also, they must"
-	line "not be holding"
-	cont "identical items."
+	para "A més, no poden"
+	line "portar objectes"
+	cont "idèntics."
 
-	para "Please come back"
-	line "when you're ready."
+	para "Torna quan"
+	line "estiguis"
+	cont "preparat."
 	done
 
 Pokecenter2F_MapEvents:

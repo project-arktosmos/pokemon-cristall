@@ -115,124 +115,129 @@ Route37HiddenEther:
 	hiddenitem ETHER, EVENT_ROUTE_37_HIDDEN_ETHER
 
 TwinsAnnandanne1SeenText:
-	text "ANN: ANNE and I"
-	line "are in this to-"
-	cont "gether!"
+	text "ANN: L'ANNE i jo"
+	line "estem juntes en"
+	cont "això!"
 	done
 
 TwinsAnnandanne1BeatenText:
-	text "ANN & ANNE: Nnn… A"
-	line "little too strong."
+	text "ANN i ANNE: Nnn…"
+	line "Una mica massa"
+	cont "fort."
 	done
 
 TwinsAnnandanne1AfterBattleText:
-	text "ANN: I can tell"
-	line "what my sister and"
+	text "ANN: Puc saber"
+	line "què pensen la"
 
-	para "my #MON are"
-	line "thinking."
+	para "meva germana i"
+	line "els meus #MON."
 	done
 
 TwinsAnnandanne2SeenText:
-	text "ANNE: ANN and I"
-	line "are in this to-"
-	cont "gether!"
+	text "ANNE: L'ANN i jo"
+	line "estem juntes en"
+	cont "això!"
 	done
 
 TwinsAnnandanne2BeatenText:
-	text "ANN & ANNE: Nnn… A"
-	line "little too strong."
+	text "ANN i ANNE: Nnn…"
+	line "Una mica massa"
+	cont "fort."
 	done
 
 TwinsAnnandanne2AfterBattleText:
-	text "ANNE: We share the"
-	line "same feelings as"
-	cont "our #MON."
+	text "ANNE: Compartim"
+	line "els sentiments"
+	cont "dels nostres"
+	cont "#MON."
 	done
 
 PsychicGregSeenText:
-	text "#MON can't do a"
-	line "thing if they are"
-	cont "asleep."
+	text "Els #MON no"
+	line "poden fer res si"
+	cont "estan adormits."
 
-	para "I'll show you how"
-	line "scary that is!"
+	para "Et mostraré com"
+	line "n'és d'espantós!"
 	done
 
 PsychicGregBeatenText:
-	text "I lost. That's"
-	line "pretty sad…"
+	text "He perdut. Això"
+	line "és bastant trist…"
 	done
 
 PsychicGregAfterBattleText:
-	text "Putting #MON to"
-	line "sleep or paralyz-"
-	cont "ing them are good"
-	cont "battle techniques."
+	text "Adormir o"
+	line "paralitzar #MON"
+	cont "són bones tècni-"
+	cont "ques de combat."
 	done
 
 MeetSunnyText:
-	text "SUNNY: Hi!"
+	text "SUNNY: Hola!"
 
-	para "I'm SUNNY of Sun-"
-	line "day, meaning it's"
-	cont "Sunday today!"
+	para "Soc la SUNNY del"
+	line "diumenge, o sigui"
+	cont "que avui és dg.!"
 	done
 
 SunnyGivesGiftText1:
-	text "I was told to give"
-	line "you this if I saw"
-	cont "you!"
+	text "Em van dir que et"
+	line "donés això si et"
+	cont "veia!"
 	done
 
 SunnyGivesGiftText2:
-	text "I was told to give"
-	line "you this if I saw"
-	cont "you!"
+	text "Em van dir que et"
+	line "donés això si et"
+	cont "veia!"
 	done
 
 SunnyGaveGiftText:
-	text "SUNNY: That thing…"
+	text "SUNNY: Això…"
 
-	para "Um…"
+	para "Mmm…"
 
-	para "… What was it now…"
+	para "… Què era…"
 
 	para "…"
 
-	para "Oh! I remember"
-	line "now!"
+	para "Oh! Ja me'n"
+	line "recordo!"
 
-	para "A #MON that"
-	line "knows electric"
+	para "Un #MON que"
+	line "sàpiga moviments"
 
-	para "moves should hold"
-	line "it."
+	para "elèctrics hauria"
+	line "de portar-ho."
 
-	para "My sis MONICA said"
-	line "it powers up"
-	cont "electric moves!"
+	para "La meva germana"
+	line "MONICA va dir que"
+	cont "millora els atacs"
+	cont "elèctrics!"
 	done
 
 SunnySundayText:
-	text "SUNNY: My sisters"
-	line "and brothers are"
+	text "SUNNY: Els meus"
+	line "germans són"
 	cont "MONICA, TUSCANY,"
 	cont "WESLEY, ARTHUR,"
-	cont "FRIEDA and SANTOS."
+	cont "FRIEDA i SANTOS."
 
-	para "They're all older"
-	line "than me!"
+	para "Tots són més"
+	line "grans que jo!"
 	done
 
 SunnyNotSundayText:
-	text "SUNNY: Isn't today"
-	line "Sunday?"
-	cont "Um… I forgot!"
+	text "SUNNY: Avui no és"
+	line "diumenge?"
+	cont "Mmm… Ho he"
+	cont "oblidat!"
 	done
 
 Route37SignText:
-	text "ROUTE 37"
+	text "RUTA 37"
 	done
 
 Route37_MapEvents:

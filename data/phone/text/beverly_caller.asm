@@ -1,82 +1,85 @@
 BeverlyMadeMonEvenCuterText:
-	text "I fancied up my"
+	text "He arreglat el meu"
 	line "@"
 	text_ram wStringBuffer4
-	text " and"
+	text " i l'he"
 
-	para "made it even cuter"
-	line "than before!"
+	para "fet encara més"
+	line "bufó!"
 	done
 
 BeverlyDefeatedMonText:
-	text "I happened to come"
-	line "across a wild"
-	cont "SNUBBULL recently."
+	text "L'altre dia em"
+	line "vaig"
+	cont "trobar un SNUBBULL"
+	cont "salvatge."
 
-	para "My SNUBBULL, I"
-	line "assure you, was"
+	para "El meu SNUBBULL,"
+	line "t'ho asseguro,"
 
-	para "far cuter than the"
-	line "wild one."
+	para "era molt més bufó"
+	line "que el salvatge."
 	done
 
 BeverlyLostAMonText:
-	text "I happened to see"
-	line "a wild MARILL the"
+	text "L'altre dia vaig"
+	line "veure un MARILL"
 
-	para "other day."
-	line "Or so I thought."
+	para "salvatge."
+	line "O això pensava."
 
-	para "A closer look"
-	line "showed it was"
+	para "Mirant-lo bé,"
+	line "era un"
 
 	para "@"
 	text_ram wStringBuffer4
-	text ". I was"
-	line "quite miffed."
+	text ". Em vaig"
+	line "empipar una mica."
 	done
 
 BeverlyHangUpText:
-	text "You can expect a"
-	line "call from me."
+	text "Espera una trucada"
+	line "meva."
 	done
 
 BeverlyFoundItemText:
-	text "My husband got"
-	line "some NUGGETS."
+	text "El meu marit ha"
+	line "aconseguit"
+	cont "PEPITES."
 
-	para "If you'd like, you"
-	line "could have one as"
+	para "Si vols, te'n puc"
+	line "donar una per"
 
-	para "thanks for helping"
-	line "me out."
+	para "agrair-te la teva"
+	line "ajuda."
 
-	para "I'll be at"
+	para "Seré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Please come see me"
-	line "when you can."
+	para "Vine a veure'm"
+	line "quan puguis."
 	done
 
 BeverlyLetsChatAboutMonAgainText:
-	text "Are your #MON"
-	line "in prime form?"
+	text "Els teus #MON"
+	line "estan en forma?"
 
-	para "Let's chat about"
-	line "#MON again."
+	para "Parlem de #MON"
+	line "un altre cop."
 	done
 
 BeverlyComePickUpText:
-	text "Pardon?"
-	line "Oh, the NUGGET?"
+	text "Com?"
+	line "La PEPITA?"
 
-	para "There's no need to"
-	line "hurry. Come see me"
+	para "No cal que"
+	line "t'afanyis. Vine a"
 
-	para "in @"
+	para "veure'm a"
+	line "@"
 	text_ram wStringBuffer5
 	text_start
-	line "when you can."
+	cont "quan puguis."
 	done

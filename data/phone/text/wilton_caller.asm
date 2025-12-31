@@ -1,103 +1,105 @@
 WiltonMonHasGrownText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "grown impressive!"
+	text " ha"
+	line "crescut molt!"
 
-	para "My fishing skills"
-	line "have improved too!"
+	para "Les meves"
+	line "tècniques"
+	cont "de pesca han"
+	cont "millorat també!"
 	done
 
 WiltonDefeatedMonText:
-	text "We beat a wild"
+	text "Hem vençut un"
 	line "@"
 	text_ram wStringBuffer4
-	text "…"
+	text " salvatge…"
 
-	para "You know, I have"
-	line "more fun fishing"
+	para "Saps, m'ho passo"
+	line "millor pescant"
 
-	para "than beating wild"
-	line "#MON."
+	para "que vencent"
+	line "#MON"
+	cont "salvatges."
 	done
 
 WiltonLostAMonText:
-	text "But a while back,"
-	line "we came this close"
+	text "Però fa poc, vam"
+	line "estar a punt"
 
-	para "to landing a wild"
+	para "d'atrapar un"
 	line "@"
 	text_ram wStringBuffer4
-	text "."
+	text " salvatge."
 
-	para "I tell you, it was"
-	line "huge. Believe me."
+	para "T'ho dic, era"
+	line "enorme. Creu-me."
 	done
 
 WiltonBattleRematchText:
-	text "I'm fishing on"
+	text "Estic pescant a"
 	line "@"
 	text_ram wStringBuffer5
 	text ","
 
-	para "but nothing's"
-	line "biting today."
+	para "però avui no"
+	line "piquen."
 
-	para "Help me while my"
-	line "time away, come"
-	cont "over for a battle."
+	para "Ajuda'm a passar"
+	line "l'estona, vine a"
+	cont "fer un combat."
 	done
 
 WiltonHangUpText:
-	text "All right, later."
+	text "D'acord, adéu."
 	done
 
 WiltonFoundItemText:
-	text "I snagged an item"
-	line "while fishing."
+	text "He pescat un"
+	line "objecte."
 
-	para "Come pick it up on"
-	line "@"
+	para "Vine a buscar-lo"
+	line "a @"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 WiltonHaventFoundAnythingText:
-	text "Nah, I haven't"
-	line "found anything"
+	text "No, no he trobat"
+	line "res que valgui"
 
-	para "that's worth your"
-	line "time."
+	para "la pena."
 
-	para "You have to have"
-	line "patience."
+	para "Has de tenir"
+	line "paciència."
 	done
 
 WiltonNotBitingText:
-	text "Sigh…"
-	line "They're not biting"
+	text "Ai…"
+	line "No piquen com"
 
-	para "like before on"
+	para "abans a"
 	line "@"
 	text_ram wStringBuffer5
 	text "…"
 
-	para "You have to come"
-	line "for a battle!"
+	para "Has de venir a"
+	line "fer un combat!"
 	done
 
 WiltonWantThisText:
-	text "Don't you want"
-	line "this item?"
+	text "No vols aquest"
+	line "objecte?"
 
-	para "Hah? You don't"
-	line "know where?"
+	para "Eh? No saps on"
+	line "és?"
 
 	para "@"
 	text_ram wStringBuffer5
 	text "…"
-	line "Just head from"
+	line "Ves de CAOBA"
 
-	para "MAHOGANY toward"
+	para "cap a"
 	line "BLACKTHORN!"
 	done

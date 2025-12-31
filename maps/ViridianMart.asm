@@ -21,17 +21,16 @@ ViridianMartCooltrainerMScript:
 	jumptextfaceplayer ViridianMartCooltrainerMText
 
 ViridianMartLassText:
-	text "The GYM LEADER"
-	line "here is totally"
-	cont "cool."
+	text "El LÍDER del GIM"
+	line "d'aquí és genial."
 	done
 
 ViridianMartCooltrainerMText:
-	text "Have you been to"
+	text "Has estat a"
 	line "CINNABAR?"
 
-	para "It's an island way"
-	line "south of here."
+	para "És una illa al"
+	line "sud d'aquí."
 	done
 
 ViridianMart_MapEvents:

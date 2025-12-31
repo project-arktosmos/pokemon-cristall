@@ -1,56 +1,56 @@
 BethAskNumber1Text:
-	text "It's been a while"
-	line "since I lost…"
+	text "Feia temps que no"
+	line "perdia…"
 
-	para "You're very good"
-	line "at battling."
+	para "Ets molt bo"
+	line "combatent."
 
-	para "We should battle"
-	line "again sometime."
+	para "Hauríem de"
+	line "combatre de nou."
 
-	para "By challenging a"
-	line "tough trainer like"
+	para "Enfrontant-me a"
+	line "algú de bo com tu,"
 
-	para "you, I think I can"
-	line "get better too."
+	para "crec que puc"
+	line "millorar."
 
-	para "So how about it?"
+	para "Què me'n dius?"
 
-	para "Would you give me"
-	line "your phone number?"
+	para "Em donaries el"
+	line "teu telèfon?"
 	done
 
 BethAskNumber2Text:
-	text "By challenging a"
-	line "tough trainer like"
+	text "Enfrontant-me a"
+	line "algú de bo com tu,"
 
-	para "you, I think I can"
-	line "get better too."
+	para "crec que puc"
+	line "millorar."
 
-	para "So how about it?"
+	para "Què me'n dius?"
 
-	para "Would you give me"
-	line "your phone number?"
+	para "Em donaries el"
+	line "teu telèfon?"
 	done
 
 BethNumberAcceptedText:
-	text "Let's battle again"
-	line "sometime!"
+	text "Combatem un altre"
+	line "dia!"
 	done
 
 BethNumberDeclinedText:
-	text "That's too bad…"
+	text "Quina llàstima…"
 
-	para "Let me know if you"
-	line "change your mind."
+	para "Fes-m'ho saber si"
+	line "canvies d'opinió."
 	done
 
 BethPhoneFullText:
-	text "Oh no. Your phone"
-	line "is out of memory."
+	text "Oh, no. El telèfon"
+	line "no té memòria."
 	done
 
 BethRematchText:
-	text "You sure kept me"
-	line "waiting! Let's go!"
+	text "M'has fet esperar!"
+	line "Som-hi!"
 	done

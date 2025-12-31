@@ -1,68 +1,68 @@
 BeverlyAnswerPhoneText:
-	text "Hello, this is"
+	text "Hola, soc la"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Oh! Good morning,"
+	para "Oh! Bon dia,"
 	line "<PLAYER>."
 	done
 
 BeverlyAnswerPhoneDayText:
-	text "Hello, this is"
+	text "Hola, soc la"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Oh! Good day,"
+	para "Oh! Bon dia,"
 	line "<PLAYER>."
 	done
 
 BeverlyAnswerPhoneNiteText:
-	text "Hello, this is"
+	text "Hola, soc la"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Oh! Good evening,"
+	para "Oh! Bona nit,"
 	line "<PLAYER>."
 	done
 
 BeverlyGreetText:
-	text "Hello, <PLAYER>."
-	line "Good morning."
+	text "Hola, <PLAYER>."
+	line "Bon dia."
 
-	para "This is @"
+	para "Soc la @"
 	text_ram wStringBuffer3
 	text "."
-	line "Were you asleep?"
+	line "Estaves dormint?"
 	done
 
 BeverlyGreetDayText:
-	text "Hi, <PLAYER>."
-	line "This is @"
+	text "Ei, <PLAYER>."
+	line "Soc la @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "How are you doing?"
+	para "Com estàs?"
 	done
 
 BeverlyGreetNiteText:
-	text "Hi, <PLAYER>."
-	line "This is @"
+	text "Ei, <PLAYER>."
+	line "Soc la @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Were you awake?"
+	para "Estaves despert?"
 	done
 
 BeverlyGenericText:
-	text "Keeping your"
-	line "#MON happy?"
+	text "Tens els #MON"
+	line "contents?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "healthy. It eats a"
-	cont "lot every day."
+	text " està"
+	line "sa. Menja molt"
+	cont "cada dia."
 	done

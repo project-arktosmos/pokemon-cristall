@@ -1,98 +1,93 @@
 AlanGettingStrongerText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "getting stronger,"
+	text_start
+	line "s'està fent fort,"
 
-	para "exactly as I"
-	line "calculated!"
+	para "tal com havia"
+	line "calculat!"
 	done
 
 AlanDefeatedMonText:
-	text "By the way, we"
-	line "knocked out a wild"
-
-	para "@"
+	text "Per cert, vam"
+	line "derrotar un @"
 	text_ram wStringBuffer4
-	text " just"
-	line "the other day."
 
-	para "Studying up in"
-	line "advance worked!"
+	para "salvatge l'altre"
+	line "dia."
+
+	para "Estudiar abans"
+	line "va funcionar!"
 	done
 
 AlanLostAMonText:
-	text "By the way, a wild"
-	line "@"
+	text "Per cert, un @"
 	text_ram wStringBuffer4
-	text " escaped"
-	cont "on me yesterday."
+	line "salvatge se'm va"
+	cont "escapar ahir."
 
-	para "A computational"
-	line "error on my part…"
+	para "Un error de"
+	line "càlcul meu…"
 	done
 
 AlanBattleRematchText:
-	text "I've studied quite"
-	line "a bit since then,"
+	text "He estudiat força"
+	line "des d'aleshores,"
 
-	para "and I've gotten a"
-	line "lot better!"
+	para "i he millorat"
+	line "molt!"
 
-	para "I'm hanging out on"
-	line "@"
+	para "Soc a @"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Can you come down"
-	line "for a battle?"
+	para "Pots venir a"
+	line "combatre?"
 	done
 
 AlanHangUpText:
-	text "See you later!"
+	text "Fins després!"
 	done
 
 AlanFoundItemText:
-	text "Hehehe, I picked"
-	line "up something nice!"
+	text "He recollit una"
+	line "cosa bona!"
 
-	para "You can have it!"
-	line "Why don't you come"
+	para "És per a tu!"
+	line "Per què no véns"
 
-	para "to @"
+	para "a @"
 	text_ram wStringBuffer5
 	text_start
-	line "and pick it up?"
+	line "a buscar-ho?"
 	done
 
 AlanHaventPickedUpAnythingText:
-	text "I haven't picked"
-	line "up anything yet."
+	text "Encara no he"
+	line "trobat res."
 
-	para "I'll call you if I"
-	line "find something."
+	para "Et trucaré si"
+	line "trobo alguna cosa."
 	done
 
 AlanReminderText:
-	text "If we don't battle"
-	line "soon, I'll forget"
-	cont "my strategy!"
+	text "Si no combatem"
+	line "aviat, oblidaré"
+	cont "l'estratègia!"
 
-	para "I'm waiting on"
-	line "@"
+	para "T'espero a @"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 AlanComePickUpGiftText:
-	text "I have to do my"
-	line "homework, so can"
+	text "He de fer els"
+	line "deures, pots venir"
 
-	para "you come get your"
-	line "gift right away?"
+	para "a buscar el regal"
+	line "ara?"
 
-	para "I'm waiting on"
-	line "@"
+	para "T'espero a @"
 	text_ram wStringBuffer5
 	text "!"
 	done

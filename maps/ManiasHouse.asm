@@ -100,102 +100,104 @@ ManiasHouseUnusedBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 ManiaText_AskLookAfterShuckle:
-	text "I, I'm in shock!"
+	text "Estic en xoc!"
 
-	para "A guy about your"
-	line "age with piercing"
+	para "Un noi de la teva"
+	line "edat, amb ulls"
 
-	para "eyes and long hair"
-	line "came in."
+	para "penetrants i"
+	line "cabells llargs,"
+	cont "ha entrat."
 
-	para "He scared me into"
-	line "giving him my"
-	cont "prized #MON!"
+	para "M'ha obligat a"
+	line "donar-li el meu"
+	cont "# preferit!"
 
-	para "I still have one"
-	line "left, but what if"
-	cont "he comes back?"
+	para "Encara en tinc"
+	line "un, però què faré"
+	cont "si torna?"
 
-	para "You look strong."
-	line "Could you look"
+	para "Tu sembla que ets"
+	line "fort. Podries"
 
-	para "after my #MON"
-	line "for a while?"
+	para "cuidar el meu #"
+	line "una estona?"
 	done
 
 ManiaText_TakeCareOfShuckle:
-	text "Oh, thank you!"
+	text "Oh, gràcies!"
 
-	para "Take good care of"
-	line "it, please!"
+	para "Cuida'l bé,"
+	line "si us plau!"
 	done
 
 ManiaText_GotShuckle:
-	text "<PLAYER> received a"
-	line "#MON."
+	text "<PLAYER> ha rebut"
+	line "un #."
 	done
 
 ManiaText_PartyFull:
-	text "Your #MON party"
-	line "is full."
+	text "El teu equip de"
+	line "# és ple."
 	done
 
 ManiaText_IfHeComesBack:
-	text "Oh, no… What'll"
-	line "I do if he comes"
-	cont "back?"
+	text "Oh, no… Què faré"
+	line "si torna?"
 	done
 
 ManiaText_CanIHaveMyMonBack:
-	text "Hi! How's my #-"
-	line "MON?"
+	text "Hola! Com està el"
+	line "meu #?"
 
-	para "I think I'm safe"
-	line "now, so may I have"
-	cont "it back?"
+	para "Crec que ja estic"
+	line "fora de perill."
+
+	para "Me'l pots"
+	line "tornar?"
 	done
 
 ManiaText_ThankYou:
-	text "Thank you!"
+	text "Gràcies!"
 	done
 
 ManiaText_ShuckleNotThere:
-	text "Hey, you don't"
-	line "have my #MON"
-	cont "with you."
+	text "Ei, no portes el"
+	line "meu # amb tu."
 	done
 
 ManiaText_ShuckleLikesYou:
-	text "My #MON has"
-	line "come to like you."
+	text "El meu # ha"
+	line "agafat afecte"
+	cont "per tu."
 
-	para "All right, you"
-	line "should keep it."
+	para "D'acord, queda-"
+	line "te'l."
 
-	para "But promise to"
-	line "be good to it!"
+	para "Però promet que"
+	line "el tractaràs bé!"
 	done
 
 ManiaText_SameAsBeingRobbed:
-	text "Oh, no, no… That's"
-	line "the same as being"
-	cont "robbed."
+	text "Oh, no, no… Això"
+	line "és com si em"
+	cont "robessis."
 	done
 
 ManiaText_HappinessSpeech:
-	text "For #MON, hap-"
-	line "piness is being"
+	text "Pels #, la"
+	line "felicitat és"
 
-	para "with a person who"
-	line "treats them well."
+	para "estar amb algú"
+	line "que els tracti bé."
 	done
 
 ManiaText_ShuckleIsYourLastMon:
-	text "If I take my #-"
-	line "MON back, what are"
+	text "Si et prenc el"
+	line "meu #, què"
 
-	para "you going to use"
-	line "in battle?"
+	para "faràs servir en"
+	line "combat?"
 	done
 
 ManiasHouse_MapEvents:

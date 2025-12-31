@@ -1,73 +1,74 @@
 VanceAskNumber1Text:
-	text "You know, you are"
-	line "really strong."
+	text "Saps, ets molt"
+	line "fort."
 
-	para "But I don't want"
-	line "to just slink off…"
+	para "Però no vull"
+	line "marxar així…"
 
-	para "I know! Could I"
-	line "get your number?"
+	para "Ja ho sé! Em pots"
+	line "donar el número?"
 
-	para "Let's meet up for"
-	line "more battles!"
+	para "Quedem per fer"
+	line "més combats!"
 	done
 
 VanceAskNumber2Text:
-	text "I want to battle"
-	line "tough trainers as"
-	cont "often as I can!"
+	text "Vull combatre"
+	line "entrenadors forts"
+	cont "tant com pugui!"
 
-	para "Could I get your"
-	line "number?"
+	para "Em pots donar el"
+	line "teu número?"
 
-	para "Let's meet up for"
-	line "more battles!"
+	para "Quedem per fer"
+	line "més combats!"
 	done
 
 VanceNumberAcceptedText:
-	text "Don't forget to"
-	line "come see me when I"
-	cont "challenge you!"
+	text "No t'oblidis de"
+	line "venir quan et"
+	cont "desafiï!"
 	done
 
 VanceNumberDeclinedText:
-	text "A bird-user friend"
-	line "isn't a bad thing"
-	cont "to have, I think…"
+	text "Tenir un amic que"
+	line "usa #MON ocells"
+	cont "no és dolent…"
 
-	para "Won't you"
-	line "reconsider?"
+	para "No t'ho vols"
+	line "repensar?"
 	done
 
 VancePhoneFullText:
-	text "Your phone's out"
-	line "of memory. Delete"
-	cont "a number for me!"
+	text "El telèfon està"
+	line "ple. Esborra'n"
+	cont "un número!"
 	done
 
 VanceRematchText:
-	text "Am I happy to see"
-	line "you! I won't lose!"
+	text "Quina alegria"
+	line "veure't! Guanyaré!"
 	done
 
 VancePackFullText:
-	text "Oh, too bad. You"
-	line "don't have room."
+	text "Oh, quina llàstima"
+	line "No tens espai."
 
-	para "I'll give it to"
-	line "you next time!"
+	para "T'ho donaré el"
+	line "proper cop!"
 	done
 
 VanceRematchGiftText:
-	text "You are really,"
-	line "really strong!"
+	text "Ets realment,"
+	line "realment fort!"
 
-	para "Thanks for taking"
-	line "me on so often--I"
+	para "Gràcies per"
+	line "combatre amb mi"
 
-	para "learned a whole"
-	line "lot from you."
+	para "tantes vegades."
+	line "He après molt."
 
-	para "I know! This will"
-	line "do as my thanks!"
+	para "Ja ho sé! Això"
+	line "serà el meu agraï-"
+	cont "ment!"
 	done

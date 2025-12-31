@@ -20,10 +20,10 @@ CyclingRoadSign:
 	jumptext CyclingRoadSignText
 
 CyclingRoadSignText:
-	text "CYCLING ROAD"
+	text "VIA CICLISTA"
 
-	para "DOWNHILL COASTING"
-	line "ALL THE WAY!"
+	para "BAIXADA LLIURE"
+	line "FINS AL FINAL!"
 	done
 
 Route16_MapEvents:

@@ -1,67 +1,68 @@
 KenjiAskNumber1Text:
-	text "Our battle was"
-	line "remarkable!"
+	text "El nostre combat"
+	line "ha estat genial!"
 
-	para "I wish for some-"
-	line "thing to remember"
-	cont "you by!"
+	para "M'agradaria tenir"
+	line "alguna cosa per"
+	cont "recordar-te!"
 
-	para "Perhaps your phone"
-	line "number will do?"
+	para "Potser el teu"
+	line "telèfon servirà?"
 
-	para "My training makes"
-	line "it impossible to"
-	cont "chat much, but…"
+	para "L'entrenament no"
+	line "em deixa xerrar"
+	cont "gaire, però…"
 	done
 
 KenjiAskNumber2Text:
-	text "My training makes"
-	line "chatting tough,"
+	text "L'entrenament no"
+	line "em deixa xerrar,"
 
-	para "but will you take"
-	line "down my number?"
+	para "però vols agafar"
+	line "el meu número?"
 	done
 
 KenjiNumberAcceptedText:
-	text "I must train"
-	line "harder to become"
-	cont "the mightiest!"
+	text "He d'entrenar més"
+	line "dur per ser el"
+	cont "més fort!"
 	done
 
 KenjiNumberDeclinedText:
-	text "If you decide you"
-	line "want my number,"
-	cont "come see me."
+	text "Si decideixes que"
+	line "vols el número,"
+	cont "vine a veure'm."
 	done
 
 KenjiPhoneFullText:
-	text "Your phone appears"
-	line "to be full."
+	text "Sembla que el teu"
+	line "telèfon és ple."
 
-	para "Come back later!"
+	para "Torna més tard!"
 	done
 
 KenjiGiftText:
-	text "I wish to thank"
-	line "you, <PLAYER>!"
+	text "Vull donar-te"
+	line "les gràcies,"
+	cont "<PLAYER>!"
 
-	para "I've been training"
-	line "all alone…"
+	para "He estat entrenant"
+	line "tot sol…"
 
-	para "I was happy that"
-	line "you cared to call…"
+	para "M'ha fet content"
+	line "que em truquessis…"
 
-	para "I want you to have"
-	line "this!"
+	para "Vull que tinguis"
+	line "això!"
 	done
 
 KenjiPackFullText:
-	text "Your strength will"
-	line "not let you carry"
+	text "No tens prou"
+	line "força per portar"
 
-	para "another thing!"
-	line "I will hold this"
+	para "res més! Guardaré"
+	line "això fins que"
 
-	para "till you lighten"
-	line "your PACK!"
+	para "alleugeris la"
+	line "MOTXILLA!"
 	done

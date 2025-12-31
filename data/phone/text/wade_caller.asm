@@ -1,136 +1,135 @@
 WadeAreYourMonGrowingText:
-	text "Are your #MON"
-	line "growing?"
+	text "Creixen els teus"
+	line "#MON?"
 
-	para "My #MON are"
-	line "growing a bit too"
+	para "Els meus #MON"
+	line "creixen massa de"
 
-	para "quickly for me."
-	line "It's overwhelming!"
+	para "pressa per mi."
+	line "Em supera!"
 
-	para "@"
+	para "En @"
 	text_ram wStringBuffer4
-	text "'s grow-"
-	line "ing especially"
+	text " creix"
+	line "especialment"
 
-	para "quickly. I think"
-	line "it'll get tough."
+	para "ràpid. Crec que es"
+	line "tornarà molt fort."
 	done
 
 WadeDefeatedMonText:
-	text "Oh yeah, we KO'd a"
-	line "wild @"
+	text "Ah, sí, vam tombar"
+	line "un @"
 	text_ram wStringBuffer4
 	text_start
-	para "with one hit a"
-	line "while back."
+	para "salvatge d'un sol"
+	line "cop fa poc."
 
-	para "It went down so"
-	line "easily, I felt a"
+	para "Va caure tan"
+	line "fàcilment que em"
 
-	para "little sorry for"
-	line "the poor thing."
+	para "va saber una mica"
+	line "de greu."
 	done
 
 WadeLostAMonText:
-	text "Oh yeah, a wild"
+	text "Ah, sí, un"
 	line "@"
 	text_ram wStringBuffer4
-	text " got"
+	text " salvatge"
 
-	para "away from me at"
-	line "the last second."
+	para "se'm va escapar a"
+	line "l'últim moment."
 
-	para "I know it's a"
-	line "common #MON…"
+	para "Sé que és un"
+	line "#MON comú…"
 
-	para "But it does annoy"
-	line "me that it got"
+	para "Però em molesta"
+	line "que s'escapés"
 
-	para "away when I almost"
-	line "had it."
+	para "quan gairebé el"
+	line "tenia."
 	done
 
 WadeBattleRematchText:
-	text "Do you feel like a"
-	line "#MON battle?"
+	text "Tens ganes d'un"
+	line "combat #MON?"
 
-	para "It won't be like"
-	line "last time!"
+	para "No serà com"
+	line "l'últim cop!"
 
-	para "@"
+	para "Seré a"
+	line "@"
 	text_ram wStringBuffer5
-	text "'s"
-	line "where I'll be."
+	text "."
 
-	para "Let me know when"
-	line "you get there."
+	para "Avisa'm quan"
+	line "arribis."
 	done
 
 WadeHangUpText:
-	text "See you later!"
+	text "Fins aviat!"
 	done
 
 WadeBugCatchingContestText:
-	text "The Bug-Catching"
-	line "Contest is at the"
+	text "El Concurs de"
+	line "Caça d'Insectes és"
 
-	para "NATIONAL PARK"
-	line "today."
+	para "avui al PARC"
+	line "NATURAL."
 
-	para "Are you going,"
+	para "Hi vas,"
 	line "<PLAY_G>?"
 
-	para "I'm trying to make"
-	line "up my mind."
+	para "Encara m'ho estic"
+	line "pensant."
 	done
 
 WadeFoundItemText:
-	text "I found all kinds"
-	line "of BERRIES. If you"
+	text "He trobat moltes"
+	line "BAIES. Si vols,"
 
-	para "want, I'll share"
-	line "some with you."
+	para "te'n donaré"
+	line "algunes."
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 WadeNoBerriesText:
-	text "Huh? BERRIES?"
+	text "Eh? BAIES?"
 
-	para "Sorry, I haven't"
-	line "found any yet."
+	para "Ho sento, encara"
+	line "no n'he trobat."
 
-	para "I'll call you if I"
-	line "find any. Will you"
-	cont "please wait?"
+	para "Et trucaré si en"
+	line "trobo. Pots"
+	cont "esperar?"
 	done
 
 WadeQuickBattleText:
-	text "Let's battle"
-	line "already!"
+	text "Lluitem ja!"
 
-	para "@"
+	para "Soc a"
+	line "@"
 	text_ram wStringBuffer5
-	text " is"
-	line "where I am."
+	text "."
 
-	para "Please get here as"
-	line "soon as you can!"
+	para "Vine tan aviat"
+	line "com puguis!"
 	done
 
 WadeComeQuickText:
-	text "How come you're"
-	line "not here yet?"
+	text "Com és que encara"
+	line "no ets aquí?"
 
-	para "@"
+	para "Soc a"
+	line "@"
 	text_ram wStringBuffer5
-	text " is"
-	line "where I am."
+	text "."
 
-	para "Please get here as"
-	line "soon as you can!"
+	para "Vine tan aviat"
+	line "com puguis!"
 	done

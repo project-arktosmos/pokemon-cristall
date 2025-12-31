@@ -1,67 +1,65 @@
 GinaAskNumber1Text:
-	text "Whenever I see a"
-	line "strong trainer, I"
+	text "Quan veig un"
+	line "entrenador fort,"
 
-	para "want to be their"
-	line "cheerleader."
+	para "el vull animar."
 
-	para "When I'm on my"
-	line "walk, I sometimes"
-	cont "pick up items."
+	para "Quan passejo, a"
+	line "vegades trobo"
+	cont "objectes."
 
-	para "If I get anything,"
-	line "you can have it!"
+	para "Si trobo alguna"
+	line "cosa, és per tu!"
 
-	para "Want to give me"
-	line "your number?"
+	para "Em vols donar el"
+	line "teu número?"
 
-	para "I'll call as soon"
-	line "as I get anything."
+	para "Et trucaré quan"
+	line "trobi alguna cosa."
 	done
 
 GinaAskNumber2Text:
-	text "If I find an item,"
-	line "you can have it!"
+	text "Si trobo un"
+	line "objecte, és teu!"
 
-	para "Want to give me"
-	line "your number?"
+	para "Em vols donar el"
+	line "teu número?"
 	done
 
 GinaNumberAcceptedText:
-	text "I'll call as soon"
-	line "as I get anything!"
+	text "Et trucaré quan"
+	line "trobi alguna cosa!"
 	done
 
 GinaNumberDeclinedText:
-	text "Is that so? Well,"
-	line "I'll still be"
-	cont "rooting for you!"
+	text "Ah, sí? Bé,"
+	line "igualment faré"
+	cont "força per tu!"
 	done
 
 GinaPhoneFullText:
-	text "But your phone is"
-	line "all filled up!"
+	text "Però el telèfon"
+	line "està ple!"
 	done
 
 GinaRematchText:
-	text "I've been waiting!"
+	text "T'estava esperant!"
 
-	para "I've gotten a bit"
-	line "better at this!"
+	para "He millorat una"
+	line "mica!"
 	done
 
 GinaGiftText:
-	text "So you're finally"
-	line "here!"
+	text "Per fi ets aquí!"
 
-	para "I think this will"
-	line "make you happy."
+	para "Crec que això et"
+	line "farà content."
 	done
 
 GinaPackFullText:
-	text "Your PACK looks"
-	line "completely full."
+	text "La MOTXILLA sembla"
+	line "plena del tot."
 
-	para "I'll have to hold"
-	line "on to this."
+	para "Ho hauré de"
+	line "guardar."
 	done

@@ -32,14 +32,16 @@ CeruleanTradeSpeechHouseZubatScript:
 	end
 
 CeruleanTradeSpeechHouseGrannyText:
-	text "My husband lives"
-	line "happily with #-"
-	cont "MON he got through"
-	cont "trades."
+	text "El meu marit viu"
+	line "feliç amb els"
+	cont "#-"
+	cont "MON que va obtenir"
+	cont "amb intercanvis."
 	done
 
 CeruleanTradeSpeechHouseGrampsText:
-	text "Ah… I'm so happy…"
+	text "Ah… Sóc tan"
+	line "feliç…"
 	done
 
 CeruleanTradeSpeechHouseRhydonText:

@@ -25,18 +25,20 @@ CherrygroveEvolutionSpeechHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 CherrygroveEvolutionSpeechHouseYoungsterText:
-	text "#MON gain expe-"
-	line "rience in battle"
+	text "Els #MON"
+	line "guanyen"
+	cont "experiència en"
 
-	para "and change their"
-	line "form."
+	para "batalla i canvien"
+	line "de forma."
 	done
 
 CherrygroveEvolutionSpeechHouseLassText:
-	text "#MON change?"
+	text "Els #MON"
+	line "canvien?"
 
-	para "I would be shocked"
-	line "if one did that!"
+	para "Em quedaria de"
+	line "pedra si ho fes!"
 	done
 
 CherrygroveEvolutionSpeechHouse_MapEvents:

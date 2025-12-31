@@ -75,68 +75,72 @@ UnionCaveB2FHyperPotion:
 	itemball HYPER_POTION
 
 CooltrainermNickSeenText:
-	text "There are two"
-	line "kinds of people."
+	text "Hi ha dos tipus"
+	line "de persones."
 
-	para "Those who have"
-	line "style, and those"
-	cont "who don't."
+	para "Les que tenen"
+	line "estil i les que"
+	cont "no en tenen."
 
-	para "What kind of"
-	line "person are you?"
+	para "Quin tipus de"
+	line "persona ets tu?"
 	done
 
 CooltrainermNickBeatenText:
-	text "You've got"
-	line "dazzling style!"
+	text "Tens un estil"
+	line "enlluernador!"
 	done
 
 CooltrainermNickAfterBattleText:
-	text "Your #MON style"
-	line "is stunning and"
-	cont "colorful, I admit."
+	text "El teu estil #"
+	line "és impressionant"
+	cont "i colorit, ho dic."
 
-	para "You'll just keep"
-	line "getting better!"
+	para "No pararàs de"
+	line "millorar!"
 	done
 
 CooltrainerfGwenSeenText:
-	text "I'm in training."
-	line "Care for a round?"
+	text "Estic entrenant."
+	line "Vols un combat?"
 	done
 
 CooltrainerfGwenBeatenText:
-	text "Aww, no! You're"
-	line "too good for me."
+	text "Oh, no! Ets massa"
+	line "bo per a mi."
 	done
 
 CooltrainerfGwenAfterBattleText:
-	text "I'm going to train"
-	line "by myself until I"
-	cont "improve."
+	text "Entrenaré sola"
+	line "fins que"
+	cont "millori."
 	done
 
 CooltrainerfEmmaSeenText:
-	text "If the #MON I"
-	line "liked were there,"
-	cont "I'd go anywhere."
+	text "Si el # que"
+	line "m'agrada hi fos,"
+	cont "aniria on fos."
 
-	para "That's what a real"
-	line "trainer does."
+	para "Això és el que fa"
+	line "un entrenador de"
+	cont "debò."
 	done
 
 CooltrainerfEmmaBeatenText:
-	text "I'd rather pet my"
-	line "babies than this!"
+	text "Preferiria fer"
+	line "carantoines als"
+	cont "meus petits!"
 	done
 
 CooltrainerfEmmaAfterBattleText:
-	text "Just once a week,"
-	line "a #MON comes to"
-	cont "the water's edge."
+	text "Un cop a la"
+	line "setmana, un #"
+	cont "ve"
+	cont "a la vora de"
+	cont "l'aigua."
 
-	para "I wanted to see"
-	line "that #MON…"
+	para "Volia veure"
+	line "aquell #…"
 	done
 
 UnionCaveB2F_MapEvents:

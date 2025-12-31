@@ -1,63 +1,65 @@
 GavenAskNumber1Text:
-	text "Wow, you're tough."
-	line "I haven't battled"
+	text "Ets molt fort."
+	line "Feia temps que no"
 
-	para "that seriously in"
-	line "a long time."
+	para "combatia tan"
+	line "seriosament."
 
-	para "Could I get your"
-	line "phone number?"
+	para "Em dones el teu"
+	line "número de telèfon?"
 
-	para "I'd like to battle"
-	line "again when I heal"
+	para "M'agradaria tornar"
+	line "a combatre quan"
 
-	para "@"
+	para "curi @"
 	text_ram wStringBuffer4
-	text " and the"
-	line "rest of my team."
+	text " i la"
+	line "resta de l'equip."
 	done
 
 GavenAskNumber2Text:
-	text "Could I get your"
-	line "phone number?"
+	text "Em dones el teu"
+	line "número de telèfon?"
 
-	para "I'd like to battle"
-	line "again when I heal"
+	para "M'agradaria tornar"
+	line "a combatre quan"
 
-	para "@"
+	para "curi @"
 	text_ram wStringBuffer4
-	text " and the"
-	line "rest of my team."
+	text " i la"
+	line "resta de l'equip."
 	done
 
 GavenNumberAcceptedText:
-	text "How should I beat"
-	line "you? I'm tormented"
+	text "Com et puc"
+	line "guanyar?"
+	cont "No paro de pensar-"
 
-	para "by those thoughts"
-	line "all the time…"
+	para "hi tot el"
+	line "temps…"
 	done
 
 GavenNumberDeclinedText:
-	text "OK… I understand…"
-	line "But if you change"
+	text "D'acord… Ho"
+	line "entenc…"
+	cont "Però si canvies"
 
-	para "your mind, give me"
-	line "a shout anytime."
+	para "d'opinió, digues-"
+	line "m'ho quan vulguis."
 	done
 
 GavenPhoneFullText:
-	text "Your phone's"
-	line "memory is full."
+	text "El telèfon no té"
+	line "més memòria."
 
-	para "You can't register"
-	line "my number."
+	para "No pots registrar"
+	line "el meu número."
 	done
 
 GavenRematchText:
-	text "Hi! I've been"
-	line "waiting for you!"
+	text "Ei! T'estava"
+	line "esperant!"
 
-	para "This time, I'm"
-	line "going to win!"
+	para "Aquest cop,"
+	line "guanyaré jo!"
 	done

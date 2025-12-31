@@ -1,59 +1,56 @@
 AlanAnswerPhoneText:
-	text "Yup, it's @"
+	text "Sí, soc @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Is this <PLAY_G>?"
-	line "Good morning!"
+	para "Ets <PLAY_G>?"
+	line "Bon dia!"
 	done
 
 AlanAnswerPhoneDayText:
-	text "Yup, it's @"
+	text "Sí, soc @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Is that <PLAY_G>?"
+	para "Ets <PLAY_G>?"
 	done
 
 AlanAnswerPhoneNiteText:
-	text "Yup, it's @"
+	text "Sí, soc @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Is that <PLAY_G>?"
-	line "Good evening!"
+	para "Ets <PLAY_G>?"
+	line "Bona nit!"
 	done
 
 AlanGreetText:
-	text "Hello! It's me,"
-	line "@"
+	text "Hola! Soc @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 AlanGreetDayText:
-	text "Hello! It's me,"
-	line "@"
+	text "Hola! Soc @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 AlanGreetNiteText:
-	text "Hello! It's me,"
-	line "@"
+	text "Hola! Soc @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 AlanGenericText:
-	text "<PLAY_G>, are you"
-	line "raising your"
-	cont "#MON properly?"
+	text "<PLAY_G>, estàs"
+	line "criant bé els"
+	cont "teus #MON?"
 
-	para "I read in a book"
-	line "that you should"
+	para "Vaig llegir que"
+	line "has de criar els"
 
-	para "raise any #MON"
-	line "you catch with"
-	cont "love and care."
+	para "#MON que"
+	line "atrapis"
+	cont "amb amor i cura."
 	done

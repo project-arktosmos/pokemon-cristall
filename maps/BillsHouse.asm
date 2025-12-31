@@ -210,145 +210,149 @@ BillsGrandpa:
 	end
 
 BillsGrandpaIntroText:
-	text "Hm? You know BILL?"
-	line "He's my grandson."
+	text "Hm? Coneixes en"
+	line "BILL? És el meu"
+	cont "nét."
 
-	para "He's in JOHTO. He"
-	line "does something"
+	para "És a JOHTO. Fa"
+	line "alguna cosa amb"
 
-	para "with PCs, so I'm"
-	line "house-sitting."
+	para "els ordinadors,"
+	line "i jo vigilo casa."
 	done
 
 BillsGrandpaAskToSeeMonText:
-	text "If you have that"
-	line "#MON, may I see"
-	cont "it, please?"
+	text "Si tens aquest"
+	line "#MON, me'l"
+	cont "pots ensenyar?"
 	done
 
 BillsGrandpaExcitedToSeeText:
-	text "You will show me?"
-	line "How good of you!"
+	text "Me'l vols mostrar?"
+	line "Molt amable!"
 	done
 
 BillsGrandpaYouDontHaveItTextText:
-	text "You don't have it?"
-	line "That's too bad…"
+	text "No el tens?"
+	line "Quina llàstima…"
 	done
 
 BillsGrandpaShownPokemonText:
-	text "Ah, so that is"
-	line "@"
+	text "Ah, o sigui que"
+	line "això és"
+	cont "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Isn't it cute!"
-	line "That's so kind of"
-	cont "you."
+	para "Que bonic! Ets"
+	line "molt amable."
 	done
 
 BillsGrandpaTokenOfAppreciationText:
-	text "Thanks!"
+	text "Gràcies!"
 
-	para "This is a token of"
-	line "my appreciation."
+	para "Això és una mostra"
+	line "del meu agraïment."
 	done
 
 BillsGrandpaComeAgainText:
-	text "Come visit again"
-	line "sometime."
+	text "Torna a visitar-me"
+	line "un altre dia."
 	done
 
 BillsGrandpaShownAllThePokemonText:
-	text "Thanks for showing"
-	line "me so many cute"
-	cont "#MON."
+	text "Gràcies per"
+	line "mostrar-me tants"
+	cont "#MON bonics."
 
-	para "I really enjoyed"
-	line "myself. I'm glad"
+	para "M'ho he passat"
+	line "molt bé. M'alegro"
 
-	para "I've lived such a"
-	line "long life."
+	para "d'haver viscut"
+	line "tants anys."
 	done
 
 BillsGrandpaWrongPokemonText:
 	text "Hm?"
 
-	para "That's not the"
-	line "#MON that I was"
-	cont "told about."
+	para "Aquest no és el"
+	line "#MON del qual"
+	cont "m'han parlat."
 	done
 
 BillsGrandpaLickitungText:
-	text "My grandson BILL"
-	line "told me about a"
+	text "El meu nét BILL"
+	line "m'ha parlat d'un"
 
-	para "#MON that has a"
-	line "long tongue."
+	para "#MON que té"
+	line "una llengua"
+	cont "llarga."
 	done
 
 BillsGrandpaOddishText:
-	text "Ah, my grandson"
-	line "mentioned a round,"
+	text "Ah, el meu nét"
+	line "m'ha parlat d'un"
 
-	para "green #MON that"
-	line "has leaves growing"
-	cont "on its head."
+	para "#MON rodó i"
+	line "verd"
+	cont "que té fulles al"
+	cont "cap."
 	done
 
 BillsGrandpaStaryuText:
-	text "Do you know of a"
-	line "sea #MON that"
+	text "Coneixes un"
+	line "#MON"
+	cont "marí que té una"
 
-	para "has a red sphere"
-	line "in its body?"
+	para "esfera vermella"
+	line "al cos?"
 
-	para "You know, the one"
-	line "that's shaped like"
-	cont "a star?"
+	para "Ja saps, aquell"
+	line "que té forma"
+	cont "d'estrella?"
 
-	para "I heard that it"
-	line "appears at night."
+	para "He sentit que"
+	line "apareix de nit."
 
-	para "I would surely"
-	line "like to see it."
+	para "M'encantaria"
+	line "veure'l."
 	done
 
 BillsGrandpaGrowlitheText:
-	text "BILL told me about"
-	line "a #MON that is"
+	text "En BILL m'ha"
+	line "parlat d'un"
+	cont "#MON"
 
-	para "very loyal to its"
-	line "trainer."
+	para "molt lleial al"
+	line "seu entrenador."
 
-	para "It's supposed to"
-	line "ROAR well."
+	para "Diuen que fa uns"
+	line "bons brams."
 	done
 
 BillsGrandpaVulpixText:
-	text "I heard about a"
-	line "cute #MON that"
-	cont "has six tails."
+	text "He sentit parlar"
+	line "d'un #MON bonic"
+	cont "que té sis cues."
 
-	para "I would love to"
-	line "hug a cute #MON"
-	cont "like that."
+	para "M'encantaria"
+	line "abraçar un #MON"
+	cont "tan bonic."
 	done
 
 BillsGrandpaPichuText:
-	text "Do you know that"
-	line "hugely popular"
-	cont "#MON?"
+	text "Coneixes aquell"
+	line "#MON tan famós?"
 
-	para "The #MON that"
-	line "has a yellow body"
-	cont "and red cheeks."
+	para "El #MON que té"
+	line "el cos groc i les"
+	cont "galtes vermelles."
 
-	para "I would love to"
-	line "see what it looks"
+	para "M'encantaria"
+	line "veure com és"
 
-	para "like before it"
-	line "evolves."
+	para "abans que"
+	line "evolucioni."
 	done
 
 BillsHouse_MapEvents:

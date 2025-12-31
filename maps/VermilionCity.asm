@@ -124,23 +124,23 @@ VermilionCityHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_VERMILION_CITY_HIDDEN_FULL_HEAL
 
 VermilionCityTeacherText:
-	text "VERMILION PORT is"
-	line "KANTO's seaside"
-	cont "gateway."
+	text "El PORT VERMILION"
+	line "és la porta de"
+	cont "KANTO al mar."
 
-	para "Luxury liners from"
-	line "around the world"
-	cont "dock here."
+	para "Aquí hi atraquen"
+	line "transatlàntics de"
+	cont "tot el món."
 	done
 
 VermilionMachopOwnerText:
-	text "My #MON is"
-	line "preparing the land"
-	cont "for construction."
+	text "El meu #MON"
+	line "prepara el terreny"
+	cont "per a construir."
 
-	para "But I have no"
-	line "money to start the"
-	cont "project…"
+	para "Però no tinc prou"
+	line "diners per iniciar"
+	cont "el projecte…"
 	done
 
 VermilionMachopText1:
@@ -149,120 +149,122 @@ VermilionMachopText1:
 	done
 
 VermilionMachopText2:
-	text "A MACHOP is growl-"
-	line "ing while stomping"
-	cont "the ground flat."
+	text "Un MACHOP gruny"
+	line "mentre trepitja el"
+	cont "terra per aplanar."
 	done
 
 VermilionCitySuperNerdText:
-	text "There are eight"
-	line "GYMS in KANTO."
+	text "Hi ha vuit GIMNA-"
+	line "SSOS a KANTO."
 
-	para "That big building"
-	line "is VERMILION's"
-	cont "#MON GYM."
+	para "Aquell edifici"
+	line "gran és el GIMNÀS"
+	cont "# de VERMILION."
 	done
 
 VermilionCitySnorlaxSleepingText:
-	text "SNORLAX is snoring"
-	line "peacefully…"
+	text "SNORLAX ronca"
+	line "plàcidament…"
 	done
 
 VermilionCityRadioNearSnorlaxText:
-	text "The #GEAR was"
-	line "placed near the"
-	cont "sleeping SNORLAX…"
+	text "Has posat el"
+	line "#GEAR a prop de"
+	cont "SNORLAX adormit…"
 
 	para "…"
 
-	para "SNORLAX woke up!"
+	para "SNORLAX s'ha"
+	line "despertat!"
 	done
 
 VermilionCityBadgeGuyTrainerText:
-	text "Skilled trainers"
-	line "gather in KANTO."
+	text "Entrenadors bons"
+	line "es reuneixen aquí."
 
-	para "GYM LEADERS are"
-	line "especially strong."
+	para "Els LÍDERS són"
+	line "molt forts."
 
-	para "They won't be easy"
-	line "to defeat."
+	para "No serà fàcil"
+	line "guanyar-los."
 	done
 
 VermilionCityBadgeGuySomeBadgesText:
-	text "You've started to"
-	line "collect KANTO GYM"
-	cont "BADGES?"
+	text "Has començat a"
+	line "recollir MEDALLES"
+	cont "de KANTO?"
 
-	para "Don't you agree"
-	line "that the trainers"
-	cont "here are tough?"
+	para "No trobes que els"
+	line "entrenadors d'aquí"
+	cont "són molt durs?"
 	done
 
 VermilionCityBadgeGuyMostBadgesText:
-	text "I guess you'll be"
-	line "finished with your"
+	text "Sembla que aviat"
+	line "acabaràs la teva"
 
-	para "conquest of KANTO"
-	line "GYMS soon."
+	para "conquesta dels"
+	line "GIMNASOS de KANTO."
 
-	para "Let me know if"
-	line "you get all eight"
-	cont "BADGES."
+	para "Avisa'm si aconse-"
+	line "gueixes les vuit"
+	cont "MEDALLES."
 	done
 
 VermilionCityBadgeGuyAllBadgesText:
-	text "Congratulations!"
+	text "Felicitats!"
 
-	para "You got all the"
-	line "KANTO GYM BADGES."
+	para "Has aconseguit"
+	line "totes les MEDALLES"
+	cont "de KANTO."
 
-	para "I've got a reward"
-	line "for your efforts."
+	para "Tinc una recom-"
+	line "pensa per a tu."
 	done
 
 VermilionCityBadgeGuyBattleEdgeText:
-	text "Having a variety"
-	line "of #MON types"
+	text "Tenir varietat de"
+	line "tipus de #MON"
 
-	para "should give you an"
-	line "edge in battle."
+	para "et donarà avan-"
+	line "tatge en combat."
 
-	para "I'm sure the KANTO"
-	line "GYM BADGES will"
-	cont "help you."
+	para "Les MEDALLES de"
+	line "KANTO segur que"
+	cont "t'ajudaran."
 	done
 
 VermilionCitySignText:
-	text "VERMILION CITY"
+	text "CIUTAT VERMILION"
 
-	para "The Port of"
-	line "Exquisite Sunsets"
+	para "El port de les"
+	line "postes de sol"
 	done
 
 VermilionGymSignText:
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "GIMNÀS # DE"
+	line "CIUTAT VERMILION"
+	cont "LÍDER: LT.SURGE"
 
-	para "The Lightning"
-	line "American"
+	para "L'Americà"
+	line "Llampec"
 	done
 
 PokemonFanClubSignText:
-	text "#MON FAN CLUB"
+	text "CLUB DE FANS #"
 
-	para "All #MON Fans"
-	line "Welcome!"
+	para "Benvinguts tots"
+	line "els fans de #!"
 	done
 
 VermilionCityDiglettsCaveSignText:
-	text "DIGLETT'S CAVE"
+	text "COVA DIGLETT"
 	done
 
 VermilionCityPortSignText:
-	text "VERMILION PORT"
-	line "ENTRANCE"
+	text "PORT VERMILION"
+	line "ENTRADA"
 	done
 
 VermilionCity_MapEvents:

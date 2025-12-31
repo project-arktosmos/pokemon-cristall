@@ -63,49 +63,50 @@ HallOfFame_SlowlyApproachMachine:
 	step_end
 
 HallOfFame_LanceText:
-	text "LANCE: It's been a"
-	line "long time since I"
-	cont "last came here."
+	text "LLORENÇ: Fa molt"
+	line "de temps que no"
+	cont "venia aquí."
 
-	para "This is where we"
-	line "honor the LEAGUE"
+	para "Aquí és on honoram"
+	line "els CAMPIONS de la"
 
-	para "CHAMPIONS for all"
-	line "eternity."
+	para "LLIGA per a tota"
+	line "l'eternitat."
 
-	para "Their courageous"
-	line "#MON are also"
-	cont "inducted."
+	para "Els seus valents"
+	line "#MON també hi"
+	cont "són inscrits."
 
-	para "Here today, we"
-	line "witnessed the rise"
+	para "Avui hem estat"
+	line "testimonis de"
 
-	para "of a new LEAGUE"
-	line "CHAMPION--a"
+	para "l'ascens d'un nou"
+	line "CAMPIÓ de la LLIGA"
 
-	para "trainer who feels"
-	line "compassion for,"
+	para "--un entrenador"
+	line "que sent compassió"
 
-	para "and trust toward,"
-	line "all #MON."
+	para "i confiança envers"
+	line "tots els #MON."
 
-	para "A trainer who"
-	line "succeeded through"
+	para "Un entrenador que"
+	line "ha triomfat amb"
 
-	para "perseverance and"
-	line "determination."
+	para "perseverança i"
+	line "determinació."
 
-	para "The new LEAGUE"
-	line "CHAMPION who has"
+	para "El nou CAMPIÓ de"
+	line "la LLIGA que té"
 
-	para "all the makings"
-	line "of greatness!"
+	para "tot el que cal per"
+	line "a la grandesa!"
 
-	para "<PLAY_G>, allow me"
-	line "to register you"
+	para "<PLAY_G>, permet-me"
+	line "registrar-te a tu"
 
-	para "and your partners"
-	line "as CHAMPIONS!"
+	para "i els teus"
+	line "companys"
+	cont "com a CAMPIONS!"
 	done
 
 HallOfFame_MapEvents:

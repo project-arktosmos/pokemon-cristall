@@ -112,111 +112,112 @@ FastShipCabinsNorthwestCabinTrashcan:
 	jumpstd TrashCanScript
 
 FirebreatherLyleSeenText:
-	text "I'm going to KANTO"
-	line "to put on fire-"
-	cont "breathing shows!"
+	text "Vaig a KANTO a fer"
+	line "espectacles"
+	cont "de bufar foc!"
 	done
 
 FirebreatherLyleBeatenText:
-	text "Fizzle… The"
-	line "flame's tiny…"
+	text "Xiu… La flama"
+	line "és petita…"
 	done
 
 FirebreatherLyleAfterBattleText:
-	text "I guess fire is"
-	line "weak on the sea."
+	text "Suposo que el foc"
+	line "és feble al mar."
 
-	para "It doesn't matter?"
-	line "Really?"
+	para "Que no importa?"
+	line "De veritat?"
 	done
 
 BugCatcherKenSeenText:
-	text "I'm visiting my"
-	line "grandma to catch"
-	cont "me some bugs!"
+	text "Vaig a visitar"
+	line "l'àvia per caçar"
+	cont "insectes!"
 	done
 
 BugCatcherKenBeatenText:
-	text "Ooh, wow."
-	line "You're tough!"
+	text "Uau, caram."
+	line "Ets molt fort!"
 	done
 
 BugCatcherKenAfterBattleText:
-	text "You can find lots"
-	line "of #MON in the"
-	cont "trees of JOHTO!"
+	text "Als arbres de"
+	line "JOHTO hi trobes"
+	cont "molts #MON!"
 	done
 
 BeautyCassieSeenText:
-	text "I'm trying to"
-	line "forget my woes."
-	cont "Let's battle!"
+	text "Intento oblidar"
+	line "les penes."
+	cont "Lluitem!"
 	done
 
 BeautyCassieBeatenText:
-	text "My heart weeps…"
+	text "El cor em plora…"
 	done
 
 BeautyCassieAfterBattleText:
-	text "A voyage is best"
-	line "for getting over"
-	cont "a broken heart."
+	text "Un viatge va bé"
+	line "per superar un"
+	cont "cor trencat."
 
-	para "But a FAST SHIP"
-	line "trip is too short"
-	cont "for grieving."
+	para "Però el FAST SHIP"
+	line "és massa curt per"
+	cont "fer el dol."
 	done
 
 GuitaristClydeSeenText:
-	text "I'm going to audi-"
-	line "tion my songs at"
+	text "Vaig a fer una"
+	line "audició de les"
 
-	para "GOLDENROD's RADIO"
-	line "STATION."
+	para "cançons a la RÀDIO"
+	line "de GOLDENROD."
 	done
 
 GuitaristClydeBeatenText:
-	text "Yowza!"
-	line "Total distortion!"
+	text "Uau!"
+	line "Distorsió total!"
 	done
 
 GuitaristClydeAfterBattleMobileText:
-	text "I was going to"
-	line "make my debut at"
-	cont "the BATTLE TOWER…"
+	text "Anava a debutar"
+	line "a la TORRE DE"
+	cont "BATALLA…"
 
-	para "I should go back"
-	line "to VERMILION and"
-	cont "redo my training…"
+	para "Hauria de tornar"
+	line "a VERMILION i"
+	cont "entrenar més…"
 	done
 
 GuitaristClydeAfterBattleText:
-	text "Speaking of the"
-	line "RADIO STATION,"
+	text "Parlant de la"
+	line "RÀDIO,"
 
-	para "what's this week's"
-	line "lucky number?"
+	para "quin és el número"
+	line "premiat d'avui?"
 	done
 
 FastShipBedText1:
-	text "A comfy bed!"
-	line "Time to sleep…"
+	text "Un llit còmode!"
+	line "Hora de dormir…"
 	done
 
 FastShipBedText2:
-	text "Ah, refreshed and"
-	line "restored!"
+	text "Ah, descansat i"
+	line "recuperat!"
 	done
 
 FastShipArrivedOlivineText:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "OLIVINE CITY."
+	text "El FAST SHIP"
+	line "S.S.AQUA ha"
+	cont "arribat a OLIVINE."
 	done
 
 FastShipArrivedVermilionText:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
+	text "El FAST SHIP"
+	line "S.S.AQUA ha"
+	cont "arribat a"
 	cont "VERMILION CITY."
 	done
 

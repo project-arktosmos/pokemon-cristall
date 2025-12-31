@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const FASTSHIP1F_SAILOR1
 	const FASTSHIP1F_SAILOR2
 	const FASTSHIP1F_SAILOR3
@@ -206,81 +206,83 @@ FastShip1F_PlayerLeavesShipRightMovement:
 	step_end
 
 FastShip1FSailor1Text_ToVermilion:
-	text "FAST SHIP S.S.AQUA"
-	line "is en route to"
-	cont "VERMILION CITY."
+	text "El VAIXELL RÀPID"
+	line "S.S.AQUA va cap a"
+	cont "CIUTAT VERMILION."
 
-	para "We will make an"
-	line "announcement when"
-	cont "we arrive."
+	para "Farem un anunci"
+	line "quan arribem."
 	done
 
 FastShip1FSailor1Text_ToOlivine:
-	text "FAST SHIP S.S.AQUA"
-	line "is en route to"
-	cont "OLIVINE CITY."
+	text "El VAIXELL RÀPID"
+	line "S.S.AQUA va cap a"
+	cont "CIUTAT OLIVINE."
 
-	para "We will make an"
-	line "announcement when"
-	cont "we arrive."
+	para "Farem un anunci"
+	line "quan arribem."
 	done
 
 FastShip1FSailor2Text_FirstTime:
-	text "Here's your cabin."
+	text "Aquí és el teu"
+	line "camarot."
 
-	para "If your #MON"
-	line "are hurt, take a"
-	cont "nap in the bed."
+	para "Si els teus"
+	line "#MON"
+	cont "estan ferits, fes"
+	cont "un son al llit."
 
-	para "That will heal"
-	line "them."
+	para "Això els curarà."
 	done
 
 FastShip1FSailor2Text:
-	text "Here's your cabin."
+	text "Aquí és el teu"
+	line "camarot."
 
-	para "You can heal your"
-	line "#MON by taking"
-	cont "a nap in the bed."
+	para "Pots curar els"
+	line "teus #MON fent"
+	cont "un son al llit."
 
-	para "The ship will"
-	line "arrive while"
-	cont "you're sleeping."
+	para "El vaixell"
+	line "arribarà mentre"
+	cont "dorms."
 	done
 
 FastShip1FSailor3Text:
-	text "The passengers are"
-	line "all trainers."
+	text "Els passatgers són"
+	line "tots entrenadors."
 
-	para "They're all itch-"
-	line "ing to battle in"
-	cont "their cabins."
+	para "Tots tenen ganes"
+	line "de combatre als"
+	cont "seus camarots."
 	done
 
 FastShip1FGrandpaText:
-	text "Whoa! Excuse me."
-	line "I was in a hurry!"
+	text "Ui! Perdona'm."
+	line "Anava amb pressa!"
 
-	para "My granddaughter"
-	line "is missing!"
+	para "La meva néta ha"
+	line "desaparegut!"
 
-	para "She's just a wee"
-	line "girl. If you see"
+	para "És només una nena"
+	line "petita. Si la"
 
-	para "her, please let me"
-	line "know!"
+	para "veus, si us plau,"
+	line "fes-m'ho saber!"
 	done
 
 FastShip1FSailor1Text_InOlivine:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "OLIVINE CITY."
+	text "El VAIXELL RÀPID"
+	line "S.S.AQUA ha"
+	cont "arribat a CIUTAT"
+	cont "OLIVINE."
 	done
 
 FastShip1FSailor1Text_InVermilion:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "VERMILION CITY."
+	text "El VAIXELL RÀPID"
+	line "S.S.AQUA ha"
+	cont "arribat a CIUTAT"
+	cont "VERMILION."
 	done
 
 FastShip1F_MapEvents:

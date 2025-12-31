@@ -666,267 +666,272 @@ UndergroundRivalRetreatMovement2:
 	step_end
 
 UndergroundRivalBeforeText:
-	text "Hold it!"
+	text "Para!"
 
-	para "I saw you, so I"
-	line "tailed you."
+	para "T'he vist i t'he"
+	line "seguit."
 
-	para "I don't need you"
-	line "underfoot while I"
+	para "No et necessito"
+	line "fent nosa mentre"
 
-	para "take care of TEAM"
-	line "ROCKET."
+	para "m'encarrego de"
+	line "l'EQUIP ROCKET."
 
-	para "…Wait a second."
-	line "You beat me be-"
-	cont "fore, didn't you?"
+	para "…Espera un moment."
+	line "Em vas derrotar"
+	cont "abans, oi?"
 
-	para "That was just a"
-	line "fluke."
+	para "Allò va ser pura"
+	line "sort."
 
-	para "But I repay my"
-	line "debts!"
+	para "Però pago els"
+	line "meus deutes!"
 	done
 
 UndergroundRivalWinText:
-	text "…Why…"
-	line "Why do I lose?"
+	text "…Per què…"
+	line "Per què perdo?"
 
-	para "I've assembled the"
-	line "toughest #MON."
+	para "He reunit els"
+	line "#MON més forts."
 
-	para "I didn't ease up"
-	line "on the gas."
+	para "No he afluixat"
+	line "gens."
 
-	para "So why do I lose?"
+	para "Per què perdo?"
 	done
 
 UndergroundRivalAfterText:
-	text "…I don't under-"
-	line "stand…"
+	text "…No ho entenc…"
 
-	para "Is what that LANCE"
-	line "guy said true?"
+	para "És veritat el que"
+	line "va dir en LANCE?"
 
-	para "That I don't treat"
-	line "#MON properly?"
+	para "Que no tracto bé"
+	line "els #MON?"
 
-	para "Love…"
+	para "Amor…"
 
-	para "Trust…"
+	para "Confiança…"
 
-	para "Are they really"
-	line "what I lack?"
+	para "De debò em falta"
+	line "tot això?"
 
-	para "Are they keeping"
-	line "me from winning?"
+	para "Per això no puc"
+	line "guanyar?"
 
-	para "I… I just don't"
-	line "understand."
+	para "Jo… simplement"
+	line "no ho entenc."
 
-	para "But it's not going"
-	line "to end here."
+	para "Però això no"
+	line "s'acaba aquí."
 
-	para "Not now. Not"
-	line "because of this."
+	para "Ara no. No per"
+	line "culpa d'això."
 
-	para "I won't give up my"
-	line "dream of becoming"
+	para "No renunciaré al"
+	line "meu somni de ser"
 
-	para "the world's best"
-	line "#MON trainer!"
+	para "el millor entre-"
+	line "nador de #MON!"
 	done
 
 UndergroundRivalLossText:
-	text "Humph. This is my"
-	line "real power, wimp."
+	text "Bah. Això és el"
+	line "meu poder real."
 
-	para "I'll make TEAM"
-	line "ROCKET history."
+	para "Faré que l'EQUIP"
+	line "ROCKET passi a"
+	cont "la història."
 
-	para "And I'm going to"
-	line "grind that LANCE"
-	cont "under my heels."
+	para "I aplastaré en"
+	line "LANCE sota els"
+	cont "meus peus."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_SuperNerdText:
-	text "I was challenged"
-	line "to a battle down-"
-	cont "stairs."
+	text "M'han desafiat a"
+	line "un combat a baix."
 
-	para "It's rough down"
-	line "there. You'd"
-	cont "better be careful."
+	para "Allà és dur."
+	line "Millor que vagis"
+	cont "amb compte."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_TeacherText:
-	text "There are some"
-	line "shops downstairs…"
+	text "Hi ha botigues"
+	line "a sota…"
 
-	para "But there are"
-	line "also trainers."
+	para "Però també hi ha"
+	line "entrenadors."
 
-	para "I'm scared to go"
-	line "down there."
+	para "Em fa por baixar"
+	line "allà."
 	done
 
 GruntM11SeenText:
-	text "Open one shutter,"
-	line "another closes."
+	text "Obres una porta i"
+	line "una altra es"
+	cont "tanca."
 
-	para "Bet you can't get"
-	line "where you want!"
+	para "Aposto que no"
+	line "pots arribar on"
+	cont "vols!"
 	done
 
 GruntM11BeatenText:
-	text "Drat! I was sunk"
-	line "by indecision!"
+	text "Ecs! He caigut"
+	line "per indecisió!"
 	done
 
 GruntM11AfterBattleText:
-	text "I'm confused too…"
-	line "The switch on the"
+	text "Jo també estic"
+	line "confós…"
 
-	para "end is the one to"
-	line "press first, but…"
+	para "L'interruptor del"
+	line "final és el que"
+	cont "cal prémer, però…"
 	done
 
 GruntM25SeenText:
-	text "Kwahaha!"
+	text "Muahaha!"
 
-	para "Confounded by the"
-	line "shutters, are we?"
+	para "Confós amb les"
+	line "portes, oi?"
 
-	para "I'll let you in on"
-	line "a secret if you"
-	cont "can beat me!"
+	para "Et donaré un"
+	line "secret si em pots"
+	cont "derrotar!"
 	done
 
 GruntM25BeatenText:
-	text "Uwww…"
-	line "I blew it."
+	text "Ugh…"
+	line "L'he feta bona."
 	done
 
 GruntM25AfterBattleText:
-	text "All right. A hint!"
+	text "D'acord. Una"
+	line "pista!"
 
-	para "Change the order"
-	line "of switching."
+	para "Canvia l'ordre en"
+	line "què actives els"
+	cont "interruptors."
 
-	para "That'll change the"
-	line "ways the shutters"
-	cont "open and close."
+	para "Això canviarà com"
+	line "s'obren i tanquen"
+	cont "les portes."
 	done
 
 BurglarDuncanSeenText:
-	text "Fork over your"
-	line "goodies!"
+	text "Dóna'm tot el que"
+	line "tens!"
 	done
 
 BurglarDuncanBeatenText:
-	text "Mercy!"
+	text "Pietat!"
 	done
 
 BurglarDuncanAfterBattleText:
-	text "Steal and sell!"
-	line "That's basic in"
-	cont "crime, kid!"
+	text "Roba i ven!"
+	line "Això és el bàsic"
+	cont "del crim, nen!"
 	done
 
 BurglarEddieSeenText:
-	text "They ditched this"
-	line "project before"
-	cont "they finished."
+	text "Van abandonar"
+	line "aquest projecte"
+	cont "sense acabar-lo."
 
-	para "I'm searching for"
-	line "leftover loot."
+	para "Busco el botí que"
+	line "van deixar."
 	done
 
 BurglarEddieBeatenText:
-	text "Over the top!"
+	text "Massa fort!"
 	done
 
 BurglarEddieAfterBattleText:
-	text "UNDERGROUND WARE-"
-	line "HOUSE?"
+	text "MAGATZEM SUBTER-"
+	line "RANI?"
 
-	para "What do you want"
-	line "to go there for?"
+	para "Per a què hi vols"
+	line "anar?"
 
-	para "There's nothing"
-	line "down there."
+	para "Allà no hi ha"
+	line "res."
 	done
 
 GruntM13SeenText:
-	text "I don't care if"
-	line "you're lost."
+	text "M'és igual si"
+	line "t'has perdut."
 
-	para "You show up here,"
-	line "you're nothing but"
-	cont "a victim!"
+	para "Si véns aquí,"
+	line "només ets una"
+	cont "víctima!"
 	done
 
 GruntM13BeatenText:
-	text "Urk! Yeah, think"
-	line "you're cool, huh?"
+	text "Argh! Et creus"
+	line "molt guai, eh?"
 	done
 
 GruntM13AfterBattleText:
-	text "You must have ice"
-	line "in your veins to"
-	cont "dis TEAM ROCKET."
+	text "Has de tenir gel"
+	line "a les venes per"
+
+	para "desafiar l'EQUIP"
+	line "ROCKET."
 	done
 
 SwitchRoomText_Switch1:
-	text "It's labeled"
-	line "SWITCH 1."
+	text "Diu INTERRUP-"
+	line "TOR 1."
 	done
 
 GruntF3SeenText:
-	text "Are you lost? No,"
-	line "you can't be."
+	text "T'has perdut? No,"
+	line "no pot ser."
 
-	para "You don't have"
-	line "that scared look."
+	para "No tens aquella"
+	line "cara d'espantat."
 
-	para "I'll give you"
-	line "something to be"
-	cont "scared about!"
+	para "Et faré por de"
+	line "debò!"
 	done
 
 GruntF3BeatenText:
-	text "How could you?"
+	text "Com has pogut?"
 	done
 
 GruntF3AfterBattleText:
-	text "Go wherever you'd"
-	line "like! Get lost!"
-	cont "See if I care!"
+	text "Ves on vulguis!"
+	line "Perd-te! M'és"
+	cont "igual!"
 	done
 
 SwitchRoomText_OffTurnOn:
-	text "It's OFF."
-	line "Turn it ON?"
+	text "Està APAGAT."
+	line "Vols ENCENDRE'L?"
 	done
 
 SwitchRoomText_OnTurnOff:
-	text "It's ON."
-	line "Turn it OFF?"
+	text "Està ENCÈS."
+	line "Vols APAGAR-LO?"
 	done
 
 SwitchRoomText_Switch2:
-	text "It's labeled"
-	line "SWITCH 2."
+	text "Diu INTERRUP-"
+	line "TOR 2."
 	done
 
 SwitchRoomText_Switch3:
-	text "It's labeled"
-	line "SWITCH 3."
+	text "Diu INTERRUP-"
+	line "TOR 3."
 	done
 
 SwitchRoomText_Emergency:
-	text "It's labeled"
-	line "EMERGENCY."
+	text "Diu EMERGÈN-"
+	line "CIA."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_MapEvents:

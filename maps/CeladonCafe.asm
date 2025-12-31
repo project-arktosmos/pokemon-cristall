@@ -117,92 +117,95 @@ CeladonCafeTrashcan:
 	jumpstd TrashCanScript
 
 ChefText_Eatathon:
-	text "Hi!"
+	text "Ei, hola!"
 
-	para "We're holding an"
-	line "eatathon contest."
+	para "Estem fent un"
+	line "concurs de menjar."
 
-	para "We can't serve you"
-	line "right now. Sorry."
+	para "Ara no podem"
+	line "servir-te. Perdó."
 	done
 
 Fisher1Text_Snarfle:
-	text "…Snarfle, chew…"
+	text "…Nyam, mastego…"
 	done
 
 Fisher1Text_Concentration:
-	text "Don't talk to me!"
+	text "No em parlis!"
 
-	para "You'll break my"
-	line "concentration!"
+	para "Em desconcentra-"
+	line "ràs!"
 	done
 
 Fisher2Text_GulpChew:
-	text "…Gulp… Chew…"
+	text "…Glup… Mastego…"
 	done
 
 Fisher2Text_Quantity:
-	text "I take quantity"
-	line "over quality!"
+	text "Prefereixo"
+	line "quantitat a"
+	cont "qualitat!"
 
-	para "I'm happy when I'm"
-	line "full!"
+	para "Soc feliç quan"
+	line "estic ple!"
 	done
 
 Fisher3Text_MunchMunch:
-	text "Munch, munch…"
+	text "Nyam, nyam…"
 	done
 
 Fisher3Text_GoldenrodIsBest:
-	text "The food is good"
-	line "here, but GOLDEN-"
-	cont "ROD has the best"
-	cont "food anywhere."
+	text "El menjar és bo"
+	line "aquí, però a"
+	cont "TRIGAL tenen el"
+	cont "millor de tot."
 	done
 
 TeacherText_CrunchCrunch:
-	text "Crunch… Crunch…"
+	text "Nyac… Nyac…"
 	done
 
 TeacherText_NoCoinCase:
-	text "Nobody here will"
-	line "give you a COIN"
+	text "Aquí ningú et"
+	line "donarà un PORTA-"
+	cont "MONEDES."
 
-	para "CASE. You should"
-	line "look in JOHTO."
+	para "Hauries de buscar"
+	line "a JOHTO."
 	done
 
 TeacherText_KeepEating:
-	text "Crunch… Crunch…"
+	text "Nyac… Nyac…"
 
-	para "I can keep eating!"
+	para "Puc seguir"
+	line "menjant!"
 	done
 
 TeacherText_MoreChef:
-	text "More, CHEF!"
+	text "Més, CUINER!"
 	done
 
 EatathonContestPosterText:
-	text "Eatathon Contest!"
-	line "No time limit!"
+	text "Concurs de menjar!"
+	line "Sense límit!"
 
-	para "A battle without"
-	line "end! The biggest"
+	para "Una batalla sense"
+	line "fi! Qui mengi més"
 
-	para "muncher gets it"
-	line "all for free!"
+	para "s'ho emporta tot"
+	line "gratis!"
 	done
 
 FoundLeftoversText:
-	text "<PLAYER> found"
+	text "<PLAYER> ha trobat"
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 NoRoomForLeftoversText:
-	text "But <PLAYER> can't"
-	line "hold another item…"
+	text "Però <PLAYER> no"
+	line "pot portar més…"
 	done
 
 CeladonCafe_MapEvents:

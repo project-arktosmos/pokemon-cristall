@@ -73,63 +73,66 @@ MountMortarB1FHiddenMaxRevive:
 	hiddenitem MAX_REVIVE, EVENT_MOUNT_MORTAR_B1F_HIDDEN_MAX_REVIVE
 
 MountMortarB1FKiyoIntroText:
-	text "Hey!"
+	text "Ei!"
 
-	para "I am the KARATE"
-	line "KING!"
+	para "Sóc el REI del"
+	line "KARATE!"
 
-	para "I train alone here"
-	line "in the dark!"
+	para "Entreno tot sol"
+	line "aquí a les"
+	cont "fosques!"
 
-	para "You!"
-	line "Battle with me!"
+	para "Tu!"
+	line "Lluita amb mi!"
 
 	para "Hwaaarggh!"
 	done
 
 MountMortarB1FKiyoWinText:
 	text "Waaaarggh!"
-	line "I'm beaten!"
+	line "M'has derrotat!"
 	done
 
 MountMortarB1FTyrogueRewardText:
-	text "I… I'm crushed…"
+	text "Jo… Estic"
+	line "destrossat…"
 
-	para "My training is"
-	line "still not enough…"
+	para "El meu entrenament"
+	line "no és suficient…"
 
-	para "But a loss is a"
-	line "loss. I admit it."
+	para "Però una derrota"
+	line "és una derrota."
+	cont "Ho admeto."
 
-	para "As proof that you"
-	line "defeated me, I'll"
+	para "Com a prova que"
+	line "m'has vençut, et"
 
-	para "give you a rare"
-	line "fighting #MON."
+	para "donaré un #MON"
+	line "de lluita rar."
 	done
 
 MountMortarB1FReceiveMonText:
-	text "<PLAYER> received"
+	text "<PLAYER> ha rebut"
 	line "TYROGUE."
 	done
 
 MountMortarB1FKiyoGotTyrogueText:
-	text "TYROGUE is a"
-	line "fighting-type."
+	text "TYROGUE és de"
+	line "tipus lluita."
 
-	para "It evolves into a"
-	line "tougher #MON."
+	para "Evoluciona a un"
+	line "#MON més fort."
 
-	para "Keep up the hard"
-	line "work. I'll keep"
-	cont "training too."
+	para "Continua entrenant"
+	line "fort. Jo també"
+	cont "seguiré entrenant."
 
-	para "Farewell!"
+	para "Adéu!"
 	done
 
 MountMortarB1FKiyoFullPartyText:
-	text "You have no room"
-	line "in your party!"
+	text "No tens espai al"
+	line "teu equip!"
 	done
 
 MountMortarB1F_MapEvents:

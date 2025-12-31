@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const OLIVINEMART_CLERK
 	const OLIVINEMART_COOLTRAINER_F
 	const OLIVINEMART_LASS
@@ -21,26 +21,27 @@ OlivineMartLassScript:
 	jumptextfaceplayer OlivineMartLassText
 
 OlivineMartCooltrainerFText:
-	text "Do your #MON"
-	line "already know the"
+	text "Els teus #MON"
+	line "ja"
+	cont "coneixen el"
 
-	para "move for carrying"
-	line "people on water?"
+	para "moviment per dur"
+	line "gent per l'aigua?"
 	done
 
 OlivineMartLassText:
-	text "My BUTTERFREE came"
-	line "from my boyfriend"
-	cont "overseas."
+	text "El meu BUTTERFREE"
+	line "me'l va enviar el"
+	cont "meu xicot."
 
-	para "It carried some"
-	line "MAIL from him."
+	para "Portava una carta"
+	line "seva."
 
-	para "Want to know what"
-	line "it says?"
+	para "Vols saber què"
+	line "diu?"
 
-	para "Let's see… Nope!"
-	line "It's a secret!"
+	para "A veure… No!"
+	line "És un secret!"
 	done
 
 OlivineMart_MapEvents:

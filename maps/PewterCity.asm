@@ -67,87 +67,90 @@ PewterCityFruitTree2:
 	fruittree FRUITTREE_PEWTER_CITY_2
 
 PewterCityCooltrainerFText:
-	text "Have you visited"
-	line "PEWTER GYM?"
+	text "Has visitat el"
+	line "GIMNÀS PEWTER?"
 
-	para "The LEADER uses"
-	line "rock-type #MON."
+	para "El LÍDER fa servir"
+	line "# de tipus"
+	cont "roca."
 	done
 
 PewterCityBugCatcherText:
-	text "At night, CLEFAIRY"
-	line "come out to play"
-	cont "at MT.MOON."
+	text "A la nit, surten"
+	line "CLEFAIRY a jugar"
+	cont "al MT.MOON."
 
-	para "But not every"
-	line "night."
+	para "Però no cada nit."
 	done
 
 PewterCityGrampsText:
-	text "Ah, you came all"
-	line "the way out here"
-	cont "from JOHTO?"
+	text "Ah, has vingut de"
+	line "tan lluny, des de"
+	cont "JOHTO?"
 
-	para "That brings back"
-	line "memories. When I"
+	para "Això em porta"
+	line "records. Quan era"
 
-	para "was young, I went"
-	line "to JOHTO to train."
+	para "jove, vaig anar a"
+	line "JOHTO a entrenar."
 
-	para "You remind me so"
-	line "much of what I was"
+	para "Em recordes molt"
+	line "a com era jo de"
 
-	para "like as a young"
-	line "man."
+	para "jove."
 
-	para "Here. I want you"
-	line "to have this item"
-	cont "I found in JOHTO."
+	para "Té. Vull que"
+	line "tinguis això que"
+	cont "vaig trobar a"
+	cont "JOHTO."
 	done
 
 PewterCityGrampsText_GotSilverWing:
-	text "Going to new, un-"
-	line "known places and"
-	cont "seeing new people…"
+	text "Anar a llocs nous"
+	line "i desconeguts i"
+	cont "veure gent nova…"
 
-	para "Those are the joys"
-	line "of travel."
+	para "Aquestes són les"
+	line "alegries de"
+	cont "viatjar."
 	done
 
 PewterCitySignText:
-	text "PEWTER CITY"
-	line "A Stone Gray City"
+	text "CIUTAT PEWTER"
+	line "Ciutat Gris Pedra"
 	done
 
 PewterGymSignText:
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
+	text "CIUTAT PEWTER"
+	line "GIMNÀS #MON"
+	cont "LÍDER: BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer"
+	para "L'Entrenador de"
+	line "#MON Rocós"
 	done
 
 PewterMuseumSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "PEWTER MUSEUM OF"
-	line "SCIENCE is closed"
-	cont "for renovations…"
+	para "El MUSEU DE"
+	line "CIÈNCIES DE PEWTER"
+	cont "és tancat per"
+	cont "reformes…"
 	done
 
 PewterCityMtMoonGiftShopSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "MT.MOON GIFT SHOP"
-	line "NOW OPEN!"
+	para "BOTIGA DE REGALS"
+	line "MT.MOON ARA"
+	cont "OBERTA!"
 	done
 
 PewterCityWelcomeSignText:
-	text "WELCOME TO"
-	line "PEWTER CITY!"
+	text "BENVINGUTS A"
+	line "CIUTAT PEWTER!"
 	done
 
 PewterCity_MapEvents:

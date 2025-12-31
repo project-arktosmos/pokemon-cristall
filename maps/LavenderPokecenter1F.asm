@@ -35,47 +35,50 @@ LavenderPokecenter1FYoungsterScript:
 	end
 
 LavenderPokecenter1FGentlemanText:
-	text "To the north of"
-	line "LAVENDER is ROCK"
+	text "Al nord de"
+	line "LAVENDER hi ha el"
 
-	para "TUNNEL. Go through"
-	line "it to get to the"
-	cont "POWER PLANT."
+	para "TÚNEL ROCA. Passa"
+	line "per arribar a la"
+	cont "CENTRAL ELÈCTRICA."
 	done
 
 LavenderPokecenter1FTeacherText:
-	text "There's a radio"
-	line "program that plays"
-	cont "# FLUTE music."
+	text "Hi ha un programa"
+	line "de ràdio que posa"
+	cont "música de #"
+	cont "FLAUTA."
 
-	para "Oh? Ah, your radio"
-	line "needs an EXPN CARD"
-	cont "to tune into it."
+	para "Oh? La teva ràdio"
+	line "necessita EXPN"
+	cont "CARD"
+	cont "per"
+	cont "sintonitzar-la."
 	done
 
 LavenderPokecenter1FYoungsterText:
-	text "If the POWER PLANT"
-	line "isn't running, the"
+	text "Si la CENTRAL"
+	line "ELÈCTRICA no"
 
-	para "MAGNET TRAIN won't"
-	line "run either…"
+	para "funciona, el TREN"
+	line "MAGNÈTIC tampoc…"
 
-	para "It also means the"
-	line "RADIO STATION"
-	cont "can't broadcast…"
+	para "També vol dir que"
+	line "l'EMISSORA no pot"
+	cont "emetre…"
 	done
 
 LavenderPokecenter1FYoungsterText_ReturnedMachinePart:
-	text "The DIRECTOR of"
-	line "the RADIO STATION"
-	cont "sure was happy."
+	text "El DIRECTOR de"
+	line "l'EMISSORA estava"
+	cont "molt content."
 
-	para "He said they're"
-	line "back on the air"
+	para "Ha dit que tornen"
+	line "a emetre"
 
-	para "because the POWER"
-	line "PLANT is running"
-	cont "smoothly again."
+	para "perquè la CENTRAL"
+	line "ELÈCTRICA funciona"
+	cont "bé de nou."
 	done
 
 LavenderPokecenter1F_MapEvents:

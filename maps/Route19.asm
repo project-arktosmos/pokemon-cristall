@@ -107,129 +107,126 @@ CarefulSwimmingSign:
 	jumptext CarefulSwimmingSignText
 
 SwimmermHaroldSeenText:
-	text "Have you ever gone"
-	line "swimming in the"
-	cont "sea at night?"
+	text "Has nedat mai al"
+	line "mar de nit?"
 	done
 
 SwimmermHaroldBeatenText:
-	text "Glub…"
+	text "Glup…"
 	done
 
 SwimmermHaroldAfterBattleText:
-	text "At night, the sea"
-	line "turns black. It"
+	text "De nit, el mar es"
+	line "torna negre."
 
-	para "feels like it will"
-	line "swallow you up."
+	para "Sembla que et"
+	line "pugui engolir."
 	done
 
 SwimmermTuckerSeenText:
-	text "Pant, pant…"
-	line "Just… a little…"
+	text "Buf, buf…"
+	line "Només… una mica…"
 
-	para "farther… to…"
+	para "més… fins a…"
 	line "FUCHSIA…"
 	done
 
 SwimmermTuckerBeatenText:
-	text "I'm drowning!"
+	text "M'ofego!"
 	done
 
 SwimmermTuckerAfterBattleText:
-	text "I… asked my girl-"
-	line "friend to swim to"
-	cont "FUCHSIA… Gasp…"
+	text "Vaig… demanar a la"
+	line "meva xicota que"
+	cont "nedés a FUCHSIA…"
 	done
 
 SwimmerfDawnSeenText:
-	text "I'm disgusted by"
-	line "wimpy people!"
+	text "No suporto la"
+	line "gent covarda!"
 	done
 
 SwimmerfDawnBeatenText:
-	text "I could beat you"
-	line "at swimming…"
+	text "Et podria guanyar"
+	line "nedant…"
 	done
 
 SwimmerfDawnAfterBattleText:
-	text "It's a quick swim"
-	line "between FUCHSIA"
+	text "És ràpid nedar"
+	line "entre FUCHSIA i"
+	cont "les ILLES SEAFOAM…"
 
-	para "and SEAFOAM IS-"
-	line "LANDS…"
+	para "El meu xicot diu"
+	line "que és molt fort!"
 
-	para "Sheesh, some big"
-	line "man my boyfriend"
-
-	para "is! What a wimp!"
+	para "Quin covard!"
 	done
 
 SwimmermJeromeSeenText:
-	text "Swimming?"
-	line "I'm lousy at it."
+	text "Nedar?"
+	line "Se'm dóna fatal."
 
-	para "I'm just splashing"
-	line "around in these"
-	cont "shallow waters."
+	para "Només xipollejo"
+	line "en aquestes aigües"
+	cont "poc fondes."
 	done
 
 SwimmermJeromeBeatenText:
-	text "I thought I could"
-	line "win."
+	text "Pensava que podia"
+	line "guanyar."
 	done
 
 SwimmermJeromeAfterBattleText:
-	text "I might be bad at"
-	line "swimming, but I"
-	cont "love the sea."
+	text "Potser nedo"
+	line "malament, però"
+	cont "m'encanta el mar."
 	done
 
 Route19Fisher1Text:
-	text "Sorry. This road"
-	line "is closed for"
-	cont "construction."
+	text "Perdona. El camí"
+	line "està tancat per"
+	cont "obres."
 
-	para "If you want to get"
-	line "to CINNABAR, you'd"
+	para "Si vols anar a"
+	line "CINNABAR, millor"
 
-	para "better go south"
-	line "from PALLET TOWN."
+	para "ves cap al sud des"
+	line "de PALLET TOWN."
 	done
 
 Route19Fisher1Text_RocksCleared:
-	text "I'm all sweaty."
-	line "Time for a swim!"
+	text "Estic tot suat."
+	line "Hora de nedar!"
 	done
 
 Route19Fisher2Text:
-	text "Who knows how long"
-	line "it would take to"
-	cont "move this boulder…"
+	text "Qui sap quant"
+	line "trigaran a moure"
+	cont "aquesta roca…"
 	done
 
 Route19Fisher2Text_RocksCleared:
-	text "The roadwork is"
-	line "finally finished."
+	text "Les obres per fi"
+	line "han acabat."
 
-	para "Now I can go"
-	line "fishing again."
+	para "Ara puc tornar"
+	line "a pescar."
 	done
 
 Route19SignText:
-	text "ROUTE 19"
+	text "RUTA 19"
 
 	para "FUCHSIA CITY -"
-	line "SEAFOAM ISLANDS"
+	line "ILLES SEAFOAM"
 	done
 
 CarefulSwimmingSignText:
-	text "Please be careful"
-	line "if you are swim-"
-	cont "ming to SEAFOAM"
-	cont "ISLANDS."
+	text "Si us plau, aneu"
+	line "amb compte si"
+	cont "nedeu a les ILLES"
+	cont "SEAFOAM."
 
-	para "FUCHSIA POLICE"
+	para "POLICIA FUCHSIA"
 	done
 
 Route19_MapEvents:

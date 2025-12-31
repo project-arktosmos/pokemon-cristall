@@ -261,147 +261,146 @@ Route30_MikeysRattataAttacksMovement:
 	step_end
 
 Text_UseTackle:
-	text "Go, RATTATA!"
+	text "Endavant,"
+	line "RATTATA!"
 
 	para "TACKLE!"
 	done
 
 Text_ThisIsABigBattle:
-	text "What? This is a"
-	line "big battle!"
-	cont "Leave me alone!"
+	text "Què? Estic en un"
+	line "combat important!"
+	cont "Deixa'm en pau!"
 	done
 
 YoungsterJoey1SeenText:
-	text "I just lost, so"
-	line "I'm trying to find"
-	cont "more #MON."
+	text "Acabo de perdre i"
+	line "busco més #MON."
 
-	para "Wait! You look"
-	line "weak! Come on,"
-	cont "let's battle!"
+	para "Espera! Sembles"
+	line "feble! Vine,"
+	cont "lluitem!"
 	done
 
 YoungsterJoey1BeatenText:
-	text "Ack! I lost again!"
-	line "Doggone it!"
+	text "Ai! He tornat a"
+	line "perdre! Renoi!"
 	done
 
 YoungsterJoey1AfterText:
-	text "Do I have to have"
-	line "more #MON in"
+	text "Cal que tingui"
+	line "més #MON per"
 
-	para "order to battle"
-	line "better?"
+	para "lluitar millor?"
 
-	para "No! I'm sticking"
-	line "with this one no"
-	cont "matter what!"
+	para "No! Em quedaré"
+	line "amb aquest passi"
+	cont "el que passi!"
 	done
 
 YoungsterMikeySeenText:
-	text "You're a #MON"
-	line "trainer, right?"
+	text "Ets un entrenador"
+	line "de #MON, oi?"
 
-	para "Then you have to"
-	line "battle!"
+	para "Doncs has de"
+	line "lluitar!"
 	done
 
 YoungsterMikeyBeatenText:
-	text "That's strange."
-	line "I won before."
+	text "Que estrany."
+	line "Abans guanyava."
 	done
 
 YoungsterMikeyAfterText:
-	text "Becoming a good"
-	line "trainer is really"
-	cont "tough."
+	text "Ser un bon"
+	line "entrenador és"
+	cont "molt difícil."
 
-	para "I'm going to bat-"
-	line "tle other people"
-	cont "to get better."
+	para "Lluitaré amb"
+	line "altres per"
+	cont "millorar."
 	done
 
 BugCatcherDonSeenText:
-	text "Instead of a bug"
-	line "#MON, I found"
-	cont "a trainer!"
+	text "En lloc d'un"
+	line "#MON insecte,"
+	cont "trobo un jove!"
 	done
 
 BugCatcherDonBeatenText:
-	text "Argh! You're too"
-	line "strong!"
+	text "Argh! Ets massa"
+	line "fort!"
 	done
 
 BugCatcherDonAfterText:
-	text "I ran out of #"
-	line "BALLS while I was"
-	cont "catching #MON."
+	text "M'he quedat sense"
+	line "# BALLS mentre"
+	cont "atrapava #MON."
 
-	para "I should've bought"
-	line "some more…"
+	para "Hauria d'haver-ne"
+	line "comprat més…"
 	done
 
 Route30YoungsterText_DirectionsToMrPokemonsHouse:
-	text "MR.#MON's"
-	line "house? It's a bit"
-	cont "farther ahead."
+	text "La casa del Sr."
+	line "#MON? És una"
+	cont "mica més endavant."
 	done
 
 Route30YoungsterText_EveryoneIsBattling:
-	text "Everyone's having"
-	line "fun battling!"
-	cont "You should too!"
+	text "Tots gaudeixen"
+	line "dels combats!"
+	cont "Tu també hauries!"
 	done
 
 Route30CooltrainerFText:
-	text "I'm not a trainer."
+	text "No sóc entrenador."
 
-	para "But if you look"
-	line "one in the eyes,"
-	cont "prepare to battle."
+	para "Però si en mires"
+	line "un als ulls,"
+	cont "prepara't!"
 	done
 
 Route30SignText:
-	text "ROUTE 30"
+	text "RUTA 30"
 
-	para "VIOLET CITY -"
-	line "CHERRYGROVE CITY"
+	para "CIUTAT VIOLETA -"
+	line "CIUTAT CIRERER"
 	done
 
 MrPokemonsHouseDirectionsSignText:
-	text "MR.#MON'S HOUSE"
-	line "STRAIGHT AHEAD!"
+	text "CASA SR. #MON"
+	line "TOT RECTE!"
 	done
 
 MrPokemonsHouseSignText:
-	text "MR.#MON'S HOUSE"
+	text "CASA SR. #MON"
 	done
 
 Route30TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "No stealing other"
-	line "people's #MON!"
+	para "No robis #MON"
+	line "d'altres!"
 
-	para "# BALLS are to"
-	line "be thrown only at"
-	cont "wild #MON!"
+	para "Les # BALLS"
+	line "són per llançar"
+	cont "a #MON salvat.!"
 	done
 
 YoungsterJoeyText_GiveHPUpAfterBattle:
-	text "I lost again…"
-	line "Gee, you're tough!"
+	text "He perdut altra"
+	line "cop… Ets fort!"
 
-	para "Oh yeah, I almost"
-	line "forgot that I had"
-	cont "to give you this."
+	para "Ah sí, gairebé"
+	line "oblido que t'he"
+	cont "de donar això."
 
-	para "Use it to get even"
-	line "tougher, OK?"
+	para "Fes-lo servir per"
+	line "ser més fort, va?"
 
-	para "I'm going to get"
-	line "tougher too."
+	para "Jo també em faré"
+	line "més fort."
 	done
 
 Route30_MapEvents:

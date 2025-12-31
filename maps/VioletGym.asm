@@ -111,172 +111,175 @@ VioletGymStatue:
 	jumpstd GymStatue2Script
 
 FalknerIntroText:
-	text "I'm FALKNER, the"
-	line "VIOLET #MON GYM"
-	cont "leader!"
+	text "Sóc FALKNER, el"
+	line "Líder del Gimnàs"
+	cont "#MON de VIOLET!"
 
-	para "People say you can"
-	line "clip flying-type"
+	para "Diuen que pots"
+	line "tallar les ales"
 
-	para "#MON's wings"
-	line "with a jolt of"
-	cont "electricity…"
+	para "dels #MON de"
+	line "tipus volador amb"
+	cont "electricitat…"
 
-	para "I won't allow such"
-	line "insults to bird"
-	cont "#MON!"
+	para "No permetré tals"
+	line "insults als"
+	cont "#MON ocell!"
 
-	para "I'll show you the"
-	line "real power of the"
+	para "Et mostraré el"
+	line "veritable poder"
 
-	para "magnificent bird"
-	line "#MON!"
+	para "dels magnífics"
+	line "#MON ocell!"
 	done
 
 FalknerWinLossText:
-	text "…Darn! My dad's"
-	line "cherished bird"
-	cont "#MON…"
+	text "…Renoi! Els"
+	line "#MON"
+	cont "ocell del meu"
+	cont "pare…"
 
-	para "All right."
-	line "Take this."
+	para "D'acord."
+	line "Pren això."
 
-	para "It's the official"
-	line "#MON LEAGUE"
-	cont "ZEPHYRBADGE."
+	para "És la MEDALLA"
+	line "CÉFIR oficial de"
+	cont "la LLIGA #MON."
 	done
 
 ReceivedZephyrBadgeText:
-	text "<PLAYER> received"
-	line "ZEPHYRBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA CÉFIR."
 	done
 
 FalknerZephyrBadgeText:
-	text "ZEPHYRBADGE"
-	line "raises the attack"
-	cont "power of #MON."
+	text "La MEDALLA CÉFIR"
+	line "augmenta el poder"
+	cont "d'atac dels"
+	cont "#MON."
 
-	para "It also enables"
-	line "#MON to use"
+	para "També permet als"
+	line "#MON fer servir"
 
-	para "FLASH, if they"
-	line "have it, anytime."
+	para "FLASH, si el"
+	line "tenen, sempre."
 
-	para "Here--take this"
-	line "too."
+	para "Té, pren això"
+	line "també."
 	done
 
 FalknerTMMudSlapText:
-	text "By using a TM, a"
-	line "#MON will"
+	text "Amb un MT, un"
+	line "#MON aprendrà"
 
-	para "instantly learn a"
-	line "new move."
+	para "un nou moviment"
+	line "a l'instant."
 
-	para "Think before you"
-	line "act--a TM can be"
-	cont "used only once."
+	para "Pensa abans"
+	line "d'actuar: un MT"
+	cont "s'usa un sol cop."
 
-	para "TM31 contains"
+	para "El MT31 conté"
 	line "MUD-SLAP."
 
-	para "It reduces the"
-	line "enemy's accuracy"
+	para "Redueix la"
+	line "precisió de"
 
-	para "while it causes"
-	line "damage."
+	para "l'enemic mentre"
+	line "fa mal."
 
-	para "In other words, it"
-	line "is both defensive"
-	cont "and offensive."
+	para "És a dir, és tant"
+	line "defensiu com"
+	cont "ofensiu."
 	done
 
 FalknerFightDoneText:
-	text "There are #MON"
-	line "GYMS in cities and"
-	cont "towns ahead."
+	text "Hi ha GIMNASOS"
+	line "#MON a ciutats"
+	cont "i pobles propers."
 
-	para "You should test"
-	line "your skills at"
-	cont "these GYMS."
+	para "Hauries de provar"
+	line "les teves habilit."
+	cont "en aquests GIMN.!"
 
-	para "I'm going to train"
-	line "harder to become"
+	para "Entrenaré més dur"
+	line "per convertir-me"
 
-	para "the greatest bird"
-	line "master!"
+	para "en el millor"
+	line "mestre d'ocells!"
 	done
 
 BirdKeeperRodSeenText:
-	text "The keyword is"
-	line "guts!"
+	text "La clau és el"
+	line "coratge!"
 
-	para "Those here are"
-	line "training night and"
+	para "Els d'aquí"
+	line "entrenem nit i"
 
-	para "day to become bird"
-	line "#MON masters."
+	para "dia per ser"
+	line "mestres d'ocells."
 
-	para "Come on!"
+	para "Vine!"
 	done
 
 BirdKeeperRodBeatenText:
-	text "Gaaah!"
+	text "Aaaah!"
 	done
 
 BirdKeeperRodAfterBattleText:
-	text "FALKNER's skills"
-	line "are for real!"
+	text "Les habilitats de"
+	line "FALKNER són reals!"
 
-	para "Don't get cocky"
-	line "just because you"
-	cont "beat me!"
+	para "No et confiïs"
+	line "només perquè"
+	cont "m'has guanyat!"
 	done
 
 BirdKeeperAbeSeenText:
-	text "Let me see if you"
-	line "are good enough to"
-	cont "face FALKNER!"
+	text "Deixa'm veure si"
+	line "ets prou bo per"
+	cont "enfrontar FALKNER!"
 	done
 
 BirdKeeperAbeBeatenText:
-	text "This can't be"
-	line "true!"
+	text "Això no pot ser"
+	line "veritat!"
 	done
 
 BirdKeeperAbeAfterBattleText:
-	text "This is pathetic,"
-	line "losing to some"
-	cont "rookie trainer…"
+	text "Això és patètic,"
+	line "perdre contra un"
+	cont "entrenador novell…"
 	done
 
 VioletGymGuideText:
-	text "Hey! I'm no train-"
-	line "er but I can give"
-	cont "some advice!"
+	text "Ei! No sóc entre-"
+	line "nador però et puc"
+	cont "donar consells!"
 
-	para "Believe me!"
-	line "If you believe, a"
+	para "Creu-me!"
+	line "Si creus, el somni"
 
-	para "championship dream"
-	line "can come true."
+	para "de ser campió es"
+	line "pot fer realitat."
 
-	para "You believe?"
-	line "Then listen."
+	para "Hi creus?"
+	line "Doncs escolta."
 
-	para "The grass-type is"
-	line "weak against the"
+	para "El tipus planta és"
+	line "feble contra el"
 
-	para "flying-type. Keep"
-	line "this in mind."
+	para "tipus volador."
+	line "Recorda-ho."
 	done
 
 VioletGymGuideWinText:
-	text "Nice battle! Keep"
-	line "it up, and you'll"
+	text "Bon combat!"
+	line "Segueix"
+	cont "així, i seràs"
 
-	para "be the CHAMP in no"
-	line "time at all!"
+	para "el CAMPIÓ en un"
+	line "no res!"
 	done
 
 VioletGym_MapEvents:

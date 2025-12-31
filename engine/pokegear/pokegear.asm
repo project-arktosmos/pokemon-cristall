@@ -1743,14 +1743,14 @@ NoRadioName:
 	call Textbox
 	ret
 
-OaksPKMNTalkName:     db "OAK's <PK><MN> Talk@"
-PokedexShowName:      db "#DEX Show@"
-PokemonMusicName:     db "#MON Music@"
-LuckyChannelName:     db "Lucky Channel@"
+OaksPKMNTalkName:     db "Xat # d'OAK@"
+PokedexShowName:      db "Show #DEX@"
+PokemonMusicName:     db "Música #MON@"
+LuckyChannelName:     db "Canal Sort@"
 UnownStationName:     db "?????@"
 
-PlacesAndPeopleName:  db "Places & People@"
-LetsAllSingName:      db "Let's All Sing!@"
+PlacesAndPeopleName:  db "Llocs i gent@"
+LetsAllSingName:      db "Cantem tots!@"
 PokeFluteStationName: db "# FLUTE@"
 
 _TownMap:
@@ -2177,7 +2177,7 @@ TownMapBubble:
 	ret
 
 .Where:
-	db "Where?@"
+	db "On?@"
 
 .Name:
 ; We need the map location of the default flypoint

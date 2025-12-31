@@ -35,47 +35,46 @@ Route10Pokecenter1FCooltrainerFScript:
 	jumptextfaceplayer Route10Pokecenter1FCooltrainerFText
 
 Route10Pokecenter1FGentlemanText:
-	text "A #MON CENTER"
-	line "near a cave?"
+	text "Un Centre # a"
+	line "prop d'una cova?"
 
-	para "That's mighty"
-	line "convenient."
+	para "Molt pràctic."
 	done
 
 Route10Pokecenter1FGymGuideText:
-	text "The POWER PLANT's"
-	line "MANAGER is looking"
+	text "El DIRECTOR de la"
+	line "CENTRAL ELÈCTRICA"
 
-	para "for a strong #-"
-	line "MON trainer."
+	para "busca un entrena-"
+	line "dor de # fort."
 
-	para "He needs help"
-	line "getting back"
+	para "Necessita ajuda"
+	line "per recuperar una"
 
-	para "something that"
-	line "was stolen."
+	para "cosa que li han"
+	line "robat."
 	done
 
 Route10Pokecenter1FGymGuideText_ReturnedMachinePart:
-	text "I hear TEAM ROCKET"
-	line "got back together"
+	text "He sentit dir que"
+	line "el TEAM ROCKET es"
 
-	para "in JOHTO but fell"
-	line "apart right away."
+	para "va reunir a JOHTO"
+	line "però va fracassar."
 
-	para "I didn't know any-"
-	line "thing about that."
+	para "No en sabia res,"
+	line "d'això."
 	done
 
 Route10Pokecenter1FCooltrainerFText:
-	text "When you go out-"
-	line "side, you can see"
+	text "Si surts a fora,"
+	line "pots veure la"
 
-	para "the roof of a big"
-	line "building."
+	para "teulada d'un gran"
+	line "edifici."
 
-	para "That's the POWER"
-	line "PLANT."
+	para "És la CENTRAL"
+	line "ELÈCTRICA."
 	done
 
 Route10Pokecenter1F_MapEvents:

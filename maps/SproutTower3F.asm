@@ -152,179 +152,192 @@ SproutTower3FRivalLeavesElderMovement:
 	step_end
 
 SproutTowerElderLecturesRivalText:
-	text "ELDER: You are in-"
-	line "deed skilled as a"
-	cont "trainer."
+	text "ANCIÀ: Ets un"
+	line "entrenador molt"
+	cont "hàbil, certament."
 
-	para "As promised, here"
-	line "is your HM."
+	para "Com vaig prometre,"
+	line "aquí tens la teva"
+	cont "MO."
 
-	para "But let me say"
-	line "this: You should"
+	para "Però deixa'm dir-"
+	line "te una cosa:"
+	cont "hauri-"
+	cont "es tractar millor"
+	cont "els teus #MON."
 
-	para "treat your"
-	line "#MON better."
+	para "La manera com"
+	line "lluites és massa"
+	cont "dura."
 
-	para "The way you battle"
-	line "is far too harsh."
-
-	para "#MON are not"
-	line "tools of war…"
+	para "Els #MON no són"
+	line "eines de guerra…"
 	done
 
 SproutTowerRivalOnlyCareAboutStrongText:
 	text "…"
-	line "…Humph!"
+	line "…Bah!"
 
-	para "He claims to be"
-	line "the ELDER but"
-	cont "he's weak."
+	para "Diu que és"
+	line "l'ANCIÀ però"
+	cont "és feble."
 
-	para "It stands to"
-	line "reason."
+	para "Era d'esperar."
 
-	para "I'd never lose to"
-	line "fools who babble"
+	para "Mai perdria contra"
+	line "ximples que xerren"
 
-	para "about being nice"
-	line "to #MON."
+	para "sobre tractar bé"
+	line "els #MON."
 
-	para "I only care about"
-	line "strong #MON"
-	cont "that can win."
+	para "Només m'importen"
+	line "els #MON forts"
+	cont "que poden guanyar."
 
-	para "I really couldn't"
-	line "care less about"
-	cont "weak #MON."
+	para "Els #MON febles"
+	line "m'importen ben"
+	cont "poc."
 	done
 
 SproutTowerRivalUsedEscapeRopeText:
-	text "<RIVAL> used an"
-	line "ESCAPE ROPE!"
+	text "<RIVAL> ha usat"
+	line "una CORDA FUITA!"
 	done
 
 SageLiSeenText:
-	text "So good of you to"
-	line "come here!"
+	text "Molt bé que hagis"
+	line "vingut!"
 
-	para "SPROUT TOWER is a"
-	line "place of training."
+	para "La TORRE"
+	line "BELLSPROUT"
+	cont "és un lloc"
+	cont "d'entrenament."
 
-	para "People and #MON"
-	line "test their bonds"
+	para "Persones i #MON"
+	line "posen a prova els"
+	cont "seus vincles"
 
-	para "to build a bright"
-	line "future together."
+	para "per construir un"
+	line "futur brillant"
+	cont "junts."
 
-	para "I am the final"
-	line "test."
+	para "Jo sóc la prova"
+	line "final."
 
-	para "Allow me to check"
-	line "the ties between"
+	para "Deixa'm comprovar"
+	line "els llaços entre"
 
-	para "your #MON and"
-	line "you!"
+	para "tu i els teus"
+	line "#MON!"
 	done
 
 SageLiBeatenText:
-	text "Ah, excellent!"
+	text "Ah, excel·lent!"
 	done
 
 SageLiTakeThisFlashText:
-	text "You and your #-"
-	line "MON should have"
+	text "Tu i els teus"
+	line "#MON no hauríeu"
 
-	para "no problem using"
-	line "this move."
+	para "de tenir cap"
+	line "problema usant"
+	cont "aquest moviment."
 
-	para "Take this FLASH"
-	line "HM."
+	para "Pren aquesta MO"
+	line "FLASH."
 	done
 
 SageLiFlashExplanationText:
-	text "FLASH illuminates"
-	line "even the darkest"
-	cont "of all places."
+	text "FLASH il·lumina"
+	line "fins i tot els"
+	cont "llocs més foscos."
 
-	para "But to use it out"
-	line "of battle, you"
+	para "Però per usar-lo"
+	line "fora de combat,"
 
-	para "need the BADGE"
-	line "from VIOLET's GYM."
+	para "necessites la"
+	line "MEDALLA del GIM"
+	cont "de VIOLETA."
 	done
 
 SageLiAfterBattleText:
-	text "I hope you learn"
-	line "and grow from your"
-	cont "journey."
+	text "Espero que"
+	line "aprenguis"
+	cont "i creixis amb el"
+	cont "teu viatge."
 	done
 
 SageJinSeenText:
-	text "I train to find"
-	line "enlightenment in"
-	cont "#MON!"
+	text "Entreno per trobar"
+	line "la il·luminació"
+	cont "en els #MON!"
 	done
 
 SageJinBeatenText:
-	text "My training is"
-	line "incomplete…"
+	text "El meu entrena-"
+	line "ment és incomplet…"
 	done
 
 SageJinAfterBattleText:
-	text "As #MON grow"
-	line "stronger, so does"
-	cont "the trainer."
+	text "Quan els #MON"
+	line "es"
+	cont "fan més forts,"
+	cont "l'entrenador"
+	cont "també."
 
-	para "No, wait. As the"
-	line "trainer grows"
+	para "No, espera. Quan"
+	line "l'entrenador es"
 
-	para "stronger, so do"
-	line "the #MON."
+	para "fa més fort, els"
+	line "#MON també."
 	done
 
 SageTroySeenText:
-	text "Let me see how"
-	line "much you trust"
-	cont "your #MON."
+	text "Deixa'm veure"
+	line "quant"
+	cont "confies en els"
+	cont "teus #MON."
 	done
 
 SageTroyBeatenText:
-	text "Yes, your trust is"
-	line "real!"
+	text "Sí, la teva"
+	line "confiança és real!"
 	done
 
 SageTroyAfterBattleText:
-	text "It is not far to"
-	line "the ELDER."
+	text "L'ANCIÀ no és"
+	line "gaire lluny."
 	done
 
 SageNealSeenText:
-	text "The ELDER's HM"
-	line "lights even pitch-"
-	cont "black darkness."
+	text "La MO de l'ANCIÀ"
+	line "il·lumina fins i"
+	cont "tot la foscor més"
+	cont "negra."
 	done
 
 SageNealBeatenText:
-	text "It is my head that"
-	line "is bright!"
+	text "És el meu cap el"
+	line "que brilla!"
 	done
 
 SageNealAfterBattleText:
-	text "Let there be light"
-	line "on your journey."
+	text "Que hi hagi llum"
+	line "en el teu viatge."
 	done
 
 SproutTower3FPaintingText:
-	text "It's a powerful"
-	line "painting of a"
+	text "És una pintura"
+	line "poderosa d'un"
 	cont "BELLSPROUT."
 	done
 
 SproutTower3FStatueText:
-	text "A #MON statue…"
+	text "Una estàtua de"
+	line "#MON…"
 
-	para "It looks very"
-	line "distinguished."
+	para "Sembla molt"
+	line "distingida."
 	done
 
 SproutTower3F_MapEvents:

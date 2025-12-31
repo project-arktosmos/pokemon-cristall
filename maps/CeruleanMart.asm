@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CERULEANMART_CLERK
 	const CERULEANMART_COOLTRAINER_M
 	const CERULEANMART_COOLTRAINER_F
@@ -21,26 +21,26 @@ CeruleanMart_CooltrainerF:
 	jumptextfaceplayer CeruleanMart_CooltrainerFText
 
 CeruleanMart_CooltrainerMText:
-	text "You'll run into"
-	line "many trainers on"
+	text "Trobaràs molts"
+	line "entrenadors de"
 
-	para "the way to CERU-"
-	line "LEAN's CAPE."
+	para "camí al CAP de"
+	line "CERULEAN."
 
-	para "They want to see"
-	line "how they stack"
+	para "Volen veure com"
+	line "es comparen amb"
 
-	para "up against other"
-	line "trainers."
+	para "els altres"
+	line "entrenadors."
 	done
 
 CeruleanMart_CooltrainerFText:
-	text "MISTY is about the"
-	line "only person in"
+	text "MISTY és gairebé"
+	line "l'única de la"
 
-	para "town who can beat"
-	line "the trainers at"
-	cont "CERULEAN's CAPE."
+	para "ciutat que pot"
+	line "guanyar els"
+	cont "del CAP CERULEAN."
 	done
 
 CeruleanMart_MapEvents:

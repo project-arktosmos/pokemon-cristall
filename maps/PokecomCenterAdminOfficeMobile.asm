@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const POKECOMCENTERADMINOFFICEMOBILE_SCIENTIST1
 	const POKECOMCENTERADMINOFFICEMOBILE_SCIENTIST2
 	const POKECOMCENTERADMINOFFICEMOBILE_SCIENTIST3
@@ -55,9 +55,9 @@ PokecomCenterAdminOfficeMobileComputer1:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "#　つうしん　クラブ@" ; # COM CLUB
-	db "モバイルセンター@" ; MOBILE CENTER
-	db "やめる@" ; QUIT
+	db "CLUB #COM@"
+	db "CENTRE MÒBIL@"
+	db "SORTIR@"
 
 PokecomCenterAdminOfficeMobileComputer2:
 	opentext
@@ -97,165 +97,175 @@ PokecomCenterAdminOfficeMobileComputer2:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "でんわ<WO>つかうとき@" ; Use phone
-	db "でんわ<GA>つながらないとき@" ; Don't use phone
-	db "やめる@" ; QUIT
+	db "Usar el telèfon@"
+	db "No puc connectar@"
+	db "SORTIR@"
 
 PokecomCenterAdminOfficeMobileComputer3:
 	jumptext PokecomCenterAdminOfficeMobileComputer3Text
 
 PokecomCenterAdminOfficeMobileScientist1Text:
-	text "#COM CENTER and"
-	line "MOBILE CENTER were"
+	text "El CENTRE #COM"
+	line "i"
+	cont "el CENTRE MÒBIL"
 
-	para "built to satisfy"
-	line "demands for trades"
+	para "es van construir"
+	line "per satisfer la"
 
-	para "and battles with"
-	line "trainers far away"
+	para "demanda d'interc."
+	line "i combats amb"
 
-	para "and with total"
-	line "strangers."
+	para "entrenadors"
+	line "llunyans i amb"
+	cont "desconeguts."
 	done
 
 PokecomCenterAdminOfficeMobileScientist2Text:
-	text "When you linked"
-	line "with someone by"
+	text "Quan et vas"
+	line "connectar amb algú"
 
-	para "mobile phone for"
-	line "the first time,"
+	para "per telèfon mòbil"
+	line "per primera vegada"
 
-	para "weren't you"
-	line "impressed?"
+	para "no et va"
+	line "impressionar?"
 
-	para "When my first try"
-	line "worked, I was so"
+	para "Quan el meu primer"
+	line "intent va funcio-"
 
-	para "impressed that I"
-	line "got the shakes!"
+	para "nar, em vaig"
+	line "emocionar tant que"
+	cont "em van tremolar!"
 	done
 
 PokecomCenterAdminOfficeMobileScientist3Text:
-	text "They were able to"
-	line "build this huge"
+	text "Van poder"
+	line "construir"
+	cont "aquestes grans"
 
-	para "facility thanks to"
-	line "advances in wire-"
-	cont "less technology."
+	para "instal·lacions"
+	line "gràcies als aven-"
+	cont "ços sense fils."
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text:
-	text "It's a notice"
-	line "about where MOBILE"
+	text "És un avís sobre"
+	line "on s'han d'usar"
 
-	para "ADAPTERS are to be"
-	line "used…"
+	para "els ADAPTADORS"
+	line "MÒBILS…"
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text_PokeComClub:
-	text "There's a #COM"
-	line "CLUB upstairs in"
+	text "Hi ha un CLUB"
+	line "#COM al pis de"
 
-	para "any #MON"
-	line "CENTER."
+	para "dalt de qualsevol"
+	line "CENTRE #MON."
 
-	para "There, you can"
-	line "battle or trade"
+	para "Allà pots comba-"
+	line "tre o intercanviar"
 
-	para "with a friend far"
-	line "away by using a"
-	cont "MOBILE ADAPTER."
+	para "amb un amic llunyà"
+	line "usant un ADAPTADOR"
+	cont "MÒBIL."
 
-	para "To link up, your"
-	line "friend must have"
+	para "Per connectar-te,"
+	line "el teu amic ha de"
 
-	para "the same kind of"
-	line "MOBILE ADAPTER as"
-	cont "you."
+	para "tenir el mateix"
+	line "tipus d'ADAPTADOR"
+	cont "MÒBIL que tu."
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text_MobileCenter:
-	text "To use the TRADE"
-	line "CORNER or read the"
+	text "Per usar el RACÓ"
+	line "D'INTERCANVI o"
 
-	para "#MON NEWS, you"
-	line "need to phone the"
-	cont "MOBILE CENTER."
+	para "llegir NOTÍCIES"
+	line "#MON, has de"
+	cont "trucar al CENTRE"
+	cont "MÒBIL."
 
-	para "You must register"
-	line "at the MOBILE"
+	para "T'has de registrar"
+	line "al CENTRE MÒBIL"
 
-	para "CENTER before"
-	line "connecting there."
+	para "abans de"
+	line "connectar-t'hi."
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text:
-	text "It's a notice"
-	line "about using the"
-	cont "phone…"
+	text "És un avís sobre"
+	line "l'ús del"
+	cont "telèfon…"
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text_UsePhone:
-	text "Please ensure that"
-	line "your phone and"
+	text "Assegura't que el"
+	line "telèfon i"
 
-	para "MOBILE ADAPTER are"
-	line "properly linked."
+	para "l'ADAPTADOR MÒBIL"
+	line "estiguin ben"
+	cont "connectats."
 
-	para "Please make sure"
-	line "the wireless phone"
-	cont "signal is strong."
+	para "Assegura't que el"
+	line "senyal del telèfon"
+	cont "sigui fort."
 
-	para "Don't touch or"
-	line "hang up the phone"
-	cont "while linking."
+	para "No toquis ni"
+	line "pengis el telèfon"
+	cont "mentre connectes."
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text_DontUsePhone:
-	text "If the server is"
-	line "busy, it may not"
+	text "Si el servidor"
+	line "està ocupat, pot"
 
-	para "be possible to log"
-	line "on."
+	para "ser que no puguis"
+	line "connectar-te."
 
-	para "If so, please call"
-	line "back later."
+	para "Si és així, torna"
+	line "a trucar més tard."
 
-	para "If you are unable"
-	line "to log on or don't"
+	para "Si no pots"
+	line "connectar-te o no"
 
-	para "understand the"
-	line "error messages,"
+	para "entens els"
+	line "missatges d'error,"
 
-	para "call a support"
-	line "center or read the"
-	cont "instructions."
+	para "truca a un centre"
+	line "d'assistència o"
+	cont "llegeix el manual."
 	done
 
 PokecomCenterAdminOfficeMobileComputer3Text:
-	text "The ADMINISTRATION"
-	line "OFFICE received an"
-	cont "e-mail. It says…"
+	text "L'OFICINA"
+	line "D'ADMINISTRACIÓ ha"
+	cont "rebut un e-mail…"
 
 	para "<……> <……> <……>"
 
-	para "To the #COM"
-	line "CENTER staff…"
+	para "Al personal del"
+	line "CENTRE #COM…"
 
-	para "Wireless communi-"
-	line "cation has enabled"
+	para "La comunicació"
+	line "sense fils ha"
 
-	para "#MON trainers"
-	line "to interact across"
+	para "permès que els"
+	line "entrenadors de"
 
-	para "the nation. Let's"
-	line "keep working for"
+	para "#MON interac-"
+	line "tuïn arreu del"
 
-	para "the day when all"
-	line "the trainers in"
+	para "país. Continuem"
+	line "treballant pel dia"
 
-	para "the world can link"
-	line "without barriers!"
+	para "en què tots els"
+	line "entrenadors del"
+
+	para "món es puguin"
+	line "connectar sense"
+	cont "barreres!"
 
 	para "<……> <……> <……>"
 	done

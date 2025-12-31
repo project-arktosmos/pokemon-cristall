@@ -129,217 +129,219 @@ WiseTriosRoomSageAllowsPassageMovement:
 	step_end
 
 WiseTriosRoomSage1Text:
-	text "Astounding…"
+	text "Increïble…"
 
-	para "SUICUNE, ENTEI and"
-	line "RAIKOU have arisen"
-	cont "from their sleep…"
+	para "SUICUNE, ENTEI i"
+	line "RAIKOU s'han"
+	cont "despertat…"
 
-	para "Is the legend"
-	line "coming true?"
+	para "S'està fent"
+	line "realitat la"
+	cont "llegenda?"
 	done
 
 WiseTriosRoomSage2Text:
-	text "We train at the"
-	line "BURNED TOWER, but"
+	text "Ens entrenem a la"
+	line "TORRE CREMADA,"
 
-	para "we've never heard"
-	line "of a hole opening"
+	para "però mai havíem"
+	line "sentit que s'hi"
 
-	para "up there before."
-	line "It must have been"
+	para "obrís un forat."
+	line "Algú l'ha d'haver"
 
-	para "deliberately made"
-	line "by someone."
+	para "fet expressament."
 	done
 
 WiseTriosRoomSage3BlocksExitText:
-	text "TIN TOWER may be"
-	line "entered by those"
+	text "A la TORRE ESTANY"
+	line "hi poden entrar"
 
-	para "bearing ECRUTEAK's"
-	line "GYM BADGE."
+	para "els qui tinguin la"
+	line "MEDALLA D'ECRUTEAK"
 
-	para "However, now that"
+	para "Però ara que"
 	line "SUICUNE, RAIKOU"
 
-	para "and ENTEI have"
-	line "arisen, I ask you"
+	para "i ENTEI s'han"
+	line "despertat, et"
+	cont "prego"
 
-	para "to refrain from"
-	line "entering!"
+	para "que no hi entris!"
 	done
 
 WiseTriosRoomSage3Text:
-	text "We, the WISE TRIO,"
-	line "are the protectors"
+	text "Nosaltres, el TRIO"
+	line "SAVI, som els"
 
-	para "of the legendary"
-	line "#MON."
+	para "protectors dels"
+	line "#MON"
+	cont "llegendaris."
 	done
 
 SageGakuSeenText:
-	text "Legend has it that"
-	line "upon the emergence"
+	text "Diu la llegenda"
+	line "que quan aparegui"
 
-	para "of a trainer who"
-	line "has the ability to"
+	para "un entrenador que"
+	line "pugui tocar les"
 
-	para "touch the souls of"
-	line "#MON, a #MON"
+	para "ànimes dels"
+	line "#MON,"
+	cont "un #MON vindrà"
 
-	para "will come forth to"
-	line "put that trainer"
+	para "a posar a prova"
+	line "l'entrenador a la"
 
-	para "to test at the TIN"
-	line "TOWER."
+	para "TORRE ESTANY."
 
-	para "The legend has"
-	line "come true!"
+	para "La llegenda s'ha"
+	line "fet realitat!"
 
-	para "The legendary"
-	line "#MON SUICUNE"
-	cont "has arrived!"
+	para "El #MON"
+	line "llegendari SUICUNE"
+	cont "ha arribat!"
 
-	para "We, the WISE TRIO,"
-	line "shall test your"
+	para "Nosaltres, el TRIO"
+	line "SAVI, posarem a"
 
-	para "worthiness to go"
-	line "inside!"
+	para "prova si mereixes"
+	line "entrar-hi!"
 	done
 
 SageGakuBeatenText:
-	text "Stronger than we"
-	line "thought? Perhaps…"
+	text "Més fort del que"
+	line "pensàvem? Potser…"
 	done
 
 SageGakuAfterBattleText:
-	text "Ah, so it is you"
-	line "who claim to have"
+	text "Ah, així que ets"
+	line "tu el qui diu que"
 
-	para "seen SUICUNE,"
-	line "ENTEI and RAIKOU"
-	cont "while they slept?"
+	para "va veure SUICUNE,"
+	line "ENTEI i RAIKOU"
+	cont "mentre dormien?"
 
-	para "Unbelievable!"
+	para "Increïble!"
 
-	para "Legend has it that"
-	line "they can't be seen"
-	cont "while they sleep…"
+	para "Diu la llegenda"
+	line "que no es poden"
+	cont "veure quan dormen…"
 	done
 
 SageMasaSeenText:
-	text "Can you be trusted"
-	line "with the truth?"
+	text "Se't pot confiar"
+	line "la veritat?"
 
-	para "I must ascertain"
-	line "your worthiness."
+	para "He de comprovar"
+	line "si ets digne."
 	done
 
 SageMasaBeatenText:
-	text "…I will tell you"
-	line "the truth…"
+	text "…T'explicaré"
+	line "la veritat…"
 	done
 
 SageMasaAfterBattleText:
-	text "In the past, there"
-	line "were two nine-tier"
-	cont "towers here."
+	text "Antigament, aquí"
+	line "hi havia dues"
+	cont "torres de 9 pisos."
 
-	para "The BRASS TOWER,"
-	line "which was said to"
+	para "La TORRE LLAUTÓ,"
+	line "on es deia que els"
 
-	para "awaken #MON,"
-	line "and the TIN TOWER,"
+	para "#MON es"
+	line "despertaven, i la"
 
-	para "where #MON were"
-	line "said to rest."
+	para "TORRE ESTANY, on"
+	line "es deia que"
+	cont "descansaven."
 
-	para "The view from the"
-	line "tops of the TOWERS"
+	para "Les vistes des"
+	line "dels cims de les"
 
-	para "must have been"
-	line "magnificent."
+	para "TORRES devien ser"
+	line "magnífiques."
 
-	para "At the time, an"
-	line "immense, silver-"
+	para "Aleshores, es deia"
+	line "que un #MON"
 
-	para "colored #MON"
-	line "was said to make"
+	para "immens de color"
+	line "argent s'estava"
 
-	para "its roost atop the"
-	line "BRASS TOWER."
+	para "al cim de la"
+	line "TORRE LLAUTÓ."
 
-	para "However…"
+	para "Però…"
 
-	para "About 150 years"
-	line "ago, a lightning"
+	para "Fa uns 150 anys,"
+	line "un llamp va colpir"
 
-	para "bolt struck one of"
-	line "the TOWERS."
+	para "una de les TORRES."
 
-	para "It was engulfed in"
-	line "flames that raged"
-	cont "for three days."
+	para "Les flames la van"
+	line "engolir durant"
+	cont "tres dies."
 
-	para "A sudden downpour"
-	line "finally put out"
-	cont "the blaze."
+	para "Un xàfec sobtat"
+	line "finalment va"
+	cont "apagar l'incendi."
 
-	para "And that is how"
-	line "the BURNED TOWER"
-	cont "came to be."
+	para "I així és com va"
+	line "néixer la TORRE"
+	cont "CREMADA."
 	done
 
 SageKojiSeenText:
-	text "Let me see your"
-	line "power!"
+	text "Deixa'm veure el"
+	line "teu poder!"
 	done
 
 SageKojiBeatenText:
-	text "Too strong!"
-	line "Why?"
+	text "Massa fort!"
+	line "Com pot ser?"
 	done
 
 SageKojiAfterBattleQuestionText:
-	text "You… Are you the"
-	line "trainer who is"
+	text "Tu… Ets tu"
+	line "l'entrenador que"
 
-	para "awaited by the"
-	line "legendary #MON?"
+	para "els #MON"
+	line "llegendaris"
+	cont "esperen?"
 	done
 
 SageKojiAfterBattleSpeechText:
-	text "I see…"
+	text "Ja veig…"
 
-	para "We, the WISE TRIO,"
-	line "have been given "
+	para "A nosaltres, el"
+	line "TRIO SAVI, ens han"
 
-	para "the responsibility"
-	line "of protecting the"
+	para "donat la tasca de"
+	line "protegir els"
+	cont "#MON"
 
-	para "legendary #MON."
-	line "We are to allow"
+	para "llegendaris."
+	line "Només podem deixar"
 
-	para "passage only to"
-	line "those people who"
+	para "passar aquells que"
+	line "tinguin el poder i"
 
-	para "possess the power"
-	line "and soul of truth."
+	para "l'ànima de la"
+	line "veritat."
 
-	para "Please, do go on"
-	line "and enter the TIN"
-	cont "TOWER ahead."
+	para "Si us plau, entra"
+	line "a la TORRE ESTANY."
 
-	para "SUICUNE will put"
-	line "you to the test."
+	para "SUICUNE et posarà"
+	line "a prova."
 	done
 
 SageKojiAfterBattleFinalText:
-	text "Please, do go on."
+	text "Si us plau, entra."
 
-	para "SUICUNE will put"
-	line "you to the test."
+	para "SUICUNE et posarà"
+	line "a prova."
 	done
 
 WiseTriosRoom_MapEvents:

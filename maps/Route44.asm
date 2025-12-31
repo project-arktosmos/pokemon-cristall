@@ -319,186 +319,188 @@ Route44HiddenElixer:
 	hiddenitem ELIXER, EVENT_ROUTE_44_HIDDEN_ELIXER
 
 FisherWilton1SeenText:
-	text "Aack! You made me"
-	line "lose a POLIWAG!"
+	text "Aah! M'has fet"
+	line "perdre un POLIWAG!"
 
-	para "What are you going"
-	line "to do about it?"
+	para "Què penses fer"
+	line "per solucionar-ho?"
 	done
 
 FisherWilton1BeatenText:
-	text "Just forget about"
-	line "it."
+	text "Oblida-ho."
 	done
 
 FisherWiltonHugePoliwagText:
-	text "That POLIWAG that"
-	line "got away…"
-	cont "It was huge."
+	text "Aquell POLIWAG que"
+	line "va escapar…"
+	cont "Era enorme."
 
-	para "I swear it must've"
-	line "been 16 feet long!"
+	para "Et juro que feia"
+	line "5 metres de llarg!"
 	done
 
 FisherEdgarSeenText:
-	text "I fish until I"
-	line "can't anymore."
+	text "Pesco fins que"
+	line "no puc més."
 
-	para "I also battle"
-	line "until I drop."
+	para "També lluito fins"
+	line "a caure rendit."
 
-	para "That's my"
-	line "relationship"
-	cont "with my #MON."
+	para "Aquesta és la meva"
+	line "relació amb els"
+	cont "meus #MON."
 	done
 
 FisherEdgarBeatenText:
-	text "Hmmmm… "
-	line "This isn't right."
+	text "Hmmmm…"
+	line "Això no està bé."
 	done
 
 FisherEdgarAfterBattleText:
-	text "That's 100 wins"
-	line "to 101 losses."
+	text "Són 100 victòries"
+	line "i 101 derrotes."
 
-	para "I won't battle"
-	line "again for a while."
+	para "No tornaré a"
+	line "lluitar en temps."
 	done
 
 BirdKeeperVance1SeenText:
-	text "Do you know about"
-	line "the legendary bird"
-	cont "#MON?"
+	text "Coneixes els"
+	line "#MON ocells"
+	cont "llegendaris?"
 	done
 
 BirdKeeperVance1BeatenText:
-	text "Whew! You're hot"
-	line "stuff."
+	text "Uau! Ets molt"
+	line "fort."
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
 	text "ARTICUNO, ZAPDOS"
-	line "and MOLTRES are"
+	line "i MOLTRES són"
 
-	para "the three legend-"
-	line "ary bird #MON."
+	para "els tres #MON"
+	line "ocells llegendaris"
 
-	para "I heard there are"
-	line "other legendary"
-	cont "birds, though."
+	para "Però he sentit que"
+	line "n'hi ha d'altres"
+	cont "de llegendaris."
 	done
 
 BirdKeeperVance2BeatenText:
-	text "Why can't I ever"
-	line "beat you?"
+	text "Per què no et puc"
+	line "guanyar mai?"
 
-	para "Oh yeah, here you"
-	line "go. It's that gift"
+	para "Ah, sí, aquí tens."
+	line "És el regal que"
 
-	para "I couldn't give"
-	line "you last time."
+	para "no et vaig poder"
+	line "donar l'altra cop."
 	done
 
 PsychicPhilSeenText:
-	text "I'm gonna win,"
-	line "for sure!"
+	text "Guanyaré,"
+	line "segur!"
 	done
 
 PsychicPhilBeatenText:
-	text "Arrgh… That's a"
-	line "shocking loss…"
+	text "Arrgh… Quina"
+	line "derrota tan dura…"
 	done
 
 PsychicPhilAfterBattleText:
-	text "It's important to"
-	line "have conviction"
-	cont "on your side."
+	text "És important tenir"
+	line "convicció al teu"
+	cont "costat."
 	done
 
 PokemaniacZachSeenText:
-	text "I'll do anything"
-	line "to get my hands on"
-	cont "rare #MON!"
+	text "Faré el que sigui"
+	line "per aconseguir"
+	cont "#MON rars!"
 	done
 
 PokemaniacZachBeatenText:
-	text "Oooh, your #MON"
-	line "are so appealing."
+	text "Oooh, els teus"
+	line "#MON són"
+	cont "genials."
 	done
 
 PokemaniacZachAfterBattleText:
-	text "If a #MON has"
-	line "different colors"
+	text "Si un #MON té"
+	line "colors diferents"
 
-	para "from usual, it's"
-	line "more valuable."
+	para "dels habituals, és"
+	line "més valuós."
 
-	para "What? You mean"
-	line "that's not true?"
+	para "Què? Vols dir que"
+	line "no és veritat?"
 	done
 
 CooltrainermAllenSeenText:
-	text "I can tell you're"
-	line "a good trainer by"
-	cont "looking at you."
+	text "Puc veure que ets"
+	line "un bon entrenador"
+	cont "només mirant-te."
 
-	para "I'm good at #-"
-	line "MON, and I can see"
-	cont "that you are too."
+	para "Sóc bo amb #-"
+	line "MON, i veig que tu"
+	cont "també ho ets."
 	done
 
 CooltrainermAllenBeatenText:
-	text "Tch! It's a total"
-	line "loss on my part."
+	text "Tsk! Ha estat una"
+	line "derrota total."
 	done
 
 CooltrainermAllenAfterBattleText:
-	text "Wow. You have a"
-	line "lot of BADGES."
+	text "Uau. Tens moltes"
+	line "MEDALLES."
 
-	para "No wonder you're"
-	line "so tough."
+	para "No m'estranya que"
+	line "siguis tan fort."
 
-	para "I wonder if"
-	line "ECRUTEAK GYM's"
+	para "Em pregunto si el"
+	line "MORTY del GIMNÀS"
 
-	para "MORTY is still in"
-	line "training?"
+	para "ECRUTEAK encara"
+	line "s'entrena?"
 
-	para "He really hammered"
-	line "me."
+	para "Em va derrotar"
+	line "de valent."
 	done
 
 CooltrainerfCybilSeenText:
-	text "You look strong."
+	text "Sembles fort."
 
-	para "Good trainers seek"
-	line "tough opponents"
-	cont "instinctively."
+	para "Els bons entrena-"
+	line "dors busquen"
+	cont "rivals"
+	cont "forts per instint."
 	done
 
 CooltrainerfCybilBeatenText:
-	text "Nope! This won't"
-	line "do at all."
+	text "No! Això no pot"
+	line "ser!"
 	done
 
 CooltrainerfCybilAfterBattleText:
-	text "We all get better"
-	line "by experiencing"
-	cont "many battles."
+	text "Tots millorem"
+	line "experimentant"
+	cont "moltes batalles."
 
-	para "I battled a lot to"
-	line "become what I am"
-	cont "today--an elite."
+	para "Vaig lluitar molt"
+	line "per ser el que sóc"
+	cont "avui: una elit."
 	done
 
 Route44Sign1Text:
-	text "ROUTE 44"
-	line "ICE PATH AHEAD"
+	text "RUTA 44"
+	line "CAMÍ GELAT"
+	cont "ENDAVANT"
 	done
 
 Route44Sign2Text:
-	text "ROUTE 44"
+	text "RUTA 44"
 
 	para "MAHOGANY TOWN -"
 	line "BLACKTHORN CITY"

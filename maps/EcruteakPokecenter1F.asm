@@ -98,110 +98,113 @@ EcruteakPokecenter1FPlayerMovement1:
 	step_end
 
 EcruteakPokecenter1F_BillText1:
-	text "Hi, I'm BILL. And"
-	line "who are you?"
+	text "Hola, soc en BILL."
+	line "I tu, qui ets?"
 
-	para "Hmm, <PLAYER>, huh?"
-	line "You've come at the"
-	cont "right time."
+	para "Mmm, <PLAYER>, oi?"
+	line "Has vingut en el"
+	cont "moment oportú."
 	done
 
 EcruteakPokecenter1F_BillText2:
-	text "I just finished"
-	line "adjustments on my"
-	cont "TIME CAPSULE."
+	text "Acabo d'acabar"
+	line "d'ajustar la meva"
+	cont "CRONODÀRSIA."
 
-	para "You know that"
-	line "#MON can be"
-	cont "traded, right?"
+	para "Saps que es poden"
+	line "intercanviar"
+	cont "#MON, oi?"
 
-	para "My TIME CAPSULE"
-	line "was developed to"
+	para "La CRONODÀRSIA"
+	line "es va dissenyar"
 
-	para "enable trades with"
-	line "the past."
+	para "per a poder fer"
+	line "intercanvis amb"
+	cont "el passat."
 
-	para "But you can't send"
-	line "anything that"
+	para "Però no es pot"
+	line "enviar res que no"
 
-	para "didn't exist in"
-	line "the past."
+	para "existís en el"
+	line "passat."
 
-	para "If you did, the PC"
-	line "in the past would"
-	cont "have a breakdown."
+	para "Si ho fessis, el"
+	line "PC del passat es"
+	cont "penjaria."
 
-	para "So you have to"
-	line "remove anything"
+	para "Per tant, has de"
+	line "treure qualsevol"
 
-	para "that wasn't around"
-	line "in the past."
+	para "cosa que no era"
+	line "al passat."
 
-	para "Put simply, no"
-	line "sending new moves"
+	para "Dit clar: no"
+	line "enviïs moviments"
 
-	para "or new #MON in"
-	line "the TIME CAPSULE."
+	para "ni #MON nous"
+	line "per CRONODÀRSIA."
 
-	para "Don't you worry."
-	line "I'm done with the"
-	cont "adjustments."
+	para "No et preocupis."
+	line "Ja he acabat els"
+	cont "ajustos."
 
-	para "Tomorrow, TIME"
-	line "CAPSULES will be"
+	para "Demà, les CRONO-"
+	line "DÀRSIES estaran"
 
-	para "running at all"
-	line "#MON CENTERS."
+	para "actives a tots"
+	line "els CENTRES #."
 
-	para "I have to hurry on"
-	line "back to GOLDENROD"
-	cont "and see my folks."
+	para "He de tornar a"
+	line "VIOLETA per veure"
+	cont "la meva família."
 
-	para "Buh-bye!"
+	para "Adéu!"
 	done
 
 EcruteakPokecenter1FPokefanMText:
-	text "The way the KIMONO"
-	line "GIRLS dance is"
+	text "La manera de"
+	line "ballar de les"
 
-	para "marvelous. Just"
-	line "like the way they"
-	cont "use their #MON."
+	para "NOIES DEL QUIMONO"
+	line "és meravellosa."
+
+	para "Com la manera com"
+	line "usen els #MON."
 	done
 
 EcruteakPokecenter1FPokefanMTextMobile:
-	text "You must be hoping"
-	line "to battle more"
+	text "Esperes combatre"
+	line "amb més gent, oi?"
 
-	para "people, right?"
-	line "There's apparently"
+	para "Pel que sembla,"
+	line "hi ha un lloc on"
 
-	para "some place where"
-	line "trainers gather."
+	para "es reuneixen els"
+	line "entrenadors."
 
-	para "Where, you ask?"
+	para "On, preguntes?"
 
-	para "It's a little past"
-	line "OLIVINE CITY."
+	para "Una mica més"
+	line "enllà d'OLIVA."
 	done
 
 EcruteakPokecenter1FCooltrainerFText:
-	text "MORTY, the GYM"
-	line "LEADER, is soooo"
-	cont "cool."
+	text "En MORTY, el"
+	line "LÍDER DEL GIMNÀS,"
+	cont "és genial."
 
-	para "His #MON are"
-	line "really tough too."
+	para "Els seus #MON"
+	line "són molt forts."
 	done
 
 EcruteakPokecenter1FGymGuideText:
-	text "LAKE OF RAGE…"
+	text "LLAC DE LA IRA…"
 
-	para "The appearance of"
-	line "a GYARADOS swarm…"
+	para "L'aparició d'un"
+	line "eixam de GYARADOS…"
 
-	para "I smell a conspir-"
-	line "acy. I know it!"
+	para "M'ensumo una"
+	line "conspiració!"
 	done
 
 EcruteakPokecenter1F_MapEvents:

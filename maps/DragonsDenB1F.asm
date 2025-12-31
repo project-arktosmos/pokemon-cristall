@@ -204,204 +204,204 @@ MovementDragonsDen_ClairWalksAway:
 	step_end
 
 ClairText_Wait:
-	text "Wait!"
+	text "Espera!"
 	done
 
 ClairText_GiveDragonbreathDragonDen:
-	text "CLAIR: I'm sorry"
-	line "about this."
+	text "DÉBORA: Em sap"
+	line "greu tot això."
 
-	para "Here, take this as"
-	line "my apology."
+	para "Té, pren això com"
+	line "a disculpa."
 	done
 
 Text_ReceivedTM24:
-	text "<PLAYER> received"
-	line "TM24."
+	text "<PLAYER> ha rebut"
+	line "la MT24."
 	done
 
 ClairText_DescribeDragonbreathDragonDen:
-	text "That contains"
+	text "Conté l'atac"
 	line "DRAGONBREATH."
 
-	para "No, it doesn't"
-	line "have anything to"
-	cont "do with my breath."
+	para "No, no té res a"
+	line "veure amb el meu"
+	cont "alè."
 
-	para "If you don't want"
-	line "it, you don't have"
-	cont "to take it."
+	para "Si no el vols, no"
+	line "l'has d'agafar."
 	done
 
 ClairText_NoRoom:
-	text "Oh? You don't have"
-	line "any room for this."
+	text "Oh? No tens espai"
+	line "per a això."
 
-	para "I'm going back to"
-	line "the GYM, so make"
+	para "Tornaré al GIMNAS,"
+	line "fes-te lloc i"
 
-	para "room, then come"
-	line "see me there."
+	para "vine a veure'm"
+	line "allà."
 	done
 
 ClairText_WhatsTheMatterDragonDen:
-	text "CLAIR: What's the"
-	line "matter? Aren't you"
+	text "DÉBORA: Què et"
+	line "passa? No vas a"
 
-	para "going on to the"
-	line "#MON LEAGUE?"
+	para "la LLIGA"
+	line "#MON?"
 
-	para "Do you know how to"
-	line "get there?"
+	para "Saps com s'hi"
+	line "arriba?"
 
-	para "From here, go to"
-	line "NEW BARK TOWN."
+	para "Des d'aquí, ves a"
+	line "POBLE ESCORÇA."
 
-	para "Then SURF east to"
-	line "#MON LEAGUE."
+	para "Després SURF cap"
+	line "a l'est fins a la"
+	cont "LLIGA #MON."
 
-	para "The route there is"
-	line "very tough."
+	para "El camí és molt"
+	line "difícil."
 
-	para "Don't you dare"
-	line "lose at the #-"
-	cont "MON LEAGUE!"
+	para "No t'atreveixis"
+	line "a perdre a la"
+	cont "LLIGA #MON!"
 
-	para "If you do, I'll"
-	line "feel even worse"
+	para "Si ho fas, em"
+	line "sentiré encara"
 
-	para "about having lost"
-	line "to you!"
+	para "pitjor per haver"
+	line "perdut contra tu!"
 
-	para "Give it everything"
-	line "you've got."
+	para "Dóna-ho tot!"
 	done
 
 DragonShrineSignpostText:
-	text "DRAGON SHRINE"
+	text "ALTAR DEL DRAC"
 
-	para "A shrine honoring"
-	line "the dragon #MON"
+	para "Un altar que honra"
+	line "el #MON drac"
 
-	para "said to have lived"
-	line "in DRAGON'S DEN."
+	para "que es diu vivia"
+	line "al COVAL DEL DRAC."
 	done
 
 RivalText_Training1:
 	text "…"
-	line "What? <PLAYER>?"
+	line "Què? <PLAYER>?"
 
-	para "…No, I won't"
-	line "battle you now…"
+	para "…No, ara no"
+	line "lluito amb tu…"
 
-	para "My #MON aren't"
-	line "ready to beat you."
+	para "Els meus #MON"
+	line "no estan a punt."
 
-	para "I can't push them"
-	line "too hard now."
+	para "Ara no els puc"
+	line "forçar massa."
 
-	para "I have to be dis-"
-	line "ciplined to become"
+	para "He de ser disci-"
+	line "plinat per ser"
 
-	para "the greatest #-"
-	line "MON trainer…"
+	para "el millor"
+	line "entrenador #…"
 	done
 
 RivalText_Training2:
 	text "…"
 
-	para "Whew…"
+	para "Uf…"
 
-	para "Learn to stay out"
-	line "of my way…"
+	para "Aprèn a no"
+	line "creuar-te amb mi…"
 	done
 
 CooltrainermDarinSeenText:
-	text "You! How dare you"
-	line "enter uninvited!"
+	text "Tu! Com goses"
+	line "entrar sense"
+	cont "permís!"
 	done
 
 CooltrainermDarinBeatenText:
-	text "S-strong!"
+	text "Q-quin nivell!"
 	done
 
 CooltrainermDarinAfterBattleText:
-	text "The SHRINE ahead"
-	line "is home to the"
+	text "L'ALTAR és la llar"
+	line "del MESTRE del"
 
-	para "MASTER of our"
-	line "dragon-user clan."
+	para "nostre clan de"
+	line "domadors de dracs."
 
-	para "You're not allowed"
-	line "to just go in!"
+	para "No pots entrar-hi"
+	line "així com així!"
 	done
 
 CooltrainerfCaraSeenText:
-	text "You shouldn't be"
-	line "in here!"
+	text "No hauries de ser"
+	line "aquí!"
 	done
 
 CooltrainerfCaraBeatenText:
-	text "Oh yikes, I lost!"
+	text "Ai no, he perdut!"
 	done
 
 CooltrainerfCaraAfterBattleText:
-	text "Soon I'm going to"
-	line "get permission"
+	text "Aviat obtindré"
+	line "permís del MESTRE"
 
-	para "from our MASTER to"
-	line "use dragons."
+	para "per fer servir"
+	line "dracs."
 
-	para "When I do, I'm"
-	line "going to become an"
+	para "Quan ho faci, em"
+	line "convertiré en una"
 
-	para "admirable dragon"
-	line "trainer and gain"
+	para "entrenadora de"
+	line "dracs admirable i"
 
-	para "our MASTER's"
-	line "approval."
+	para "obtindré l'aprova-"
+	line "ció del MESTRE."
 	done
 
 TwinsLeaandpia1SeenText:
-	text "It's a stranger we"
-	line "don't know."
+	text "És algú que no"
+	line "coneixem."
 	done
 
 TwinsLeaandpia1BeatenText:
-	text "Ouchies."
+	text "Ai, au!"
 	done
 
 TwinsLeaandpia1AfterBattleText:
-	text "It was like having"
-	line "to battle LANCE."
+	text "Ha sigut com"
+	line "lluitar amb LANCE."
 	done
 
 TwinsLeaandpia2SeenText:
-	text "Who are you?"
+	text "Qui ets tu?"
 	done
 
 TwinsLeaandpia2BeatenText:
-	text "Meanie."
+	text "Ets dolent."
 	done
 
 TwinsLeaandpia2AfterBattleText:
-	text "We'll tell on you."
+	text "T'acusarem."
 
-	para "MASTER will be"
-	line "angry with you."
+	para "El MESTRE"
+	line "s'enfadarà amb tu."
 	done
 
 Text_FoundDragonFang:
-	text "<PLAYER> found"
+	text "<PLAYER> ha trobat"
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 Text_NoRoomForDragonFang:
-	text "But <PLAYER> can't"
-	line "carry any more"
-	cont "items."
+	text "Però <PLAYER> no"
+	line "pot dur més"
+	cont "objectes."
 	done
 
 DragonsDenB1F_MapEvents:

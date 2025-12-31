@@ -36,97 +36,98 @@ CianwoodPokecenter1FSuperNerdScript:
 	jumptextfaceplayer CianwoodPokecenter1FSuperNerdText
 
 CianwoodPokecenter1FLassText:
-	text "Did you meet the"
-	line "#MANIAC?"
+	text "Has conegut el"
+	line "#MANÍAC?"
 
-	para "He's always brag-"
-	line "ging about his"
-	cont "rare #MON."
+	para "Sempre es vanta"
+	line "dels seus #MON"
+	cont "rars."
 	done
 
 CianwoodGymGuideText:
-	text "The #MON GYM"
-	line "trainers here are"
-	cont "macho bullies."
+	text "Els entrenadors"
+	line "del GIMNÀS #MON"
+	cont "són bruts."
 
-	para "If I stick around,"
-	line "they might come"
-	cont "after me."
+	para "Si em quedo aquí,"
+	line "podrien venir"
+	cont "a per mi."
 
-	para "Here's some ad-"
-	line "vice: the GYM"
+	para "Et dono un"
+	line "consell: el LÍDER"
 
-	para "LEADER uses the"
-	line "fighting-type."
+	para "del GIMNÀS usa"
+	line "el tipus lluita."
 
-	para "So you should"
-	line "confound him with"
-	cont "psychic #MON."
+	para "Hauries de"
+	line "confondre'l amb"
+	cont "#MON psíquics."
 
-	para "Wipe out his #-"
-	line "MON before they"
+	para "Elimina els #-"
+	line "MON abans que"
 
-	para "can use their"
-	line "physical strength."
+	para "puguin usar la"
+	line "força física."
 
-	para "And those boulders"
-	line "in the middle of"
-	cont "the GYM?"
+	para "I les roques del"
+	line "mig del GIMNÀS?"
 
-	para "If you don't move"
-	line "them correctly,"
+	para "Si no les mous"
+	line "correctament,"
 
-	para "you won't reach"
-	line "the GYM LEADER."
+	para "no arribaràs al"
+	line "LÍDER del GIMNÀS."
 
-	para "If you get stuck,"
-	line "go outside."
+	para "Si et quedes"
+	line "encallat, surt."
 	done
 
 CianwoodGymGuideWinText:
-	text "<PLAYER>! You won!"
-	line "I could tell by"
-	cont "looking at you!"
+	text "<PLAYER>! Has"
+	line "guanyat!"
+	cont "Ho sabia només"
+	cont "de mirar-te!"
 	done
 
 CianwoodPokecenter1FUnusedText1: ; unreferenced
-	text "Don't you get the"
-	line "urge to show off"
+	text "No tens ganes de"
+	line "mostrar els teus"
 
-	para "your #MON to"
-	line "friends?"
+	para "#MON als"
+	line "amics?"
 
-	para "I wish I could"
-	line "show the #MON I"
+	para "M'agradaria"
+	line "mostrar els"
+	cont "#MON"
 
-	para "raised to my pal"
-	line "in VIOLET."
+	para "que he criat al"
+	line "meu amic de LILA."
 	done
 
 CianwoodPokecenter1FUnusedText2: ; unreferenced
-	text "I've been battling"
-	line "my pal in VIOLET"
+	text "He estat lluitant"
+	line "amb el meu amic"
 
-	para "using a MOBILE"
-	line "ADAPTER link."
+	para "de LILA amb un"
+	line "ADAPTADOR MÒBIL."
 
-	para "I'm down 5-7"
-	line "against him. I've"
-	cont "gotta crank it up!"
+	para "Vaig 5-7 contra"
+	line "ell. He d'esforçar"
+	cont "-me més!"
 	done
 
 CianwoodPokecenter1FSuperNerdText:
-	text "I love showing off"
-	line "the #MON that"
+	text "M'encanta mostrar"
+	line "els #MON que"
 
-	para "I've raised."
-	line "Don't you?"
+	para "he criat."
+	line "A tu no?"
 
-	para "I'm going to get"
-	line "into a bunch of"
+	para "Faré un munt de"
+	line "batalles i"
 
-	para "battles, and show"
-	line "off my #MON!"
+	para "mostraré els meus"
+	line "#MON!"
 	done
 
 CianwoodPokecenter1F_MapEvents:

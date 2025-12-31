@@ -85,12 +85,12 @@ UnionCave1FUnusedSign: ; unreferenced
 	jumptext UnionCave1FUnusedSignText
 
 HikerRussellSeenText:
-	text "You're headed to"
-	line "AZALEA, are you?"
+	text "Vas cap a AZALEA,"
+	line "oi?"
 
-	para "Let my #MON see"
-	line "if you are good"
-	cont "enough to battle."
+	para "Els meus #MON"
+	line "veuran si estàs"
+	cont "a l'alçada."
 	done
 
 HikerRussellBeatenText:
@@ -98,89 +98,90 @@ HikerRussellBeatenText:
 	done
 
 HikerRussellAfterBattleText:
-	text "All right, then!"
-	line "I've decided."
+	text "D'acord, doncs!"
+	line "Ja ho he decidit."
 
-	para "I'm not leaving"
-	line "until my #MON"
-	cont "get tougher!"
+	para "No marxaré fins"
+	line "que els meus"
+	cont "#MON"
+	cont "siguin més forts!"
 	done
 
 PokemaniacLarrySeenText:
-	text "I roam far and"
-	line "wide in search of"
-	cont "#MON."
+	text "Viatjo pertot"
+	line "buscant #MON."
 
-	para "Are you looking"
-	line "for #MON too?"
+	para "Tu també busques"
+	line "#MON?"
 
-	para "Then you're my"
-	line "collecting rival!"
+	para "Doncs som rivals"
+	line "de col·lecció!"
 	done
 
 PokemaniacLarryBeatenText:
-	text "Ugh. My poor #-"
-	line "MON…"
+	text "Ugh. Els meus"
+	line "pobres #MON…"
 	done
 
 PokemaniacLarryAfterBattleText:
-	text "Every Friday, you"
-	line "can hear #MON"
+	text "Cada divendres"
+	line "se senten bramuls"
 
-	para "roars from deep"
-	line "inside the cave."
+	para "de #MON al fons"
+	line "de la cova."
 	done
 
 HikerDanielSeenText:
-	text "Whoa! What a"
-	line "surprise!"
+	text "Uau! Quina"
+	line "sorpresa!"
 
-	para "I didn't expect to"
-	line "see anyone here!"
+	para "No esperava veure"
+	line "ningú aquí!"
 	done
 
 HikerDanielBeatenText:
-	text "Whoa! I'm beaten"
-	line "big time!"
+	text "Uau! M'has guanyat"
+	line "de valent!"
 	done
 
 HikerDanielAfterBattleText:
-	text "I was conned into"
-	line "buying a SLOWPOKE-"
-	cont "TAIL."
+	text "Em van estafar"
+	line "per comprar una"
+	cont "CUA de SLOWPOKE."
 
-	para "I feel sorry for"
-	line "the poor #MON."
+	para "Em sap greu pels"
+	line "pobres #MON."
 	done
 
 FirebreatherBillSeenText:
-	text "ZUBAT's SUPERSONIC"
-	line "keeps confusing"
-	cont "my #MON."
+	text "El SUPERSONIC de"
+	line "ZUBAT confon els"
+	cont "meus #MON."
 
-	para "I'm seriously"
-	line "upset about that!"
+	para "Estic molt"
+	line "enfadat per això!"
 	done
 
 FirebreatherBillBeatenText:
-	text "I flamed out!"
+	text "M'he cremat!"
 	done
 
 FirebreatherBillAfterBattleText:
-	text "On weekends, you"
-	line "can hear strange"
+	text "Els caps de"
+	line "setmana se senten"
 
-	para "roars from deep in"
-	line "the cave."
+	para "bramuls estranys"
+	line "al fons de la"
+	cont "cova."
 	done
 
 FirebreatherRaySeenText:
-	text "If it's light, a"
-	line "cave isn't scary."
+	text "Si hi ha llum, la"
+	line "cova no fa por."
 
-	para "If you're strong,"
-	line "#MON aren't"
-	cont "scary."
+	para "Si ets fort, els"
+	line "#MON no fan"
+	cont "por."
 	done
 
 FirebreatherRayBeatenText:
@@ -188,13 +189,13 @@ FirebreatherRayBeatenText:
 	done
 
 FirebreatherRayAfterBattleText:
-	text "It's my #MON's"
-	line "fire that lights"
-	cont "up this cave."
+	text "El foc dels meus"
+	line "#MON il·lumina"
+	cont "aquesta cova."
 	done
 
 UnionCave1FUnusedSignText:
-	text "UNION CAVE"
+	text "COVA UNIÓ"
 	done
 
 UnionCave1F_MapEvents:

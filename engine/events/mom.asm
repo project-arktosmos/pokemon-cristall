@@ -627,16 +627,16 @@ MomJustDoWhatYouCanText:
 	text_end
 
 Mom_SavedString:
-	db "SAVED@"
+	db "ESTALVI@"
 
 Mon_WithdrawString:
-	db "WITHDRAW@"
+	db "TREURE@"
 
 Mom_DepositString:
-	db "DEPOSIT@"
+	db "DESAR@"
 
 Mom_HeldString:
-	db "HELD@"
+	db "TENS@"
 
 BankOfMom_MenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -647,7 +647,7 @@ BankOfMom_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "GET@"
-	db "SAVE@"
-	db "CHANGE@"
-	db "CANCEL@"
+	db "TREURE@"
+	db "DESAR@"
+	db "CANVIAR@"
+	db "CANCEL·LAR@"

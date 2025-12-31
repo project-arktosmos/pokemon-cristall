@@ -219,231 +219,232 @@ FastShipB1FSailorBlocksLeftMovement:
 	step_end
 
 FastShipB1FOnDutySailorText:
-	text "Hey, kid. Could I"
-	line "get you to look"
-	cont "for my buddy?"
+	text "Ei, nen. Podries"
+	line "buscar el meu"
+	cont "company?"
 
-	para "He's goofing off"
-	line "somewhere, that"
-	cont "lazy bum!"
+	para "Està fent el ròdol"
+	line "per algun lloc,"
+	cont "el dropo!"
 
-	para "I want to go find"
-	line "him, but I'm on"
-	cont "duty right now."
+	para "Vull anar a"
+	line "buscar-lo, però"
+	cont "estic de guàrdia."
 	done
 
 FastShipB1FOnDutySailorRefusedText:
-	text "Oh, gee…"
+	text "Oh, vaja…"
 
-	para "The CAPTAIN will"
-	line "be furious…"
+	para "El CAPITÀ"
+	line "s'enfadarà molt…"
 	done
 
 FastShipB1FOnDutySailorThanksText:
-	text "Thanks, kid!"
-	line "I chewed him out"
+	text "Gràcies, nen!"
+	line "L'he renyat bé"
 
-	para "good so he'll quit"
-	line "slacking off!"
+	para "perquè deixi de"
+	line "fer el mandra!"
 	done
 
 FastShipB1FOnDutySailorSawLittleGirlText:
-	text "A little girl?"
+	text "Una nena petita?"
 
-	para "I may have seen"
-	line "her go by here."
+	para "Potser l'he vista"
+	line "passar per aquí."
 	done
 
 FastShipB1FOnDutySailorDirectionsText:
-	text "The dining room is"
-	line "up ahead."
+	text "El menjador és"
+	line "més endavant."
 
-	para "The stairs at the"
-	line "end lead to the"
-	cont "CAPTAIN's cabin."
+	para "Les escales del"
+	line "fons porten a la"
+	cont "cabina del CAPITÀ."
 	done
 
 SailorJeffSeenText:
-	text "Nothing beats a"
-	line "battle when I'm"
-	cont "on my break."
+	text "No hi ha res com"
+	line "un combat durant"
+	cont "la pausa."
 	done
 
 SailorJeffBeatenText:
-	text "Win or lose, my"
-	line "break's over!"
+	text "Guanyi o perdi,"
+	line "la pausa s'acaba!"
 	done
 
 SailorJeffAfterBattleText:
-	text "I guess I can't"
-	line "win if I don't get"
-	cont "serious."
+	text "Suposo que no puc"
+	line "guanyar si no em"
+	cont "poso seriós."
 	done
 
 PicnickerDebraSeenText:
-	text "I'm so bored."
-	line "Want to battle?"
+	text "M'avorreixo molt."
+	line "Vols combatre?"
 	done
 
 PicnickerDebraBeatenText:
-	text "Yow! You're too"
-	line "strong!"
+	text "Ui! Ets massa"
+	line "fort!"
 	done
 
 PicnickerDebraAfterBattleText:
 	text "SAFFRON, CELADON…"
-	line "I hear there are"
+	line "He sentit que hi"
 
-	para "many big cities"
-	line "in KANTO."
+	para "ha moltes ciutats"
+	line "grans a KANTO."
 	done
 
 JugglerFritzSeenText:
-	text "Urrf…"
-	line "I'm seasick!"
+	text "Ugh…"
+	line "Estic marejat!"
 	done
 
 JugglerFritzBeatenText:
-	text "I can't move any-"
-	line "more…"
+	text "No em puc moure"
+	line "més…"
 	done
 
 JugglerFritzAfterBattleText:
-	text "No more ships for"
-	line "me. Next time,"
+	text "Mai més vaixells."
+	line "El proper cop,"
 
-	para "I'm taking the"
-	line "MAGNET TRAIN."
+	para "agafaré el TREN"
+	line "MAGNÈTIC."
 	done
 
 SailorGarrettSeenText:
-	text "This is where we"
-	line "sailors work!"
+	text "Aquí és on"
+	line "treballem els"
+	cont "mariners!"
 	done
 
 SailorGarrettBeatenText:
-	text "I lost on my home"
-	line "field…"
+	text "He perdut a casa"
+	line "meva…"
 	done
 
 SailorGarrettAfterBattleText:
-	text "We get different"
-	line "passengers from"
+	text "Tenim passatgers"
+	line "diferents de"
 
-	para "VERMILION CITY to"
-	line "OLIVINE CITY."
+	para "CIUTAT VERMILION a"
+	line "CIUTAT OLIVINE."
 	done
 
 FisherJonahSeenText:
-	text "Even though we're"
-	line "out on the sea, I"
-	cont "can't fish!"
+	text "Tot i ser al mar,"
+	line "no puc pescar!"
 
-	para "This is boring!"
-	line "Let's battle!"
+	para "Quin avorriment!"
+	line "Lluitem!"
 	done
 
 FisherJonahBeatenText:
-	text "I… I'm not bored"
-	line "anymore…"
+	text "Ja… ja no"
+	line "m'avorreixo…"
 	done
 
 FisherJonahAfterBattleText:
-	text "I plan to fish off"
-	line "VERMILION's pier."
+	text "Penso pescar al"
+	line "moll de VERMILION."
 	done
 
 BlackbeltWaiSeenText:
-	text "I'm building up my"
-	line "legs by bracing"
+	text "Enforteixo les"
+	line "cames aguantant"
 
-	para "against the ship's"
-	line "rocking!"
+	para "el balanceig"
+	line "del vaixell!"
 	done
 
 BlackbeltWaiBeatenText:
-	text "Rocked and rolled"
-	line "over!"
+	text "M'han sacsejat"
+	line "i tombat!"
 	done
 
 BlackbeltWaiAfterBattleText:
-	text "I couldn't find"
-	line "the KARATE KING in"
+	text "No vaig trobar el"
+	line "REI DEL KARATE a"
 	cont "JOHTO."
 
-	para "He's supposed to"
-	line "be training in a"
-	cont "cave somewhere."
+	para "Diuen que entrena"
+	line "en una cova en"
+	cont "algun lloc."
 	done
 
 SailorKennethSeenText:
-	text "I'm a sailor man!"
+	text "Sóc un mariner!"
 
-	para "But I'm training"
-	line "#MON, so I can"
-	cont "become the CHAMP!"
+	para "Però entreno"
+	line "#MON per ser"
+	cont "el CAMPIÓ!"
 	done
 
 SailorKennethBeatenText:
-	text "My lack of train-"
-	line "ing is obvious…"
+	text "La meva manca"
+	line "d'entrenament és"
+	cont "evident…"
 	done
 
 SailorKennethAfterBattleText:
-	text "Eight BADGES!"
-	line "They must prove"
+	text "Vuit MEDALLES!"
+	line "Han de provar"
 
-	para "that you've beaten"
-	line "GYM LEADERS."
+	para "que has vençut"
+	line "LÍDERS DE GIMNÀS."
 
-	para "No wonder you're"
-	line "so good!"
+	para "No és estrany que"
+	line "siguis tan bo!"
 	done
 
 TeacherShirleySeenText:
-	text "Don't lay a finger"
-	line "on my students!"
+	text "No toquis els"
+	line "meus alumnes!"
 	done
 
 TeacherShirleyBeatenText:
-	text "Aaack!"
+	text "Aaaah!"
 	done
 
 TeacherShirleyAfterBattleText:
-	text "We're on a field"
-	line "trip to the RUINS"
-	cont "outside VIOLET."
+	text "Som d'excursió a"
+	line "les RUÏNES a prop"
+	cont "de VIOLET."
 	done
 
 SchoolboyNateSeenText:
-	text "Do you know the"
-	line "RUINS OF ALPH?"
+	text "Coneixes les"
+	line "RUÏNES D'ALPH?"
 	done
 
 SchoolboyNateBeatenText:
-	text "Yaargh!"
+	text "Aargh!"
 	done
 
 SchoolboyNateAfterBattleText:
-	text "Radios pick up"
-	line "strange signals"
-	cont "inside the RUINS."
+	text "Les ràdios capten"
+	line "senyals estranys"
+	cont "a les RUÏNES."
 	done
 
 SchoolboyRickySeenText:
-	text "There are some odd"
-	line "stone panels in"
-	cont "the RUINS OF ALPH."
+	text "Hi ha uns panells"
+	line "de pedra estranys"
+	cont "a les RUÏNES."
 	done
 
 SchoolboyRickyBeatenText:
-	text "I was done in!"
+	text "M'han derrotat!"
 	done
 
 SchoolboyRickyAfterBattleText:
-	text "I read that there"
-	line "are four of those"
-	cont "stone panels."
+	text "He llegit que hi"
+	line "ha quatre panells"
+	cont "de pedra."
 	done
 
 FastShipB1F_MapEvents:

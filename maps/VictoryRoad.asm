@@ -162,78 +162,79 @@ VictoryRoadRivalBattleExitMovement2:
 	step_end
 
 VictoryRoadRivalBeforeText:
-	text "Hold it."
+	text "Para."
 
-	para "…Are you going to"
-	line "take the #MON"
-	cont "LEAGUE challenge?"
+	para "…Vas a acceptar"
+	line "el repte de la"
+	cont "LLIGA #MON?"
 
-	para "…Don't make me"
-	line "laugh."
+	para "…No em facis"
+	line "riure."
 
-	para "You're so much"
-	line "weaker than I am."
+	para "Ets molt més"
+	line "feble que jo."
 
-	para "I'm not like I was"
-	line "before."
+	para "No soc com era"
+	line "abans."
 
-	para "I now have the"
-	line "best and strongest"
+	para "Ara tinc els"
+	line "#MON millors i"
+	cont "més forts."
 
-	para "#MON with me."
-	line "I'm invincible!"
+	para "Soc invencible!"
 
 	para "<PLAYER>!"
-	line "I challenge you!"
+	line "Et desafio!"
 	done
 
 VictoryRoadRivalDefeatText:
-	text "…I couldn't win…"
+	text "…No he pogut"
+	line "guanyar…"
 
-	para "I gave it every-"
-	line "thing I had…"
+	para "Ho he donat tot…"
 
-	para "What you possess,"
-	line "and what I lack…"
+	para "El que tu tens,"
+	line "i el que em"
+	cont "falta a mi…"
 
-	para "I'm beginning to"
-	line "understand what"
+	para "Començo a"
+	line "entendre el que"
 
-	para "that dragon master"
-	line "said to me…"
+	para "em va dir aquell"
+	line "mestre de dracs…"
 	done
 
 VictoryRoadRivalAfterText:
-	text "…I haven't given up"
-	line "on becoming the"
-	cont "greatest trainer…"
+	text "…No he renunciat"
+	line "a ser el millor"
+	cont "entrenador…"
 
-	para "I'm going to find"
-	line "out why I can't"
+	para "Descobriré per"
+	line "què no puc"
 
-	para "win and become"
-	line "stronger…"
+	para "guanyar i em faré"
+	line "més fort…"
 
-	para "When I do, I will"
-	line "challenge you."
+	para "Quan ho faci, et"
+	line "desafiaré."
 
-	para "And I'll beat you"
-	line "down with all my"
-	cont "power."
+	para "I et venceré amb"
+	line "tota la meva"
+	cont "força."
 
-	para "…Humph! You keep"
-	line "at it until then."
+	para "…Bah! Continua"
+	line "fins aleshores."
 	done
 
 VictoryRoadRivalVictoryText:
-	text "…Humph!"
+	text "…Bah!"
 
-	para "When it comes down"
-	line "to it, nothing can"
-	cont "beat power."
+	para "Al cap i a la fi,"
+	line "res no pot superar"
+	cont "el poder."
 
-	para "I don't need any-"
-	line "thing else."
+	para "No necessito res"
+	line "més."
 	done
 
 VictoryRoad_MapEvents:

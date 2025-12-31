@@ -36,14 +36,14 @@ Chris:
 	end
 
 PewterPokecenter1FTeacherText:
-	text "…Yeah, and the"
-	line "GYM in CINNABAR's"
+	text "…Sí, i el GIM de"
+	line "CINNABAR ha"
 
-	para "gone. I was really"
-	line "amazed."
+	para "desaparegut. Em"
+	line "vaig sorprendre."
 
-	para "…Yes? I'm on the"
-	line "phone. Go away!"
+	para "…Sí? Estic al"
+	line "telèfon. Vés-te'n!"
 	done
 
 PewterJigglypuffText:
@@ -52,17 +52,18 @@ PewterJigglypuffText:
 	done
 
 PewterPokecenter1FBugCatcherText:
-	text "Most #MON get"
-	line "drowsy if they"
+	text "La majoria de"
+	line "#MON s'adormen"
 
-	para "hear a JIGGLYPUFF"
-	line "singing."
+	para "si senten cantar"
+	line "un JIGGLYPUFF."
 
-	para "There are several"
-	line "moves that can be"
+	para "Hi ha moviments"
+	line "que només es"
 
-	para "used only while a"
-	line "#MON is asleep."
+	para "poden usar quan"
+	line "un # està"
+	cont "adormit."
 	done
 
 PewterPokecenter1F_MapEvents:

@@ -1,63 +1,65 @@
 KenjiHangUpText:
-	text "Anyway, we'll chat"
-	line "again!"
+	text "Bé, ja tornarem"
+	line "a parlar!"
 	done
 
 KenjiRemainDedicatedText:
-	text "Are you still on"
-	line "your journey?"
+	text "Encara continues"
+	line "el teu viatge?"
 
-	para "I remain dedicated"
-	line "to my training."
+	para "Jo segueixo"
+	line "dedicat al meu"
+	cont "entrenament."
 
-	para "Oooooaaarrrgh!"
+	para "Uaaaaargh!"
 	done
 
 KenjiCallMeBackAnotherTimeText:
-	text "I'm in training"
-	line "now. I apologize,"
+	text "Ara m'entreno."
+	line "Perdona,"
 
-	para "but call me back"
-	line "another time."
+	para "però truca'm en"
+	line "un altre moment."
 
-	para "Oooooaaarrrgh!"
+	para "Uaaaaargh!"
 	done
 
 KenjiIllHaveTimeToChatTomorrowText:
-	text "I apologize, but I"
-	line "don't have time to"
+	text "Perdona, però no"
+	line "tinc temps per"
 
-	para "chat while I am in"
-	line "training!"
+	para "xerrar mentre"
+	line "m'entreno!"
 
-	para "I'll have time to"
-	line "chat tomorrow!"
+	para "Demà tindré temps"
+	line "per parlar!"
 
-	para "Yiiihah!"
+	para "Iiiihah!"
 	done
 
 KenjiHangUpMorningText:
-	text "I plan to take a"
-	line "lunch break, so"
+	text "Penso fer un"
+	line "descans al"
+	cont "migdia,"
 
-	para "come see me then!"
-	line "Ayiiiyah!"
+	para "vine a veure'm"
+	line "llavors! Aiiiyah!"
 	done
 
 KenjiTakingABreakText:
-	text "I'm taking a break"
-	line "on ROUTE 45!"
+	text "Estic descansant"
+	line "a la RUTA 45!"
 
-	para "Why not drop by if"
-	line "you are free?"
+	para "Per què no véns"
+	line "si estàs lliure?"
 	done
 
 KenjiHangUpNightText:
-	text "I rested up over"
-	line "my lunch break."
+	text "He descansat"
+	line "durant el dinar."
 
-	para "Now it's time to"
-	line "resume training!"
+	para "Ara toca reprendre"
+	line "l'entrenament!"
 
-	para "Oooryaah!"
+	para "Uuuoryaah!"
 	done

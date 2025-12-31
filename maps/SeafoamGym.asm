@@ -61,98 +61,102 @@ SeafoamGymGuideScript:
 	end
 
 BlaineIntroText:
-	text "BLAINE: Waaah!"
+	text "BLAINE: Buaaah!"
 
-	para "My GYM in CINNABAR"
-	line "burned down."
+	para "El meu GIMNÀS de"
+	line "CINNABAR va"
+	cont "cremar."
 
-	para "My fire-breathing"
-	line "#MON and I are"
+	para "Els meus #MON"
+	line "de foc i jo estem"
 
-	para "homeless because"
-	line "of the volcano."
+	para "sense llar per"
+	line "culpa del volcà."
 
-	para "Waaah!"
+	para "Buaaah!"
 
-	para "But I'm back in"
-	line "business as a GYM"
+	para "Però he tornat a"
+	line "treballar com a"
 
-	para "LEADER here in"
-	line "this cave."
+	para "LÍDER de GIMNÀS"
+	line "en aquesta cova."
 
-	para "If you can beat"
-	line "me, I'll give you"
-	cont "a BADGE."
+	para "Si em vences, et"
+	line "donaré una MEDALLA"
 
-	para "Ha! You'd better"
-	line "have BURN HEAL!"
+	para "Ha! Més val que"
+	line "portis ANTICREMA!"
 	done
 
 BlaineWinLossText:
-	text "BLAINE: Awesome."
-	line "I've burned out…"
+	text "BLAINE: Increïble."
+	line "M'he cremat…"
 
-	para "You've earned"
-	line "VOLCANOBADGE!"
+	para "T'has guanyat la"
+	line "MEDALLA VOLCÀ!"
 	done
 
 ReceivedVolcanoBadgeText:
-	text "<PLAYER> received"
-	line "VOLCANOBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA VOLCÀ."
 	done
 
 BlaineAfterBattleText:
-	text "BLAINE: I did lose"
-	line "this time, but I'm"
+	text "BLAINE: He perdut"
+	line "aquest cop, però"
 
-	para "going to win the"
-	line "next time."
+	para "guanyaré el"
+	line "pròxim cop."
 
-	para "When I rebuild my"
-	line "CINNABAR GYM,"
+	para "Quan reconstrueixi"
+	line "el meu GIMNÀS de"
 
-	para "we'll have to have"
-	line "a rematch."
+	para "CINNABAR, haurem"
+	line "de fer la revenja."
 	done
 
 BlaineFightDoneText:
-	text "BLAINE: My fire"
-	line "#MON will be"
+	text "BLAINE: Els meus"
+	line "#MON de foc"
 
-	para "even stronger."
-	line "Just you watch!"
+	para "seran encara més"
+	line "forts. Ja ho"
+	cont "veuràs!"
 	done
 
 SeafoamGymGuideWinText:
-	text "Yo!"
+	text "Ei!"
 
-	para "… Huh? It's over"
-	line "already?"
+	para "… Eh? Ja s'ha"
+	line "acabat?"
 
-	para "Sorry, sorry!"
+	para "Perdona, perdona!"
 
-	para "CINNABAR GYM was"
-	line "gone, so I didn't"
+	para "El GIMNÀS CINNABAR"
+	line "no hi era, així"
 
-	para "know where to find"
-	line "you."
+	para "que no sabia on"
+	line "trobar-te."
 
-	para "But, hey, you're"
-	line "plenty strong even"
+	para "Però, bé, ets prou"
+	line "fort fins i tot"
 
-	para "without my advice."
-	line "I knew you'd win!"
+	para "sense els"
+	line "consells."
+	cont "Sabia que"
+	cont "guanyaries!"
 	done
 
 SeafoamGymGuideWinText2:
-	text "A #MON GYM can"
-	line "be anywhere as"
+	text "Un GIMNÀS #MON"
+	line "pot ser a"
+	cont "qualsevol"
 
-	para "long as the GYM"
-	line "LEADER is there."
+	para "lloc mentre el"
+	line "LÍDER hi sigui."
 
-	para "There's no need"
-	line "for a building."
+	para "No cal cap"
+	line "edifici."
 	done
 
 SeafoamGym_MapEvents:

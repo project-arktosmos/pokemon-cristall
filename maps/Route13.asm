@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const ROUTE13_YOUNGSTER1
 	const ROUTE13_YOUNGSTER2
 	const ROUTE13_POKEFAN_M1
@@ -78,25 +78,25 @@ Route13HiddenCalcium:
 	hiddenitem CALCIUM, EVENT_ROUTE_13_HIDDEN_CALCIUM
 
 PokefanmAlexSeenText:
-	text "Bow down before my"
-	line "regal #MON!"
+	text "Inclina't davant"
+	line "els meus #"
+	cont "reials!"
 	done
 
 PokefanmAlexBeatenText:
-	text "How… How dare you"
-	line "mock royalty!"
+	text "Com… Com goses"
+	line "burlar-te'n!"
 	done
 
 PokefanmAlexAfterBattleText:
-	text "Doesn't everyone"
-	line "wish to someday be"
-	cont "a king?"
+	text "No desitja tothom"
+	line "ser rei algun dia?"
 	done
 
 PokefanmJoshuaSeenText:
-	text "Nihihi! Would you"
-	line "like to battle my"
-	cont "PIKACHU gang?"
+	text "Nihihi! Vols"
+	line "lluitar contra la"
+	cont "colla de PIKACHU?"
 	done
 
 PokefanmJoshuaBeatenText:
@@ -104,89 +104,91 @@ PokefanmJoshuaBeatenText:
 	done
 
 PokefanmJoshuaAfterBattleText:
-	text "You look like you"
-	line "have many #MON,"
+	text "Sembla que tens"
+	line "molts #MON,"
 
-	para "but PIKACHU is"
-	line "still the best."
+	para "però PIKACHU"
+	line "segueix sent el"
+	cont "millor."
 	done
 
 BirdKeeperPerrySeenText:
-	text "Agility is the key"
-	line "attribute of bird"
-	cont "#MON."
+	text "L'agilitat és"
+	line "l'atribut clau"
+	cont "dels # ocells."
 	done
 
 BirdKeeperPerryBeatenText:
-	text "You beat me with"
-	line "your speed…"
+	text "M'has guanyat amb"
+	line "la teva velocitat…"
 	done
 
 BirdKeeperPerryAfterBattleText:
-	text "Your #MON are"
-	line "remarkably well-"
-	cont "trained."
+	text "Els teus #MON"
+	line "estan molt ben"
+	cont "entrenats."
 	done
 
 BirdKeeperBretSeenText:
-	text "Check out my #-"
-	line "MON. Just look at"
+	text "Mira els meus"
+	line "#MON. Fixa't en"
 
-	para "their coloring and"
-	line "their plumage."
+	para "el seu colorit i"
+	line "en el plomatge."
 	done
 
 BirdKeeperBretBeatenText:
-	text "Shoot!"
-	line "Not good enough!"
+	text "Renoi!"
+	line "No ha estat prou!"
 	done
 
 BirdKeeperBretAfterBattleText:
-	text "If you groom them,"
-	line "#MON get happy."
+	text "Si els pentines,"
+	line "els #MON"
+	cont "s'alegren."
 	done
 
 HikerKennySeenText:
-	text "I should go to"
-	line "ROCK TUNNEL to get"
-	cont "myself an ONIX."
+	text "Hauria d'anar al"
+	line "TÚNEL ROCA per"
+	cont "aconseguir ONIX."
 	done
 
 HikerKennyBeatenText:
-	text "I lost…"
+	text "He perdut…"
 	done
 
 HikerKennyAfterBattleText:
-	text "Geological fea-"
-	line "tures don't appear"
-	cont "to change."
+	text "Les formacions"
+	line "geològiques sembla"
+	cont "que no canvien."
 
-	para "But they actually"
-	line "change, little by"
-	cont "little."
+	para "Però en realitat"
+	line "canvien, a poc"
+	cont "a poc."
 	done
 
 Route13TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "Look! Right there,"
-	line "at the left side"
-	cont "of the post."
+	para "Mira! Allà mateix,"
+	line "al costat esquerre"
+	cont "del pal."
 	done
 
 Route13SignText:
-	text "ROUTE 13"
+	text "RUTA 13"
 
-	para "NORTH TO SILENCE"
-	line "BRIDGE"
+	para "NORD CAP AL PONT"
+	line "SILENCI"
 	done
 
 Route13DirectionsSignText:
-	text "NORTH TO LAVENDER"
-	line "TOWN"
+	text "NORD CAP A"
+	line "LAVANDA"
 
-	para "WEST TO FUCHSIA"
-	line "CITY"
+	para "OEST CAP A"
+	line "FÚCSIA"
 	done
 
 Route13_MapEvents:

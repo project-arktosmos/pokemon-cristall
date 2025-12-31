@@ -40,72 +40,72 @@ SaffronPokecenter1FYoungsterScript:
 	jumptextfaceplayer SaffronPokecenter1FYoungsterText
 
 SaffronPokecenter1FTeacherText:
-	text "What are JOHTO's"
-	line "#MON CENTERS"
-	cont "like?"
+	text "Com són els"
+	line "CENTRES"
+	cont "# de JOHTO?"
 
-	para "…Oh, I see. So"
-	line "they're not much"
+	para "…Ah, ja veig. No"
+	line "són gaire"
 
-	para "different from the"
-	line "ones in KANTO."
+	para "diferents dels de"
+	line "KANTO."
 
-	para "I can go to JOHTO"
-	line "without worrying,"
-	cont "then!"
+	para "Llavors puc anar"
+	line "a JOHTO sense"
+	cont "preocupar-me!"
 	done
 
 SaffronPokecenter1FTeacherMobileText:
-	text "What are JOHTO's"
-	line "#MON CENTERS"
-	cont "like?"
+	text "Com són els"
+	line "CENTRES"
+	cont "# de JOHTO?"
 
-	para "…Oh, I see."
-	line "So they let you"
+	para "…Ah, ja veig."
+	line "Deixen connectar"
 
-	para "link with people"
-	line "far away?"
+	para "amb gent de molt"
+	line "lluny?"
 
-	para "Then I'll get my"
-	line "friend in JOHTO to"
+	para "Llavors faré que"
+	line "l'amic de JOHTO"
 
-	para "catch a MARILL and"
-	line "trade it to me!"
+	para "atrapi un MARILL i"
+	line "me l'intercanviï!"
 	done
 
 SaffronPokecenter1FFisherText:
-	text "I just happened to"
-	line "come through ROCK"
+	text "Acabo de passar"
+	line "pel TÚNEL ROCA."
 
-	para "TUNNEL. There was"
-	line "some commotion at"
-	cont "the POWER PLANT."
+	para "Hi havia un"
+	line "enrenou a la"
+	cont "CENTRAL ELÈCTRICA."
 	done
 
 SaffronPokecenter1FFisherReturnedMachinePartText:
-	text "Caves collapse"
-	line "easily."
+	text "Les coves es"
+	line "col·lapsen fàcil."
 
-	para "Several caves have"
-	line "disappeared in the"
+	para "Diverses coves han"
+	line "desaparegut en els"
 
-	para "past few years,"
-	line "like the one out-"
-	cont "side CERULEAN."
+	para "últims anys, com"
+	line "la de fora de"
+	cont "CERULEAN."
 
-	para "As a pro HIKER,"
-	line "that's common"
-	cont "knowledge."
+	para "Com a MUNTANYENC"
+	line "pro, això és"
+	cont "conegut."
 	done
 
 SaffronPokecenter1FYoungsterText:
-	text "SILPH CO.'s HEAD"
-	line "OFFICE and the"
+	text "L'OFICINA CENTRAL"
+	line "de SILPH SA i"
 
-	para "MAGNET TRAIN STA-"
-	line "TION--they're the"
+	para "l'ESTACIÓ del TREN"
+	line "MAGNÈTIC: són els"
 
-	para "places to see in"
+	para "llocs a veure a"
 	line "SAFFRON."
 	done
 

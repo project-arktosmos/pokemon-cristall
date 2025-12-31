@@ -33,29 +33,30 @@ HouseForSaleBookshelf:
 Route5CleanseTagHouseGrannyText1:
 	text "Eeyaaaah!"
 
-	para "I sense a sinister"
-	line "shadow hovering"
-	cont "over you."
+	para "Sento una ombra"
+	line "sinistre planant"
+	cont "sobre tu."
 
-	para "Take this to ward"
-	line "it off!"
+	para "Pren això per"
+	line "allunyar-la!"
 	done
 
 Route5CleanseTagHouseGrannyText2:
-	text "You were in mortal"
-	line "danger, but you"
-	cont "are protected now."
+	text "Estaves en perill"
+	line "de mort, però ara"
+	cont "estàs protegit."
 	done
 
 Route5CleanseTagHouseTeacherText:
-	text "My grandma is into"
-	line "warding off what"
+	text "La meva àvia està"
+	line "obsessionada amb"
 
-	para "she believes to be"
-	line "evil spirits."
+	para "allunyar el que"
+	line "ella creu que són"
+	cont "esperits malignes."
 
-	para "I'm sorry that she"
-	line "startled you."
+	para "Perdona si t'ha"
+	line "espantat."
 	done
 
 Route5CleanseTagHouse_MapEvents:

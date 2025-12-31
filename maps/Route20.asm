@@ -50,8 +50,9 @@ CinnabarGymSign:
 	jumptext CinnabarGymSignText
 
 SwimmerfNicoleSeenText:
-	text "I feel so much"
-	line "lighter in water."
+	text "Em sento molt més"
+	line "lleugera a"
+	cont "l'aigua."
 	done
 
 SwimmerfNicoleBeatenText:
@@ -59,19 +60,19 @@ SwimmerfNicoleBeatenText:
 	done
 
 SwimmerfNicoleAfterBattleText:
-	text "Swimming exercises"
-	line "your full body."
+	text "Nedar exercita tot"
+	line "el cos."
 
-	para "It's really good"
-	line "for you."
+	para "És molt bo per a"
+	line "la salut."
 	done
 
 SwimmerfLoriSeenText:
-	text "What an impressive"
-	line "collection of GYM"
+	text "Quina col·lecció"
+	line "tan impressionant"
 
-	para "BADGES. We should"
-	line "battle!"
+	para "de MEDALLES. Hem"
+	line "de combatre!"
 	done
 
 SwimmerfLoriBeatenText:
@@ -79,35 +80,35 @@ SwimmerfLoriBeatenText:
 	done
 
 SwimmerfLoriAfterBattleText:
-	text "SURF is no longer"
-	line "the only HM move"
-	cont "you use in water."
+	text "SURF ja no és"
+	line "l'únic moviment MO"
+	cont "que fas a l'aigua."
 	done
 
 SwimmermCameronSeenText:
-	text "I guess it's im-"
-	line "possible to swim"
+	text "Suposo que és im-"
+	line "possible nedar"
 
-	para "all the way to"
+	para "fins arribar a"
 	line "JOHTO."
 	done
 
 SwimmermCameronBeatenText:
-	text "Aiyah!"
+	text "Aiii!"
 	done
 
 SwimmermCameronAfterBattleText:
-	text "Besides the sea, I"
-	line "can also swim in"
-	cont "ponds and rivers."
+	text "A part del mar,"
+	line "també puc nedar a"
+	cont "estanys i rius."
 	done
 
 CinnabarGymSignText:
-	text "What does this"
-	line "sign say?"
+	text "Què diu aquest"
+	line "cartell?"
 
-	para "CINNABAR GYM"
-	line "LEADER: BLAINE"
+	para "GIMNÀS CINNABAR"
+	line "LÍDER: BLAINE"
 	done
 
 Route20_MapEvents:

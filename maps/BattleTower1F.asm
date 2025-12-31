@@ -1,9 +1,9 @@
-	object_const_def
-	const BATTLETOWER1F_RECEPTIONIST
-	const BATTLETOWER1F_YOUNGSTER
-	const BATTLETOWER1F_COOLTRAINER_F
-	const BATTLETOWER1F_BUG_CATCHER
-	const BATTLETOWER1F_GRANNY
+object_const_def
+const BATTLETOWER1F_RECEPTIONIST
+const BATTLETOWER1F_YOUNGSTER
+const BATTLETOWER1F_COOLTRAINER_F
+const BATTLETOWER1F_BUG_CATCHER
+const BATTLETOWER1F_GRANNY
 
 BattleTower1F_MapScripts:
 	def_scene_scripts
@@ -348,184 +348,192 @@ MovementData_BattleTowerBattleRoomPlayerTurnsToFaceNextOpponent:
 	step_end
 
 Text_BattleTowerWelcomesYou:
-	text "BATTLE TOWER"
-	line "welcomes you!"
+	text "La TORRE BATALLA"
+	line "et dóna la"
+	cont "benvinguda!"
 
-	para "I could show you"
-	line "to a BATTLE ROOM."
+	para "Et puc portar a"
+	line "una SALA COMBAT."
 	done
 
 Text_WantToGoIntoABattleRoom:
-	text "Want to go into a"
-	line "BATTLE ROOM?"
+	text "Vols anar a una"
+	line "SALA DE COMBAT?"
 	done
 
 Text_RightThisWayToYourBattleRoom:
-	text "Right this way to"
-	line "your BATTLE ROOM."
+	text "Per aquí, si us"
+	line "plau, a la teva"
+	cont "SALA DE COMBAT."
 	done
 
 Text_BattleTowerIntroduction_1: ; unreferenced
-	text "BATTLE TOWER is a"
-	line "facility made for"
-	cont "#MON battles."
+	text "La TORRE BATALLA"
+	line "és una instal·la-"
+	cont "ció de combats"
+	cont "#."
 
-	para "Countless #MON"
-	line "trainers gather"
+	para "Molts entrenadors"
+	line "de # s'hi"
 
-	para "from all over to"
-	line "hold battles in"
+	para "reuneixen de tot"
+	line "arreu per lluitar"
 
-	para "specially designed"
-	line "BATTLE ROOMS."
+	para "en SALES DE"
+	line "COMBAT especials."
 
-	para "There are many"
-	line "BATTLE ROOMS in"
-	cont "the BATTLE TOWER."
+	para "Hi ha moltes"
+	line "SALES DE COMBAT"
+	cont "a la TORRE."
 
-	para "Each ROOM holds"
-	line "seven trainers."
+	para "Cada SALA té set"
+	line "entrenadors."
 
-	para "If you defeat the"
-	line "seven in a ROOM,"
+	para "Si derrotes els"
+	line "set d'una SALA,"
 
-	para "and you have a"
-	line "good record, you"
+	para "i tens un bon"
+	line "rècord, podries"
 
-	para "could become the"
-	line "ROOM's LEADER."
+	para "esdevenir el"
+	line "LÍDER de la SALA."
 
-	para "All LEADERS will"
-	line "be recorded in the"
+	para "Tots els LÍDERS"
+	line "seran inclosos al"
 
-	para "HONOR ROLL for"
-	line "posterity."
+	para "QUADRE D'HONOR"
+	line "per a la història."
 
-	para "You may challenge"
-	line "in up to five"
+	para "Pots competir en"
+	line "fins a cinc"
 
-	para "BATTLE ROOMS each"
-	line "day."
+	para "SALES DE COMBAT"
+	line "cada dia."
 
-	para "However, you may"
-	line "battle only once a"
+	para "Però només pots"
+	line "lluitar un cop al"
 
-	para "day in any given"
-	line "ROOM."
+	para "dia a cada"
+	line "SALA."
 
-	para "To interrupt a"
-	line "session, you must"
+	para "Per interrompre"
+	line "una sessió, has"
 
-	para "SAVE. If not, you"
-	line "won't be able to"
+	para "de DESAR. Si no,"
+	line "no podràs"
 
-	para "resume your ROOM"
-	line "challenge."
+	para "reprendre el"
+	line "desafiament."
 
 	para ""
 	done
 
 Text_BattleTowerIntroduction_2:
-	text "BATTLE TOWER is a"
-	line "facility made for"
-	cont "#MON battles."
+	text "La TORRE BATALLA"
+	line "és una instal·la-"
+	cont "ció de combats"
+	cont "#."
 
-	para "Countless #MON"
-	line "trainers gather"
+	para "Molts entrenadors"
+	line "de # s'hi"
 
-	para "from all over to"
-	line "hold battles in"
+	para "reuneixen de tot"
+	line "arreu per lluitar"
 
-	para "specially designed"
-	line "BATTLE ROOMS."
+	para "en SALES DE"
+	line "COMBAT especials."
 
-	para "There are many"
-	line "BATTLE ROOMS in"
-	cont "the BATTLE TOWER."
+	para "Hi ha moltes"
+	line "SALES DE COMBAT"
+	cont "a la TORRE."
 
-	para "Each ROOM holds"
-	line "seven trainers."
+	para "Cada SALA té set"
+	line "entrenadors."
 
-	para "Beat them all, and"
-	line "win a prize."
+	para "Venç-los tots i"
+	line "guanya un premi."
 
-	para "To interrupt a"
-	line "session, you must"
+	para "Per interrompre"
+	line "una sessió, has"
 
-	para "SAVE. If not, you"
-	line "won't be able to"
+	para "de DESAR. Si no,"
+	line "no podràs"
 
-	para "resume your ROOM"
-	line "challenge."
+	para "reprendre el"
+	line "desafiament."
 
 	para ""
 	done
 
 Text_ReceivedAListOfLeadersOnTheHonorRoll:
-	text "Received a list of"
-	line "LEADERS on the"
-	cont "HONOR ROLL."
+	text "Has rebut la"
+	line "llista de LÍDERS"
+	cont "del QUADRE"
+	cont "D'HONOR."
 
 	para ""
 	done
 
 Text_PleaseConfirmOnThisMonitor:
-	text "Please confirm on"
-	line "this monitor."
+	text "Si us plau,"
+	line "confirma-ho en"
+	cont "aquest monitor."
 	done
 
 Text_ThankYou: ; unreferenced
-	text "Thank you!"
+	text "Gràcies!"
 
 	para ""
 	done
 
 Text_ThanksForVisiting:
-	text "Thanks for"
-	line "visiting!"
+	text "Gràcies per la"
+	line "visita!"
 	done
 
 Text_BeatenAllTheTrainers_Mobile: ; unreferenced
-	text "Congratulations!"
+	text "Felicitats!"
 
-	para "You've beaten all"
-	line "the trainers!"
+	para "Has vençut tots"
+	line "els entrenadors!"
 
-	para "Your feat may be"
-	line "worth registering,"
+	para "La teva fita pot"
+	line "ser digna de"
 
-	para "<PLAYER>. With your"
-	line "results, you may"
+	para "registrar-se,"
+	line "<PLAYER>. Amb els"
 
-	para "be chosen as a"
-	line "ROOM LEADER."
+	para "teus resultats,"
+	line "podries ser"
+
+	para "escollit com a"
+	line "LÍDER DE SALA."
 
 	para ""
 	done
 
 Text_CongratulationsYouveBeatenAllTheTrainers:
-	text "Congratulations!"
+	text "Felicitats!"
 
-	para "You've beaten all"
-	line "the trainers!"
+	para "Has vençut tots"
+	line "els entrenadors!"
 
-	para "For that, you get"
-	line "this great prize!"
+	para "Per això, reps"
+	line "aquest gran premi!"
 
 	para ""
 	done
 
 Text_AskRegisterRecord_Mobile: ; unreferenced
-	text "Would you like to"
-	line "register your"
+	text "Voldries registrar"
+	line "el teu rècord"
 
-	para "record with the"
-	line "CENTER?"
+	para "al CENTRE?"
 	done
 
 Text_PlayerGotFive:
-	text "<PLAYER> got five"
-	line "@"
+	text "<PLAYER> ha rebut"
+	line "cinc @"
 	text_ram wStringBuffer4
 	text "!@"
 	sound_item
@@ -533,263 +541,268 @@ Text_PlayerGotFive:
 	text_end
 
 Text_YourPackIsStuffedFull:
-	text "Oops, your PACK is"
-	line "stuffed full."
+	text "Ui, la MOTXILLA"
+	line "és massa plena."
 
-	para "Please make room"
-	line "and come back."
+	para "Fes lloc i torna,"
+	line "si us plau."
 	done
 
 Text_YourRegistrationIsComplete: ; unreferenced
-	text "Your registration"
-	line "is complete."
+	text "El teu registre"
+	line "s'ha completat."
 
-	para "Please come again!"
+	para "Torna quan"
+	line "vulguis!"
 	done
 
 Text_WeHopeToServeYouAgain:
-	text "We hope to serve"
-	line "you again."
+	text "Esperem poder"
+	line "atendre't aviat."
 	done
 
 Text_PleaseStepThisWay:
-	text "Please step this"
-	line "way."
+	text "Per aquí, si us"
+	line "plau."
 	done
 
 Text_WouldYouLikeToHearAboutTheBattleTower:
-	text "Would you like to"
-	line "hear about the"
-	cont "BATTLE TOWER?"
+	text "Vols saber més"
+	line "sobre la TORRE"
+	cont "BATALLA?"
 	done
 
 Text_CantBeRegistered:
-	text "Your record from"
-	line "the previous"
+	text "El teu rècord de"
+	line "l'anterior SALA"
 
-	para "BATTLE ROOM can't"
-	line "be registered. OK?"
+	para "DE COMBAT no es"
+	line "pot registrar."
+	cont "D'acord?"
 	done
 
 Text_CantBeRegistered_PreviousRecordDeleted:
-	text "Your record from"
-	line "the previous"
+	text "El teu rècord de"
+	line "l'anterior SALA"
 
-	para "BATTLE ROOM can't"
-	line "be registered."
+	para "DE COMBAT no es"
+	line "pot registrar."
 
-	para "Also, the existing"
-	line "record will be"
-	cont "deleted. OK?"
+	para "A més, el rècord"
+	line "existent serà"
+	cont "esborrat. D'acord?"
 	done
 
 Text_CheckTheLeaderHonorRoll: ; unreferenced
-	text "Check the LEADER"
-	line "HONOR ROLL?"
+	text "Vols consultar el"
+	line "QUADRE D'HONOR"
+	cont "dels LÍDERS?"
 	done
 
 Text_ReadBattleTowerRules:
-	text "BATTLE TOWER rules"
-	line "are written here."
+	text "Aquí hi ha les"
+	line "normes de la TORRE"
+	cont "BATALLA."
 
-	para "Read the rules?"
+	para "Vols llegir-les?"
 	done
 
 Text_BattleTowerRules:
-	text "Three #MON may"
-	line "enter battles."
+	text "Tres # poden"
+	line "entrar en combat."
 
-	para "All three must be"
-	line "different."
+	para "Tots tres han de"
+	line "ser diferents."
 
-	para "The items they"
-	line "hold must also be"
-	cont "different."
+	para "Els objectes que"
+	line "portin també han"
+	cont "de ser diferents."
 
-	para "Certain #MON"
-	line "may also have"
+	para "Alguns #"
+	line "poden tenir"
 
-	para "level restrictions"
-	line "placed on them."
+	para "restriccions de"
+	line "nivell."
 	done
 
 Text_BattleTower_LeftWithoutSaving:
-	text "Excuse me!"
-	line "You didn't SAVE"
+	text "Perdona!"
+	line "No vas DESAR"
 
-	para "before exiting"
-	line "the BATTLE ROOM."
+	para "abans de sortir"
+	line "de la SALA."
 
-	para "I'm awfully sorry,"
-	line "but your challenge"
+	para "Ho sento molt,"
+	line "però el teu"
 
-	para "will be declared"
-	line "invalid."
+	para "desafiament serà"
+	line "declarat invàlid."
 	done
 
 Text_YourMonWillBeHealedToFullHealth:
-	text "Your #MON will"
-	line "be healed to full"
-	cont "health."
+	text "Els teus #"
+	line "seran"
+	cont "curats del tot."
 	done
 
 Text_NextUpOpponentNo:
-	text "Next up, opponent"
-	line "no.@"
+	text "Ara, l'oponent"
+	line "núm.@"
 	text_ram wStringBuffer3
-	text ". Ready?"
+	text ". Preparat?"
 	done
 
 Text_SaveBeforeConnecting_Mobile: ; unreferenced
-	text "Your session will"
-	line "be SAVED before"
+	text "La sessió es"
+	line "DESARÀ abans de"
 
-	para "connecting with"
-	line "the CENTER."
+	para "connectar amb"
+	line "el CENTRE."
 	done
 
 Text_SaveBeforeEnteringBattleRoom:
-	text "Before entering"
-	line "the BATTLE ROOM,"
+	text "Abans d'entrar a"
+	line "la SALA DE"
 
-	para "your progress will"
-	line "be saved."
+	para "COMBAT, el progrés"
+	line "es desarà."
 	done
 
 Text_SaveAndEndTheSession:
-	text "SAVE and end the"
-	line "session?"
+	text "Vols DESAR i"
+	line "acabar la sessió?"
 	done
 
 Text_SaveBeforeReentry:
-	text "Your record will"
-	line "be SAVED before"
+	text "El teu rècord es"
+	line "DESARÀ abans de"
 
-	para "you go back into"
-	line "the previous ROOM."
+	para "tornar a l'ante-"
+	line "rior SALA."
 	done
 
 Text_CancelYourBattleRoomChallenge:
-	text "Cancel your BATTLE"
-	line "ROOM challenge?"
+	text "Vols cancel·lar el"
+	line "desafiament de"
+	cont "la SALA?"
 	done
 
 Text_RegisterRecordOnFile_Mobile: ; unreferenced
-	text "We have your"
-	line "previous record on"
+	text "Tenim el teu"
+	line "rècord anterior"
 
-	para "file. Would you"
-	line "like to register"
-	cont "it at the CENTER?"
+	para "arxivat. Voldries"
+	line "registrar-lo al"
+	cont "CENTRE?"
 	done
 
 Text_WeveBeenWaitingForYou:
-	text "We've been waiting"
-	line "for you. This way"
+	text "T'estàvem"
+	line "esperant. Per"
 
-	para "to a BATTLE ROOM,"
-	line "please."
+	para "aquí a una SALA"
+	line "DE COMBAT."
 	done
 
 Text_FiveDayBattleLimit_Mobile:
-	text "You may enter only"
-	line "five BATTLE ROOMS"
-	cont "each day."
+	text "Només pots entrar"
+	line "a cinc SALES DE"
+	cont "COMBAT cada dia."
 
-	para "Please come back"
-	line "tomorrow."
+	para "Torna demà,"
+	line "si us plau."
 	done
 
 Text_TooMuchTimeElapsedNoRegister:
-	text "Sorry, but it's"
-	line "not possible to"
+	text "Ho sento, però no"
+	line "és possible"
 
-	para "register your"
-	line "current record at"
+	para "registrar el teu"
+	line "rècord actual al"
 
-	para "the CENTER because"
-	line "too much time has"
+	para "CENTRE perquè ha"
+	line "passat massa temps"
 
-	para "elapsed since the"
-	line "start of your"
-	cont "challenge."
+	para "des de l'inici"
+	line "del desafiament."
 	done
 
 Text_RegisterRecordTimedOut_Mobile: ; unreferenced
 ; duplicate of Text_TooMuchTimeElapsedNoRegister
-	text "Sorry, but it's"
-	line "not possible to"
+	text "Ho sento, però no"
+	line "és possible"
 
-	para "register your most"
-	line "recent record at"
+	para "registrar el teu"
+	line "rècord més recent"
 
-	para "the CENTER because"
-	line "too much time has"
+	para "al CENTRE perquè"
+	line "ha passat massa"
 
-	para "elapsed since the"
-	line "start of your"
-	cont "challenge."
+	para "temps des de"
+	line "l'inici del"
+	cont "desafiament."
 	done
 
 Text_AMonLevelExceeds:
-	text "One or more of"
-	line "your #MON's"
-	cont "levels exceeds @"
+	text "El nivell d'un o"
+	line "més dels teus"
+	cont "# supera @"
 	text_decimal wScriptVar, 1, 3
 	text "."
 	done
 
 Text_MayNotEnterABattleRoomUnderL70:
 	text_ram wcd49
-	text " may not"
-	line "enter a BATTLE"
-	cont "ROOM under L70."
+	text " no pot"
+	line "entrar a una SALA"
+	cont "DE COMBAT sota"
+	cont "N70."
 
-	para "This BATTLE ROOM"
-	line "is for L@"
+	para "Aquesta SALA és"
+	line "per a N@"
 	text_decimal wScriptVar, 1, 3
 	text "."
 	done
 
 Text_BattleTowerYoungster:
-	text "Destroyed by the"
-	line "first opponent in"
+	text "Destruït pel"
+	line "primer oponent"
 
-	para "no time at all…"
-	line "I'm no good…"
+	para "en un tres i no"
+	line "res… No valc…"
 	done
 
 Text_BattleTowerCooltrainerF:
-	text "There are lots of"
-	line "BATTLE ROOMS, but"
+	text "Hi ha moltes"
+	line "SALES DE COMBAT,"
 
-	para "I'm going to win"
-	line "them all!"
+	para "però les guanyaré"
+	line "totes!"
 	done
 
 Text_BattleTowerGranny:
-	text "It's a grueling"
-	line "task, not being"
+	text "És molt dur no"
+	line "poder usar"
 
-	para "able to use items"
-	line "in battle."
+	para "objectes durant"
+	line "el combat."
 
-	para "Making your"
-	line "#MON hold items"
+	para "Fer que els teus"
+	line "# portin"
 
-	para "is the key to"
-	line "winning battles."
+	para "objectes és la"
+	line "clau per guanyar."
 	done
 
 Text_BattleTowerBugCatcher:
-	text "I'm trying to see"
-	line "how far I can go"
+	text "Vull veure fins"
+	line "on puc arribar"
 
-	para "using just bug"
-	line "#MON."
+	para "només amb # de"
+	line "tipus insecte."
 
-	para "Don't let there be"
-	line "any fire #MON…"
+	para "Que no hi hagi"
+	line "# de foc…"
 	done
 
 BattleTower1F_MapEvents:

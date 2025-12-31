@@ -1,105 +1,109 @@
 DerekCheekPinchingText:
-	text "Listen to this."
-	line "My @"
+	text "Escolta això."
+	line "El meu @"
 	text_ram wStringBuffer4
 	text_start
-	para "grins happily when"
-	line "I pinch its cheek."
+	para "somriu feliç quan"
+	line "li pessigo la"
+	cont "galta."
 
-	para "But it never grins"
-	line "for anyone else."
+	para "Però mai somriu"
+	line "per a ningú més."
 
-	para "I must be special."
+	para "Dec ser especial."
 	done
 
 DerekDefeatedMonText:
-	text "Oh, and recently,"
-	line "my PIKACHU beat a"
-	cont "wild @"
+	text "Oh, i recentment,"
+	line "el meu PIKACHU ha"
+	cont "vençut un @"
 	text_ram wStringBuffer4
-	text "!"
+	text ""
+	cont "salvatge!"
 
-	para "A wild @"
+	para "Un @"
 	text_ram wStringBuffer4
-	text ","
-	line "I tell you!"
+	text ""
+	line "salvatge, t'ho"
+	cont "dic!"
 
-	para "Don't you think"
-	line "that's astounding?"
+	para "No et sembla"
+	line "increïble?"
 
-	para "My PIKACHU is"
-	line "awesome!"
+	para "El meu PIKACHU és"
+	line "genial!"
 
-	para "My PIKACHU is the"
-	line "greatest!"
+	para "El meu PIKACHU és"
+	line "el millor!"
 	done
 
 DerekLostAMonText:
-	text "Oh, and I saw a"
-	line "wild @"
+	text "Oh, i he vist un"
+	line "@"
 	text_ram wStringBuffer4
-	text " a"
-	cont "little while ago."
+	text ""
+	cont "salvatge fa poc."
 
-	para "But it wasn't very"
-	line "cute, so I left"
+	para "Però no era gaire"
+	line "bonic, així que"
 
-	para "it…"
-	line "#MON have to be"
+	para "l'he deixat…"
+	line "Els #MON han de"
 
-	para "cute. They're no"
-	line "good otherwise."
+	para "ser bonics. Si no,"
+	line "no valen la pena."
 	done
 
 DerekHangUpText:
-	text "Well, let's talk"
-	line "again!"
+	text "Bé, parlem un"
+	line "altre cop!"
 	done
 
 DerekBugCatchingContestText:
-	text "Did you remember?"
-	line "The Bug-Catching"
-	cont "Contest is today."
+	text "Te'n recordaves?"
+	line "Avui és el"
+	cont "Concurs"
+	cont "d'Insectes."
 
-	para "You're going to"
-	line "go, aren't you?"
+	para "Hi aniràs, oi?"
 
-	para "I think I'll"
-	line "participate with"
+	para "Crec que hi"
+	line "participaré amb"
 
-	para "PIKACHU to show"
-	line "off its cuteness."
+	para "PIKACHU per"
+	line "mostrar"
+	cont "com és de bonic."
 	done
 
 DerekFoundItemText:
-	text "I'd like you to"
-	line "have a NUGGET."
+	text "M'agradaria donar-"
+	line "te una PEPITA."
 
-	para "My PIKACHU just"
-	line "loves it."
+	para "Al meu PIKACHU li"
+	line "encanta."
 
-	para "I'm certain your"
-	line "PIKACHU will love"
-	cont "it too!"
+	para "Segur que al teu"
+	line "PIKACHU també li"
+	cont "encantarà!"
 	done
 
 DerekLetsGetTogetherText:
-	text "How is your"
-	line "PIKACHU doing?"
+	text "Com està el teu"
+	line "PIKACHU?"
 
-	para "Let's get together"
-	line "and brag about our"
+	para "Quedem i presumim"
+	line "dels nostres"
 	cont "PIKACHU!"
 	done
 
 DerekComePickUpText:
-	text "What's wrong?"
+	text "Què passa?"
 
-	para "I'm waiting on"
+	para "T'espero a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Come pick this up"
-	line "anytime."
+	para "Vine a buscar-ho"
+	line "quan vulguis."
 	done

@@ -132,41 +132,45 @@ FastShipLazySailorLeavesMovement2:
 	step_end
 
 CooltrainermSeanSeenText:
-	text "I'm going to KANTO"
-	line "to test my skills."
+	text "Vaig a KANTO a"
+	line "provar les meves"
+	cont "habilitats."
 	done
 
 CooltrainermSeanBeatenText:
-	text "I wanted to win!"
+	text "Volia guanyar!"
 	done
 
 CooltrainermSeanAfterBattleText:
-	text "Trainers from"
-	line "JOHTO can battle"
+	text "Els entrenadors de"
+	line "JOHTO poden"
+	cont "lluitar"
 
-	para "with KANTO GYM"
-	line "LEADERS."
+	para "contra els LÍDERS"
+	line "de GIMNASOS de"
+	cont "KANTO."
 	done
 
 CooltrainerfCarolSeenText:
-	text "I'm training to"
-	line "become the CHAMP!"
+	text "M'entreno per ser"
+	line "la CAMPIONA!"
 	done
 
 CooltrainerfCarolBeatenText:
-	text "What's so differ-"
-	line "ent between us?"
+	text "Quina diferència"
+	line "hi ha entre tu i"
+	cont "jo?"
 	done
 
 CooltrainerfCarolAfterBattleText:
-	text "I'm going to beat"
-	line "you someday!"
+	text "Algun dia et"
+	line "guanyaré!"
 	done
 
 PokemaniacEthanSeenText:
-	text "Do you know LILY?"
-	line "She's a hot DJ in"
-	cont "KANTO."
+	text "Coneixes la LILY?"
+	line "És una DJ molt"
+	cont "famosa a KANTO."
 	done
 
 PokemaniacEthanBeatenText:
@@ -174,94 +178,95 @@ PokemaniacEthanBeatenText:
 	done
 
 PokemaniacEthanAfterBattleText:
-	text "LILY's nice, but"
-	line "MARY's the best!"
+	text "La LILY és bona,"
+	line "però la MARY és"
+	cont "la millor!"
 
-	para "I want to check"
-	line "out JOHTO's radio"
-	cont "programs!"
+	para "Vull escoltar els"
+	line "programes de ràdio"
+	cont "de JOHTO!"
 	done
 
 HikerNolandSeenText:
-	text "Are you alone?"
-	line "Then let's battle!"
+	text "Estàs sol?"
+	line "Doncs lluitem!"
 	done
 
 HikerNolandBeatenText:
-	text "That's too much to"
-	line "handle!"
+	text "Això és massa per"
+	line "a mi!"
 	done
 
 HikerNolandAfterBattleText:
-	text "I wonder if there"
-	line "are any mountains"
+	text "Em pregunto si hi"
+	line "ha muntanyes que"
 
-	para "worth climbing in"
-	line "KANTO?"
+	para "valgui la pena"
+	line "escalar a KANTO."
 	done
 
 SailorStanlySeenText:
-	text "Yeah, I'm a sail-"
-	line "or, all right."
+	text "Sí, sí, soc"
+	line "mariner."
 
-	para "I wasn't goofing"
-	line "off!"
+	para "No estava fent el"
+	line "dropo!"
 
-	para "This cabin was"
-	line "vacant, so I just"
-	cont "took a quick nap!"
+	para "El camarot era"
+	line "buit, així que"
+	cont "vaig fer un son!"
 
-	para "Ah, forget it!"
-	line "Let's battle!"
+	para "Bah, deixa-ho!"
+	line "Lluitem!"
 	done
 
 SailorStanlyBeatenText:
-	text "Sorry! It's all my"
-	line "fault!"
+	text "Ho sento! És tota"
+	line "culpa meva!"
 	done
 
 SailorStanlyAfterBattleText:
-	text "Being a sailor, I"
-	line "have to do phys-"
-	cont "ical labor. It's"
-	cont "exhausting!"
+	text "Com a mariner, he"
+	line "de fer feina"
+	cont "física. És"
+	cont "esgotador!"
 	done
 
 GentlemanEdwardSeenText:
-	text "Oh, no. I've lost"
-	line "something that's"
-	cont "very important."
+	text "Oh, no. He perdut"
+	line "una cosa molt"
+	cont "important."
 	done
 
 GentlemanEdwardBeatenText:
-	text "I… I can't find"
-	line "it…"
+	text "No… no ho"
+	line "trobo…"
 	done
 
 GentlemanEdwardAfterBattleText:
-	text "I give up."
-	line "You don't have to"
+	text "Em rendeixo."
+	line "No cal que ho"
 
-	para "look. Just forget"
-	line "about it!"
+	para "busquis. Oblida-"
+	line "t'ho!"
 	done
 
 BurglarCoreySeenText:
-	text "Yeehaw!"
-	line "Lucky!"
+	text "Visca!"
+	line "Quina sort!"
 	done
 
 BurglarCoreyBeatenText:
-	text "How unlucky!"
-	line "I lost!"
+	text "Quina mala sort!"
+	line "He perdut!"
 	done
 
 BurglarCoreyAfterBattleText:
-	text "I found a pretty"
-	line "coin here."
+	text "He trobat una"
+	line "moneda bonica."
 
-	para "Someone must have"
-	line "lost it…"
+	para "Algú la deu haver"
+	line "perdut…"
 	done
 
 FastShipCabins_NNW_NNE_NE_MapEvents:

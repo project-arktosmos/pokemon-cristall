@@ -189,202 +189,204 @@ RuinsOfAlphResearchCenterLeavesPlayerMovement:
 	step_end
 
 RuinsOfAlphResearchCenterModifiedDexText:
-	text "Done!"
+	text "Fet!"
 
-	para "I modified your"
-	line "#DEX."
+	para "He modificat la"
+	line "teva #DEX."
 
-	para "I added an"
-	line "optional #DEX"
+	para "Hi he afegit una"
+	line "#DEX opcional"
 
-	para "to store UNOWN"
-	line "data."
+	para "per desar dades"
+	line "d'UNOWN."
 
-	para "It records them in"
-	line "the sequence that"
-	cont "they were caught."
+	para "Els registra en"
+	line "l'ordre en què"
+	cont "els has capturat."
 	done
 
 RuinsOfAlphResearchCenterDexUpgradedText:
-	text "<PLAYER>'s #DEX"
-	line "was upgraded."
+	text "S'ha millorat la"
+	line "#DEX d'en"
+	cont "<PLAYER>."
 	done
 
 RuinsOfAlphResearchCenterScientist3Text:
-	text "The UNOWN you"
-	line "catch will all be"
-	cont "recorded."
+	text "Tots els UNOWN"
+	line "que capturis"
+	cont "es registraran."
 
-	para "Check to see how"
-	line "many kinds exist."
+	para "Mira quants tipus"
+	line "n'hi ha."
 	done
 
 RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
-	text "You caught all the"
-	line "UNOWN variations?"
+	text "Has capturat totes"
+	line "les variants"
+	cont "d'UNOWN?"
 
-	para "That's a great"
-	line "achievement!"
+	para "Quina gran fita!"
 
-	para "I've set up the"
-	line "printer here for"
-	cont "handling UNOWN."
+	para "He configurat la"
+	line "impressora per a"
+	cont "UNOWN."
 
-	para "Feel free to use"
-	line "it anytime."
+	para "Fes-la servir"
+	line "quan vulguis."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text:
-	text "The RUINS are"
-	line "about 1500 years"
-	cont "old."
+	text "Les RUÏNES tenen"
+	line "uns 1500 anys"
+	cont "d'antiguitat."
 
-	para "But it's not known"
-	line "why they were"
-	cont "built--or by whom."
+	para "Però no se sap per"
+	line "què les van fer,"
+	cont "ni qui."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_GotUnownDex:
-	text "I wonder how many"
-	line "kinds of #MON"
-	cont "are in the RUINS?"
+	text "Quants tipus de"
+	line "#MON hi deu"
+	cont "haver a les"
+	cont "RUÏNES?"
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_UnownAppeared:
-	text "#MON appeared"
-	line "in the RUINS?"
+	text "Han aparegut #-"
+	line "MON a les RUÏNES?"
 
-	para "That's incredible"
-	line "news!"
+	para "Quina notícia més"
+	line "increïble!"
 
-	para "We'll need to"
-	line "investigate this."
+	para "Haurem"
+	line "d'investigar-ho."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_GotAllUnown:
-	text "Our investigation,"
-	line "with your help, is"
+	text "La investigació,"
+	line "amb la teva ajuda,"
 
-	para "giving us insight"
-	line "into the RUINS."
+	para "ens dóna pistes"
+	line "sobre les RUÏNES."
 
-	para "The RUINS appear"
-	line "to have been built"
+	para "Sembla que les van"
+	line "construir com a"
 
-	para "as a habitat for"
+	para "hàbitat per a"
 	line "#MON."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text:
-	text "There are odd pat-"
-	line "terns drawn on the"
+	text "Hi ha uns patrons"
+	line "estranys a les"
 
-	para "walls of the"
-	line "RUINS."
+	para "parets de les"
+	line "RUÏNES."
 
-	para "They must be the"
-	line "keys for unravel-"
-	cont "ing the mystery"
-	cont "of the RUINS."
+	para "Han de ser la"
+	line "clau per resoldre"
+	cont "el misteri de les"
+	cont "RUÏNES."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text_UnownAppeared:
-	text "The strange #-"
-	line "MON you saw in the"
-	cont "RUINS?"
+	text "Els #MON"
+	line "estranys que has"
+	cont "vist a les RUÏNES?"
 
-	para "They appear to be"
-	line "very much like the"
+	para "S'assemblen molt"
+	line "als dibuixos de"
 
-	para "drawings on the"
-	line "walls there."
+	para "les parets"
+	line "d'allà."
 
-	para "Hmm…"
+	para "Mmm…"
 
-	para "That must mean"
-	line "there are many"
-	cont "kinds of them…"
+	para "Això vol dir que"
+	line "n'hi ha molts"
+	cont "tipus…"
 	done
 
 RuinsOfAlphResearchCenterUnusedText1: ; unreferenced
-	text "We think something"
-	line "caused the cryptic"
+	text "Creiem que alguna"
+	line "cosa va fer que"
 
-	para "patterns to appear"
-	line "in the RUINS."
+	para "apareguessin els"
+	line "símbols críptics."
 
-	para "We've focused our"
-	line "studies on that."
+	para "Hem centrat els"
+	line "estudis en això."
 	done
 
 RuinsOfAlphResearchCenterUnusedText2: ; unreferenced
-	text "According to my"
-	line "research…"
+	text "Segons la meva"
+	line "recerca…"
 
-	para "Those mysterious"
-	line "patterns appeared"
+	para "Els patrons"
+	line "misteriosos van"
 
-	para "when the #COM"
-	line "CENTER was built."
+	para "aparèixer en fer"
+	line "el CENTRE #COM."
 
-	para "It must mean that"
-	line "radio waves have"
+	para "Vol dir que les"
+	line "ones de ràdio hi"
 
-	para "some sort of a"
-	line "link…"
+	para "tenen alguna"
+	line "relació…"
 	done
 
 RuinsOfAlphResearchCenterScientist2Text_GotAllUnown:
-	text "Why did those"
-	line "ancient patterns"
+	text "Per què han"
+	line "aparegut ara els"
 
-	para "appear on the wall"
-	line "now?"
+	para "patrons antics a"
+	line "la paret?"
 
-	para "The mystery"
-	line "deepens…"
+	para "El misteri"
+	line "s'intensifica…"
 	done
 
 RuinsOfAlphResearchCenterComputerText:
-	text "RUINS OF ALPH"
+	text "RUÏNES D'ALPH"
 
-	para "Exploration"
-	line "Year 10"
+	para "Exploració"
+	line "Any 10"
 	done
 
 RuinsOfAlphResearchCenterComputerText_GotAllUnown:
-	text "Mystery #MON"
-	line "Name: UNOWN"
+	text "#MON misteriós"
+	line "Nom: UNOWN"
 
-	para "A total of {d:NUM_UNOWN}"
-	line "kinds found."
+	para "S'han trobat {d:NUM_UNOWN}"
+	line "tipus en total."
 	done
 
 RuinsOfAlphResearchCenterPrinterText_DoesntWork:
-	text "This doesn't seem"
-	line "to work yet."
+	text "Sembla que encara"
+	line "no funciona."
 	done
 
 RuinsOfAlphResearchCenterUnownPrinterText:
-	text "UNOWN may be"
-	line "printed out."
+	text "Es poden imprimir"
+	line "els UNOWN."
 	done
 
 RuinsOfAlphResearchCenterProfSilktreePhotoText:
-	text "It's a photo of"
-	line "the RESEARCH"
+	text "És una foto del"
+	line "fundador del"
 
-	para "CENTER'S founder,"
+	para "CENTRE, el"
 	line "PROF.SILKTREE."
 	done
 
 RuinsOfAlphResearchCenterAcademicBooksText:
-	text "There are many"
-	line "academic books."
+	text "Hi ha molts"
+	line "llibres acadèmics."
 
-	para "Ancient Ruins…"
-	line "Mysteries of the"
-	cont "Ancients…"
+	para "Ruïnes Antigues…"
+	line "Misteris dels"
+	cont "Antics…"
 	done
 
 RuinsOfAlphResearchCenter_MapEvents:

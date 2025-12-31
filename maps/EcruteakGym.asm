@@ -1,11 +1,11 @@
-	object_const_def
-	const ECRUTEAKGYM_MORTY
-	const ECRUTEAKGYM_SAGE1
-	const ECRUTEAKGYM_SAGE2
-	const ECRUTEAKGYM_GRANNY1
-	const ECRUTEAKGYM_GRANNY2
-	const ECRUTEAKGYM_GYM_GUIDE
-	const ECRUTEAKGYM_GRAMPS
+object_const_def
+const ECRUTEAKGYM_MORTY
+const ECRUTEAKGYM_SAGE1
+const ECRUTEAKGYM_SAGE2
+const ECRUTEAKGYM_GRANNY1
+const ECRUTEAKGYM_GRANNY2
+const ECRUTEAKGYM_GYM_GUIDE
+const ECRUTEAKGYM_GRAMPS
 
 EcruteakGym_MapScripts:
 	def_scene_scripts
@@ -178,208 +178,212 @@ EcruteakGymGrampsSlowStepDownMovement:
 	step_end
 
 MortyIntroText:
-	text "Good of you to"
-	line "have come."
+	text "Bé que has vingut."
 
-	para "Here in ECRUTEAK,"
-	line "#MON have been"
-	cont "revered."
+	para "Aquí a ECRUTEAK,"
+	line "els # són"
+	cont "venerats."
 
-	para "It's said that a"
-	line "rainbow-colored"
+	para "Es diu que un #"
+	line "de colors d'arc"
 
-	para "#MON will come"
-	line "down to appear"
+	para "de Sant Martí"
+	line "apareixerà davant"
 
-	para "before a truly"
-	line "powerful trainer."
+	para "d'un entrenador"
+	line "molt poderós."
 
-	para "I believed that"
-	line "tale, so I have"
+	para "Creia aquesta"
+	line "llegenda, així que"
 
-	para "secretly trained"
-	line "here all my life."
+	para "he entrenat aquí"
+	line "en secret tota la"
+	cont "meva vida."
 
-	para "As a result, I can"
-	line "now see what"
-	cont "others cannot."
+	para "Per això, ara puc"
+	line "veure el que"
+	cont "altres no veuen."
 
-	para "Just a bit more…"
+	para "Només una mica"
+	line "més…"
 
-	para "With a little"
-	line "more, I could see"
+	para "Amb una mica més,"
+	line "podria veure un"
 
-	para "a future in which"
-	line "I meet the #MON"
-	cont "of rainbow colors."
+	para "futur on em trobo"
+	line "amb el # dels"
+	cont "colors de l'arc."
 
-	para "You're going to"
-	line "help me reach that"
-	cont "level!"
+	para "M'ajudaràs a"
+	line "arribar a aquest"
+	cont "nivell!"
 	done
 
 MortyWinLossText:
-	text "I'm not good"
-	line "enough yet…"
+	text "Encara no sóc"
+	line "prou bo…"
 
-	para "All right. This"
-	line "BADGE is yours."
+	para "D'acord. Aquesta"
+	line "MEDALLA és teva."
 	done
 
 Text_ReceivedFogBadge:
-	text "<PLAYER> received"
-	line "FOGBADGE."
+	text "<PLAYER> ha rebut"
+	line "MEDALLA BOIRA."
 	done
 
 MortyText_FogBadgeSpeech:
-	text "By having FOG-"
-	line "BADGE, #MON up"
+	text "Amb la MEDALLA"
+	line "BOIRA, els # de"
 
-	para "to L50 will obey"
-	line "you."
+	para "fins a N50"
+	line "t'obeiran."
 
-	para "Also, #MON that"
-	line "know SURF will be"
+	para "A més, els #"
+	line "que"
+	cont "saben SURF podran"
 
-	para "able to use that"
-	line "move anytime."
+	para "fer servir aquest"
+	line "moviment sempre."
 
-	para "I want you to have"
-	line "this too."
+	para "Vull que tinguis"
+	line "això també."
 	done
 
 MortyText_ShadowBallSpeech:
-	text "It's SHADOW BALL."
-	line "It causes damage"
+	text "És SHADOW BALL."
+	line "Causa dany i pot"
 
-	para "and may reduce"
-	line "SPCL.DEF."
+	para "reduir la DEF."
+	line "ESP."
 
-	para "Use it if it"
-	line "appeals to you."
+	para "Fes-lo servir si"
+	line "t'agrada."
 	done
 
 MortyFightDoneText:
-	text "I see…"
+	text "Ja veig…"
 
-	para "Your journey has"
-	line "taken you to far-"
-	cont "away places."
+	para "El teu viatge t'ha"
+	line "portat a llocs"
+	cont "molt llunyans."
 
-	para "And you have wit-"
-	line "nessed much more"
-	cont "than I."
+	para "I has vist molt"
+	line "més que jo."
 
-	para "I envy you for"
-	line "that…"
+	para "T'envejo per"
+	line "això…"
 	done
 
 SageJeffreySeenText:
-	text "I spent the spring"
-	line "with my #MON."
+	text "Vaig passar la"
+	line "primavera amb els"
+	cont "meus #."
 
-	para "Then summer, fall"
-	line "and winter…"
+	para "Després l'estiu,"
+	line "la tardor i"
+	cont "l'hivern…"
 
-	para "Then spring came"
-	line "again. We have"
+	para "I la primavera va"
+	line "tornar. Hem viscut"
 
-	para "lived together"
-	line "for a long time."
+	para "junts durant molt"
+	line "de temps."
 	done
 
 SageJeffreyBeatenText:
-	text "Wins and losses, I"
-	line "experienced both."
+	text "Victòries i"
+	line "derrotes, he"
+	cont "viscut ambdues."
 	done
 
 SageJeffreyAfterBattleText:
-	text "Where did #MON"
-	line "come from?"
+	text "D'on vénen els"
+	line "#?"
 	done
 
 SagePingSeenText:
-	text "Can you inflict"
-	line "any damage on our"
-	cont "#MON?"
+	text "Pots fer mal als"
+	line "nostres #?"
 	done
 
 SagePingBeatenText:
-	text "Ah! Well done!"
+	text "Ah! Ben fet!"
 	done
 
 SagePingAfterBattleText:
-	text "We use only ghost-"
-	line "type #MON."
+	text "Només fem servir"
+	line "# de tipus"
+	cont "fantasma."
 
-	para "No normal-type"
-	line "attack can harm"
-	cont "them!"
+	para "Cap atac de tipus"
+	line "normal els pot"
+	cont "fer mal!"
 	done
 
 MediumMarthaSeenText:
-	text "I shall win!"
+	text "Guanyaré!"
 	done
 
 MediumMarthaBeatenText:
-	text "I, I, I lost!"
+	text "He, he, he perdut!"
 	done
 
 MediumMarthaAfterBattleText:
-	text "The one who wants"
-	line "to win most--will!"
+	text "Qui més vol"
+	line "guanyar, guanya!"
 	done
 
 MediumGraceSeenText:
-	text "Stumped by our in-"
-	line "visible floor?"
+	text "Confós pel terra"
+	line "invisible?"
 
-	para "Defeat me if you"
-	line "want a hint!"
+	para "Venç-me si vols"
+	line "una pista!"
 	done
 
 MediumGraceBeatenText:
-	text "Wha-what?"
+	text "Què, què?"
 	done
 
 MediumGraceAfterBattleText:
-	text "Fine. I shall tell"
-	line "you the secret of"
+	text "D'acord. Et diré"
+	line "el secret del"
 
-	para "the invisible"
-	line "floor."
+	para "terra invisible."
 
-	para "The path is right"
-	line "before our eyes!"
+	para "El camí és just"
+	line "davant nostre!"
 	done
 
 EcruteakGymGuideText:
-	text "The trainers here"
-	line "have secret mo-"
-	cont "tives."
+	text "Els entrenadors"
+	line "d'aquí tenen"
+	cont "motius secrets."
 
-	para "If you win, they"
-	line "may tell you some"
+	para "Si guanyes, et"
+	line "podrien explicar"
 
-	para "deep secrets about"
-	line "ECRUTEAK."
+	para "secrets profunds"
+	line "sobre ECRUTEAK."
 	done
 
 EcruteakGymGuideWinText:
-	text "Whew, <PLAYER>."
-	line "You did great!"
+	text "Uau, <PLAYER>."
+	line "Ho has fet genial!"
 
-	para "I was cowering in"
-	line "the corner out of"
-	cont "pure terror!"
+	para "Jo estava amagat"
+	line "al racó de pur"
+	cont "terror!"
 	done
 
 EcruteakGymClosedText:
-	text "MORTY, the GYM"
-	line "LEADER, is absent."
+	text "MORTY, el LÍDER"
+	line "del GIMNÀS, no hi"
+	cont "és."
 
-	para "Sorry, but you'll"
-	line "have to leave."
+	para "Ho sento, però"
+	line "hauràs de marxar."
 
 	para "Hohohoho."
 	done

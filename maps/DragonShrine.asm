@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const DRAGONSHRINE_ELDER1
 	const DRAGONSHRINE_ELDER2
 	const DRAGONSHRINE_ELDER3
@@ -272,9 +272,9 @@ DragonShrineQuestion1_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Pal@"
-	db "Underling@"
-	db "Friend@"
+	db "Company@"
+	db "Subordinat@"
+	db "Amic@"
 
 DragonShrineQuestion2_MenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -285,9 +285,9 @@ DragonShrineQuestion2_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Strategy@"
-	db "Raising@"
-	db "Cheating@"
+	db "Estratègia@"
+	db "Criança@"
+	db "Trampes@"
 
 DragonShrineQuestion3_MenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -298,9 +298,9 @@ DragonShrineQuestion3_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Weak person@"
-	db "Tough person@"
-	db "Anybody@"
+	db "Persona feble@"
+	db "Persona forta@"
+	db "Qualsevol@"
 
 DragonShrineQuestion4_MenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -311,9 +311,9 @@ DragonShrineQuestion4_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Love@"
-	db "Violence@"
-	db "Knowledge@"
+	db "Amor@"
+	db "Violència@"
+	db "Coneixement@"
 
 DragonShrineQuestion5_MenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -324,9 +324,9 @@ DragonShrineQuestion5_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Tough@"
-	db "Both@"
-	db "Weak@"
+	db "Forts@"
+	db "Tots dos@"
+	db "Febles@"
 
 DragonShrinePlayerWalkInMovement:
 	slow_step UP
@@ -392,263 +392,269 @@ DragonShrineClairWalkOutMovement:
 	step_end
 
 DragonShrineElderGreetingText:
-	text "Hm… Good to see"
-	line "you here."
+	text "Hm… M'alegra"
+	line "veure't aquí."
 
-	para "No need to explain"
-	line "why you came."
+	para "No cal que"
+	line "m'expliquis per"
+	cont "què has vingut."
 
-	para "CLAIR sent you"
-	line "here, didn't she?"
+	para "La CLAIR t'ha"
+	line "enviat, oi?"
 
-	para "That girl is a"
-	line "handful…"
+	para "Aquesta noia és"
+	line "tot un cas…"
 
-	para "I am sorry, but I"
-	line "must test you."
+	para "Ho sento, però"
+	line "t'he de posar a"
+	cont "prova."
 
-	para "Not to worry, you"
-	line "are to answer only"
-	cont "a few questions."
+	para "No pateixis, tan"
+	line "sols has de"
+	cont "respondre unes"
+	cont "preguntes."
 
-	para "Ready?"
+	para "A punt?"
 	done
 
 DragonShrineQuestion1Text:
-	text "What are #MON"
-	line "to you?"
+	text "Què són els"
+	line "#MON"
+	cont "per a tu?"
 	done
 
 DragonShrineQuestion2Text:
-	text "What helps you to"
-	line "win battles?"
+	text "Què t'ajuda a"
+	line "guanyar combats?"
 	done
 
 DragonShrineQuestion3Text:
-	text "What kind of"
-	line "trainer do you"
-	cont "wish to battle?"
+	text "Quin tipus"
+	line "d'entrenador"
+	cont "vols combatre?"
 	done
 
 DragonShrineQuestion4Text:
-	text "What is most"
-	line "important for"
-	cont "raising #MON?"
+	text "Què és el més"
+	line "important per"
+	cont "criar #MON?"
 	done
 
 DragonShrineQuestion5Text:
-	text "Strong #MON."
-	line "Weak #MON."
+	text "#MON forts."
+	line "#MON febles."
 
-	para "Which is more"
+	para "Quin és més"
 	line "important?"
 	done
 
 DragonShrinePassedTestText:
-	text "Hm… I see…"
+	text "Hm… Ja veig…"
 
-	para "You care deeply"
-	line "for #MON."
+	para "T'estimes molt"
+	line "els #MON."
 
-	para "Very commendable."
+	para "Molt lloable."
 
-	para "That conviction is"
-	line "what is important!"
+	para "Aquesta convicció"
+	line "és el que compta!"
 
-	para "<PLAYER>, don't"
-	line "lose that belief."
+	para "<PLAYER>, no"
+	line "perdis mai"
+	cont "aquesta creença."
 
-	para "It will see you"
-	line "through at the"
-	cont "#MON LEAGUE."
+	para "Et portarà lluny"
+	line "a la LLIGA"
+	cont "#MON."
 	done
 
 DragonShrineMustIInformLanceText:
 	text "CLAIR!"
 
-	para "This child is"
-	line "impeccable, in"
-	cont "skill and spirit!"
+	para "Aquest jove és"
+	line "impecable, tant"
+	cont "en habilitat com"
+	cont "en esperit!"
 
-	para "Admit defeat and"
-	line "confer the RISING-"
-	cont "BADGE!"
+	para "Admet la derrota"
+	line "i lliura-li la"
+	cont "MEDALLA ASCENS!"
 
-	para "…Or must I inform"
-	line "LANCE of this?"
+	para "…O és que he"
+	line "d'informar en"
+	cont "LLORENÇ?"
 	done
 
 DragonShrineElderScoldsClairText:
 	text "CLAIR…"
 
-	para "Reflect upon what"
-	line "it is that you"
+	para "Reflexiona sobre"
+	line "el que et falta"
 
-	para "lack and this"
-	line "child has."
+	para "i que aquest jove"
+	line "té."
 	done
 
 DragonShrineComeAgainText:
-	text "Come again, if you"
-	line "so desire."
+	text "Torna quan"
+	line "vulguis."
 	done
 
 DragonShrineTakeThisDratiniText:
-	text "Hm… Good to see"
-	line "you here."
+	text "Hm… M'alegra"
+	line "veure't aquí."
 
-	para "Your arrival is"
-	line "most fortunate."
+	para "La teva arribada"
+	line "és molt oportuna."
 
-	para "I have something"
-	line "for you."
+	para "Tinc una cosa"
+	line "per a tu."
 
-	para "Take this DRATINI"
-	line "as proof that I"
+	para "Pren aquest"
+	line "DRATINI com a"
 
-	para "have recognized"
-	line "your worth."
+	para "prova que he"
+	line "reconegut la teva"
+	cont "vàlua."
 	done
 
 DragonShrinePlayerReceivedDratiniText:
-	text "<PLAYER> received"
-	line "DRATINI!"
+	text "<PLAYER> ha rebut"
+	line "un DRATINI!"
 	done
 
 DragonShrinePartyFullText:
-	text "Hm? Your #MON"
-	line "party is full."
+	text "Hm? El teu equip"
+	line "de #MON és ple."
 	done
 
 DragonShrineSymbolicDragonText:
-	text "Dragon #MON are"
-	line "symbolic of our"
-	cont "clan."
+	text "Els #MON drac"
+	line "són el símbol del"
+	cont "nostre clan."
 
-	para "You have shown"
-	line "that you can be"
+	para "Has demostrat que"
+	line "se te'n pot"
 
-	para "entrusted with"
-	line "one."
+	para "confiar un."
 	done
 
 DragonShrineClairsGrandfatherText:
-	text "CLAIR appears to"
-	line "have learned an"
+	text "La CLAIR sembla"
+	line "que ha après una"
 
-	para "invaluable lesson"
-	line "from you."
+	para "lliçó inestimable"
+	line "de tu."
 
-	para "I thank you as her"
-	line "grandfather."
+	para "T'ho agraeixo com"
+	line "a avi seu."
 	done
 
 DragonShrineRivalIsInTrainingText:
-	text "A boy close to"
-	line "your age is in"
-	cont "training here."
+	text "Un noi de la teva"
+	line "edat s'entrena"
+	cont "aquí."
 
-	para "He is much like"
-	line "CLAIR when she was"
+	para "S'assembla molt a"
+	line "la CLAIR quan era"
 
-	para "younger. It is a"
-	line "little worrisome…"
+	para "jove. És una mica"
+	line "preocupant…"
 	done
 
 DragonShrineWrongAnswerText1:
-	text "Hah? I didn't"
-	line "quite catch that…"
+	text "Eh? No t'he"
+	line "entès bé…"
 	done
 
 DragonShrineWrongAnswerText2:
-	text "What was it you"
-	line "said?"
+	text "Què has dit?"
 	done
 
 DragonShrineRightAnswerText:
-	text "Oh, I understand…"
+	text "Oh, ja entenc…"
 	done
 
 DragonShrineElder2Text:
-	text "It's been quite"
-	line "some time since a"
+	text "Fa temps que cap"
+	line "entrenador no"
 
-	para "trainer has gained"
-	line "our MASTER's rare"
-	cont "approval."
+	para "havia obtingut"
+	line "l'aprovació del"
+	cont "nostre MESTRE."
 
-	para "In fact, not since"
-	line "Master LANCE."
+	para "De fet, des del"
+	line "Mestre LLORENÇ."
 	done
 
 DragonShrineElder3Text:
-	text "You know young"
-	line "Master LANCE?"
+	text "Coneixes el jove"
+	line "Mestre LLORENÇ?"
 
-	para "He looks so much"
-	line "like our MASTER"
-	cont "did in his youth."
+	para "S'assembla molt"
+	line "al nostre MESTRE"
+	cont "quan era jove."
 
-	para "It's in their"
-	line "blood."
+	para "Ho porta a la"
+	line "sang."
 	done
 
 DragonShrineClairYouPassedText:
-	text "So how did it go?"
+	text "I com ha anat?"
 
-	para "I guess there's no"
-	line "point in asking."
+	para "Suposo que no cal"
+	line "ni preguntar-ho."
 
-	para "You did fail?"
+	para "Has fallat, oi?"
 
 	para "<……><……><……><……><……><……>"
 
-	para "…What? You passed?"
+	para "…Què? Has aprovat?"
 	done
 
 DragonShrineClairThatCantBeText:
-	text "That can't be!"
+	text "No pot ser!"
 	done
 
 DragonShrineClairYoureLyingText:
-	text "You're lying!"
+	text "Menteixes!"
 
-	para "Even I haven't"
-	line "been approved!"
+	para "Ni tan sols jo"
+	line "he estat aprovada!"
 	done
 
 DragonShrineIUnderstandText:
-	text "I-I understand…"
+	text "H-ho entenc…"
 	done
 
 DragonShrineHereRisingBadgeText:
-	text "Here, this is the"
-	line "RISINGBADGE…"
+	text "Aquí tens, la"
+	line "MEDALLA ASCENS…"
 
-	para "Hurry up! Take it!"
+	para "Afanya't! Pren-la!"
 	done
 
 DragonShrinePlayerReceivedRisingBadgeText:
-	text "<PLAYER> received"
-	line "RISINGBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA ASCENS."
 	done
 
 DragonShrineRisingBadgeExplanationText:
-	text "RISINGBADGE will"
-	line "enable your"
+	text "La MEDALLA ASCENS"
+	line "permet que els"
 
-	para "#MON to use the"
-	line "move for climbing"
-	cont "waterfalls."
+	para "teus #MON usin"
+	line "el moviment per"
+	cont "pujar cascades."
 
-	para "Also, all #MON"
-	line "will recognize you"
+	para "A més, tots els"
+	line "#MON et veuran"
 
-	para "as a trainer and"
-	line "obey your every"
+	para "com a entrenador"
+	line "i et seguiran"
 
-	para "command without"
-	line "question."
+	para "totes les ordres"
+	line "sense dubtar."
 	done
 
 DragonShrineSpeechlessText:

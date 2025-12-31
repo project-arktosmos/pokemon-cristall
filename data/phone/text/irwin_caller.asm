@@ -1,289 +1,295 @@
 IrwinHangUpText:
-	text "I hate having to"
-	line "hang up on you!"
+	text "Odio haver de"
+	line "penjar-te!"
 
-	para "Call you later!"
+	para "Ja et trucaré!"
 	done
 
 IrwinRocketTakeoverRumorText:
-	text "<PLAY_G>, have you"
-	line "heard?"
+	text "<PLAY_G>, ho has"
+	line "sentit?"
 
-	para "GOLDENROD's RADIO"
-	line "TOWER has been"
+	para "La TORRE RÀDIO"
+	line "de PUEBLO DORADO"
 
-	para "taken over by TEAM"
-	line "ROCKET!"
+	para "ha estat ocupada"
+	line "pel TEAM ROCKET!"
 
-	para "…Um… What's TEAM"
-	line "ROCKET?"
+	para "…Mmm… Què és el"
+	line "TEAM ROCKET?"
 	done
 
 IrwinPlainBadgeGossipText:
-	text "<PLAY_G>, I heard!"
+	text "<PLAY_G>, ho he"
+	line "sentit!"
 
-	para "You defeated that"
-	line "WHITNEY?"
+	para "Has derrotat"
+	line "la BLANCA?"
 
-	para "It makes me proud"
-	line "to be your friend!"
+	para "Estic orgullós"
+	line "de ser amic teu!"
 	done
 
 IrwinJasmineReturnedGossipText:
-	text "Hey, I heard about"
-	line "you!"
+	text "Ei, he sentit"
+	line "parlar de tu!"
 
-	para "You saved that"
-	line "#MON at the"
+	para "Has salvat el"
+	line "#MON del FAR,"
 
-	para "LIGHTHOUSE, didn't"
-	line "you?"
+	para "oi?"
 
-	para "<PLAY_G>, I wish"
-	line "you'd come see me"
+	para "<PLAY_G>, m'agrada-"
+	line "ria que em"
 
-	para "when I'm sick in"
-	line "bed with a cold!"
+	para "visitessis quan"
+	line "estigui malalt!"
 	done
 
 IrwinRocketHideoutGossipText:
-	text "I heard, I heard,"
-	line "I heard!"
+	text "Ho he sentit,"
+	line "ho he sentit!"
 
-	para "You smashed TEAM"
-	line "ROCKET's hideout!"
+	para "Has destruït"
+	line "l'amagatall del"
+	cont "TEAM ROCKET!"
 
-	para "You're like a"
-	line "movie hero, even!"
+	para "Ets com un heroi"
+	line "de pe<L·L>ícula!"
 
-	para "But um… What was"
+	para "Però… Què era el"
 	line "TEAM ROCKET?"
 	done
 
 IrwinRadioTowerGossipText:
-	text "I heard, I heard,"
-	line "I heard!"
+	text "Ho he sentit,"
+	line "ho he sentit!"
 
-	para "About your heroic"
-	line "liberation of the"
+	para "L'alliberament"
+	line "heroic de la"
 
-	para "RADIO TOWER! You"
-	line "rock so hard!"
+	para "TORRE RÀDIO! Ets"
+	line "impressionant!"
 	done
 
 IrwinRisingBadgeGossipText:
-	text "I saw, I saw!"
+	text "Ho he vist,"
+	line "ho he vist!"
 
-	para "I saw you go into"
-	line "the DRAGON'S DEN!"
+	para "T'he vist entrar"
+	line "a la COVA DRAC!"
 
-	para "I'm certain you"
-	line "passed! Aww, no"
+	para "Segur que has"
+	line "aprovat! No cal"
 
-	para "need to be modest!"
-	line "You can't fail!"
+	para "ser modest!"
+	line "No pots fallar!"
 	done
 
 IrwinEliteFourGossipText:
-	text "Yesterday, I went"
-	line "out to NEW BARK"
+	text "Ahir vaig anar"
+	line "al POBLE ALBA."
 
-	para "TOWN.  There was a"
-	line "lady who looked a"
+	para "Hi havia una"
+	line "senyora que"
 
-	para "lot like you,"
+	para "s'assemblava a tu,"
 	line "<PLAY_G>."
 
-	para "What? That lady"
-	line "was your mom?"
+	para "Com? Aquella"
+	line "senyora era"
+	cont "la teva mare?"
 
-	para "Aww, I should've"
-	line "introduced myself!"
+	para "Hauria d'haver-me"
+	line "presentat!"
 
-	para "I bet your mom's"
-	line "really proud of"
+	para "Segur que la teva"
+	line "mare està molt"
 
-	para "all that you've"
-	line "accomplished."
+	para "orgullosa del que"
+	line "has aconseguit."
 
-	para "Heh, put it this"
-	line "way. I'd be proud"
+	para "Et diré una cosa."
+	line "Jo estaria"
 
-	para "if I were your"
-	line "mom, believe me!"
+	para "orgullós si fos"
+	line "la teva mare!"
 	done
 
 IrwinVermilionCityGossipText:
-	text "I saw, I saw,"
-	line "I saw!"
+	text "Ho he vist,"
+	line "ho he vist!"
 
-	para "You striding onto"
-	line "a ship, <PLAY_G>!"
+	para "Pujaves a un"
+	line "vaixell, <PLAY_G>!"
 
-	para "I can't get over"
-	line "how good you look"
+	para "No puc oblidar"
+	line "el bé que feies"
 
-	para "with the sea as"
-	line "your backdrop!"
+	para "amb el mar de"
+	line "fons!"
 	done
 
 IrwinTrainPassGossipText:
-	text "I heard, I heard!"
+	text "Ho he sentit,"
+	line "ho he sentit!"
 
-	para "You got a MAGNET"
-	line "TRAIN PASS!"
+	para "Tens un PASSI pel"
+	line "TREN MAGNÈTIC!"
 
-	para "When I saw you"
-	line "departing on the"
+	para "Quan et vaig veure"
+	line "marxar amb vaixell"
 
-	para "ship, I felt sad"
-	line "that I wouldn't be"
+	para "em vaig entristir"
+	line "pensant que no et"
 
-	para "able to see you"
-	line "for a while."
+	para "veuria durant un"
+	line "temps."
 
-	para "But since you have"
-	line "that PASS, you can"
+	para "Però amb el PASSI"
+	line "pots tornar quan"
 
-	para "zip back anytime!"
-	line "That's reassuring!"
+	para "vulguis! Això"
+	line "em tranqui<L·L>itza!"
 
-	para "What? You can FLY"
-	line "back anytime?"
+	para "Com? Pots VOLAR"
+	line "quan vulguis?"
 
-	para "What do you mean"
-	line "by FLY?"
+	para "Què vols dir"
+	line "amb VOLAR?"
 	done
 
 IrwinSnorlaxGossipText:
-	text "I saw, I saw!"
+	text "Ho he vist,"
+	line "ho he vist!"
 
-	para "You waking up"
+	para "Despertaves un"
 	line "SNORLAX!"
 
-	para "I was watching you"
-	line "from afar, so I"
+	para "T'observava de"
+	line "lluny, així que"
 
-	para "couldn't tell what"
-	line "you did exactly."
+	para "no he vist bé"
+	line "què has fet."
 
-	para "Did you play a"
-	line "flute to wake it?"
+	para "Has tocat una"
+	line "flauta?"
 
-	para "Wow! That's like"
-	line "magic!"
+	para "Uau! Això és"
+	line "com màgia!"
 	done
 
 IrwinMtSilverGossipText:
-	text "I hear rumors"
-	line "about you all over"
-	cont "the place."
+	text "Sento rumors"
+	line "sobre tu arreu."
 
-	para "It just makes me"
-	line "sigh, <PLAY_G>."
+	para "Em fas sospirar,"
+	line "<PLAY_G>."
 
-	para "How did you get so"
-	line "strong?"
+	para "Com t'has fet"
+	line "tan fort?"
 
-	para "Go for the world"
-	line "championship now!"
+	para "Ara ves a pel"
+	line "campionat mundial!"
 
-	para "I'll always be"
-	line "cheering you on!"
+	para "Sempre t'estaré"
+	line "animant!"
 	done
 
 IrwinCalledRightAwayText:
-	text "Hehe, I called"
-	line "right away!"
+	text "Hehe, he trucat"
+	line "de seguida!"
 
-	para "I think we can be"
-	line "good friends!"
+	para "Crec que podem"
+	line "ser bons amics!"
 	done
 
 IrwinFogBadgeGossipText:
-	text "I saw, I heard!"
+	text "Ho he vist,"
+	line "ho he sentit!"
 
-	para "You beat MORTY of"
-	line "ECRUTEAK GYM!"
+	para "Has vençut en"
+	line "MORTI del GIMNÀS"
+	cont "IRIS!"
 
-	para "Th-that's just"
-	line "incredible!"
+	para "És… és"
+	line "increïble!"
 
-	para "I actually went to"
-	line "the GYM's entrance"
+	para "Vaig anar a"
+	line "l'entrada del"
 
-	para "to cheer you on."
-	line "Did you know that?"
+	para "GIMNÀS per"
+	line "animar-te."
+	cont "Ho sabies?"
 
-	para "But everyone was"
-	line "floating, and"
+	para "Però tothom"
+	line "flotava i hi"
 
-	para "there were ghosts"
-	line "all over! So I"
+	para "havia fantasmes"
+	line "pertot! Així que"
 
-	para "chickened out and"
-	line "took off for home…"
+	para "em vaig espantar"
+	line "i me'n vaig anar…"
 	done
 
 IrwinMarshBadgeGossipText:
-	text "<PLAY_G>, I heard!"
+	text "<PLAY_G>, ho he"
+	line "sentit!"
 
-	para "You're kicking up"
-	line "a mighty ruckus"
+	para "Estàs fent molt"
+	line "de soroll per"
 
-	para "over in KANTO!"
-	line "What a glorious"
+	para "KANTO! Quina"
+	line "aventura tan"
 
-	para "rampage it must"
-	line "be!"
+	para "gloriosa deu"
+	line "ser!"
 
-	para "You so rock!"
+	para "Ets genial!"
 	done
 
 IrwinYourEscapadesRockText:
-	text "Hearing about your"
-	line "escapades rocks my"
+	text "Sentir parlar de"
+	line "les teves gestes"
 
-	para "soul!"
-	line "It sure does!"
+	para "m'emociona molt!"
+	line "De debò!"
 	done
 
 IrwinGoodMatchText:
-	text "I'm so glad you"
-	line "called!"
+	text "M'alegro que"
+	line "hagis trucat!"
 
-	para "I was just about"
-	line "to call you too!"
+	para "Jo també t'anava"
+	line "a trucar!"
 
-	para "I guess we must be"
-	line "a good match!"
+	para "Fem bona parella,"
+	line "oi?"
 	done
 
 IrwinSoMuchToChatAboutText:
-	text "How are you?"
+	text "Com estàs?"
 
-	para "What are you"
-	line "doing?"
+	para "Què estàs fent?"
 
-	para "Where are you?"
+	para "On ets?"
 
-	para "How many BADGES do"
-	line "you have now?"
+	para "Quantes MEDALLES"
+	line "tens ara?"
 
-	para "How much money"
-	line "have you saved?"
+	para "Quants diners"
+	line "has estalviat?"
 
-	para "How's your mom?"
+	para "Com està la mare?"
 
-	para "Have you got lots"
-	line "of #MON?"
+	para "Tens molts"
+	line "#MON?"
 
-	para "Is it going to be"
-	line "sunny tomorrow?"
+	para "Farà sol demà?"
 
-	para "Arrgh, there's so"
-	line "much I want to"
+	para "Ai, tinc tantes"
+	line "coses de què"
 
-	para "chat about! This"
-	line "is going nowhere!"
+	para "parlar! Això no"
+	line "va enlloc!"
 	done

@@ -52,47 +52,49 @@ VictoryRoadGateStepDownMovement:
 	step_end
 
 VictoryRoadGateOfficerText:
-	text "Only trainers who"
-	line "have proven them-"
-	cont "selves may pass."
+	text "Només entrenadors"
+	line "que hagin"
+	cont "demostrat"
+	cont "la seva vàlua"
+	cont "poden passar."
 	done
 
 VictoryRoadGateNotEnoughBadgesText:
-	text "You don't have all"
-	line "the GYM BADGES of"
-	cont "JOHTO."
+	text "No tens totes les"
+	line "MEDALLES de JOHTO."
 
-	para "I'm sorry, but I"
-	line "can't let you go"
-	cont "through."
+	para "Ho sento, però no"
+	line "puc deixar-te"
+	cont "passar."
 	done
 
 VictoryRoadGateEightBadgesText:
-	text "Oh! The eight"
-	line "BADGES of JOHTO!"
+	text "Oh! Les vuit"
+	line "MEDALLES de JOHTO!"
 
-	para "Please, go right"
-	line "on through!"
+	para "Si us plau, passa"
+	line "endavant!"
 	done
 
 VictoryRoadGateLeftBlackBeltText:
-	text "This way leads to"
-	line "MT.SILVER."
+	text "Aquest camí porta"
+	line "al MT.SILVER."
 
-	para "You'll see scary-"
-	line "strong #MON out"
-	cont "there."
+	para "Hi trobaràs"
+	line "#MON"
+	cont "increïblement"
+	cont "forts."
 	done
 
 VictoryRoadGateRightBlackBeltText:
-	text "Off to the #MON"
-	line "LEAGUE, are you?"
+	text "Vas a la LLIGA"
+	line "#MON?"
 
-	para "The ELITE FOUR are"
-	line "so strong it's"
+	para "L'ELIT QUATRE són"
+	line "tan forts que fan"
 
-	para "scary, and they're"
-	line "ready for you!"
+	para "por, i t'estan"
+	line "esperant!"
 	done
 
 VictoryRoadGate_MapEvents:

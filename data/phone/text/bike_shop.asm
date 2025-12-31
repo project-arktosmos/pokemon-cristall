@@ -1,19 +1,19 @@
 BikeShopPhoneCallerText:
-	text "Hi, <PLAY_G>!"
-	line "Our BICYCLE sales"
+	text "Hola, <PLAY_G>!"
+	line "Les vendes de"
 
-	para "have gone through"
-	line "the roof!"
+	para "BICICLETES s'han"
+	line "disparat!"
 
-	para "We owe it all to"
-	line "your advertising"
+	para "T'ho devem tot a"
+	line "tu per fer-nos"
 
-	para "by riding around"
-	line "on our BICYCLE."
+	para "publicitat anant"
+	line "amb la BICICLETA."
 
-	para "As our way of say-"
-	line "ing thanks, please"
+	para "En agraïment, si"
+	line "us plau, queda't"
 
-	para "keep that BICYCLE."
-	line "Thanks again!"
+	para "la BICICLETA."
+	line "Gràcies de nou!"
 	done

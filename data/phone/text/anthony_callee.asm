@@ -1,73 +1,71 @@
 AnthonyAnswerPhoneText:
-	text "Yeah, @"
+	text "Sí, sóc @"
 	text_ram wStringBuffer3
-	text " the"
-	line "HIKER here."
+	text ","
+	line "l'EXCURSIONISTA."
 
 	para "Ah, <PLAYER>!"
 	done
 
 AnthonyAnswerPhoneDayText:
-	text "Yeah, @"
+	text "Sí, sóc @"
 	text_ram wStringBuffer3
-	text " the"
-	line "HIKER here."
+	text ","
+	line "l'EXCURSIONISTA."
 
-	para "Ah, <PLAYER>,"
-	line "right?"
+	para "Ah, <PLAYER>, oi?"
 	done
 
 AnthonyAnswerPhoneNiteText:
-	text "Yeah, @"
+	text "Sí, sóc @"
 	text_ram wStringBuffer3
-	text " the"
-	line "HIKER here."
+	text ","
+	line "l'EXCURSIONISTA."
 
-	para "Ah, <PLAYER>, isn't"
-	line "it?"
+	para "Ah, <PLAYER>, no?"
 	done
 
 AnthonyGreetText:
-	text "Yo, <PLAYER>?"
+	text "Ei, <PLAYER>?"
 
-	para "This is @"
+	para "Sóc @"
 	text_ram wStringBuffer3
-	text_start
-	line "the HIKER!"
+	text ","
+	line "l'EXCURSIONISTA!"
 	done
 
 AnthonyGreetDayText:
-	text "Hey, is this"
-	line "<PLAYER>?"
+	text "Ei, ets <PLAYER>?"
 
-	para "This is @"
+	para "Sóc @"
 	text_ram wStringBuffer3
-	text_start
-	line "the HIKER!"
+	text ","
+	line "l'EXCURSIONISTA!"
 	done
 
 AnthonyGreetNiteText:
-	text "<PLAYER>, you still"
-	line "awake?"
+	text "<PLAYER>, encara"
+	line "ets despert?"
 
-	para "This is @"
+	para "Sóc @"
 	text_ram wStringBuffer3
-	text_start
-	line "the HIKER!"
+	text ","
+	line "l'EXCURSIONISTA!"
 	done
 
 AnthonyGenericText:
-	text "Are your #MON"
-	line "as feisty as ever?"
+	text "Els teus #MON"
+	line "estan bé com"
+	cont "sempre?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " and"
-	line "me--we have energy"
+	text " i"
+	line "jo estem plens"
 
-	para "to burn. We hike"
-	line "up mountains every"
+	para "d'energia. Pugem"
+	line "muntanyes cada"
 
-	para "day to work out"
-	line "all our energy."
+	para "dia per gastar"
+	line "tota l'energia."
 	done

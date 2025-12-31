@@ -1,9 +1,9 @@
-	object_const_def
-	const ROUTE11_YOUNGSTER1
-	const ROUTE11_YOUNGSTER2
-	const ROUTE11_YOUNGSTER3
-	const ROUTE11_YOUNGSTER4
-	const ROUTE11_FRUIT_TREE
+object_const_def
+const ROUTE11_YOUNGSTER1
+const ROUTE11_YOUNGSTER2
+const ROUTE11_YOUNGSTER3
+const ROUTE11_YOUNGSTER4
+const ROUTE11_FRUIT_TREE
 
 Route11_MapScripts:
 	def_scene_scripts
@@ -64,43 +64,43 @@ Route11HiddenRevive:
 	hiddenitem REVIVE, EVENT_ROUTE_11_HIDDEN_REVIVE
 
 YoungsterOwenSeenText:
-	text "There's no cheat-"
-	line "ing in #MON."
+	text "No es pot fer"
+	line "trampes amb"
+	cont "#MON."
 
-	para "Let's keep it fair"
-	line "and square!"
+	para "Siguem justos i"
+	line "honrats!"
 	done
 
 YoungsterOwenBeatenText:
-	text "Huh? How did this"
-	line "happen?"
+	text "Eh? Com ha pogut"
+	line "passar això?"
 	done
 
 YoungsterOwenAfterBattleText:
-	text "I fought fair and"
-	line "square with honor."
+	text "He lluitat amb"
+	line "honor i justícia."
 
-	para "I don't regret"
-	line "this at all."
+	para "No me'n penedeixo"
+	line "gens ni mica."
 	done
 
 YoungsterJasonSeenText:
-	text "It itches and"
-	line "tickles a bit when"
+	text "Em fa picor i"
+	line "pessigolles quan"
 
-	para "I wear shorts in"
-	line "the grass."
+	para "porto pantalons"
+	line "curts a l'herba."
 	done
 
 YoungsterJasonBeatenText:
-	text "Aiyaaah!"
-	line "I got stomped!"
+	text "Aiaaa!"
+	line "M'han esclafat!"
 	done
 
 YoungsterJasonAfterBattleText:
-	text "I'm going to catch"
-	line "more #MON in"
-	cont "the grass."
+	text "Atraparé més"
+	line "#MON a l'herba."
 	done
 
 PsychicHermanSeenText:
@@ -114,33 +114,34 @@ PsychicHermanBeatenText:
 PsychicHermanAfterBattleText:
 	text "…"
 
-	para "I lost while I had"
-	line "my eyes closed…"
+	para "He perdut amb els"
+	line "ulls tancats…"
 	done
 
 PsychicFidelSeenText:
-	text "I can see it…"
+	text "Ho puc veure…"
 
-	para "Everything to see"
-	line "about you…"
+	para "Tot el que cal"
+	line "saber de tu…"
 	done
 
 PsychicFidelBeatenText:
-	text "I couldn't foresee"
-	line "your power…"
+	text "No he pogut"
+	line "preveure el teu"
+	cont "poder…"
 	done
 
 PsychicFidelAfterBattleText:
-	text "Strength in con-"
-	line "viction…"
+	text "Força en la"
+	line "convicció…"
 
-	para "You're strong be-"
-	line "cause you believe"
-	cont "in your #MON."
+	para "Ets fort perquè"
+	line "creus en els teus"
+	cont "#MON."
 	done
 
 Route11SignText:
-	text "ROUTE 11"
+	text "RUTA 11"
 	done
 
 Route11_MapEvents:

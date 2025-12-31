@@ -1,80 +1,81 @@
 HueyAskNumber1Text:
-	text "Cool! That's the"
-	line "first time I've"
-	cont "lost in a while!"
+	text "Genial! Feia"
+	line "temps que no"
+	cont "perdia!"
 
-	para "Hey, give me your"
-	line "phone number."
+	para "Ei, dóna'm el teu"
+	line "número de telèfon."
 
-	para "You'd be fun to"
-	line "battle, so I'll"
+	para "Seria divertit"
+	line "combatre amb tu,"
 
-	para "call you when I"
-	line "get stronger!"
+	para "així que et"
+	line "trucaré quan sigui"
+	cont "més fort!"
 	done
 
 HueyAskNumber2Text:
-	text "Hey, give me your"
-	line "phone number."
+	text "Ei, dóna'm el teu"
+	line "número de telèfon."
 
-	para "You'd be fun to"
-	line "battle, so I'll"
+	para "Seria divertit"
+	line "combatre amb tu,"
 
-	para "call you when I"
-	line "get stronger!"
+	para "així que et"
+	line "trucaré quan sigui"
+	cont "més fort!"
 	done
 
 HueyNumberAcceptedText:
-	text "Hey, let's battle"
-	line "again!"
+	text "Ei, tornem a"
+	line "combatre!"
 	done
 
 HueyNumberDeclinedText:
-	text "Looks like you're"
-	line "a wimp…"
+	text "Sembla que ets"
+	line "un covard…"
 	done
 
 HueyPhoneFullText:
-	text "Hey! Your phone's"
-	line "already full!"
+	text "Ei! El teu telèfon"
+	line "ja és ple!"
 	done
 
 HueyRematchText:
-	text "Hey! I'm tired of"
-	line "waiting for you!"
+	text "Ei! Ja estic tip"
+	line "d'esperar-te!"
 	done
 
 HueyPackFullText:
-	text "Oh… Your PACK's"
-	line "full. I'll give it"
-	cont "to you later."
+	text "Oh… La MOTXILLA"
+	line "és plena. Te'l"
+	cont "donaré més tard."
 	done
 
 HueyRematchGiftText:
-	text "Man! You're as"
-	line "tough as ever!"
+	text "Vaja! Ets tan"
+	line "fort com sempre!"
 
-	para "I've battled you"
-	line "over and over, but"
+	para "He combatut contra"
+	line "tu moltes vegades,"
 
-	para "<PLAYER>, I haven't"
-	line "won once."
+	para "però <PLAYER>,"
+	line "mai no he guanyat."
 
-	para "I bought tons of"
-	line "items to toughen"
+	para "He comprat un"
+	line "munt d'objectes"
 
-	para "up my #MON, but"
-	line "to no avail…"
+	para "per als #MON,"
+	line "però res…"
 
-	para "Items alone aren't"
-	line "the answer."
+	para "Els objectes sols"
+	line "no són la solució."
 
-	para "That must be what"
-	line "it is…"
+	para "Deu ser això…"
 
-	para "Here, take this,"
+	para "Té, pren això,"
 	line "<PLAYER>."
 
-	para "I won't be needing"
-	line "it anymore…"
+	para "Ja no el"
+	line "necessitaré…"
 	done

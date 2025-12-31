@@ -1,81 +1,81 @@
 VanceAnswerPhoneText:
-	text "Yes, hello?"
-	line "@"
+	text "Sí, digui?"
+	line "Sóc @"
 	text_ram wStringBuffer3
-	text " here!"
+	text "!"
 
-	para "Morning, <PLAY_G>!"
+	para "Bon dia, <PLAY_G>!"
 
-	para "Are you using bird"
-	line "#MON?"
+	para "Fas servir #MON"
+	line "ocells?"
 	done
 
 VanceAnswerPhoneDayText:
-	text "Yes, hello?"
-	line "@"
+	text "Sí, digui?"
+	line "Sóc @"
 	text_ram wStringBuffer3
-	text " here!"
+	text "!"
 
-	para "Hi, <PLAY_G>!"
+	para "Hola, <PLAY_G>!"
 
-	para "Are your bird"
-	line "#MON flying?"
+	para "Els teus #MON"
+	line "ocells volen?"
 	done
 
 VanceAnswerPhoneNiteText:
-	text "Yes, hello?"
-	line "@"
+	text "Sí, digui?"
+	line "Sóc @"
 	text_ram wStringBuffer3
-	text " here!"
+	text "!"
 
-	para "Evening, <PLAY_G>!"
-	line "Are you letting"
+	para "Bona nit, <PLAY_G>!"
+	line "Fas entrenar els"
 
-	para "your bird #MON"
-	line "see some action?"
+	para "teus #MON"
+	line "ocells?"
 	done
 
 VanceGreetText:
-	text "Good morning,"
+	text "Bon dia,"
 	line "<PLAY_G>!"
 
-	para "It's @"
+	para "Sóc @"
 	text_ram wStringBuffer3
 	text "!"
-	line "Good morning!"
+	line "Bon dia!"
 	done
 
 VanceGreetDayText:
-	text "Hi, <PLAY_G>!"
+	text "Hola, <PLAY_G>!"
 
-	para "It's @"
+	para "Sóc @"
 	text_ram wStringBuffer3
 	text "!"
-	line "Remember me?"
+	line "Em recordes?"
 	done
 
 VanceGreetNiteText:
-	text "Good evening,"
+	text "Bona nit,"
 	line "<PLAY_G>!"
 
-	para "It's @"
+	para "Sóc @"
 	text_ram wStringBuffer3
 	text "!"
-	line "Are you free now?"
+	line "Estàs lliure ara?"
 	done
 
 VanceGenericText:
-	text "Are you and your"
-	line "#MON fine?"
+	text "Tu i els teus"
+	line "#MON esteu bé?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
 	text_start
-	line "looks like it will"
+	line "sembla que serà"
 
-	para "get tough enough"
-	line "to face and beat"
+	para "prou fort per"
+	line "batre els #MON"
 
-	para "the legendary bird"
-	line "#MON!"
+	para "ocells"
+	line "llegendaris!"
 	done

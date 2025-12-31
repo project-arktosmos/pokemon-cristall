@@ -308,216 +308,224 @@ TinTower1FSage3EntersMovement:
 	step_end
 
 TinTower1FEusineSuicuneText:
-	text "EUSINE: Awesome!"
-	line "Too awesome, even!"
+	text "EUSINE: Genial!"
+	line "Massa genial!"
 
-	para "I've never seen a"
-	line "battle that great."
+	para "No havia vist mai"
+	line "un combat així."
 
-	para "That was truly"
-	line "inspiring to see."
+	para "Ha estat molt"
+	line "inspirador."
 
-	para "SUICUNE was tough,"
-	line "but you were even"
+	para "SUICUNE era fort,"
+	line "però tu eres"
 
-	para "more incredible,"
+	para "encara millor,"
 	line "<PLAYER>."
 
-	para "I heard SUICUNE's"
-	line "mystic power"
+	para "He sentit que el"
+	line "poder místic de"
 
-	para "summons a rainbow-"
-	line "colored #MON."
+	para "SUICUNE invoca un"
+	line "#MON arc de St."
 
-	para "Maybe, just maybe,"
-	line "what went on today"
+	para "Potser el que ha"
+	line "passat avui farà"
 
-	para "will cause that"
-	line "#MON to appear."
+	para "que aparegui"
+	line "aquest #MON."
 
-	para "I'm going to study"
-	line "the legends more."
+	para "Estudiaré més"
+	line "les llegendes."
 
-	para "Thanks for showing"
-	line "me that fantastic"
-	cont "battle."
+	para "Gràcies per"
+	line "mostrar-me aquest"
+	cont "combat fantàstic."
 
-	para "Later, <PLAYER>!"
+	para "Adéu, <PLAYER>!"
 	done
 
 TinTower1FSage1Text:
-	text "According to"
-	line "legend…"
+	text "Segons la"
+	line "llegenda…"
 
-	para "When the souls of"
-	line "#MON and humans"
+	para "Quan les ànimes"
+	line "dels #MON i els"
 
-	para "commune, from the"
-	line "heavens descends a"
+	para "humans es comunin,"
+	line "del cel baixa un"
 
-	para "#MON of rainbow"
-	line "colors…"
+	para "#MON de colors"
+	line "de l'arc de St.…"
 
-	para "Could it mean the"
-	line "legendary #MON"
+	para "Voldrà dir que"
+	line "els #MON"
 
-	para "are testing us"
-	line "humans?"
+	para "llegendaris posen"
+	line "a prova els humans"
 	done
 
 TinTower1FSage2Text:
-	text "When the BRASS"
-	line "TOWER burned down,"
+	text "Quan la TORRE DE"
+	line "BRONZE va cremar,"
 
-	para "three nameless"
-	line "#MON were said"
+	para "es diu que tres"
+	line "#MON sense nom"
 
-	para "to have perished."
-	line "It was tragic."
+	para "van morir."
+	line "Va ser tràgic."
 
-	para "However…"
+	para "No obstant…"
 
-	para "A rainbow-colored"
-	line "#MON…"
+	para "Un #MON de"
+	line "l'arc de St.…"
 
-	para "In other words…"
+	para "És a dir…"
 
-	para "HO-OH descended"
-	line "from the sky and"
+	para "HO-OH va baixar"
+	line "del cel i va donar"
 
-	para "gave new life to"
-	line "the three #MON."
+	para "nova vida als"
+	line "tres #MON."
 
-	para "They are…"
+	para "Són…"
 
-	para "SUICUNE, ENTEI and"
+	para "SUICUNE, ENTEI i"
 	line "RAIKOU."
 
-	para "That is what they"
-	line "say."
+	para "Això és el que"
+	line "diuen."
 	done
 
 TinTower1FSage3Text:
-	text "The two TOWERS are"
-	line "said to have been"
+	text "Es diu que les"
+	line "dues TORRES van"
 
-	para "built to foster"
-	line "friendship and"
+	para "ser construïdes"
+	line "per fomentar"
 
-	para "hope between #-"
-	line "MON and people."
+	para "l'amistat i"
+	line "l'esperança entre"
 
-	para "That was 700 years"
-	line "ago, but the ideal"
+	para "#MON i"
+	line "persones."
 
-	para "still remains"
-	line "important today."
+	para "Fa 700 anys,"
+	line "però l'ideal"
+
+	para "segueix sent"
+	line "important avui."
 	done
 
 TinTower1FSage4Text1:
-	text "HO-OH appears to"
-	line "have descended"
+	text "Sembla que HO-OH"
+	line "ha baixat a"
 
-	para "upon this, the TIN"
-	line "TOWER!"
+	para "aquesta, la TORRE"
+	line "CAMPANA!"
 	done
 
 TinTower1FSage5Text1:
-	text "This will protect"
-	line "you. Take it."
+	text "Això et protegirà."
+	line "Pren-ho."
 	done
 
 TinTower1FSage5Text2:
-	text "Now, go."
+	text "Ara, vés."
 	done
 
 TinTower1FSage6Text1:
-	text "I believe you are"
-	line "being tested."
+	text "Crec que t'estan"
+	line "posant a prova."
 
-	para "Free your mind"
-	line "from uncertainty,"
-	cont "and advance."
+	para "Allibera la ment"
+	line "de la incertesa,"
+	cont "i avança."
 	done
 
 TinTower1FEusineHoOhText:
-	text "I knew it."
+	text "Ho sabia."
 
-	para "I knew you'd get"
-	line "to see the #MON"
+	para "Sabia que veuries"
+	line "el #MON de"
 
-	para "of rainbow colors,"
-	line "<PLAYER>."
+	para "colors de l'arc"
+	line "de St., <PLAYER>."
 
-	para "It happened just"
-	line "as I envisioned."
+	para "Ha passat tal com"
+	line "ho havia previst."
 
-	para "My research isn't"
-	line "bad, I might say."
+	para "La meva recerca"
+	line "no és dolenta."
 
-	para "I'm going to keep"
-	line "studying #MON"
+	para "Seguiré estudiant"
+	line "#MON per ser un"
 
-	para "to become a famous"
-	line "#MANIAC!"
+	para "#MANIAC famós!"
 	done
 
 TinTower1FSage4Text2:
-	text "The legendary"
-	line "#MON are said"
+	text "Es diu que els"
+	line "#MON"
+	cont "llegendaris"
 
-	para "to embody three"
-	line "powers…"
+	para "encarnen tres"
+	line "poders…"
 
-	para "The lightning that"
-	line "struck the TOWER."
+	para "El llamp que va"
+	line "colpejar la TORRE."
 
-	para "The fire that"
-	line "burned the TOWER."
+	para "El foc que va"
+	line "cremar la TORRE."
 
-	para "And the rain that"
-	line "put out the fire…"
+	para "I la pluja que va"
+	line "apagar el foc…"
 	done
 
 TinTower1FSage5Text3:
-	text "When the legendary"
-	line "#MON appeared…"
+	text "Quan els #MON"
+	line "llegendaris van"
+	cont "aparèixer…"
 
-	para "They struck terror"
-	line "in those who saw"
-	cont "their rise."
+	para "Van aterrir els"
+	line "que van veure"
+	cont "el seu ascens."
 
-	para "And…"
+	para "I…"
 
-	para "Some even took to"
-	line "futile attacks."
+	para "Alguns fins i tot"
+	line "els van atacar."
 
-	para "The legendary"
-	line "#MON, knowing"
+	para "Els #MON"
+	line "llegendaris,"
 
-	para "their own power,"
-	line "fled, ignoring the"
-	cont "frightened people."
+	para "sabent el seu"
+	line "poder, van fugir,"
+
+	para "ignorant la gent"
+	line "espantada."
 	done
 
 TinTower1FSage6Text2:
-	text "Of the legendary"
-	line "#MON, SUICUNE"
+	text "Dels #MON"
+	line "llegendaris,"
 
-	para "is said to be the"
-	line "closest to HO-OH."
+	para "es diu que SUICUNE"
+	line "és el més proper"
+	cont "a HO-OH."
 
-	para "I hear there may"
-	line "also be a link to"
+	para "He sentit que pot"
+	line "haver-hi un vincle"
 
-	para "#MON known as"
-	line "UNOWN."
+	para "amb els #MON"
+	line "coneguts com UNOWN"
 
-	para "The #MON UNOWN"
-	line "must be sharing a"
+	para "Els #MON UNOWN"
+	line "han de compartir"
 
-	para "cooperative bond"
-	line "with SUICUNE."
+	para "un vincle de"
+	line "cooperació amb"
+	cont "SUICUNE."
 	done
 
 TinTower1F_MapEvents:

@@ -1,165 +1,169 @@
 MomPhoneGreetingText:
-	text "Hello?"
+	text "Hola?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "Working hard?"
+	para "Oh, hola, <PLAYER>!"
+	line "Treballes dur?"
 	done
 
 MomPhoneLandmarkText:
-	text "Oh, so you're in"
+	text "Oh, ets a"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Isn't that where"
+	para "No és on hi ha"
 	line "@"
 	text_ram wStringBuffer4
 	text_start
-	para "is? Did you go"
-	line "take a look?"
+	para "? Hi has anat"
+	line "a fer un cop"
+	cont "d'ull?"
 	done
 
 MomPhoneGenericAreaText:
-	text "Really, you're in"
+	text "De veritat ets a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "I've never gone"
-	line "there. That's kind"
-	cont "of neat, <PLAYER>."
+	para "Mai hi he anat."
+	line "Això és genial,"
+	cont "<PLAYER>."
 	done
 
 MomPhoneNewBarkText:
-	text "What? You're in"
+	text "Què? Ets a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Come see your MOM"
-	line "sometime!"
+	para "Vine a veure la"
+	line "MARE de tant en"
+	cont "tant!"
 	done
 
 MomPhoneCherrygroveText:
-	text "You're visiting"
+	text "Ets de visita a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "How about coming"
-	line "home for a bit?"
+	para "Per què no véns"
+	line "a casa una estona?"
 	done
 
 MomOtherAreaText:
-	text "Wow, you're in"
+	text "Uau, ets a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Good luck on your"
-	line "#MON quest!"
+	para "Bona sort amb la"
+	line "cerca de #MON!"
 	done
 
 MomDeterminedText:
-	text "That sounds really"
-	line "tough."
+	text "Això sembla molt"
+	line "difícil."
 
-	para "But, <PLAYER>, I"
-	line "know you're really"
+	para "Però, <PLAYER>, sé"
+	line "que tens molta"
 
-	para "determined. You'll"
-	line "be OK, right?"
+	para "determinació."
+	line "Aniràs bé, oi?"
 	done
 
 MomCheckBalanceText:
-	text "By the way, you've"
-	line "saved up ¥@"
+	text "Per cert, tens"
+	line "estalviats ¥@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Do you want to"
-	line "keep on saving?"
+	para "Vols continuar"
+	line "estalviant?"
 	done
 
 MomImportantToSaveText:
-	text "It's important to"
-	line "save your money."
+	text "És important"
+	line "estalviar diners."
 	done
 
 MomYoureNotSavingText:
 	text "Oh, <PLAYER>,"
-	line "you're not saving"
+	line "no estàs"
 
-	para "any money. Would"
-	line "you like to save?"
+	para "estalviant diners."
+	line "Vols estalviar?"
 	done
 
 MomYouveSavedText:
-	text "By the way, you've"
-	line "saved up ¥@"
+	text "Per cert, tens"
+	line "estalviats ¥@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Want to start"
-	line "saving again?"
+	para "Vols tornar a"
+	line "estalviar?"
 	done
 
 MomOKIllSaveText:
-	text "OK. I'll save your"
-	line "money."
+	text "D'acord."
+	line "T'estalviaré"
+	cont "els diners."
 	done
 
 MomPhoneWontSaveMoneyText:
-	text "OK. I won't save"
-	line "your money."
+	text "D'acord. No"
+	line "t'estalviaré"
+	cont "els diners."
 	done
 
 MomPhoneHangUpText:
-	text "<PLAYER>, keep it"
-	line "up! I'm rooting"
-	cont "for you, baby!"
+	text "<PLAYER>, continua"
+	line "així! T'animo,"
+	cont "fill meu!"
 	done
 
 MomPhoneNoPokemonText:
-	text "Hello?"
+	text "Hola?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "Wasn't PROF.ELM"
-	cont "waiting for you?"
+	para "Oh, hola, <PLAYER>!"
+	line "El PROF. OM no"
+	cont "t'estava esperant?"
 	done
 
 MomPhoneNoPokedexText:
-	text "Hello?"
+	text "Hola?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "You're on a big"
+	para "Oh, hola, <PLAYER>!"
+	line "Tens una gran"
 
-	para "mission for PROF."
-	line "ELM? Be good!"
+	para "missió del PROF."
+	line "OM? Porta't bé!"
 	done
 
 MomPhoneNoGymQuestText:
-	text "Hello?"
+	text "Hola?"
 
-	para "Hi, <PLAYER>! If"
-	line "you're done with"
+	para "Hola, <PLAYER>! Si"
+	line "has acabat"
 
-	para "your errand come"
-	line "on home, dear."
+	para "l'encàrrec, torna"
+	line "a casa, fill."
 	done
 
 MomPhoneLectureText:
-	text "Hello?"
+	text "Hola?"
 
 	para "…… <PLAYER>?"
-	line "I heard from PROF."
+	line "El PROF. OM m'ha"
 
-	para "ELM that you went"
-	line "on a long trip."
+	para "dit que has anat"
+	line "a fer un viatge."
 
-	para "I wish you would"
-	line "have told me…"
+	para "M'ho podries"
+	line "haver dit…"
 
-	para "What about money?"
-	line "Should I save it?"
+	para "I els diners?"
+	line "T'els estalvio?"
 	done

@@ -1,62 +1,63 @@
 TiffanyAskNumber1Text:
-	text "Hi! You like"
-	line "CLEFAIRY too?"
+	text "Hola! A tu també"
+	line "t'agrada CLEFAIRY?"
 
-	para "They're so very"
-	line "cute, aren't they?"
+	para "Són tan macos,"
+	line "oi?"
 
-	para "I think we can be"
-	line "good friends!"
+	para "Crec que podem ser"
+	line "bons amics!"
 
-	para "I want to know"
-	line "your phone number!"
+	para "Vull saber el teu"
+	line "número de telèfon!"
 
-	para "Let's talk about"
+	para "Parlem de"
 	line "CLEFAIRY!"
 	done
 
 TiffanyAskNumber2Text:
-	text "I want to know"
-	line "your phone number!"
+	text "Vull saber el teu"
+	line "número de telèfon!"
 
-	para "Let's talk about"
+	para "Parlem de"
 	line "CLEFAIRY!"
 	done
 
 TiffanyNumberAcceptedText:
-	text "Isn't my CLEFAIRY"
-	line "super-adorable?"
+	text "El meu CLEFAIRY és"
+	line "superadorable, oi?"
 	done
 
 TiffanyNumberDeclinedText:
-	text "Aww… Oh well."
-	line "Look for me if you"
+	text "Oh… Bé, res."
+	line "Busca'm si vols"
 
-	para "want to talk about"
+	para "parlar de"
 	line "CLEFAIRY."
 	done
 
 TiffanyPhoneFullText:
-	text "Oh? Your phone"
-	line "registry is full."
+	text "Oh? El registre"
+	line "del telèfon és"
+	cont "ple."
 	done
 
 TiffanyRematchText:
-	text "There you are!"
+	text "Ja ets aquí!"
 
-	para "CLEFAIRY, I want"
-	line "you to try hard!"
+	para "CLEFAIRY, esforça"
+	line "-t'hi molt!"
 	done
 
 TiffanyGiftText:
-	text "You took a long"
-	line "time. See this?"
+	text "Has trigat molt."
+	line "Veus això?"
 
-	para "Isn't it cute?"
-	line "It's a PINK BOW."
+	para "No és maco? És un"
+	line "LLAÇ ROSA."
 	done
 
 TiffanyPackFullText:
-	text "Uh-oh. Your PACK"
-	line "is crammed full."
+	text "Ui. La MOTXILLA"
+	line "és plena."
 	done

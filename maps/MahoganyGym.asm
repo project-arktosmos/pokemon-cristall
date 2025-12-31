@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const MAHOGANYGYM_PRYCE
 	const MAHOGANYGYM_BEAUTY1
 	const MAHOGANYGYM_ROCKER1
@@ -148,226 +148,228 @@ MahoganyGymStatue:
 	jumpstd GymStatue2Script
 
 PryceText_Intro:
-	text "#MON have many"
-	line "experiences in"
+	text "Els # viuen"
+	line "moltes experiènci-"
+	cont "es, com nosaltres."
 
-	para "their lives, just "
-	line "like we do. "
+	para "Jo també he vist"
+	line "i patit molt a la"
+	cont "meva vida."
 
-	para "I, too, have seen"
-	line "and suffered much"
-	cont "in my life."
+	para "Com que sóc més"
+	line "gran, deixa'm"
+	cont "ensenyar-t'ho."
 
-	para "Since I am your"
-	line "elder, let me show"
-	cont "you what I mean."
+	para "He estat amb # "
+	line "des d'abans que"
+	cont "tu naixessis."
 
-	para "I have been with"
-	line "#MON since"
+	para "No perdo"
+	line "fàcilment."
 
-	para "before you were"
-	line "born."
+	para "Jo, PRYCE, el"
+	line "mestre de l'hivern"
 
-	para "I do not lose"
-	line "easily."
-
-	para "I, PRYCE--the"
-	line "winter trainer--"
-
-	para "shall demonstrate"
-	line "my power!"
+	para "et mostraré el"
+	line "meu poder!"
 	done
 
 PryceText_Impressed:
-	text "Ah, I am impressed"
-	line "by your prowess."
+	text "Estic impressionat"
+	line "per la teva"
+	cont "destresa."
 
-	para "With your strong"
-	line "will, I know you"
+	para "Amb la teva forta"
+	line "voluntat, sé que"
 
-	para "will overcome all"
-	line "life's obstacles."
+	para "superaràs tots"
+	line "els obstacles."
 
-	para "You are worthy of"
-	line "this BADGE!"
+	para "Et mereixes"
+	line "aquesta MEDALLA!"
 	done
 
 Text_ReceivedGlacierBadge:
-	text "<PLAYER> received"
-	line "GLACIERBADGE."
+	text "<PLAYER> ha rebut"
+	line "la M. GLACERA."
 	done
 
 PryceText_GlacierBadgeSpeech:
-	text "That BADGE will"
-	line "raise the SPECIAL"
-	cont "stats of #MON."
+	text "Aquesta MEDALLA"
+	line "augmenta les est."
+	cont "ESPECIALS dels"
+	cont "#."
 
-	para "It also lets your"
-	line "#MON use WHIRL-"
-	cont "POOL to get across"
-	cont "real whirlpools."
+	para "També permet als"
+	line "teus # usar"
+	cont "WHIRLPOOL per"
+	cont "creuar remolins."
 
-	para "And this… This is"
-	line "a gift from me!"
+	para "I això… Això és"
+	line "un regal meu!"
 	done
 
 PryceText_IcyWindSpeech:
-	text "That TM contains"
+	text "Aquesta MT conté"
 	line "ICY WIND."
 
-	para "It inflicts damage"
-	line "and lowers speed."
+	para "Causa dany i"
+	line "redueix velocitat."
 
-	para "It demonstrates"
-	line "the harshness of"
-	cont "winter."
+	para "Demostra la"
+	line "duresa de"
+	cont "l'hivern."
 	done
 
 PryceText_CherishYourPokemon:
-	text "When the ice and"
-	line "snow melt, spring"
-	cont "arrives."
+	text "Quan el gel i la"
+	line "neu es fonen,"
+	cont "arriba primavera."
 
-	para "You and your #-"
-	line "MON will be to-"
+	para "Tu i els teus #"
+	line "estareu junts"
 
-	para "gether for many"
-	line "years to come."
+	para "durant molts"
+	line "anys."
 
-	para "Cherish your time"
-	line "together!"
+	para "Estima el temps"
+	line "que passeu junts!"
 	done
 
 BoarderRonaldSeenText:
-	text "I'll freeze your"
-	line "#MON, so you"
-	cont "can't do a thing!"
+	text "Congelaré els"
+	line "teus #, i no"
+	cont "podràs fer res!"
 	done
 
 BoarderRonaldBeatenText:
-	text "Darn. I couldn't"
-	line "do a thing."
+	text "Vaja. No he pogut"
+	line "fer res."
 	done
 
 BoarderRonaldAfterBattleText:
-	text "I think there's a"
-	line "move a #MON"
+	text "Crec que hi ha un"
+	line "moviment que un"
+	cont "#"
 
-	para "can use while it's"
-	line "frozen."
+	para "pot usar mentre"
+	line "està congelat."
 	done
 
 BoarderBradSeenText:
-	text "This GYM has a"
-	line "slippery floor."
+	text "Aquest GIM té un"
+	line "terra relliscós."
 
-	para "It's fun, isn't"
-	line "it?"
+	para "És divertit, oi?"
 
-	para "But hey--we're"
-	line "not playing games"
-	cont "here!"
+	para "Però ei, aquí no"
+	line "estem jugant!"
 	done
 
 BoarderBradBeatenText:
-	text "Do you see how"
-	line "serious we are?"
+	text "Veus com de"
+	line "seriosos som?"
 	done
 
 BoarderBradAfterBattleText:
-	text "This GYM is great."
-	line "I love boarding"
-	cont "with my #MON!"
+	text "Aquest GIM és"
+	line "genial. M'encanta"
+	cont "fer surf amb els"
+	cont "meus #!"
 	done
 
 BoarderDouglasSeenText:
-	text "I know PRYCE's"
-	line "secret."
+	text "Sé el secret"
+	line "de PRYCE."
 	done
 
 BoarderDouglasBeatenText:
-	text "OK. I'll tell you"
-	line "PRYCE's secret."
+	text "D'acord. Et diré"
+	line "el secret de"
+	cont "PRYCE."
 	done
 
 BoarderDouglasAfterBattleText:
-	text "The secret behind"
-	line "PRYCE's power…"
+	text "El secret del"
+	line "poder de PRYCE…"
 
-	para "He meditates under"
-	line "a waterfall daily"
+	para "Medita sota una"
+	line "cascada cada dia"
 
-	para "to strengthen his"
-	line "mind and body."
+	para "per enfortir la"
+	line "ment i el cos."
 	done
 
 SkierRoxanneSeenText:
-	text "To get to PRYCE,"
-	line "our GYM LEADER,"
+	text "Per arribar a"
+	line "PRYCE, el nostre"
+	cont "LÍDER DE GIM,"
 
-	para "you need to think"
-	line "before you skate."
+	para "has de pensar"
+	line "abans de patinar."
 	done
 
 SkierRoxanneBeatenText:
-	text "I wouldn't lose to"
-	line "you in skiing!"
+	text "No et guanyaria"
+	line "esquiant!"
 	done
 
 SkierRoxanneAfterBattleText:
-	text "If you don't skate"
-	line "with precision,"
+	text "Si no patines amb"
+	line "precisió,"
 
-	para "you won't get far"
-	line "in this GYM."
+	para "no aniràs gaire"
+	line "lluny en aquest"
+	cont "GIM."
 	done
 
 SkierClarissaSeenText:
-	text "Check out my"
-	line "parallel turn!"
+	text "Mira el meu gir"
+	line "paral·lel!"
 	done
 
 SkierClarissaBeatenText:
-	text "No! You made me"
-	line "wipe out!"
+	text "No! M'has fet"
+	line "caure!"
 	done
 
 SkierClarissaAfterBattleText:
-	text "I shouldn't have"
-	line "been bragging"
-	cont "about my skiing…"
+	text "No hauria d'haver"
+	line "presumit del meu"
+	cont "esquí…"
 	done
 
 MahoganyGymGuideText:
-	text "PRYCE is a veteran"
-	line "who has trained"
+	text "PRYCE és un veterà"
+	line "que ha entrenat"
 
-	para "#MON for some"
-	line "50 years."
+	para "# durant uns"
+	line "50 anys."
 
-	para "He's said to be"
-	line "good at freezing"
+	para "Diuen que és bo"
+	line "congelant rivals"
 
-	para "opponents with"
-	line "ice-type moves."
+	para "amb moviments"
+	line "de tipus gel."
 
-	para "That means you"
-	line "should melt him"
+	para "Això vol dir que"
+	line "l'has de fondre"
 
-	para "with your burning"
-	line "ambition!"
+	para "amb la teva"
+	line "ambició ardent!"
 	done
 
 MahoganyGymGuideWinText:
-	text "PRYCE is some-"
-	line "thing, but you're"
-	cont "something else!"
+	text "PRYCE és increïble"
+	line "però tu ets una"
+	cont "altra cosa!"
 
-	para "That was a hot"
-	line "battle that"
+	para "Ha estat un combat"
+	line "ardent que ha"
 
-	para "bridged the gen-"
-	line "eration gap!"
+	para "superat la"
+	line "barrera"
+	cont "generacional!"
 	done
 
 MahoganyGym_MapEvents:

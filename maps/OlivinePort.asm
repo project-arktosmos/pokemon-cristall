@@ -284,102 +284,103 @@ OlivinePortApproachFastShipAfterHOFRightMovement:
 	step_end
 
 OlivinePortSailorGetOnBoardText:
-	text "We're departing"
-	line "soon. Please get"
-	cont "on board."
+	text "Sortim aviat."
+	line "Si us plau, pugeu"
+	cont "a bord."
 	done
 
 OlivinePortCantBoardText:
-	text "Sorry. You can't"
-	line "board now."
+	text "Ho sento. Ara no"
+	line "podeu embarcar."
 	done
 
 OlivinePortAskBoardText:
-	text "Welcome to FAST"
-	line "SHIP S.S.AQUA."
+	text "Benvingut al vai-"
+	line "xell ràpid AQUA."
 
-	para "Will you be board-"
-	line "ing today?"
+	para "Voleu embarcar"
+	line "avui?"
 	done
 
 OlivinePortAskTicketText:
-	text "May I see your"
-	line "S.S.TICKET?"
+	text "Em podeu ensenyar"
+	line "el BITLLET?"
 	done
 
 OlivinePortComeAgainText:
-	text "We hope to see you"
-	line "again!"
+	text "Esperem veure-us"
+	line "aviat!"
 	done
 
 OlivinePortFlashTicketText:
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET."
+	text "<PLAYER> ensenya"
+	line "el BITLLET."
 
-	para "That's it."
-	line "Thank you!"
+	para "Perfecte."
+	line "Gràcies!"
 	done
 
 OlivinePortNoTicketText:
-	text "<PLAYER> tried to"
-	line "show the S.S."
-	cont "TICKET…"
+	text "<PLAYER> intenta"
+	line "ensenyar el"
+	cont "BITLLET…"
 
-	para "…But no TICKET!"
+	para "…Però no en té!"
 
-	para "Sorry!"
-	line "You may board only"
+	para "Ho sento!"
+	line "Només podeu pujar"
 
-	para "if you have an"
-	line "S.S.TICKET."
+	para "si teniu un"
+	line "BITLLET."
 	done
 
 OlivinePortMondayShipText:
-	text "The FAST SHIP will"
-	line "sail next Monday."
+	text "El vaixell ràpid"
+	line "zarparà dilluns."
 	done
 
 OlivinePortFridayShipText:
-	text "The FAST SHIP will"
-	line "sail next Friday."
+	text "El vaixell ràpid"
+	line "zarparà divendres."
 	done
 
 OlivinePortFishingGuru1Text:
-	text "SHELLDER are easy"
-	line "to catch here."
+	text "Aquí és fàcil"
+	line "pescar Shellder."
 
-	para "They're kind of"
-	line "rare elsewhere."
+	para "Són difícils de"
+	line "trobar en altres"
+	cont "llocs."
 	done
 
 OlivinePortFishingGuru2Text:
-	text "How many RODS do"
-	line "you have?"
+	text "Quantes CANYES"
+	line "tens?"
 
-	para "Different RODS"
-	line "catch different"
-	cont "#MON."
+	para "Cada CANYA pesca"
+	line "# diferents."
 	done
 
 OlivinePortYoungsterText:
-	text "S.S.AQUA uses jets"
-	line "to skim over the"
-	cont "waves!"
+	text "L'AQUA usa raigs"
+	line "per lliscar sobre"
+	cont "les ones!"
 	done
 
 OlivinePortCooltrainerFText:
-	text "There are lots of"
-	line "#MON in KANTO."
+	text "Hi ha molts # a"
+	line "KANTO."
 
-	para "I wish I could go…"
+	para "M'agradaria anar-"
+	line "hi…"
 	done
 
 OlivinePortSailorBeforeHOFText:
-	text "We don't want you"
-	line "to fall into the"
+	text "No volem que"
+	line "caigueu al mar,"
 
-	para "sea, so you're not"
-	line "allowed in."
+	para "així que no podeu"
+	line "passar."
 	done
 
 OlivinePort_MapEvents:

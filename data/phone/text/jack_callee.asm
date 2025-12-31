@@ -1,71 +1,71 @@
 JackAnswerPhoneText:
-	text "Hello. This is"
+	text "Hola! Sóc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Good morning,"
+	para "Bon dia,"
 	line "<PLAY_G>!"
 	done
 
 JackAnswerPhoneDayText:
-	text "Hello. This is"
+	text "Hola! Sóc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "How's it going,"
+	para "Com va tot,"
 	line "<PLAY_G>?"
 	done
 
 JackAnswerPhoneNiteText:
-	text "Hello. This is"
+	text "Hola! Sóc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Good evening,"
+	para "Bona nit,"
 	line "<PLAY_G>!"
 	done
 
 JackGreetText:
-	text "<PLAY_G>, good"
-	line "morning!"
+	text "<PLAY_G>, bon dia!"
 
-	para "It's me, @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text "."
-	line "How are you doing?"
+	line "Com estàs?"
 	done
 
 JackGreetDayText:
-	text "<PLAY_G>, howdy!"
+	text "<PLAY_G>, ei!"
 
-	para "It's me, @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text "."
-	line "Isn't it nice out?"
+	line "Quin dia tan"
+	cont "bonic!"
 	done
 
 JackGreetNiteText:
-	text "<PLAY_G>, good"
-	line "evening!"
+	text "<PLAY_G>, bona nit!"
 
-	para "It's me, @"
+	para "Sóc en @"
 	text_ram wStringBuffer3
 	text "."
-	line "Got a minute?"
+	line "Tens un moment?"
 	done
 
 JackGenericText:
-	text "How are your"
-	line "#MON doing?"
+	text "Com van els teus"
+	line "#MON?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "so curious, it's a"
+	text " és"
+	line "tan curiós que"
 
-	para "problem. Maybe"
-	line "it's like me…"
+	para "em dóna problemes."
+	line "Potser s'assembla"
+	cont "a mi…"
 	done

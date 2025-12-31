@@ -1,9 +1,9 @@
-	object_const_def
-	const MAHOGANYMART1F_PHARMACIST
-	const MAHOGANYMART1F_BLACK_BELT
-	const MAHOGANYMART1F_LANCE
-	const MAHOGANYMART1F_DRAGONITE
-	const MAHOGANYMART1F_GRANNY
+object_const_def
+const MAHOGANYMART1F_PHARMACIST
+const MAHOGANYMART1F_BLACK_BELT
+const MAHOGANYMART1F_LANCE
+const MAHOGANYMART1F_DRAGONITE
+const MAHOGANYMART1F_GRANNY
 
 MahoganyMart1F_MapScripts:
 	def_scene_scripts
@@ -155,67 +155,67 @@ MahoganyMart1FLanceGoDownStairsMovement:
 	step_end
 
 MahoganyMart1FRageCandyBarText: ; unreferenced
-	text "Hello, kiddo!"
+	text "Hola, menut!"
 
-	para "How would you like"
-	line "some RAGECANDYBAR?"
+	para "Vols tastar una"
+	line "BARRARÀBIA?"
 
-	para "It's the thing to"
-	line "eat in MAHOGANY!"
+	para "A MAHOGANY és el"
+	line "menjar típic!"
 	done
 
 MahoganyMart1FPharmacistText_LanceEntered:
-	text "Arrgh… You found"
-	line "the secret stair-"
-	cont "way…"
+	text "Argh… Heu trobat"
+	line "l'escala secre-"
+	cont "ta…"
 	done
 
 MahoganyMart1FBlackBeltText:
-	text "Heheh! The experi-"
-	line "ment worked like a"
-	cont "charm."
+	text "Heheh! L'experi-"
+	line "ment ha funcionat"
+	cont "de meravella."
 
-	para "MAGIKARP are just"
-	line "worthless, but"
+	para "Els MAGIKARP no"
+	line "valen res, però"
 
-	para "GYARADOS are big"
-	line "moneymakers."
+	para "els GYARADOS fan"
+	line "molts diners."
 	done
 
 MahoganyMart1FBlackBeltText_LanceEntered:
 	text "Urrgh…"
 
-	para "That guy's dragon"
-	line "#MON are tough…"
+	para "Els # drac de"
+	line "l'home són forts…"
 	done
 
 MahoganyMart1FLanceDragoniteHyperBeamText:
-	text "LANCE: DRAGONITE,"
+	text "LLORENÇ: DRAGONITE"
 	line "HYPER BEAM."
 	done
 
 MahoganyMart1FLanceRadioText:
-	text "What took you,"
+	text "Per què trigues,"
 	line "<PLAY_G>?"
 
-	para "Just as I thought,"
-	line "that strange radio"
+	para "Com pensava,"
+	line "l'estranya senyal"
 
-	para "signal is coming"
-	line "from here."
+	para "de ràdio prové"
+	line "d'aquí."
 	done
 
 MahoganyMart1FLanceStairsText:
-	text "The stairs are"
-	line "right here."
+	text "L'escala és"
+	line "aquí mateix."
 	done
 
 MahoganyMart1FLanceSplitUpText:
-	text "LANCE: <PLAY_G>, we"
-	line "should split up to"
+	text "LLORENÇ: <PLAY_G>,"
+	line "separar-nos per a"
 
-	para "check this place."
-	line "I'll go first."
+	para "explorar el lloc."
+	line "Jo vaig primer."
 	done
 
 MahoganyMart1F_MapEvents:

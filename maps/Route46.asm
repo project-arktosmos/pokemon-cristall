@@ -169,83 +169,87 @@ Route46FruitTree2:
 	fruittree FRUITTREE_ROUTE_46_2
 
 HikerBaileySeenText:
-	text "Awright! I'll show"
-	line "you the power of"
-	cont "mountain #MON!"
+	text "Au! Et mostraré"
+	line "el poder dels"
+	cont "#MON de"
+	cont "muntanya!"
 	done
 
 HikerBaileyBeatenText:
-	text "Mercy! You showed"
-	line "me your power!"
+	text "Pietat! M'has"
+	line "mostrat el teu"
+	cont "poder!"
 	done
 
 HikerBaileyAfterBattleText:
-	text "It's over. I don't"
-	line "mind. We HIKERS"
-	cont "are like that."
+	text "S'ha acabat. No"
+	line "em sap greu. Els"
+	cont "HIKERS som així."
 	done
 
 CamperTedSeenText:
-	text "I'm raising #-"
-	line "MON too!"
+	text "Jo també crio"
+	line "#MON!"
 
-	para "Will you battle"
-	line "with me?"
+	para "Vols lluitar"
+	line "amb mi?"
 	done
 
 CamperTedBeatenText:
-	text "Wha…?"
+	text "Què…?"
 	done
 
 CamperTedAfterBattleText:
-	text "I did my best but"
-	line "came up short."
+	text "Ho he donat tot,"
+	line "però no n'hi ha"
+	cont "hagut prou."
 
-	para "No excuses--I"
-	line "admit I lost."
+	para "Sense excuses,"
+	line "admeto la derrota."
 	done
 
 PicnickerErin1SeenText:
-	text "I raise #MON"
-	line "too!"
+	text "Jo també crio"
+	line "#MON!"
 
-	para "Will you battle"
-	line "with me?"
+	para "Vols lluitar"
+	line "amb mi?"
 	done
 
 PicnickerErin1BeatenText:
-	text "Oh, rats!"
+	text "Oh, quina ràbia!"
 	done
 
 PicnickerErinAfterBattleText:
-	text "I've been to many"
-	line "GYMS, but the GYM"
+	text "He visitat molts"
+	line "GIMNASOS, però el"
 
-	para "in GOLDENROD is my"
-	line "favorite."
+	para "de GOLDENROD és el"
+	line "meu preferit."
 
-	para "It's filled with"
-	line "pretty flowers!"
+	para "Està ple de flors"
+	line "boniques!"
 	done
 
 PicnickerErin2BeatenText:
-	text "Aww… I keep losing"
-	line "all the time!"
+	text "Uff… Sempre acabo"
+	line "perdent!"
 
-	para "I'll just have to"
-	line "try harder!"
+	para "Hauré d'esforçar-"
+	line "me més!"
 
-	para "Anyway, thanks for"
-	line "battling me again"
+	para "En fi, gràcies"
+	line "per lluitar amb mi"
 
-	para "and again. Here's"
-	line "that present from"
-	cont "the other time."
+	para "una i altra vega-"
+	line "da. Aquí tens el"
+	cont "regal de l'altre"
+	cont "dia."
 	done
 
 Route46SignText:
-	text "ROUTE 46"
-	line "MOUNTAIN RD. AHEAD"
+	text "RUTA 46"
+	line "CAMÍ DE MUNTANYA"
 	done
 
 Route46_MapEvents:

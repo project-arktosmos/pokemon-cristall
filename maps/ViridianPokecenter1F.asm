@@ -35,38 +35,38 @@ ViridianPokecenter1FBugCatcherScript:
 	jumptextfaceplayer ViridianPokecenter1FBugCatcherText
 
 ViridianPokecenter1FCooltrainerMText:
-	text "Where in the world"
-	line "is VIRIDIAN's GYM"
+	text "On dimonis és el"
+	line "LÍDER del GIMNÀS"
 
-	para "LEADER? I wanted"
-	line "to challenge him."
+	para "de VIRIDIAN? Volia"
+	line "desafiar-lo."
 	done
 
 ViridianPokecenter1FCooltrainerMText_BlueReturned:
-	text "There are no GYM"
-	line "TRAINERS at the"
-	cont "VIRIDIAN GYM."
+	text "No hi ha cap"
+	line "ENTRENADOR al"
+	cont "GIMNÀS VIRIDIAN."
 
-	para "The LEADER claims"
-	line "his policy is to"
+	para "El LÍDER diu que"
+	line "la seva norma és"
 
-	para "win without having"
-	line "any underlings."
+	para "guanyar sense cap"
+	line "subordinat."
 	done
 
 ViridianPokecenter1FCooltrainerFText:
-	text "I heard that the"
-	line "GYM in CINNABAR is"
-	cont "gone."
+	text "He sentit que el"
+	line "GIMNÀS de CINNABAR"
+	cont "ja no hi és."
 
-	para "I wonder what be-"
-	line "came of BLAINE,"
-	cont "the GYM LEADER."
+	para "Em pregunto què"
+	line "ha estat de BLAINE"
+	cont "el LÍDER."
 	done
 
 ViridianPokecenter1FBugCatcherText:
-	text "My dream is to be-"
-	line "come a GYM LEADER."
+	text "El meu somni és"
+	line "ser LÍDER de GIM."
 	done
 
 ViridianPokecenter1F_MapEvents:

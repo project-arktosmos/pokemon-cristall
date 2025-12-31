@@ -168,122 +168,121 @@ OlivineCityPlayerStepsAsideBottomMovement:
 OlivineCityRivalText:
 	text "…"
 
-	para "You again?"
+	para "Tu, una altra"
+	line "vegada?"
 
-	para "There's no need to"
-	line "panic. I don't"
+	para "No cal que"
+	line "t'espantis. No"
 
-	para "bother with wimps"
-	line "like you."
+	para "perdo el temps"
+	line "amb flonjos."
 
-	para "Speaking of weak-"
-	line "lings, the city's"
+	para "Parlant de dèbils,"
+	line "la LÍDER del"
 
-	para "GYM LEADER isn't"
-	line "here."
+	para "GIMNÀS no hi és."
 
-	para "Supposedly taking"
-	line "care of a sick"
+	para "Sembla que cuida"
+	line "un # malalt"
+	cont "al FAR."
 
-	para "#MON at the"
-	line "LIGHTHOUSE."
+	para "Bah! Quina pena!"
+	line "Deixa'ls morir,"
 
-	para "Humph! Boo-hoo!"
-	line "Just let sick"
-	cont "#MON go!"
+	para "els # malalts!"
 
-	para "A #MON that"
-	line "can't battle is"
-	cont "worthless!"
+	para "Un # que no"
+	line "pot lluitar no"
+	cont "val res!"
 
-	para "Why don't you go"
-	line "train at the"
-	cont "LIGHTHOUSE?"
+	para "Per què no vas a"
+	line "entrenar al FAR?"
 
-	para "Who knows. It may"
-	line "make you a bit"
-	cont "less weak!"
+	para "Qui sap. Potser"
+	line "et farà una mica"
+	cont "menys feble!"
 	done
 
 OlivineCitySailor1Text:
-	text "Dark roads are"
-	line "dangerous at"
-	cont "night."
+	text "Els camins foscos"
+	line "són perillosos"
+	cont "de nit."
 
-	para "But in the pitch-"
-	line "black of night,"
+	para "Però en la foscor"
+	line "de la nit,"
 
-	para "the sea is even"
-	line "more treacherous!"
+	para "el mar és encara"
+	line "més traidora!"
 
-	para "Without the beacon"
-	line "of the LIGHTHOUSE"
+	para "Sense la llum del"
+	line "FAR per guiar-lo,"
 
-	para "to guide it, no"
-	line "ship can sail."
+	para "cap vaixell pot"
+	line "navegar."
 	done
 
 OlivineCityStandingYoungsterPokegearText:
-	text "That thing you"
-	line "have--it's a #-"
-	cont "GEAR, right? Wow,"
-	cont "that's cool."
+	text "Això que portes"
+	line "és un #GEAR,"
+	cont "oi? Guai, mola"
+	cont "molt."
 	done
 
 OlivineCityStandingYoungsterPokedexText:
-	text "Wow, you have a"
+	text "Uau, tens una"
 	line "#DEX!"
 
-	para "That is just so"
-	line "awesome."
+	para "Què guai, això"
+	line "és increïble."
 	done
 
 OlivineCitySailor2Text:
-	text "The sea is sweet!"
+	text "El mar és dolç!"
 
-	para "Sunsets on the sea"
-	line "are marvelous!"
+	para "Les postes de sol"
+	line "al mar són"
+	cont "meravelloses!"
 
-	para "Sing with me! "
-	line "Yo-ho! Blow the"
-	cont "man down!…"
+	para "Canta amb mi!"
+	line "Io-ho! Hissa les"
+	cont "veles!…"
 	done
 
 OlivineCitySignText:
-	text "OLIVINE CITY"
+	text "CIUTAT OLIVA"
 
-	para "The Port Closest"
-	line "to Foreign Lands"
+	para "El Port Més Prop"
+	line "de Terres Foranes"
 	done
 
 OlivineCityPortSignText:
-	text "OLIVINE PORT"
-	line "FAST SHIP PIER"
+	text "PORT D'OLIVA"
+	line "MOLL DEL VAIXELL"
 	done
 
 OlivineGymSignText:
-	text "OLIVINE CITY"
-	line "#MON GYM"
-	cont "LEADER: JASMINE"
+	text "CIUTAT OLIVA"
+	line "GIMNÀS #MON"
+	cont "LÍDER: JASMINE"
 
-	para "The Steel-Clad"
-	line "Defense Girl"
+	para "La Noia de la"
+	line "Defensa d'Acer"
 	done
 
 OlivineLighthouseSignText:
-	text "OLIVINE LIGHTHOUSE"
-	line "Also known as the"
-	cont "GLITTER LIGHTHOUSE"
+	text "FAR D'OLIVA"
+	line "També conegut com"
+	cont "el FAR LLUENT"
 	done
 
 OlivineCityBattleTowerSignText:
-	text "BATTLE TOWER AHEAD"
-	line "Opening Now!"
+	text "TORRE DE BATALLA"
+	line "Ja oberta!"
 	done
 
 OlivineCityBattleTowerSignText_NotYetOpen: ; unreferenced
 ; originally shown when the Battle Tower was closed
-	text "BATTLE TOWER AHEAD"
+	text "TORRE DE BATALLA"
 	done
 
 OlivineCity_MapEvents:

@@ -40,38 +40,38 @@ RuinsOfAlphInnerChamberStatue:
 	jumptext RuinsOfAlphInnerChamberStatueText
 
 RuinsOfAlphStrangePresenceText:
-	text "There is a strange"
-	line "presence here…"
+	text "Hi ha una estranya"
+	line "presència aquí…"
 	done
 
 RuinsOfAlphInnerChamberFisherText:
-	text "This is a big"
-	line "room, but there's"
-	cont "nothing here."
+	text "Aquesta sala és"
+	line "gran, però no hi"
+	cont "ha res."
 	done
 
 RuinsOfAlphInnerChamberTeacherText:
-	text "This place has a"
-	line "mystical quality"
-	cont "to it."
+	text "Aquest lloc té"
+	line "una qualitat"
+	cont "mística."
 
-	para "It feels sort of"
-	line "ethereal even."
+	para "Fins i tot sembla"
+	line "eteri."
 	done
 
 RuinsOfAlphInnerChamberGrampsText:
-	text "Ancient buildings"
-	line "are often tombs of"
-	cont "kings."
+	text "Els edificis"
+	line "antics sovint són"
+	cont "tombes de reis."
 
-	para "Like the pyramids,"
-	line "for instance."
+	para "Com les piràmides,"
+	line "per exemple."
 	done
 
 RuinsOfAlphInnerChamberStatueText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "És una rèplica"
+	line "d'un #MON"
+	cont "antic."
 	done
 
 RuinsOfAlphInnerChamber_MapEvents:

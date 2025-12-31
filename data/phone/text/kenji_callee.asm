@@ -1,44 +1,44 @@
 KenjiAnswerPhoneText:
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'aparell…"
 
-	para "<PLAYER>! Beautiful"
-	line "morning, hey?"
+	para "<PLAYER>! Quin matí"
+	line "més bonic, oi?"
 	done
 
 KenjiAnswerPhoneDayText:
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'aparell…"
 
-	para "<PLAYER>! Beautiful"
-	line "weather, hey?"
+	para "<PLAYER>! Quin dia"
+	line "més bonic, oi?"
 	done
 
 KenjiAnswerPhoneNiteText:
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'aparell…"
 
-	para "<PLAYER>! Beautiful"
-	line "moonlight, hey?"
+	para "<PLAYER>! Quina"
+	line "lluna més bonica!"
 	done
 
 KenjiGreetText:
-	text "Hey, <PLAYER>!"
-	line "This is @"
+	text "Ei, <PLAYER>!"
+	line "Soc en @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 KenjiGreetDayText:
-	text "Hey, <PLAYER>!"
-	line "This is @"
+	text "Ei, <PLAYER>!"
+	line "Soc en @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 KenjiGreetNiteText:
-	text "Hey, <PLAYER>!"
-	line "This is @"
+	text "Ei, <PLAYER>!"
+	line "Soc en @"
 	text_ram wStringBuffer3
 	text "!"
 	done

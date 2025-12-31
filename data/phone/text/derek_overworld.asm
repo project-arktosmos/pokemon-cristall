@@ -1,61 +1,64 @@
 DerekAskNumber1Text:
-	text "Oh, wow! PIKACHU!"
-	line "It's so soft and"
-	cont "furry! How cute!"
+	text "Oh, uau! PIKACHU!"
+	line "És tan suau i"
+	cont "pelut! Que bonic!"
 
-	para "Let's be friends!"
-	line "PIKACHU-lovers are"
-	cont "never bad people!"
+	para "Siguem amics!"
+	line "Els qui estimen"
+	cont "PIKACHU mai són"
+	cont "mala gent!"
 
-	para "Let's chat about"
-	line "PIKACHU!"
+	para "Parlem de PIKACHU!"
 
-	para "Can I get your"
-	line "phone number?"
+	para "Em dónes el teu"
+	line "número de telèfon?"
 	done
 
 DerekAskNumber2Text:
-	text "Let's chat about"
-	line "PIKACHU!"
+	text "Parlem de PIKACHU!"
 
-	para "Can I get your"
-	line "phone number?"
+	para "Em dónes el teu"
+	line "número de telèfon?"
 	done
 
 DerekNumberAcceptedText:
-	text "PIKACHU is the"
-	line "one! If anything"
+	text "PIKACHU és el"
+	line "millor! Si passa"
 
-	para "comes up, I'll"
-	line "give you a jingle."
+	para "alguna cosa, et"
+	line "trucaré."
 	done
 
 DerekNumberDeclinedText:
-	text "You…"
+	text "Tu…"
 
-	para "I bet you don't"
-	line "even like PIKACHU…"
+	para "Aposto que ni tan"
+	line "sols t'agrada"
+	cont "PIKACHU…"
 	done
 
 DerekPhoneFullText:
-	text "Wait a sec! Your"
-	line "phone list's full!"
+	text "Espera! La llista"
+	line "del telèfon és"
+	cont "plena!"
 	done
 
 DerekGiftText:
-	text "I've been looking"
-	line "for you! Here, see"
-	cont "this? This is it!"
+	text "T'estava buscant!"
+	line "Aquí, veus això?"
+	cont "Aquí ho tens!"
 
-	para "I'm certain your"
-	line "PIKACHU will love"
-	cont "my gift too!"
+	para "Segur que al teu"
+	line "PIKACHU també li"
+	cont "encantarà!"
 	done
 
 DerekPackFullText:
-	text "Uh-oh, too bad."
-	line "You don't have any"
+	text "Oh, quina"
+	line "llàstima."
+	cont "No tens espai."
 
-	para "room. Be sure to"
-	line "get it later."
+	para "Assegura't de"
+	line "venir a buscar-ho"
+	cont "més tard."
 	done

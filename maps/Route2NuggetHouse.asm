@@ -27,26 +27,26 @@ Route2NuggetHouseBookshelf: ; unreferenced
 	jumpstd DifficultBookshelfScript
 
 Route2NuggetHouseFisherText:
-	text "Hi! Wow, I'm glad"
-	line "to see you."
+	text "Ei! M'alegro de"
+	line "veure't."
 
-	para "You're the first"
-	line "visitor I've had"
-	cont "in a long time."
+	para "Ets la primera"
+	line "visita que tinc"
+	cont "des de fa temps."
 
-	para "I'm super-happy!"
-	line "Let me give you a"
-	cont "little present."
+	para "Estic molt feliç!"
+	line "Deixa'm fer-te un"
+	cont "petit regal."
 	done
 
 Route2NuggetHouseFisherText_GotNugget:
-	text "That's a NUGGET."
+	text "Això és NUGGET."
 
-	para "I can't give you"
-	line "any nuggets of"
+	para "No et puc donar"
+	line "cap perla de"
 
-	para "wisdom, so that'll"
-	line "have to do!"
+	para "saviesa, així que"
+	line "ja et va bé!"
 	done
 
 Route2NuggetHouse_MapEvents:

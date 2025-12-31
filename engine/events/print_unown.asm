@@ -203,20 +203,20 @@ endc
 	ret
 
 AlphRuinsStampString:
-	db " ALPH RUINS STAMP@"
+	db " SEGELL RUÏNES@"
 
 UnownDexDoWhatString:
-	db "Do what?@"
+	db "Què fer?@"
 
 UnownDexMenuString:
-	db   UNOWNSTAMP_BOLD_A, " PRINT"
-	next UNOWNSTAMP_BOLD_B, " CANCEL"
-	next "← PREVIOUS"
-	next "→ NEXT"
+	db   UNOWNSTAMP_BOLD_A, " IMPRIMIR"
+	next UNOWNSTAMP_BOLD_B, " SORTIR"
+	next "← ANTERIOR"
+	next "→ SEGÜENT"
 	db   "@"
 
 UnownDexVacantString:
-	db "VACANT@"
+	db "BUIT@"
 
 UnownDexATile:
 INCBIN "gfx/printer/bold_a.1bpp"

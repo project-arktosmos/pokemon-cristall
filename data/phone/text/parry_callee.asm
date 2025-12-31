@@ -1,72 +1,72 @@
 ParryAnswerPhoneText:
-	text "Yup, yup!"
-	line "It's @"
+	text "Sí, sí!"
+	line "Sóc en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Hah, and here's"
+	para "Ah, ets tu,"
 	line "<PLAY_G>!"
 	done
 
 ParryAnswerPhoneDayText:
-	text "Yup, yup!"
-	line "It's @"
+	text "Sí, sí!"
+	line "Sóc en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Hah, and here's"
+	para "Ah, ets tu,"
 	line "<PLAY_G>!"
 	done
 
 ParryAnswerPhoneNiteText:
-	text "Yup, yup!"
-	line "It's @"
+	text "Sí, sí!"
+	line "Sóc en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Hah, and here's"
+	para "Ah, ets tu,"
 	line "<PLAY_G>!"
 	done
 
 ParryGreetText:
-	text "<PLAY_G>, it's"
-	line "@"
+	text "<PLAY_G>, sóc"
+	line "en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Have you had a"
-	line "proper breakfast?"
+	para "Has esmorzat"
+	line "com cal?"
 	done
 
 ParryGreetDayText:
-	text "<PLAY_G>, it's"
-	line "@"
+	text "<PLAY_G>, sóc"
+	line "en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Have you had a"
-	line "proper lunch?"
+	para "Has dinat"
+	line "com cal?"
 	done
 
 ParryGreetNiteText:
-	text "<PLAY_G>, it's"
-	line "@"
+	text "<PLAY_G>, sóc"
+	line "en @"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Have you had a"
-	line "proper dinner?"
+	para "Has sopat"
+	line "com cal?"
 	done
 
 ParryGenericText:
-	text "Are your #MON"
-	line "looking good?"
+	text "Com van els teus"
+	line "#MON?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " and"
-	line "me--we're looking"
+	text " i"
+	line "jo estem en plena"
 
-	para "mighty dandy!"
+	para "forma!"
 	line "Hahahah!"
 	done

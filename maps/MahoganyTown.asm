@@ -141,107 +141,107 @@ MahoganyTownRageCandyBarMerchantReturnsMovement:
 	step_end
 
 RageCandyBarMerchantTryOneText:
-	text "Hiya, kid!"
+	text "Ei, jove!"
 
-	para "I see you're new"
-	line "in MAHOGANY TOWN."
+	para "Veig que ets nou"
+	line "a MAHOGANY."
 
-	para "Since you're new,"
-	line "you should try a"
+	para "Com que ets nou,"
+	line "hauries de provar"
 
-	para "yummy RAGECANDY-"
-	line "BAR!"
+	para "una deliciosa"
+	line "RAGECANDYBAR!"
 
-	para "Right now, it can"
-	line "be yours for just"
-	cont "¥300! Want one?"
+	para "Ara per només"
+	line "¥300 pot ser teva!"
+	cont "En vols una?"
 	done
 
 RageCandyBarMerchantSavorItText:
-	text "Good! Savor it!"
+	text "Molt bé! Gaudeix!"
 	done
 
 RageCandyBarMerchantNotEnoughMoneyText:
-	text "You don't have"
-	line "enough money."
+	text "No tens prou"
+	line "diners."
 	done
 
 RageCandyBarMerchantRefusedText:
-	text "Oh, fine then…"
+	text "Està bé, doncs…"
 	done
 
 RageCandyBarMerchantNoRoomText:
-	text "You don't have"
-	line "room for this."
+	text "No tens espai per"
+	line "a això."
 	done
 
 RageCandyBarMerchantSoldOutText:
-	text "RAGECANDYBAR's"
-	line "sold out."
+	text "Les RAGECANDYBAR"
+	line "s'han esgotat."
 
-	para "I'm packing up."
-	line "Don't bother me,"
-	cont "kiddo."
+	para "Estic plegant."
+	line "No em molestis,"
+	cont "nen."
 	done
 
 MahoganyTownGrampsText:
-	text "Are you off to see"
-	line "the GYARADOS ram-"
-	cont "page at the LAKE?"
+	text "Vas a veure l'es-"
+	line "borrall de GYARA-"
+	cont "DOS al LLAC?"
 	done
 
 MahoganyTownGrampsText_ClearedRocketHideout:
-	text "MAGIKARP have"
-	line "returned to LAKE"
-	cont "OF RAGE."
+	text "Els MAGIKARP han"
+	line "tornat al LLAC"
+	cont "DE LA FÚRIA."
 
-	para "That should be"
-	line "good news for the"
-	cont "anglers there."
+	para "Això hauria de"
+	line "ser una bona notí-"
+	cont "cia pels pescadors"
 	done
 
 MahoganyTownFisherText:
-	text "Since you came"
-	line "this far, take the"
+	text "Ja que has vingut"
+	line "fins aquí, apro-"
 
-	para "time to do some"
-	line "sightseeing."
+	para "fita per fer"
+	line "turisme."
 
-	para "You should head"
-	line "north and check"
+	para "Hauries d'anar al"
+	line "nord i visitar el"
 
-	para "out LAKE OF RAGE"
-	line "right now."
+	para "LLAC DE LA FÚRIA"
+	line "ara mateix."
 	done
 
 MahoganyTownLassText:
-	text "Visit Grandma's"
-	line "shop. She sells"
+	text "Visita la botiga"
+	line "de l'àvia. Ven"
 
-	para "stuff that nobody"
-	line "else has."
+	para "coses que ningú"
+	line "més té."
 	done
 
 MahoganyTownSignText:
-	text "MAHOGANY TOWN"
+	text "MAHOGANY"
 
-	para "Welcome to the"
-	line "Home of the Ninja"
+	para "Benvinguts a la"
+	line "Llar del Ninja"
 	done
 
 MahoganyTownRagecandybarSignText:
-	text "While visiting"
-	line "MAHOGANY TOWN, try"
-	cont "a RAGECANDYBAR!"
+	text "Quan visiteu"
+	line "MAHOGANY, proveu"
+	cont "una RAGECANDYBAR!"
 	done
 
 MahoganyGymSignText:
-	text "MAHOGANY TOWN"
-	line "#MON GYM"
-	cont "LEADER: PRYCE"
+	text "GIMÀS #MON"
+	line "DE MAHOGANY"
+	cont "LÍDER: PRYCE"
 
-	para "The Teacher of"
-	line "Winter's Harshness"
+	para "El Mestre de la"
+	line "Duresa de l'Hivern"
 	done
 
 MahoganyTown_MapEvents:

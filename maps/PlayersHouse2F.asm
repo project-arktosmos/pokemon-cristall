@@ -93,23 +93,23 @@ PlayersHousePCScript:
 	end
 
 PlayersRadioText1:
-	text "PROF.OAK'S #MON"
-	line "TALK! Please tune"
-	cont "in next time!"
+	text "POKÉXERRADA DEL"
+	line "PROF. OAK! No us"
+	cont "perdeu el proper!"
 	done
 
 PlayersRadioText2:
-	text "#MON CHANNEL!"
+	text "CANAL #MON!"
 	done
 
 PlayersRadioText3:
-	text "This is DJ MARY,"
-	line "your co-host!"
+	text "Soc la DJ MARY,"
+	line "la copresentadora!"
 	done
 
 PlayersRadioText4:
 	text "#MON!"
-	line "#MON CHANNEL…"
+	line "CANAL #MON…"
 	done
 
 PlayersHouse2F_MapEvents:

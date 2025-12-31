@@ -96,116 +96,117 @@ GoldenrodUndergroundWarehouseUltraBall:
 	itemball ULTRA_BALL
 
 GruntM24SeenText:
-	text "How did you get"
-	line "this far?"
+	text "Com has arribat"
+	line "fins aquí?"
 
-	para "I guess it can't"
-	line "be helped. I'll"
-	cont "dispose of you."
+	para "No hi ha remei."
+	line "M'encarregaré"
+	cont "de tu."
 	done
 
 GruntM24BeatenText:
-	text "I got disposed of…"
+	text "M'han liquidat…"
 	done
 
 GruntM24AfterBattleText:
-	text "TEAM ROCKET will"
-	line "keep going, wait-"
-	cont "ing for the return"
-	cont "of GIOVANNI."
+	text "L'EQUIP ROCKET"
+	line "continuarà espe-"
+	cont "rant el retorn"
+	cont "de GIOVANNI."
 
-	para "We'll do whatever"
-	line "it takes."
+	para "Farem el que"
+	line "calgui."
 	done
 
 GruntM14SeenText:
-	text "You're not going"
-	line "any farther!"
+	text "No passaràs"
+	line "d'aquí!"
 
-	para "I don't show mercy"
-	line "to my enemies, not"
-	cont "even brats!"
+	para "No tinc pietat"
+	line "dels enemics, ni"
+	cont "dels marrecs!"
 	done
 
 GruntM14BeatenText:
-	text "Blast it!"
+	text "Maleït siguis!"
 	done
 
 GruntM14AfterBattleText:
-	text "I lost…"
+	text "He perdut…"
 
-	para "Please forgive me,"
+	para "Perdona'm,"
 	line "GIOVANNI!"
 	done
 
 GruntM15SeenText:
-	text "Hyuck-hyuck-hyuck!"
-	line "I remember you!"
+	text "Rac-rac-rac!"
+	line "Et recordo!"
 
-	para "You got me good"
-	line "at our hideout!"
+	para "Em vas guanyar"
+	line "al nostre"
+	cont "amagatall!"
 	done
 
 GruntM15BeatenText:
-	text "Hyuck-hyuck-hyuck!"
-	line "So, that's how?"
+	text "Rac-rac-rac!"
+	line "Així doncs?"
 	done
 
 GruntM15AfterBattleText:
-	text "Hyuck-hyuck-hyuck!"
-	line "That was a blast!"
-	cont "I'll remember you!"
+	text "Rac-rac-rac!"
+	line "Ha estat divertit!"
+	cont "Em recordaré de"
+	cont "tu!"
 	done
 
 DirectorIntroText:
-	text "DIRECTOR: Who?"
-	line "What? You came to"
-	cont "rescue me?"
+	text "DIRECTOR: Qui?"
+	line "Què? Has vingut"
+	cont "a rescatar-me?"
 
-	para "Thank you!"
+	para "Gràcies!"
 
-	para "The RADIO TOWER!"
+	para "La TORRE DE RÀDIO!"
 
-	para "What's happening"
-	line "there?"
+	para "Què hi passa?"
 
-	para "Taken over by TEAM"
-	line "ROCKET?"
+	para "L'EQUIP ROCKET"
+	line "l'ha pres?"
 
-	para "Here. Take this"
-	line "CARD KEY."
+	para "Té. Pren aquesta"
+	line "TARGETA CLAU."
 	done
 
 DirectorCardKeyText:
-	text "DIRECTOR: Use that"
-	line "to open the shut-"
-	cont "ters on 3F."
+	text "DIRECTOR: Fes-la"
+	line "servir per obrir"
+	cont "les portes del 3r."
 	done
 
 DirectorAfterText:
-	text "I'm begging you to"
-	line "help."
+	text "T'ho prego,"
+	line "ajuda'ns."
 
-	para "There's no telling"
-	line "what they'll do if"
+	para "No se sap què"
+	line "faran si contro-"
 
-	para "they control the"
-	line "transmitter."
+	para "len el trans-"
+	line "missor."
 
-	para "They may even be"
-	line "able to control"
+	para "Podrien arribar a"
+	line "controlar els"
 
-	para "#MON using a"
-	line "special signal!"
+	para "#MON amb un"
+	line "senyal especial!"
 
-	para "You're the only"
-	line "one I can call on."
+	para "Ets l'únic a qui"
+	line "puc demanar ajuda."
 
-	para "Please save the"
-	line "RADIO TOWER…"
+	para "Salva la TORRE"
+	line "DE RÀDIO…"
 
-	para "And all the #-"
-	line "MON nationwide!"
+	para "I tots els #MON"
+	line "del país!"
 	done
 
 GoldenrodUndergroundWarehouse_MapEvents:

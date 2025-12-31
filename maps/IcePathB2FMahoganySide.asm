@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const ICEPATHB2FMAHOGANYSIDE_BOULDER1
 	const ICEPATHB2FMAHOGANYSIDE_BOULDER2
 	const ICEPATHB2FMAHOGANYSIDE_BOULDER3
@@ -24,8 +24,8 @@ IcePathB2FMahoganySideHiddenCarbos:
 	hiddenitem CARBOS, EVENT_ICE_PATH_B2F_MAHOGANY_SIDE_HIDDEN_CARBOS
 
 IcePathB2FMahoganySideBoulderText:
-	text "It's immovably"
-	line "imbedded in ice."
+	text "Està fixament"
+	line "incrustat al gel."
 	done
 
 IcePathB2FMahoganySide_MapEvents:

@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const LAVENDERSPEECHHOUSE_POKEFAN_F
 
 LavenderSpeechHouse_MapScripts:
@@ -13,17 +13,19 @@ LavenderSpeechHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 LavenderSpeechHousePokefanFText:
-	text "LAVENDER is a"
-	line "tiny, quiet town"
+	text "LAVENDER és una"
+	line "petita i tranquil-"
 
-	para "at the foot of the"
-	line "mountains."
+	para "la vila al peu de"
+	line "les muntanyes."
 
-	para "It's gotten a bit"
-	line "busier since the"
+	para "Ha estat una mica"
+	line "més animada des"
 
-	para "RADIO TOWER was"
-	line "built."
+	para "que es va cons-"
+	line "truir la TORRE"
+
+	para "DE RÀDIO."
 	done
 
 LavenderSpeechHouse_MapEvents:

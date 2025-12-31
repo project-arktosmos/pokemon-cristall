@@ -56,108 +56,108 @@ ItemFinderHouseRadio:
 	jumpstd Radio2Script
 
 EcruteakItemfinderAdventureText:
-	text "Ah. You're on an"
-	line "adventure with"
-	cont "your #MON?"
+	text "Ah! Estàs en una"
+	line "aventura amb els"
+	cont "teus #MON?"
 
-	para "Well, what's an"
-	line "adventure without"
-	cont "treasure hunting?"
+	para "I què és una"
+	line "aventura sense"
+	cont "caça de tresors?"
 
-	para "Am I right, or am"
-	line "I right?"
+	para "Tinc raó o no"
+	line "tinc raó?"
 	done
 
 EcruteakItemfinderTrueSpiritText:
-	text "Good! You under-"
-	line "stand the true"
+	text "Bé! Entens el"
+	line "veritable esperit"
 
-	para "spirit of adven-"
-	line "ture."
+	para "de l'aventura."
 
-	para "I like that! Take"
-	line "this with you."
+	para "M'agrada! Enduu-"
+	line "te'n això."
 	done
 
 ItemfinderExplanationText:
-	text "There are many"
-	line "items lying about"
+	text "Hi ha molts"
+	line "objectes amagats"
 
-	para "that aren't ob-"
-	line "vious."
+	para "que no són"
+	line "evidents."
 
-	para "Use ITEMFINDER to"
-	line "check if there is"
+	para "Fes servir el"
+	line "TROBADOR per"
 
-	para "an item on the"
-	line "ground near you."
+	para "comprovar si hi"
+	line "ha un objecte a"
+	cont "prop teu."
 
-	para "It doesn't show"
-	line "the exact spot,"
+	para "No indica el lloc"
+	line "exacte, així que"
 
-	para "so you'll have to"
-	line "look yourself."
+	para "hauràs de buscar"
+	line "tu mateix."
 
-	para "Oh yeah--I heard"
-	line "there are items"
+	para "Ah, sí! He sentit"
+	line "que hi ha objec-"
 
-	para "in ECRUTEAK's"
-	line "BURNED TOWER."
+	para "tes a la TORRE"
+	line "CREMADA d'aquí."
 	done
 
 EcruteakItemfinderToEachHisOwnText:
-	text "Oh… To each his"
-	line "own, I suppose…"
+	text "Oh… Cadascú té"
+	line "els seus gustos…"
 	done
 
 EcruteakHistoryBookText:
-	text "HISTORY OF"
-	line "ECRUTEAK"
+	text "HISTÒRIA"
+	line "D'ECRUTEAK"
 
-	para "Want to read it?"
+	para "Vols llegir-lo?"
 	done
 
 EcruteakTwoTowersText:
-	text "In ECRUTEAK, there"
-	line "were two towers."
+	text "A ECRUTEAK hi"
+	line "havia dues torres."
 
-	para "Each tower was the"
-	line "roost of powerful"
-	cont "flying #MON."
+	para "Cada torre era el"
+	line "niu de poderosos"
+	cont "#MON voladors."
 
-	para "But one of the"
-	line "towers burned to"
-	cont "the ground."
+	para "Però una de les"
+	line "torres es va"
+	cont "cremar del tot."
 
-	para "The two #MON"
-	line "haven't been seen"
-	cont "since…"
+	para "Els dos #MON"
+	line "no s'han vist"
+	cont "des de llavors…"
 
-	para "Keep reading?"
+	para "Vols continuar?"
 	done
 
 EcruteakThreeMonText:
-	text "ECRUTEAK was also"
-	line "home to three"
+	text "ECRUTEAK també era"
+	line "la llar de tres"
 
-	para "#MON that raced"
-	line "around the town."
+	para "#MON que"
+	line "corrien"
+	cont "pel poble."
 
-	para "They were said to"
-	line "have been born of"
+	para "Es diu que van"
+	line "néixer de l'aigua,"
 
-	para "water, lightning"
-	line "and fire."
+	para "el llamp i el foc."
 
-	para "But they could not"
-	line "contain their"
-	cont "excessive power."
+	para "Però no podien"
+	line "contenir el seu"
+	cont "poder excessiu."
 
-	para "So they say the"
-	line "three ran like the"
+	para "Així que diuen que"
+	line "els tres van fugir"
 
-	para "wind off into the"
-	line "grassland."
+	para "com el vent cap"
+	line "a les praderies."
 	done
 
 EcruteakItemfinderHouse_MapEvents:

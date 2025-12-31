@@ -71,76 +71,78 @@ CeladonEusine:
 	step_end
 
 CeladonPokecenter1FCooltrainerFText:
-	text "ERIKA is a master"
-	line "of grass #MON."
+	text "L'ERIKA és una"
+	line "mestra dels"
+	cont "#MON"
+	cont "de tipus planta."
 
-	para "She'll make you"
-	line "pay if you don't"
-	cont "watch yourself."
+	para "Et farà pagar si"
+	line "no vas amb compte."
 	done
 
 CeladonPokecenter1FPharmacistText:
-	text "TEAM ROCKET's"
-	line "hideout is in the"
+	text "L'amagatall de"
+	line "l'EQUIP ROCKET"
 
-	para "basement of the"
-	line "GAME CORNER."
+	para "era al soterrani"
+	line "del CASINO."
 
-	para "Oh, wait. That was"
-	line "three years ago."
+	para "Ai, espera. Això"
+	line "va ser fa 3 anys."
 	done
 
 CeladonEusineText1:
-	text "EUSINE: Hi!"
+	text "EUSINE: Hola!"
 
-	para "I'm back visiting"
-	line "my hometown."
+	para "He tornat a"
+	line "visitar el meu"
+	cont "poble natal."
 
-	para "It's been quite a"
-	line "while."
+	para "Feia força temps"
+	line "que no hi venia."
 	done
 
 EusineLeavesCeladonText:
-	text "<PLAYER>, have you"
-	line "heard?"
+	text "<PLAYER>, n'has"
+	line "sentit a parlar?"
 
-	para "There have been"
-	line "fresh rumors of a"
+	para "Corren rumors"
+	line "recents sobre un"
 
-	para "rainbow-colored"
-	line "#MON appearing"
-	cont "at TIN TOWER."
+	para "#MON de colors"
+	line "de l'arc de Sant"
+	cont "Martí a TORRE DE"
+	cont "LLAUNA."
 
-	para "I've just had my"
-	line "party healed, so"
+	para "Acabo de curar el"
+	line "meu equip, així"
 
-	para "now I'm headed to"
-	line "ECRUTEAK."
+	para "que ara me'n vaig"
+	line "cap a ECRUTEAK."
 
-	para "I'll be seeing"
-	line "you, <PLAYER>!"
+	para "Ja ens veurem,"
+	line "<PLAYER>!"
 	done
 
 NoBeastsText:
-	text "Oh, by the way,"
+	text "Per cert,"
 	line "<PLAYER>."
 
-	para "Have you caught"
-	line "the legendary"
-
-	para "#MON RAIKOU and"
-	line "ENTEI?"
+	para "Has capturat els"
+	line "#MON"
+	cont "llegendaris"
+	cont "RAIKOU i ENTEI?"
 
 	para "<……><……><……>"
 
-	para "Okay…"
+	para "D'acord…"
 
-	para "If you catch even"
-	line "one, I hope that"
-	cont "you'll inform me."
+	para "Si en captures"
+	line "almenys un, espero"
+	cont "que m'ho diguis."
 
-	para "I'm counting on"
-	line "you, <PLAYER>!"
+	para "Confio en tu,"
+	line "<PLAYER>!"
 	done
 
 CeladonPokecenter1F_MapEvents:

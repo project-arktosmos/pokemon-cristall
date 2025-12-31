@@ -132,153 +132,152 @@ Route41HiddenMaxEther:
 	hiddenitem MAX_ETHER, EVENT_ROUTE_41_HIDDEN_MAX_ETHER
 
 SwimmermCharlieSeenText:
-	text "The water's warm"
-	line "here. I'm loose"
-	cont "and limber."
+	text "L'aigua és càlida"
+	line "aquí. Estic molt"
+	cont "relaxat."
 
-	para "Sure, I'll take"
-	line "you on!"
+	para "Endavant, accepto"
+	line "el repte!"
 	done
 
 SwimmermCharlieBeatenText:
-	text "Yikes! I've got"
-	line "prune skin!"
+	text "Ai! Tinc la pell"
+	line "arrugada!"
 	done
 
 SwimmermCharlieAfterBattleText:
-	text "Isn't it relaxing"
-	line "just floating like"
-	cont "this?"
+	text "No és relaxant"
+	line "flotar així?"
 	done
 
 SwimmermGeorgeSeenText:
-	text "I'm a bit tired."
-	line "If I win, lend me"
-	cont "your #MON."
+	text "Estic una mica"
+	line "cansat. Si guanyo,"
+	cont "deixa'm el"
+	cont "#MON."
 	done
 
 SwimmermGeorgeBeatenText:
-	text "Pant, pant…"
+	text "Buf, buf…"
 	done
 
 SwimmermGeorgeAfterBattleText:
-	text "It's so far to"
-	line "CIANWOOD."
+	text "CIANWOOD és molt"
+	line "lluny."
 
-	para "But it's no easy"
-	line "return trip to"
-	cont "OLIVINE either."
+	para "Però tornar a"
+	line "OLIVINE tampoc és"
+	cont "fàcil."
 
-	para "What should I do?"
+	para "Què hauria de fer?"
 	done
 
 SwimmermBerkeSeenText:
-	text "See those islands"
-	line "that are blocked"
-	cont "by whirlpools?"
+	text "Veus aquelles"
+	line "illes bloquejades"
+	cont "pels remolins?"
 
-	para "There just has to"
-	line "be a secret!"
+	para "Hi ha d'haver un"
+	line "secret!"
 	done
 
 SwimmermBerkeBeatenText:
-	text "What's the secret"
-	line "to your strength?"
+	text "Quin és el secret"
+	line "de la teva força?"
 	done
 
 SwimmermBerkeAfterBattleText:
-	text "It was a dark and"
-	line "stormy night…"
+	text "Era una nit fosca"
+	line "i tempestuosa…"
 
-	para "I saw this giant"
-	line "#MON flying"
-	cont "from the islands."
+	para "Vaig veure un"
+	line "#MON gegant que"
+	cont "volava de l'illa."
 
-	para "It was scattering"
-	line "feathers from its"
-	cont "silver wings."
+	para "Escampava plomes"
+	line "de les seves ales"
+	cont "de plata."
 	done
 
 SwimmermKirkSeenText:
-	text "The waves are wild"
-	line "here."
+	text "Les ones són molt"
+	line "fortes aquí."
 
-	para "They tire you out"
-	line "while you swim."
+	para "Et cansen mentre"
+	line "nedes."
 	done
 
 SwimmermKirkBeatenText:
-	text "I'm beat!"
+	text "Estic destrossat!"
 	done
 
 SwimmermKirkAfterBattleText:
-	text "The currents keep"
-	line "me from reaching"
-	cont "that island."
+	text "Els corrents no"
+	line "em deixen arribar"
+	cont "a aquella illa."
 	done
 
 SwimmermMathewSeenText:
-	text "Are you seeking"
-	line "the secrets of"
-	cont "WHIRL ISLANDS?"
+	text "Busques els"
+	line "secrets de les"
+	cont "ILLES REMOLÍ?"
 	done
 
 SwimmermMathewBeatenText:
-	text "Ooh, you've got"
-	line "great endurance!"
+	text "Oh, tens molta"
+	line "resistència!"
 	done
 
 SwimmermMathewAfterBattleText:
-	text "A secret about"
-	line "WHIRL ISLANDS…"
+	text "Un secret de les"
+	line "ILLES REMOLÍ…"
 
-	para "It's pitch-black"
-	line "inside!"
+	para "A dins és fosc"
+	line "com la nit!"
 	done
 
 SwimmerfKayleeSeenText:
-	text "I'm on my way to"
-	line "WHIRL ISLANDS."
+	text "Vaig cap a les"
+	line "ILLES REMOLÍ."
 
-	para "I'm going explor-"
-	line "ing with friends."
+	para "Hi vaig a explorar"
+	line "amb amics."
 	done
 
 SwimmerfKayleeBeatenText:
-	text "Is that how you do"
-	line "it?"
+	text "Així és com ho"
+	line "fas?"
 	done
 
 SwimmerfKayleeAfterBattleText:
-	text "There's supposed"
-	line "to be a big #-"
-	cont "MON deep beneath"
-	cont "WHIRL ISLANDS."
+	text "Diuen que hi ha"
+	line "un gran #MON a"
+	cont "les profunditats"
+	cont "d'ILLES REMOLÍ."
 
-	para "I wonder what it"
-	line "could be?"
+	para "Quin deu ser?"
 	done
 
 SwimmerfSusieSeenText:
-	text "You look so ele-"
-	line "gant, riding your"
+	text "Quedes tan elegant"
+	line "muntant el teu"
 	cont "#MON."
 	done
 
 SwimmerfSusieBeatenText:
-	text "I'm crushed…"
+	text "Estic arrasada…"
 	done
 
 SwimmerfSusieAfterBattleText:
-	text "Wasn't there a hit"
-	line "song about a boy"
-	cont "riding a LAPRAS?"
+	text "No hi havia una"
+	line "cançó sobre un noi"
+	cont "muntant un LAPRAS?"
 	done
 
 SwimmerfDeniseSeenText:
-	text "The weather is so"
-	line "beautiful, I'm in"
-	cont "a daze!"
+	text "Fa tan bon temps"
+	line "que estic"
+	cont "embadalida!"
 	done
 
 SwimmerfDeniseBeatenText:
@@ -286,56 +285,58 @@ SwimmerfDeniseBeatenText:
 	done
 
 SwimmerfDeniseAfterBattleText:
-	text "A sunburn is the"
-	line "worst for skin."
+	text "Les cremades de"
+	line "sol són dolentes"
+	cont "per a la pell."
 
-	para "But I don't use a"
-	line "sunblock."
+	para "Però no faig"
+	line "servir protector."
 
-	para "I won't pollute"
-	line "the water."
+	para "No vull contaminar"
+	line "l'aigua."
 	done
 
 SwimmerfKaraSeenText:
-	text "If you need to"
-	line "rest, just tread"
-	cont "water."
+	text "Si necessites"
+	line "descansar, queda't"
+	cont "flotant."
 
-	para "You'll get your"
-	line "wind back, so you"
+	para "Recuperaràs les"
+	line "forces i podràs"
 
-	para "can keep on going"
-	line "strong."
+	para "continuar amb"
+	line "energia."
 	done
 
 SwimmerfKaraBeatenText:
-	text "Oh! You have more"
-	line "energy than I do."
+	text "Oh! Tens més"
+	line "energia que jo."
 	done
 
 SwimmerfKaraAfterBattleText:
-	text "I heard roars from"
-	line "deep inside the"
-	cont "ISLANDS."
+	text "Vaig sentir rugits"
+	line "de l'interior de"
+	cont "les ILLES."
 	done
 
 SwimmerfWendySeenText:
-	text "At night, STARYU"
-	line "gather near the"
-	cont "water's surface."
+	text "A la nit, STARYU"
+	line "es reuneixen prop"
+	cont "de la superfície."
 	done
 
 SwimmerfWendyBeatenText:
-	text "Oh, dear…"
+	text "Oh, vaja…"
 	done
 
 SwimmerfWendyAfterBattleText:
-	text "The clusters of"
-	line "STARYU light up"
-	cont "at the same time."
+	text "Els grups de"
+	line "STARYU"
+	cont "s'il·luminen"
+	cont "alhora."
 
-	para "It's so beautiful,"
-	line "it's scary."
+	para "És tan bonic que"
+	line "fa por."
 	done
 
 Route41_MapEvents:

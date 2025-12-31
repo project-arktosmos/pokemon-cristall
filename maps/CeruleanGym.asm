@@ -196,168 +196,168 @@ CeruleanGymGruntBacksAwayMovement:
 	step_end
 
 CeruleanGymGruntIntroText:
-	text "Oops! I so sorry!"
-	line "You not hurt,"
-	cont "okay?"
+	text "Ui! Ho sento molt!"
+	line "No t'has fet mal,"
+	cont "oi?"
 
-	para "I very busy."
-	line "No time for talk-"
-	cont "ing with you. Not"
-	cont "good for me if"
-	cont "seen by somebody."
+	para "Tinc molta pressa."
+	line "No tinc temps de"
+	cont "parlar amb tu. No"
+	cont "em convé que em"
+	cont "vegi ningú."
 	done
 
 CeruleanGymGruntBigMistakeText:
-	text "Oh no! You seen"
-	line "me already! I make"
-	cont "big mistake!"
+	text "Oh, no! Ja m'has"
+	line "vist! He comès un"
+	cont "gran error!"
 	done
 
 CeruleanGymGruntByeText:
-	text "Hey, you! Forget"
-	line "you see me, okay?"
+	text "Ei, tu! Oblida que"
+	line "m'has vist, d'ac?"
 
-	para "You see, hear,"
-	line "know nothing,"
+	para "No has vist res,"
+	line "no has sentit res"
 
-	para "okay?"
-	line "Bye, kid! Nothing!"
+	para "i no saps res,"
+	line "entesos?"
 
-	para "Bye-bye a go-go!"
+	para "Adéu, nen! Res de"
+	line "res! Xao xao!"
 	done
 
 CeruleanGymNote1Text:
-	text "Sorry, I'll be out"
-	line "for a while."
-	cont "MISTY, GYM LEADER"
+	text "Perdó, estaré fora"
+	line "una estona."
+	cont "MISTY, LÍDER"
 	done
 
 CeruleanGymNote2Text:
-	text "Since MISTY's out,"
-	line "we'll be away too."
-	cont "GYM TRAINERS"
+	text "Com que MISTY no"
+	line "hi és, nosaltres"
+	cont "també marxem."
+	cont "ELS ENTRENADORS"
 	done
 
 MistyIntroText:
-	text "MISTY: I was ex-"
-	line "pecting you, you"
-	cont "pest!"
+	text "MISTY: T'estava"
+	line "esperant, bèstia!"
 
-	para "You may have a"
-	line "lot of JOHTO GYM"
+	para "Potser tens moltes"
+	line "MEDALLES de JOHTO,"
 
-	para "BADGES, but you'd"
-	line "better not take me"
-	cont "too lightly."
+	para "però no em"
+	line "subestimis."
 
-	para "My water-type"
-	line "#MON are tough!"
+	para "Els meus #MON"
+	line "d'aigua són durs!"
 	done
 
 MistyWinLossText:
-	text "MISTY: You really"
-	line "are good…"
+	text "MISTY: Ets molt"
+	line "bo…"
 
-	para "I'll admit that"
-	line "you are skilled…"
+	para "Admetré que tens"
+	line "molta habilitat…"
 
-	para "Here you go. It's"
-	line "CASCADEBADGE."
+	para "Aquí tens. És la"
+	line "MEDALLA CASCADA."
 	done
 
 ReceivedCascadeBadgeText:
-	text "<PLAYER> received"
-	line "CASCADEBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA"
+	cont "CASCADA."
 	done
 
 MistyFightDoneText:
-	text "MISTY: Are there"
-	line "many strong train-"
-	cont "ers in JOHTO? Like"
-	cont "you, I mean."
+	text "MISTY: Hi ha"
+	line "molts entrenadors"
+	cont "forts a JOHTO?"
+	cont "Com tu, vull dir."
 
-	para "I'm going to"
-	line "travel one day, so"
+	para "Algun dia viatja-"
+	line "ré per combatre"
 
-	para "I can battle some"
-	line "skilled trainers."
+	para "entrenadors molt"
+	line "hàbils."
 	done
 
 SwimmerfDianaSeenText:
-	text "Sorry about being"
-	line "away. Let's get on"
-	cont "with it!"
+	text "Perdona per no"
+	line "ser-hi! Anem-hi!"
 	done
 
 SwimmerfDianaBeatenText:
-	text "I give up! You're"
-	line "the winner!"
+	text "Em rendeixo! Has"
+	line "guanyat!"
 	done
 
 SwimmerfDianaAfterBattleText:
-	text "I'll be swimming"
-	line "quietly."
+	text "Nedaré una mica"
+	line "en silenci."
 	done
 
 SwimmerfBrianaSeenText:
-	text "Don't let my ele-"
-	line "gant swimming un-"
-	cont "nerve you."
+	text "No deixis que el"
+	line "meu nedar elegant"
+	cont "et posi nerviós."
 	done
 
 SwimmerfBrianaBeatenText:
-	text "Ooh, you calmly"
-	line "disposed of me…"
+	text "Uau, m'has vençut"
+	line "amb molta calma…"
 	done
 
 SwimmerfBrianaAfterBattleText:
-	text "Don't be too smug"
-	line "about beating me."
+	text "No et creguis gai-"
+	line "re per guanyar-me."
 
-	para "MISTY will destroy"
-	line "you if you get"
-	cont "complacent."
+	para "MISTY t'esclafarà"
+	line "si et confies."
 	done
 
 SwimmermParkerSeenText:
 	text "Glub…"
 
-	para "I'm first! Come"
-	line "and get me!"
+	para "Sóc el primer!"
+	line "Vine a buscar-me!"
 	done
 
 SwimmermParkerBeatenText:
-	text "This can't be…"
+	text "No pot ser…"
 	done
 
 SwimmermParkerAfterBattleText:
-	text "MISTY has gotten"
-	line "much better in the"
-	cont "past few years."
+	text "MISTY ha millorat"
+	line "molt els últims"
+	cont "anys."
 
-	para "Don't let your"
-	line "guard down, or"
-	cont "you'll be crushed!"
+	para "No baixis la"
+	line "guàrdia o et"
+	cont "destrossarà!"
 	done
 
 CeruleanGymGuideText:
-	text "Yo! CHAMP in"
-	line "making!"
+	text "Ei! Futur CAMPIÓ!"
 
-	para "Since MISTY was"
-	line "away, I went out"
+	para "Com que MISTY no"
+	line "hi era, jo també"
 
-	para "for some fun too."
-	line "He-he-he."
+	para "vaig sortir a fer"
+	line "el ròdol."
+	cont "He, he, he."
 	done
 
 CeruleanGymGuideWinText:
-	text "Hoo, you showed me"
-	line "how tough you are."
+	text "Uau, m'has demos-"
+	line "trat com ets de"
+	cont "fort."
 
-	para "As always, that"
-	line "was one heck of a"
-	cont "great battle!"
+	para "Com sempre, ha"
+	line "estat un combat"
+	cont "increïble!"
 	done
 
 CeruleanGym_MapEvents:

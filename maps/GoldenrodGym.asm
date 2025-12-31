@@ -183,116 +183,116 @@ BridgetWalksAwayMovement:
 	step_end
 
 WhitneyBeforeText:
-	text "Hi! I'm WHITNEY!"
+	text "Hola! Sóc WHITNEY!"
 
-	para "Everyone was into"
-	line "#MON, so I got"
-	cont "into it too!"
+	para "Tothom anava boig"
+	line "pels #MON, i a"
+	cont "mi em van agradar!"
 
-	para "#MON are"
-	line "super-cute!"
+	para "Els #MON són"
+	line "supermacos!"
 
-	para "You want to bat-"
-	line "tle? I'm warning"
-	cont "you--I'm good!"
+	para "Vols combatre?"
+	line "T'aviso: sóc"
+	cont "molt bona!"
 	done
 
 WhitneyShouldntBeSoSeriousText:
-	text "Sob…"
+	text "Bua…"
 
-	para "…Waaaaaaah!"
-	line "You're mean!"
+	para "…Buaaaaaaaa!"
+	line "Ets dolent!"
 
-	para "You shouldn't be"
-	line "so serious! You…"
-	cont "you child, you!"
+	para "No hauries de ser"
+	line "tan seriós! Tu…"
+	cont "ets un nen!"
 	done
 
 WhitneyYouMeanieText:
-	text "Waaaaah!"
+	text "Buaaaaa!"
 
-	para "Waaaaah!"
+	para "Buaaaaa!"
 
-	para "…Snivel, hic…"
-	line "…You meanie!"
+	para "…Snif, hic…"
+	line "…Ets dolent!"
 	done
 
 WhitneyWhatDoYouWantText:
-	text "…Sniff…"
+	text "…Snif…"
 
-	para "What? What do you"
-	line "want? A BADGE?"
+	para "Què? Què vols?"
+	line "Una MEDALLA?"
 
-	para "Oh, right."
-	line "I forgot. Here's"
-	cont "PLAINBADGE."
+	para "Ah, sí."
+	line "M'oblidava. Aquí"
+	cont "tens la PLANURA."
 	done
 
 PlayerReceivedPlainBadgeText:
-	text "<PLAYER> received"
-	line "PLAINBADGE."
+	text "<PLAYER> ha rebut"
+	line "la M. PLANURA."
 	done
 
 WhitneyPlainBadgeText:
-	text "PLAINBADGE lets"
-	line "your #MON use"
+	text "La M. PLANURA"
+	line "permet usar"
 
-	para "STRENGTH outside"
-	line "of battle."
+	para "STRENGTH fora"
+	line "de combat."
 
-	para "It also boosts"
-	line "your #MON's"
-	cont "SPEED."
+	para "També augmenta"
+	line "la VELOCITAT"
+	cont "dels #MON."
 
-	para "Oh, you can have"
-	line "this too!"
+	para "Ei, pots quedar-te"
+	line "això també!"
 	done
 
 WhitneyAttractText:
-	text "It's ATTRACT!"
-	line "It makes full use"
+	text "És Attract!"
+	line "Utilitza l'encant"
 
-	para "of a #MON's"
-	line "charm."
+	para "dels #MON"
+	line "al màxim."
 
-	para "Isn't it just per-"
-	line "fect for a cutie"
-	cont "like me?"
+	para "No és perfecte"
+	line "per a una bonica"
+	cont "com jo?"
 	done
 
 WhitneyGoodCryText:
-	text "Ah, that was a"
-	line "good cry!"
+	text "Ah, m'ha anat bé"
+	line "plorar!"
 
-	para "Come for a visit"
-	line "again! Bye-bye!"
+	para "Vine a visitar-me"
+	line "un altre cop! Déu!"
 	done
 
 LassCarrieSeenText:
-	text "Don't let my"
-	line "#MON's cute"
+	text "No et deixis"
+	line "enganyar per"
 
-	para "looks fool you."
-	line "They can whip you!"
+	para "l'aspecte maco"
+	line "dels meus #MON."
 	done
 
 LassCarrieBeatenText:
-	text "Darn… I thought"
-	line "you were weak…"
+	text "Uf… Pensava que"
+	line "eres fluix…"
 	done
 
 LassCarrieAfterBattleText:
-	text "Do my #MON"
-	line "think I'm cute?"
+	text "Els meus #MON"
+	line "em troben maca?"
 	done
 
 LassBridgetSeenText:
-	text "I like cute #-"
-	line "MON better than"
-	cont "strong #MON."
+	text "M'agraden més els"
+	line "#MON macos que"
+	cont "els forts."
 
-	para "But I have strong"
-	line "and cute #MON!"
+	para "Però en tinc de"
+	line "forts i macos!"
 	done
 
 LassBridgetBeatenText:
@@ -300,81 +300,80 @@ LassBridgetBeatenText:
 	done
 
 LassBridgetAfterBattleText:
-	text "I'm trying to beat"
-	line "WHITNEY, but…"
-	cont "It's depressing."
+	text "Vull guanyar a la"
+	line "WHITNEY, però…"
+	cont "És depriment."
 
-	para "I'm okay! If I"
-	line "lose, I'll just"
+	para "Estic bé! Si"
+	line "perdo, m'esforça-"
 
-	para "try harder next"
-	line "time!"
+	para "ré més el proper"
+	line "cop!"
 	done
 
 BridgetWhitneyCriesText:
-	text "Oh, no. You made"
-	line "WHITNEY cry."
+	text "Oh, no. Has fet"
+	line "plorar la WHITNEY."
 
-	para "It's OK. She'll"
-	line "stop soon. She"
+	para "No passa res."
+	line "Aviat pararà."
 
-	para "always cries when"
-	line "she loses."
+	para "Sempre plora quan"
+	line "perd."
 	done
 
 BeautyVictoriaSeenText:
-	text "Oh, you are a cute"
-	line "little trainer! "
+	text "Oh, ets un"
+	line "entrenador maco!"
 
-	para "I like you, but I"
-	line "won't hold back!"
+	para "M'agrades, però"
+	line "no em contindré!"
 	done
 
 BeautyVictoriaBeatenText:
-	text "Let's see… Oops,"
-	line "it's over?"
+	text "A veure… Ui,"
+	line "ja s'ha acabat?"
 	done
 
 BeautyVictoriaAfterBattleText:
-	text "Wow, you must be"
-	line "good to beat me!"
-	cont "Keep it up!"
+	text "Uau, has de ser"
+	line "bo per guanyar-me!"
+	cont "Continua així!"
 	done
 
 BeautySamanthaSeenText:
-	text "Give it your best"
-	line "shot, or I'll take"
-	cont "you down!"
+	text "Dóna-ho tot, o"
+	line "t'esclafarem!"
 	done
 
 BeautySamanthaBeatenText:
-	text "No! Oh, MEOWTH,"
-	line "I'm so sorry!"
+	text "No! Oh, Meowth,"
+	line "ho sento tant!"
 	done
 
 BeautySamanthaAfterBattleText:
-	text "I taught MEOWTH"
-	line "moves for taking"
-	cont "on any type…"
+	text "Vaig ensenyar a"
+	line "Meowth moviments"
+	cont "per a qualsevol…"
 	done
 
 GoldenrodGymGuideText:
-	text "Yo! CHAMP in"
-	line "making!"
+	text "Ep! Futur"
+	line "campió!"
 
-	para "This GYM is home"
-	line "to normal-type"
-	cont "#MON trainers."
+	para "Aquest GIM és la"
+	line "llar d'entrenadors"
+	cont "de tipus normal."
 
-	para "I recommend you"
-	line "use fighting-type"
-	cont "#MON."
+	para "Et recomano usar"
+	line "#MON de tipus"
+	cont "lluita."
 	done
 
 GoldenrodGymGuideWinText:
-	text "You won? Great! I"
-	line "was busy admiring"
-	cont "the ladies here."
+	text "Has guanyat? Bé!"
+	line "Jo mirava les"
+	cont "noies d'aquí."
 	done
 
 GoldenrodGym_MapEvents:

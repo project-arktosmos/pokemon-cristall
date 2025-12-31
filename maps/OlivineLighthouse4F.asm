@@ -30,53 +30,58 @@ TrainerSailorKent:
 	end
 
 SailorKentSeenText:
-	text "JASMINE must be"
-	line "worried sick about"
-	cont "the #MON here."
+	text "La JASMINE deu"
+	line "estar molt"
+	cont "preocupada pel"
+	cont "#MON d'aquí."
 
-	para "She won't even"
-	line "smile these days."
+	para "Ja no somriu"
+	line "gens, últimament."
 	done
 
 SailorKentBeatenText:
-	text "I can't manage a"
-	line "smile either…"
+	text "Ara jo tampoc no"
+	line "puc somriure…"
 	done
 
 SailorKentAfterBattleText:
-	text "Speaking of sick,"
-	line "I've heard there's"
+	text "Parlant de malalt,"
+	line "he sentit que hi"
 
-	para "a good PHARMACY in"
-	line "CIANWOOD."
+	para "ha una bona"
+	line "FARMÀCIA a"
+	cont "CIANWOOD."
 	done
 
 LassConnie1SeenText:
-	text "JASMINE is this"
-	line "city's GYM LEADER."
+	text "La JASMINE és la"
+	line "LÍDER del GIMNÀS"
+	cont "d'aquesta ciutat."
 
-	para "I mean to bring"
-	line "her back with me."
+	para "Penso fer que"
+	line "torni amb mi."
 
-	para "Nobody had better"
-	line "get in my way!"
+	para "Que ningú no"
+	line "s'interposi!"
 	done
 
 LassConnie1BeatenText:
-	text "Aaack! My #MON!"
+	text "Aaah! El meu"
+	line "#MON!"
 	done
 
 LassConnie1AfterBattleText:
-	text "Right. Anybody"
-	line "would be worried"
-	cont "if his or her own"
-	cont "#MON were hurt."
+	text "És clar. Qualsevol"
+	line "estaria preocupat"
+	cont "si el seu propi"
+	cont "#MON estigués"
+	cont "ferit."
 
-	para "I'll pray for the"
-	line "#MON here, so"
+	para "Resaré pel #MON"
+	line "d'aquí, perquè la"
 
-	para "JASMINE can come"
-	line "back to the GYM."
+	para "JASMINE pugui"
+	line "tornar al GIMNÀS."
 	done
 
 OlivineLighthouse4F_MapEvents:

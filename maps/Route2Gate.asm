@@ -10,17 +10,18 @@ Route2GateScientistScript:
 	jumptextfaceplayer Route2GateScientistText
 
 Route2GateScientistText:
-	text "Are you <PLAY_G>?"
+	text "Ets <PLAY_G>?"
 
-	para "I work as PROF."
-	line "OAK's AIDE."
+	para "Treballo com a"
+	line "ajudant del PROF."
+	cont "OAK."
 
-	para "I had no idea that"
-	line "you were out here."
+	para "No sabia que eres"
+	line "per aquí."
 
-	para "PROF.OAK's LAB is"
-	line "nearby in PALLET"
-	cont "TOWN."
+	para "El LAB del PROF."
+	line "OAK és a prop, a"
+	cont "POBLE PALETA."
 	done
 
 Route2Gate_MapEvents:

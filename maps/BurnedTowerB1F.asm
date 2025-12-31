@@ -191,46 +191,47 @@ BurnedTowerB1FEusineMovement1:
 	step_end
 
 BurnedTowerB1FEusineText:
-	text "EUSINE: I dug a"
-	line "hole here, too…"
+	text "EUSINE: Jo també"
+	line "he excavat aquí…"
 
-	para "I was shocked!"
+	para "Estic en xoc!"
 
-	para "SUICUNE raced by"
-	line "like a blur, right"
+	para "Suicune ha passat"
+	line "com un llamp just"
 
-	para "in front of my"
-	line "eyes!"
+	para "davant dels meus"
+	line "ulls!"
 
-	para "For ten years I"
-	line "chased SUICUNE,"
+	para "Durant deu anys"
+	line "he perseguit"
 
-	para "and I finally got"
-	line "to see it."
+	para "Suicune, i per fi"
+	line "l'he vist."
 
-	para "I'm all choked up!"
+	para "Estic emocionat!"
 
-	para "<PLAYER>, I owe"
-	line "this all to you!"
+	para "<PLAYER>, t'ho"
+	line "dec tot a tu!"
 
-	para "Thank you!"
+	para "Gràcies!"
 
-	para "I heard that the"
-	line "legendary #MON"
+	para "He sentit que els"
+	line "#MON"
+	cont "llegendaris"
 
-	para "of ECRUTEAK test"
-	line "chosen humans by"
+	para "d'ECRUTEAK posen"
+	line "a prova els humans"
 
-	para "allowing them to"
-	line "get close."
+	para "elegits permetent"
+	line "que s'acostin."
 
-	para "I'm going to track"
-	line "SUICUNE."
+	para "Seguiré la pista"
+	line "de Suicune."
 
-	para "<PLAYER>, let's"
-	line "meet again!"
+	para "<PLAYER>, trobem-"
+	line "nos un altre cop!"
 
-	para "Farewell!"
+	para "Adéu!"
 	done
 
 BurnedTowerB1F_MapEvents:

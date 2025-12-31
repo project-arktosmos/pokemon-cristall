@@ -160,84 +160,84 @@ OlivineLighthouseJasmineLeavesRightMovement:
 	step_end
 
 JasmineCianwoodPharmacyText:
-	text "JASMINE: … This"
-	line "#MON always"
+	text "JASMINE: … Aquest"
+	line "#MON sempre ha"
 
-	para "kept the sea lit"
-	line "at night."
+	para "il·luminat el mar"
+	line "de nit."
 
-	para "…But it suddenly"
-	line "got sick… It's"
-	cont "gasping for air…"
+	para "…Però de sobte ha"
+	line "emmalaltit… Li"
+	cont "costa respirar…"
 
-	para "…I understand"
-	line "that there is a"
+	para "…Tinc entès que"
+	line "hi ha una bona"
 
-	para "wonderful PHARMACY"
-	line "in CIANWOOD…"
+	para "FARMÀCIA a"
+	line "CIANWOOD…"
 
-	para "But that's across"
-	line "the sea…"
+	para "Però és a l'altra"
+	line "banda del mar…"
 
-	para "And I can't leave"
-	line "AMPHY unattended…"
+	para "I no puc deixar"
+	line "l'AMPHY sol…"
 	done
 
 JasmineGetSomeMedicineText:
-	text "…May I ask you to"
-	line "get some medicine"
-	cont "for me? Please?"
+	text "…Et puc demanar"
+	line "que em portis"
+	cont "medicina? Sisplau?"
 	done
 
 JasmineCureAmphyText:
-	text "JASMINE: …Will"
-	line "that medicine cure"
-	cont "AMPHY?"
+	text "JASMINE: …Aquesta"
+	line "medicina curarà"
+	cont "l'AMPHY?"
 	done
 
 PlayerHandedSecretpotionText:
-	text "<PLAYER> handed the"
-	line "SECRETPOTION to"
-	cont "JASMINE."
+	text "<PLAYER> ha donat"
+	line "la POCIÓSECRETA"
+	cont "a la JASMINE."
 	done
 
 JasmineDontBeOffendedText:
-	text "JASMINE: …Um,"
-	line "please don't be"
-	cont "offended…"
+	text "JASMINE: …Mmm,"
+	line "no t'ofenguis,"
+	cont "sisplau…"
 
-	para "…AMPHY will not"
-	line "take anything from"
-	cont "anyone but me…"
+	para "…L'AMPHY no"
+	line "accepta res de"
+	cont "ningú més que jo…"
 	done
 
 JasmineAmphyHowAreYouFeelingText:
 	text "JASMINE: …"
 
-	para "AMPHY, how are you"
-	line "feeling?"
+	para "AMPHY, com et"
+	line "trobes?"
 	done
 
 JasmineThankYouText:
-	text "JASMINE: …Oh, I'm"
-	line "so relieved…"
+	text "JASMINE: …Oh, quin"
+	line "alleujament…"
 
-	para "This is just so"
-	line "wonderful…"
+	para "Això és tan"
+	line "meravellós…"
 
-	para "Thank you so very,"
-	line "very much."
+	para "Moltes, moltes"
+	line "gràcies."
 
-	para "…I will return to"
-	line "the GYM…"
+	para "…Tornaré al"
+	line "GIMNÀS…"
 	done
 
 JasmineISeeText:
-	text "JASMINE: …I see…"
+	text "JASMINE: …Entenc…"
 	done
 
 JasmineAmphyHangOnText:
-	text "…AMPHY, hang on!"
+	text "…AMPHY, aguanta!"
 	done
 
 AmphyPalPalooText:
@@ -246,8 +246,8 @@ AmphyPalPalooText:
 	done
 
 AmphyBreathingLaboredText:
-	text "Its breathing is"
-	line "terribly labored…"
+	text "Li costa molt"
+	line "respirar…"
 	done
 
 AmphyPaluPaluluText:

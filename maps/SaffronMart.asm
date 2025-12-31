@@ -21,18 +21,18 @@ SaffronMartCooltrainerFScript:
 	jumptextfaceplayer SaffronMartCooltrainerFText
 
 SaffronMartCooltrainerMText:
-	text "There's a big"
-	line "RADIO TOWER in"
+	text "Hi ha una gran"
+	line "TORRE RÀDIO a"
 	cont "LAVENDER."
 	done
 
 SaffronMartCooltrainerFText:
-	text "I want to become"
-	line "stronger, but I'm"
-	cont "not good yet…"
+	text "Vull fer-me més"
+	line "forta, però encara"
+	cont "no sóc bona…"
 
-	para "Could you show me"
-	line "how sometime?"
+	para "Em pots ensenyar"
+	line "com algun dia?"
 	done
 
 SaffronMart_MapEvents:

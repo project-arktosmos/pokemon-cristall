@@ -76,98 +76,100 @@ Route8FruitTree:
 	fruittree FRUITTREE_ROUTE_8
 
 BikerDwayneSeenText:
-	text "We're the KANTO"
-	line "#MON FEDERATION"
-	cont "trainer group."
+	text "Som la FEDERACIÓ"
+	line "#MON de KANTO,"
+	cont "entrenadors."
 
-	para "We'll drive you"
-	line "under our wheels!"
+	para "Et passarem per"
+	line "sobre!"
 	done
 
 BikerDwayneBeatenText:
-	text "S-sorry!"
+	text "P-perdona!"
 	done
 
 BikerDwayneAfterBattleText:
-	text "The KANTO #MON"
-	line "FEDERATION will"
-	cont "never fall!"
+	text "La FEDERACIÓ"
+	line "#MON"
+	cont "de KANTO no"
+	cont "caurà mai!"
 	done
 
 BikerHarrisSeenText:
-	text "The cops shut down"
-	line "our UNDERGROUND"
+	text "La poli ha tancat"
+	line "el CAMÍ SUBTER-"
 
-	para "PATH! That really"
-	line "fries me!"
+	para "RANI! M'enfada"
+	line "molt!"
 	done
 
 BikerHarrisBeatenText:
-	text "F-forgive me!"
+	text "P-perdona'm!"
 	done
 
 BikerHarrisAfterBattleText:
-	text "Wiped out by some"
-	line "punk from JOHTO…"
+	text "Derrotat per un"
+	line "nen de JOHTO…"
 	done
 
 BikerZekeSeenText:
-	text "We're the KANTO"
-	line "#MON FEDERA-"
-	cont "TION!"
-	cont "Right on!"
+	text "Som la FEDERACIÓ"
+	line "#MON de KANTO!"
+	cont "Som els millors!"
 	done
 
 BikerZekeBeatenText:
-	text "Yikes! Sorry!"
+	text "Ui! Perdona!"
 	done
 
 BikerZekeAfterBattleText:
-	text "We'll try not to"
-	line "disturb anyone"
-	cont "from now on…"
+	text "Intentarem no"
+	line "molestar ningú"
+	cont "a partir d'ara…"
 	done
 
 SupernerdSamSeenText:
-	text "How does the MAG-"
-	line "NET TRAIN work?"
+	text "Com funciona el"
+	line "TREN MAGNÈTIC?"
 	done
 
 SupernerdSamBeatenText:
-	text "I just want to see"
-	line "the MAGNET TRAIN…"
+	text "Només vull veure"
+	line "el TREN MAGNÈTIC…"
 	done
 
 SupernerdSamAfterBattleText:
-	text "The power of mag-"
-	line "nets is awesome!"
+	text "El poder dels"
+	line "imants és"
+	cont "increïble!"
 	done
 
 SupernerdTomSeenText:
-	text "Hm… You've got"
-	line "many GYM BADGES."
+	text "Hm… Tens moltes"
+	line "MEDALLES DE GIM."
 	done
 
 SupernerdTomBeatenText:
-	text "Just as I thought…"
-	line "You're tough!"
+	text "Tal com pensava…"
+	line "Ets fort!"
 	done
 
 SupernerdTomAfterBattleText:
-	text "GYM BADGES give"
-	line "you advantages in"
-	cont "battles."
+	text "Les MEDALLES DE"
+	line "GIM et donen"
+	cont "avantatges."
 	done
 
 Route8LockedDoorText:
-	text "It's locked…"
+	text "Està tancat…"
 	done
 
 Route8UndergroundPathSignText:
-	text "The flyer's torn."
+	text "El fullet està"
+	line "estripat."
 
-	para "It's impossible to"
-	line "read…"
+	para "És impossible de"
+	line "llegir…"
 	done
 
 Route8_MapEvents:

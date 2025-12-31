@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const POWERPLANT_OFFICER1
 	const POWERPLANT_GYM_GUIDE1
 	const POWERPLANT_GYM_GUIDE2
@@ -213,177 +213,174 @@ PowerPlantOfficer1ReturnToPostMovement:
 	step_end
 
 PowerPlantOfficer1AThiefBrokeInText:
-	text "A thief broke into"
-	line "the POWER PLANT…"
+	text "Un lladre ha"
+	line "entrat a la"
+	cont "CENTRAL…"
 
-	para "What is the world"
-	line "coming to?"
+	para "On anem a parar?"
 	done
 
 PowerPlantOfficer1CeruleanShadyCharacterText:
-	text "I just got word"
-	line "from CERULEAN."
+	text "Tinc notícies de"
+	line "CERULEAN."
 
-	para "It appears that a"
-	line "shady character"
+	para "Sembla que un"
+	line "tipus sospitós"
 
-	para "has been loitering"
-	line "around."
+	para "ha estat rondant"
+	line "per allà."
 	done
 
 PowerPlantOfficer1CouldIAskForYourCooperationText:
-	text "Could I ask for"
-	line "your cooperation?"
+	text "Puc demanar-te"
+	line "que col·laboris?"
 	done
 
 PowerPlantOfficer1HaveToBeefUpSecurityText:
-	text "We'll have to beef"
-	line "up our security"
-	cont "presence."
+	text "Haurem de reforçar"
+	line "la seguretat."
 	done
 
 PowerPlantGymGuide1SomeoneStoleAPartText:
-	text "Someone made off"
-	line "with a part that's"
+	text "Algú s'ha endut"
+	line "una peça que és"
 
-	para "essential for the"
-	line "generator."
+	para "essencial per al"
+	line "generador."
 
-	para "Without it, the"
-	line "new generator's"
-	cont "useless!"
+	para "Sense ella, el nou"
+	line "generador no val"
+	cont "per a res!"
 	done
 
 PowerPlantGymGuide1GeneratorUpAndRunningText:
-	text "The generator's up"
-	line "and running. It's"
+	text "El generador ja"
+	line "funciona. Produeix"
 
-	para "making electricity"
-	line "to spare."
+	para "electricitat de"
+	line "sobres."
 	done
 
 PowerPlantGymGuide2PowerPlantUpAndRunningText:
-	text "This POWER PLANT"
-	line "had been abandoned"
-	cont "in the past."
+	text "Aquesta CENTRAL"
+	line "havia estat"
+	cont "abandonada."
 
-	para "We got it back up"
-	line "and running to"
+	para "L'hem reactivat"
+	line "per proveir"
 
-	para "provide power to"
-	line "the MAGNET TRAIN."
+	para "energia al TREN"
+	line "MAGNÈTIC."
 	done
 
 PowerPlantGymGuide2GeneratorIsRunningAgainText:
-	text "The generator's"
-	line "running again!"
+	text "El generador torna"
+	line "a funcionar!"
 	done
 
 PowerPlantOfficer2ManagerHasBeenSadAndFuriousText:
-	text "The POWER PLANT's"
-	line "MANAGER is up"
-	cont "ahead."
+	text "El DIRECTOR de la"
+	line "CENTRAL és aquí"
+	cont "davant."
 
-	para "But since someone"
-	line "wrecked the gener-"
-	cont "ator, he's been"
-	cont "both sad and"
-	cont "furious…"
+	para "Des que algú va"
+	line "espatllar el gene-"
+	cont "rador, està trist"
+	cont "i furiós…"
 	done
 
 PowerPlantOfficer2ManagerHasBeenCheerfulText:
-	text "Since the gener-"
-	line "ator's been fixed,"
+	text "Des que el genera-"
+	line "dor està arreglat,"
 
-	para "the MANAGER has"
-	line "been cheerful."
+	para "el DIRECTOR està"
+	line "molt content."
 	done
 
 PowerPlantGymGuide4MagnetTrainConsumesElectricityText:
-	text "The MAGNET TRAIN"
-	line "consumes a lot of"
-	cont "electricity."
+	text "El TREN MAGNÈTIC"
+	line "consumeix molta"
+	cont "electricitat."
 
-	para "It can't move if"
-	line "the new generator"
-	cont "isn't operating."
+	para "No pot funcionar"
+	line "si el generador"
+	cont "nou no va."
 	done
 
 PowerPlantGymGuide4WeCanGetMagnetTrainRunningText:
-	text "All right! We can"
-	line "finally get the"
+	text "Fantàstic! Per fi"
+	line "podem tornar a fer"
 
-	para "MAGNET TRAIN"
-	line "running again."
+	para "funcionar el TREN"
+	line "MAGNÈTIC."
 	done
 
 PowerPlantManagerWhoWouldRuinMyGeneratorText:
-	text "MANAGER: I, I, I'm"
-	line "ready to blast"
-	cont "someone!"
+	text "DIRECTOR: Estic"
+	line "a punt d'esclatar!"
 
-	para "Who would dare"
-	line "ruin my generator?"
+	para "Qui gosa espatllar"
+	line "el meu generador?"
 
-	para "I spent so much"
-	line "time on it!"
+	para "Hi he dedicat"
+	line "tant de temps!"
 
-	para "If I catch him,"
-	line "he's going to get"
+	para "Com l'enxampi, li"
+	line "faré tastar el meu"
 
-	para "a taste of my ZAP"
-	line "CANNON!"
+	para "ZAP CANNON!"
 	done
 
 PowerPlantManagerIWontForgiveCulpritText:
-	text "MANAGER: I won't"
-	line "forgive him!"
+	text "DIRECTOR: No el"
+	line "perdonaré!"
 
-	para "The culprit can"
-	line "cry and apologize,"
+	para "El culpable pot"
+	line "plorar i disculpar"
+	cont "-se,"
 
-	para "but I'll still"
-	line "hammer him!"
+	para "però li donaré"
+	line "el seu merescut!"
 
 	para "Gahahahah!"
 	done
 
 PowerPlantManagerThatsThePartText:
-	text "MANAGER: Ah! Yeah!"
+	text "DIRECTOR: Ah, sí!"
 
-	para "That's the missing"
-	line "PART from my be-"
-	cont "loved generator!"
-	cont "You found it?"
+	para "Aquesta és la PEÇA"
+	line "que faltava del"
+	cont "meu estimat gene-"
+	cont "rador! L'has"
+	cont "trobada?"
 	done
 
 PowerPlantManagerTakeThisTMText:
-	text "Wahah! Thanks!"
+	text "Wahah! Gràcies!"
 
-	para "Here! Take this TM"
-	line "as a reward!"
+	para "Té! Pren aquesta"
+	line "MT com a premi!"
 	done
 
 PowerPlantManagerTM07IsZapCannonText:
-	text "MANAGER: TM07 is"
-	line "my ZAP CANNON."
+	text "DIRECTOR: La MT07"
+	line "és ZAP CANNON."
 
-	para "It's a powerful"
-	line "technique!"
+	para "És una tècnica"
+	line "molt potent!"
 
-	para "It's not what any-"
-	line "one would consider"
+	para "No és el que"
+	line "diríem precisa,"
 
-	para "accurate, but it"
-	line "packs a wallop!"
+	para "però pega fort!"
 	done
 
 PowerPlantManagerMyBelovedGeneratorText:
-	text "MANAGER: My be-"
-	line "loved generator!"
+	text "DIRECTOR: Estimat"
+	line "generador meu!"
 
-	para "Keep pumping the"
-	line "electricity out!"
+	para "Continua generant"
+	line "electricitat!"
 	done
 
 PowerPlant_MapEvents:

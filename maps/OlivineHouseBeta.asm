@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const OLIVINEHOUSEBETA_TEACHER
 	const OLIVINEHOUSEBETA_RHYDON
 
@@ -25,12 +25,13 @@ OlivineHouseBetaBookshelf2:
 	jumpstd MagazineBookshelfScript
 
 OlivineHouseBetaTeacherText:
-	text "When my #MON"
-	line "got sick, the"
+	text "Quan el meu"
+	line "#MON"
+	cont "va emmalaltir, el"
 
-	para "PHARMACIST in"
-	line "ECRUTEAK made some"
-	cont "medicine for me."
+	para "FARMACÈUTIC"
+	line "d'ECRUTEAK em va"
+	cont "fer una medicina."
 	done
 
 OlivineHouseBetaRhydonText:

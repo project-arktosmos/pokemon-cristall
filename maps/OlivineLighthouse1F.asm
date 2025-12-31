@@ -14,24 +14,25 @@ OlivineLighthouse1FPokefanFScript:
 	jumptextfaceplayer OlivineLighthouse1FPokefanFText
 
 OlivineLighthouse1FSailorText:
-	text "People train at"
-	line "this LIGHTHOUSE."
+	text "La gent entrena"
+	line "en aquest FAR."
 
-	para "It's not easy to"
-	line "climb because of"
-	cont "all the trainers."
+	para "No és fàcil pujar"
+	line "per culpa de tots"
+	cont "els entrenadors."
 	done
 
 OlivineLighthouse1FPokefanFText:
-	text "In the past, #-"
-	line "MON used to light"
+	text "Antigament, els"
+	line "#MON"
+	cont "il·luminaven"
 
-	para "the sea around"
-	line "OLIVINE at night."
+	para "el mar d'OLIVINE"
+	line "a la nit."
 
-	para "The LIGHTHOUSE was"
-	line "made in honor of"
-	cont "those #MON."
+	para "El FAR es va fer"
+	line "en honor d'aquells"
+	cont "#MON."
 	done
 
 OlivineLighthouse1F_MapEvents:

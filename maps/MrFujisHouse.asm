@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const MRFUJISHOUSE_SUPER_NERD
 	const MRFUJISHOUSE_LASS
 	const MRFUJISHOUSE_PSYDUCK
@@ -44,25 +44,24 @@ MrFujisHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 MrFujisHouseSuperNerdText:
-	text "MR.FUJI does live"
-	line "here, but he's not"
+	text "El SR.FUJI viu"
+	line "aquí, però ara no"
+	cont "hi és."
 
-	para "home now."
-
-	para "He should be at"
-	line "the SOUL HOUSE."
+	para "Deu ser a la CASA"
+	line "DE LES ÀNIMES."
 	done
 
 MrFujisHouseLassText:
-	text "Some cold-hearted"
-	line "people stop caring"
-	cont "for their #MON."
+	text "Hi ha gent sense"
+	line "cor que abandona"
+	cont "els seus #MON."
 
-	para "Grandpa takes in"
-	line "the poor homeless"
+	para "L'avi acull els"
+	line "pobres #MON"
 
-	para "#MON and takes"
-	line "care of them."
+	para "sense llar i en"
+	line "té cura."
 	done
 
 MrFujisPsyduckText:

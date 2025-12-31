@@ -1,62 +1,61 @@
 ArnieAnswerPhoneText:
-	text "Yeah, hello."
-	line "This is @"
+	text "Sí, hola."
+	line "Soc en @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "…Huh, <PLAY_G>? Yo!"
+	para "…Eh, <PLAY_G>? Ei!"
 	done
 
 ArnieAnswerPhoneDayText:
-	text "Yeah, hello, you"
-	line "got @"
+	text "Sí, hola, parles"
+	line "amb en @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "…Huh, <PLAY_G>? Yo!"
+	para "…Eh, <PLAY_G>? Ei!"
 	done
 
 ArnieAnswerPhoneNiteText:
-	text "Yeah, hello, you"
-	line "got @"
+	text "Sí, hola, parles"
+	line "amb en @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "…Huh, <PLAY_G>? Yo!"
+	para "…Eh, <PLAY_G>? Ei!"
 	done
 
 ArnieGreetText:
-	text "Yeah, hello?"
-	line "@"
+	text "Sí, hola?"
+	line "Soc en @"
 	text_ram wStringBuffer3
-	text " calling."
+	text "."
 
-	para "What are you up"
-	line "to, <PLAY_G>?"
+	para "Què fas, <PLAY_G>?"
 	done
 
 ArnieGreetDayText:
-	text "Yeah, hello?"
-	line "@"
+	text "Sí, hola?"
+	line "Soc en @"
 	text_ram wStringBuffer3
-	text " calling."
+	text "."
 
-	para "Where are you now,"
+	para "On ets ara,"
 	line "<PLAY_G>?"
 	done
 
 ArnieGreetNiteText:
-	text "Yeah, hello?"
-	line "@"
+	text "Sí, hola?"
+	line "Soc en @"
 	text_ram wStringBuffer3
-	text " calling."
+	text "."
 
-	para "Are you awake now,"
+	para "Ets despert/a,"
 	line "<PLAY_G>?"
 	done
 
 ArnieGenericText:
-	text "I bet your #MON"
-	line "are a lot stronger"
-	cont "than before."
+	text "Segur que els teus"
+	line "#MON són molt"
+	cont "més forts que no."
 	done

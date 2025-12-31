@@ -1,130 +1,128 @@
 JoseMonsStickHasADeliciousAromaText:
-	text "Hey listen, my"
-	line "@"
+	text "Escolta, el pal"
+	line "del meu @"
 	text_ram wStringBuffer4
-	text "'s stick"
+	text ""
 
-	para "has this really"
-	line "delicious aroma."
+	para "fa una olor molt"
+	line "bona."
 
-	para "That aroma gets my"
-	line "appetite going!"
+	para "Aquesta aroma em"
+	line "desperta la gana!"
 	done
 
 JoseDefeatedMonText:
-	text "A while ago, my"
-	line "FARFETCH'D KO'd"
-	cont "this @"
+	text "Fa poc, el meu"
+	line "FARFETCH'D va"
+	cont "deixar KO un @"
 	text_ram wStringBuffer4
 	text "."
 
-	para "You should have"
-	line "seen FARFETCH'D"
+	para "Havies de veure"
+	line "com el FARFETCH'D"
 
-	para "wield that stick."
-	line "Amazing stuff!"
+	para "maneja el pal."
+	line "Increïble!"
 	done
 
 JoseLostAMonText:
-	text "I ran into a wild"
+	text "Vaig trobar un"
 	line "@"
 	text_ram wStringBuffer4
-	text "…"
+	text " salvatge…"
 
-	para "I was trying to"
-	line "catch it, but it"
+	para "El volia atrapar,"
+	line "però va fugir més"
 
-	para "took off faster"
-	line "than I thought it"
+	para "ràpid del que em"
+	line "pensava."
 
-	para "would. It was a"
-	line "bit disappointing."
+	para "Va ser una mica"
+	line "decebedor."
 	done
 
 JoseBattleRematchText:
-	text "Want to battle"
-	line "again?"
+	text "Vols tornar a"
+	line "combatre?"
 
-	para "For some reason,"
-	line "my FARFETCH'D is"
+	para "Per algun motiu,"
+	line "el meu FARFETCH'D"
 
-	para "all worked up and"
-	line "raring to go."
+	para "està molt excitat"
+	line "i amb ganes."
 
-	para "@"
+	para "Soc a"
+	line "@"
 	text_ram wStringBuffer5
-	text "'s"
-	line "where I'm at."
+	text "."
 
-	para "Keep an eye out"
-	line "for me, OK?"
+	para "Vine a buscar-me,"
+	line "d'acord?"
 	done
 
 JoseHangUpText:
-	text "Be seeing you!"
+	text "Ja ens veurem!"
 	done
 
 JoseFoundItemText:
-	text "My FARFETCH'D had"
-	line "something pretty"
-	cont "in its beak."
+	text "El meu FARFETCH'D"
+	line "duia una cosa"
+	cont "bonica al bec."
 
-	para "Like I promised,"
-	line "you can have it."
+	para "Com vaig prometre,"
+	line "te la pots quedar."
 
-	para "Catch up to me on"
-	line "@"
+	para "Vine a trobar-me"
+	line "a @"
 	text_ram wStringBuffer5
 	text ","
 
-	para "and I'll let you"
-	line "have it."
+	para "i te la donaré."
 	done
 
 JoseHaventGottenItemYetText:
-	text "I haven't gotten"
-	line "what I promised"
-	cont "you yet."
+	text "Encara no tinc el"
+	line "que et vaig"
+	cont "prometre."
 
-	para "I'll call you as"
-	line "soon as I get it,"
+	para "Et trucaré quan"
+	line "ho tingui,"
 
-	para "so could you wait"
-	line "a little longer?"
+	para "pots esperar una"
+	line "mica més?"
 	done
 
 JoseReminderText:
-	text "<PLAY_G>, could you"
-	line "hurry over?"
+	text "<PLAY_G>, pots"
+	line "venir de pressa?"
 
-	para "FARFETCH'D is"
-	line "agitated."
+	para "El FARFETCH'D"
+	line "està agitat."
 
-	para "If you don't come"
-	line "soon, it might"
+	para "Si no véns aviat,"
+	line "potser em colpeja"
 
-	para "smack me with its"
-	line "stick!"
+	para "amb el seu pal!"
 
 	para "@"
 	text_ram wStringBuffer5
 	text "!"
 
-	para "Please come as"
-	line "soon as you can!"
+	para "Si us plau, vine"
+	line "tan aviat com"
+	cont "puguis!"
 	done
 
 JoseComePickUpText:
-	text "What's wrong?"
+	text "Què passa?"
 
-	para "Don't you want"
-	line "this gift?"
+	para "No vols aquest"
+	line "regal?"
 
-	para "Catch up to me on"
-	line "@"
+	para "Vine a trobar-me"
+	line "a @"
 	text_ram wStringBuffer5
 	text ","
 
-	para "and I'll let you"
-	line "have it."
+	para "i te'l donaré."
 	done

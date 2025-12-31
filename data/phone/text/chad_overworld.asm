@@ -1,56 +1,57 @@
 ChadAskNumber1Text:
-	text "Huh? Is that thing"
-	line "a #DEX? Have"
-	cont "you met PROF.OAK?"
+	text "Eh? Això és una"
+	line "#DEX? Has"
+	cont "conegut el PROF."
+	cont "OAK?"
 
-	para "Huh? You have? "
-	line "That's way cool!"
+	para "Eh? De debò?"
+	line "Això és genial!"
 
-	para "I have a dream of"
-	line "becoming a #MON"
+	para "El meu somni és"
+	line "ser investigador"
 
-	para "researcher like"
-	line "PROF.OAK."
+	para "de #MON com"
+	line "el PROF.OAK."
 
-	para "May I please have"
-	line "your phone number?"
+	para "Em pots donar el"
+	line "teu telèfon?"
 
-	para "We should chat"
-	line "about PROF.OAK."
+	para "Hauríem de parlar"
+	line "del PROF.OAK."
 
-	para "I'm sure it will"
-	line "be loads of fun!"
+	para "Segur que serà"
+	line "molt divertit!"
 	done
 
 ChadAskNumber2Text:
-	text "May I please have"
-	line "your phone number?"
+	text "Em pots donar el"
+	line "teu telèfon?"
 
-	para "We should chat"
-	line "about PROF.OAK."
+	para "Hauríem de parlar"
+	line "del PROF.OAK."
 
-	para "I'm sure it will"
-	line "be loads of fun!"
+	para "Segur que serà"
+	line "molt divertit!"
 	done
 
 ChadNumberAcceptedText:
-	text "You must listen to"
-	line "PROF.OAK'S #MON"
-	cont "TALK, right?"
+	text "Escoltes POKÉMON"
+	line "AL DIA del PROF."
+	cont "OAK, oi?"
 	done
 
 ChadNumberDeclinedText:
-	text "Oh… I wish I had a"
-	line "chance to meet"
-	cont "PROF.OAK…"
+	text "Oh… M'agradaria"
+	line "conèixer el PROF."
+	cont "OAK…"
 	done
 
 ChadPhoneFullText:
-	text "Your phone list is"
-	line "completely full!"
+	text "La teva llista de"
+	line "telèfons és plena!"
 	done
 
 ChadRematchText:
-	text "I've been waiting!"
-	line "Let's battle now!"
+	text "T'estava esperant!"
+	line "Combatrem ara!"
 	done

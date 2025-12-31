@@ -25,9 +25,9 @@ RuinsOfAlphHoOhItemRoomAncientReplica:
 	jumptext RuinsOfAlphHoOhItemRoomAncientReplicaText
 
 RuinsOfAlphHoOhItemRoomAncientReplicaText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "És una rèplica"
+	line "d'un #MON"
+	cont "antic."
 	done
 
 RuinsOfAlphHoOhItemRoom_MapEvents:

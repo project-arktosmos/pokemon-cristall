@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CELADONDEPTSTORE2F_CLERK1
 	const CELADONDEPTSTORE2F_CLERK2
 	const CELADONDEPTSTORE2F_POKEFAN_M
@@ -36,34 +36,34 @@ CeladonDeptStore2FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 CeladonDeptStore2FPokefanMText:
-	text "I just recently"
-	line "became a trainer."
+	text "Fa poc que m'he"
+	line "fet entrenador."
 
-	para "My son encouraged"
-	line "me to do it."
+	para "El meu fill em va"
+	line "animar a fer-ho."
 
-	para "I'm impressed by"
-	line "the selection of"
-	cont "convenient items."
+	para "Estic admirat de"
+	line "la varietat"
+	cont "d'objectes útils."
 	done
 
 CeladonDeptStore2FYoungsterText:
-	text "My dad's having a"
-	line "hard time learning"
+	text "El meu pare té"
+	line "problemes per"
 
-	para "the names of items"
-	line "and how they are"
+	para "aprendre els noms"
+	line "dels objectes i"
 
-	para "supposed to be"
-	line "used…"
+	para "com s'han"
+	line "d'utilitzar…"
 	done
 
 CeladonDeptStore2FDirectoryText:
-	text "Top Grade Items"
-	line "for Trainers!"
+	text "Objectes de 1a"
+	line "per a Entrenadors!"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2n: BOTIGA"
+	line "    D'ENTRENADORS"
 	done
 
 CeladonDeptStore2F_MapEvents:

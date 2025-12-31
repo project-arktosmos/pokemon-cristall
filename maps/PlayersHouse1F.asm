@@ -1,9 +1,9 @@
-	object_const_def
-	const PLAYERSHOUSE1F_MOM1
-	const PLAYERSHOUSE1F_MOM2
-	const PLAYERSHOUSE1F_MOM3
-	const PLAYERSHOUSE1F_MOM4
-	const PLAYERSHOUSE1F_POKEFAN_F
+object_const_def
+const PLAYERSHOUSE1F_MOM1
+const PLAYERSHOUSE1F_MOM2
+const PLAYERSHOUSE1F_MOM3
+const PLAYERSHOUSE1F_MOM4
+const PLAYERSHOUSE1F_POKEFAN_F
 
 PlayersHouse1F_MapScripts:
 	def_scene_scripts
@@ -211,176 +211,181 @@ MomWalksBackMovement:
 	step_end
 
 ElmsLookingForYouText:
-	text "Oh, <PLAYER>…! Our"
-	line "neighbor, PROF."
+	text "Oh, <PLAYER>…! El"
+	line "nostre veí, el"
 
-	para "ELM, was looking"
-	line "for you."
+	para "PROF.ELM, et"
+	line "buscava."
 
-	para "He said he wanted"
-	line "you to do some-"
-	cont "thing for him."
+	para "M'ha dit que volia"
+	line "que li fessis un"
+	cont "encàrrec."
 
-	para "Oh! I almost for-"
-	line "got! Your #MON"
+	para "Oh! Gairebé ho"
+	line "oblidava! El teu"
 
-	para "GEAR is back from"
-	line "the repair shop."
+	para "#GEAR ja està"
+	line "arreglat."
 
-	para "Here you go!"
+	para "Aquí el tens!"
 	done
 
 MomGivesPokegearText:
-	text "#MON GEAR, or"
-	line "just #GEAR."
+	text "#MON GEAR, o"
+	line "simplement"
+	cont "#GEAR."
 
-	para "It's essential if"
-	line "you want to be a"
-	cont "good trainer."
+	para "És essencial si"
+	line "vols ser un bon"
+	cont "entrenador."
 
-	para "Oh, the day of the"
-	line "week isn't set."
+	para "Oh, el dia de la"
+	line "setmana no hi és."
 
-	para "You mustn't forget"
-	line "that!"
+	para "No t'ho pots"
+	line "oblidar!"
 	done
 
 IsItDSTText:
-	text "Is it Daylight"
-	line "Saving Time now?"
+	text "Ara és l'horari"
+	line "d'estiu?"
 	done
 
 ComeHomeForDSTText:
-	text "Come home to"
-	line "adjust your clock"
+	text "Torna a casa per"
+	line "ajustar el rellot-"
 
-	para "for Daylight"
-	line "Saving Time."
+	para "ge per l'horari"
+	line "d'estiu."
 
-	para "By the way, do you"
-	line "know how to use"
-	cont "the PHONE?"
+	para "Per cert, saps com"
+	line "fer servir el"
+	cont "TELÈFON?"
 	done
 
 KnowTheInstructionsText:
-	text "Don't you just"
-	line "turn the #GEAR"
+	text "Només cal encendre"
+	line "el #GEAR i"
 
-	para "on and select the"
-	line "PHONE icon?"
+	para "seleccionar la"
+	line "icona del TELÈFON?"
 	done
 
 DontKnowTheInstructionsText:
-	text "I'll read the"
-	line "instructions."
+	text "Llegiré les"
+	line "instruccions."
 
-	para "Turn the #GEAR"
-	line "on and select the"
-	cont "PHONE icon."
+	para "Encén el #GEAR"
+	line "i selecciona la"
+	cont "icona del TELÈFON."
 	done
 
 InstructionsNextText:
-	text "Phone numbers are"
-	line "stored in memory."
+	text "Els números estan"
+	line "a la memòria."
 
-	para "Just choose a name"
-	line "you want to call."
+	para "Tria el nom de qui"
+	line "vulguis trucar."
 
-	para "Gee, isn't that"
-	line "convenient?"
+	para "No és convenient,"
+	line "això?"
 	done
 
 HurryUpElmIsWaitingText:
-	text "PROF.ELM is wait-"
-	line "ing for you."
+	text "El PROF.ELM"
+	line "t'està esperant."
 
-	para "Hurry up, baby!"
+	para "Afanya't, fill!"
 	done
 
 SoWhatWasProfElmsErrandText:
-	text "So, what was PROF."
-	line "ELM's errand?"
+	text "I quin era"
+	line "l'encàrrec del"
+	cont "PROF.ELM?"
 
 	para "…"
 
-	para "That does sound"
-	line "challenging."
+	para "Sembla tot un"
+	line "repte."
 
-	para "But, you should be"
-	line "proud that people"
-	cont "rely on you."
+	para "Però hauries"
+	line "d'estar orgullós"
+	cont "que confien en tu."
 	done
 
 ImBehindYouText:
-	text "<PLAYER>, do it!"
+	text "<PLAYER>, endavant!"
 
-	para "I'm behind you all"
-	line "the way!"
+	para "Et recolzo al"
+	line "cent per cent!"
 	done
 
 NeighborMornIntroText:
-	text "Good morning,"
+	text "Bon dia,"
 	line "<PLAY_G>!"
 
-	para "I'm visiting!"
+	para "Sóc de visita!"
 	done
 
 NeighborDayIntroText:
-	text "Hello, <PLAY_G>!"
-	line "I'm visiting!"
+	text "Hola, <PLAY_G>!"
+	line "Sóc de visita!"
 	done
 
 NeighborNiteIntroText:
-	text "Good evening,"
+	text "Bona nit,"
 	line "<PLAY_G>!"
 
-	para "I'm visiting!"
+	para "Sóc de visita!"
 	done
 
 NeighborText:
-	text "<PLAY_G>, have you"
-	line "heard?"
+	text "<PLAY_G>, ho has"
+	line "sentit?"
 
-	para "My daughter is"
-	line "adamant about"
+	para "La meva filla està"
+	line "decidida a ser"
 
-	para "becoming PROF."
-	line "ELM's assistant."
+	para "l'ajudant del"
+	line "PROF.ELM."
 
-	para "She really loves"
+	para "Li encanten els"
 	line "#MON!"
 	done
 
 PlayersHouse1FStoveText:
-	text "Mom's specialty!"
+	text "L'especialitat de"
+	line "la mare!"
 
-	para "CINNABAR VOLCANO"
-	line "BURGER!"
+	para "L'HAMBURGUESA"
+	line "VOLCÀ CINNABAR!"
 	done
 
 PlayersHouse1FSinkText:
-	text "The sink is spot-"
-	line "less. Mom likes it"
-	cont "clean."
+	text "La pica està"
+	line "impecable. A la"
+	cont "mare li agrada."
 	done
 
 PlayersHouse1FFridgeText:
-	text "Let's see what's"
-	line "in the fridge…"
+	text "Vegem què hi ha a"
+	line "la nevera…"
 
-	para "FRESH WATER and"
-	line "tasty LEMONADE!"
+	para "AIGUA FRESCA i"
+	line "LLIMONADA!"
 	done
 
 PlayersHouse1FTVText:
-	text "There's a movie on"
-	line "TV: Stars dot the"
+	text "Hi ha una pel·li a"
+	line "la tele: Els es-"
 
-	para "sky as two boys"
-	line "ride on a train…"
+	para "tels il·luminen el"
+	line "cel mentre dos"
 
-	para "I'd better get"
-	line "rolling too!"
+	para "nois van en tren…"
+
+	para "Jo també hauria"
+	line "d'anar tirant!"
 	done
 
 PlayersHouse1F_MapEvents:

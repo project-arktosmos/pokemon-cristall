@@ -1,6 +1,6 @@
-	object_const_def
-	const PALLETTOWN_TEACHER
-	const PALLETTOWN_FISHER
+object_const_def
+const PALLETTOWN_TEACHER
+const PALLETTOWN_FISHER
 
 PalletTown_MapScripts:
 	def_scene_scripts
@@ -31,40 +31,41 @@ BluesHouseSign:
 	jumptext BluesHouseSignText
 
 PalletTownTeacherText:
-	text "I'm raising #-"
-	line "MON too."
+	text "Jo també crio"
+	line "#MON."
 
-	para "They serve as my"
-	line "private guards."
+	para "Em fan de guardes"
+	line "personals."
 	done
 
 PalletTownFisherText:
-	text "Technology is"
-	line "incredible!"
+	text "La tecnologia és"
+	line "increïble!"
 
-	para "You can now trade"
-	line "#MON across"
-	cont "time like e-mail."
+	para "Ara pots"
+	line "bescanviar"
+	cont "#MON a través"
+	cont "del temps!"
 	done
 
 PalletTownSignText:
-	text "PALLET TOWN"
+	text "VILA PALETA"
 
-	para "A Tranquil Setting"
-	line "of Peace & Purity"
+	para "Un Lloc Tranquil"
+	line "de Pau i Puresa"
 	done
 
 RedsHouseSignText:
-	text "RED'S HOUSE"
+	text "CASA D'EN RED"
 	done
 
 OaksLabSignText:
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "LABORATORI #MON"
+	line "DEL PROF. OAK"
 	done
 
 BluesHouseSignText:
-	text "BLUE'S HOUSE"
+	text "CASA D'EN BLUE"
 	done
 
 PalletTown_MapEvents:

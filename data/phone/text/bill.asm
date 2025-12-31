@@ -1,101 +1,103 @@
 BillPhoneMornGreetingText:
-	text "Good morning!"
+	text "Bon dia!"
 
-	para "This is the #-"
-	line "MON STORAGE SYSTEM"
+	para "Aquí el SERVEI"
+	line "D'ADMINISTRACIÓ"
 
-	para "ADMINISTRATION"
-	line "SERVICE."
+	para "del SISTEMA"
+	line "D'EMMAGATZEMATGE."
 	done
 
 BillPhoneDayGreetingText:
-	text "Good day!"
+	text "Bona tarda!"
 
-	para "This is the #-"
-	line "MON STORAGE SYSTEM"
+	para "Aquí el SERVEI"
+	line "D'ADMINISTRACIÓ"
 
-	para "ADMINISTRATION"
-	line "SERVICE."
+	para "del SISTEMA"
+	line "D'EMMAGATZEMATGE."
 	done
 
 BillPhoneNiteGreetingText:
-	text "Good evening!"
+	text "Bona nit!"
 
-	para "This is the #-"
-	line "MON STORAGE SYSTEM"
+	para "Aquí el SERVEI"
+	line "D'ADMINISTRACIÓ"
 
-	para "ADMINISTRATION"
-	line "SERVICE."
+	para "del SISTEMA"
+	line "D'EMMAGATZEMATGE."
 	done
 
 BillPhoneGenericText:
-	text "Who's calling?"
+	text "Qui truca?"
 
-	para "<PLAY_G>, is it?"
-	line "Hang on a sec…"
+	para "<PLAY_G>, oi?"
+	line "Espera un moment…"
 
 	para "<……>"
 	line "<……>"
 	done
 
 BillPhoneNotFullText:
-	text "Thanks for"
-	line "waiting!"
+	text "Gràcies per"
+	line "esperar!"
 
-	para "<PLAY_G>, your BOX"
-	line "has room for @"
+	para "<PLAY_G>, la teva"
+	line "CAPSA té espai"
+	cont "per a @"
 	text_ram wStringBuffer3
-	text_start
-	cont "more #MON."
+	text " #MON"
+	cont "més."
 
-	para "Get out there and"
-	line "fill it up!"
+	para "Surt i omple-la!"
 	done
 
 BillPhoneNearlyFullText:
-	text "Thanks for"
-	line "waiting!"
+	text "Gràcies per"
+	line "esperar!"
 
-	para "<PLAY_G>, your BOX"
-	line "has room for only"
-	cont "@"
+	para "<PLAY_G>, la teva"
+	line "CAPSA només té"
+	cont "espai per a @"
 	text_ram wStringBuffer3
-	text " more #MON."
+	text_start
+	cont "#MON més."
 
-	para "Maybe you should"
-	line "switch your BOX."
+	para "Potser hauries de"
+	line "canviar de CAPSA."
 	done
 
 BillPhoneFullText:
-	text "Thanks for"
-	line "waiting!"
+	text "Gràcies per"
+	line "esperar!"
 
-	para "<PLAY_G>, your BOX"
-	line "is full!"
+	para "<PLAY_G>, la teva"
+	line "CAPSA és plena!"
 
-	para "You'll have to"
-	line "switch BOXES if"
+	para "Hauràs de canviar"
+	line "de CAPSA si vols"
 
-	para "you want to catch"
-	line "more #MON."
+	para "atrapar més"
+	line "#MON."
 	done
 
 BillPhoneNewlyFullText:
-	text "Hi, <PLAY_G>?"
-	line "It's me, BILL!"
+	text "Hola, <PLAY_G>?"
+	line "Soc en BILL!"
 
-	para "Thanks for using"
-	line "my STORAGE SYSTEM."
+	para "Gràcies per fer"
+	line "el meu SISTEMA"
+	cont "D'EMMAGATZEMATGE."
 
-	para "That last #MON"
-	line "you sent filled"
-	cont "your BOX up."
+	para "L'últim #MON"
+	line "que has enviat ha"
+	cont "omplert la CAPSA."
 
-	para "You'll have to"
-	line "switch BOXES if"
+	para "Hauràs de canviar"
+	line "de CAPSA si vols"
 
-	para "you want to catch"
-	line "more #MON."
+	para "atrapar més"
+	line "#MON."
 
-	para "Bye now!"
+	para "Adéu!"
 	done

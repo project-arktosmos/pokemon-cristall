@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CIANWOODPHARMACY_PHARMACIST
 
 CianwoodPharmacy_MapScripts:
@@ -39,35 +39,36 @@ CianwoodPharmacyBookshelf:
 	jumpstd DifficultBookshelfScript
 
 PharmacistGiveSecretpotionText:
-	text "Your #MON ap-"
-	line "pear to be fine."
+	text "Els teus #MON"
+	line "semblen estar bé."
 
-	para "Is something wor- "
-	line "rying you?"
+	para "Et preocupa"
+	line "alguna cosa?"
 
 	para "…"
 
-	para "The LIGHTHOUSE"
-	line "#MON is in"
-	cont "trouble?"
+	para "El #MON del"
+	line "FAR té"
+	cont "problemes?"
 
-	para "I got it!"
+	para "Ja ho tinc!"
 
-	para "This ought to do"
-	line "the trick."
+	para "Això hauria de"
+	line "funcionar."
 	done
 
 ReceivedSecretpotionText:
-	text "<PLAYER> received"
-	line "SECRETPOTION."
+	text "<PLAYER> ha rebut"
+	line "la POCIÓ SECRETA."
 	done
 
 PharmacistDescribeSecretpotionText:
-	text "My SECRETPOTION is"
-	line "a tad too strong."
+	text "La meva POCIÓ"
+	line "SECRETA és massa"
+	cont "forta."
 
-	para "I only offer it in"
-	line "an emergency."
+	para "Només l'ofereixo"
+	line "en emergències."
 	done
 
 CianwoodPharmacy_MapEvents:

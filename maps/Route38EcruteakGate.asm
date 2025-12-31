@@ -10,16 +10,16 @@ Route38EcruteakGateOfficerScript:
 	jumptextfaceplayer Route38EcruteakGateOfficerText
 
 Route38EcruteakGateOfficerText:
-	text "Where did you say"
-	line "you're from?"
+	text "D'on has dit"
+	line "que ets?"
 
 	para "NEW BARK TOWN?"
 
-	para "PROF.ELM lives"
-	line "over there, right?"
+	para "El PROF.ELM viu"
+	line "allà, oi?"
 
-	para "You've come a long"
-	line "way to get here."
+	para "Has fet un llarg"
+	line "camí per arribar."
 	done
 
 Route38EcruteakGate_MapEvents:

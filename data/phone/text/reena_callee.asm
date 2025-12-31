@@ -1,72 +1,73 @@
 ReenaAnswerPhoneText:
-	text "Hello, this is"
+	text "Hola, aquí"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Oh. Hi, <PLAYER>."
-	line "What's up?"
+	para "Oh, hola, <PLAYER>."
+	line "Què vols?"
 	done
 
 ReenaAnswerPhoneDayText:
-	text "Hello, this is"
+	text "Hola, aquí"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Oh, hi, <PLAYER>,"
-	line "what's up?"
+	para "Oh, hola, <PLAYER>,"
+	line "què vols?"
 	done
 
 ReenaAnswerPhoneNiteText:
-	text "Hello, this is"
+	text "Hola, aquí"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Oh, hi, <PLAYER>,"
-	line "what's up?"
+	para "Oh, hola, <PLAYER>,"
+	line "què vols?"
 	done
 
 ReenaGreetText:
-	text "You're slow! Hurry"
-	line "up and answer!"
+	text "Que lent que ets!"
+	line "Respon més ràpid!"
 
-	para "It's me, @"
+	para "Soc jo, @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 ReenaGreetDayText:
-	text "You're slow! Hurry"
-	line "up and answer!"
+	text "Que lent que ets!"
+	line "Respon més ràpid!"
 
-	para "It's me, @"
+	para "Soc jo, @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 ReenaGreetNiteText:
-	text "You're slow! Hurry"
-	line "up and answer!"
+	text "Que lent que ets!"
+	line "Respon més ràpid!"
 
-	para "It's me, @"
+	para "Soc jo, @"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 ReenaGenericText:
-	text "Hey, how are your"
-	line "#MON doing?"
+	text "Ei, com estan els"
+	line "teus #MON?"
 
-	para "What? Great?"
-	line "I see…"
+	para "Què? Bé?"
+	line "Ja veig…"
 
-	para "What? My #MON?"
+	para "Què? Els meus"
+	line "#MON?"
 
-	para "Of course they're"
-	line "doing great! What"
+	para "És clar que estan"
+	line "bé! Quina mena de"
 
-	para "kind of a question"
-	line "is that?"
+	para "pregunta és"
+	line "aquesta?"
 	done

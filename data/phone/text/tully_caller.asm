@@ -1,103 +1,104 @@
 TullyMonHasGrownText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text " has"
-	line "grown again."
+	text ""
+	line "ha tornat a"
 
-	para "It was only about"
-	line "so big when I"
+	para "créixer. Quan el"
+	line "vaig pescar era"
 
-	para "caught it, but now"
-	line "it's way bigger."
+	para "així de petit,"
+	line "però ara és"
+	cont "enorme."
 	done
 
 TullyDefeatedMonText:
-	text "Oh yeah, I KO'd a"
-	line "wild @"
+	text "Ah, sí, he vençut"
+	line "un @"
 	text_ram wStringBuffer4
-	text "."
+	text " salvatge."
 
-	para "It was huge, like"
-	line "this big even."
+	para "Era enorme, així"
+	line "de gran."
 
-	para "Heh, I guess you"
-	line "can't tell over"
-	cont "the phone…"
+	para "Je, suposo que no"
+	line "ho pots veure per"
+	cont "telèfon…"
 	done
 
 TullyLostAMonText:
-	text "Oh yeah, I lost a"
-	line "wild @"
+	text "Ah, he perdut"
+	line "un @"
 	text_ram wStringBuffer4
-	text "."
+	text " salvatge."
 
-	para "It was huge, like"
-	line "this big even."
+	para "Era enorme, així"
+	line "de gran."
 
-	para "Heh, I guess you"
-	line "can't tell over"
-	cont "the phone…"
+	para "Je, suposo que no"
+	line "ho pots veure per"
+	cont "telèfon…"
 	done
 
 TullyBattleRematchText:
-	text "We should get a"
-	line "battle going!"
+	text "Hauríem de fer un"
+	line "combat!"
 
-	para "I'll be fishing on"
+	para "Estaré pescant a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Swing by if you"
-	line "have the time."
+	para "Vine si tens"
+	line "temps."
 	done
 
 TullyHangUpText:
-	text "Well, I'll be"
-	line "seeing you."
+	text "Bé, ja ens"
+	line "veurem."
 	done
 
 TullyFoundItemText:
-	text "I picked up a good"
-	line "little thing at"
-	cont "the water's edge."
+	text "He trobat una cosa"
+	line "bona a la vora"
+	cont "de l'aigua."
 
-	para "Like I promised,"
-	line "it's yours."
+	para "Com vaig prometre,"
+	line "és per a tu."
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 TullyNoItemText:
-	text "Have I found"
-	line "anything good?"
+	text "Que si he trobat"
+	line "res de bo?"
 
-	para "Nope, not yet."
+	para "No, encara no."
 
-	para "It's like fishing,"
-	line "you need patience."
+	para "Com la pesca, cal"
+	line "tenir paciència."
 	done
 
 TullyForwardText:
-	text "Yup, TULLY here…"
+	text "Sí, sóc en TULLY…"
 
-	para "<PLAY_G>? What?"
-	line "You're lost?"
+	para "<PLAY_G>? Què?"
+	line "T'has perdut?"
 
-	para "Our battle will be"
-	line "on @"
+	para "El combat serà a"
+	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 TullyHurryText:
-	text "I've got something"
-	line "good for you."
+	text "Tinc una cosa bona"
+	line "per a tu."
 
-	para "Hustle over to"
+	para "Vine ràpid a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."

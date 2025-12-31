@@ -747,31 +747,31 @@ PartyMenuStrings:
 	dw ToWhichPKMNString
 
 ChooseAMonString:
-	db "Choose a #MON.@"
+	db "Tria un #MON.@"
 
 UseOnWhichPKMNString:
-	db "Use on which <PK><MN>?@"
+	db "Usar amb quin?@"
 
 WhichPKMNString:
-	db "Which <PK><MN>?@"
+	db "Quin <PK><MN>?@"
 
 TeachWhichPKMNString:
-	db "Teach which <PK><MN>?@"
+	db "Ensenyar a quin?@"
 
 MoveToWhereString:
-	db "Move to where?@"
+	db "Moure on?@"
 
 ChooseAFemalePKMNString: ; unreferenced
-	db "Choose a ♀<PK><MN>.@"
+	db "Tria una ♀<PK><MN>.@"
 
 ChooseAMalePKMNString: ; unreferenced
-	db "Choose a ♂<PK><MN>.@"
+	db "Tria un ♂<PK><MN>.@"
 
 ToWhichPKMNString:
-	db "To which <PK><MN>?@"
+	db "A quin <PK><MN>?@"
 
 YouHaveNoPKMNString:
-	db "You have no <PK><MN>!@"
+	db "No tens cap <PK><MN>!@"
 
 PrintPartyMenuActionText:
 	ld a, [wCurPartyMon]

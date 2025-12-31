@@ -1,73 +1,71 @@
 ParryAskNumber1Text:
-	text "Sheesh, the way"
-	line "you attacked! That"
+	text "Quina manera"
+	line "d'atacar! Ha estat"
 
-	para "was something! We"
-	line "should meet again!"
+	para "impressionant!"
+	line "Ens hem de tornar"
 
-	para "How about giving"
-	line "me your number?"
+	para "a veure! Em dones"
+	line "el teu número?"
 	done
 
 ParryAskNumber2Text:
-	text "So you want to"
-	line "register my phone"
+	text "Vols registrar el"
+	line "meu número per a"
 
-	para "number for a re-"
-	line "match, huh?"
+	para "una revenja?"
 	done
 
 ParryNumberAcceptedText:
-	text "I'll call you"
-	line "whenever I feel"
-	cont "like battling!"
+	text "Et trucaré quan"
+	line "tingui ganes de"
+	cont "combatre!"
 	done
 
 ParryNumberDeclinedText:
-	text "No? That's fine."
+	text "No? D'acord."
 
-	para "A definite no is"
-	line "easy to take!"
+	para "Un no clar és"
+	line "fàcil d'acceptar!"
 
-	para "I'll be right here"
-	line "when you're ready"
-	cont "for a rematch."
+	para "Seré aquí quan"
+	line "vulguis la"
+	cont "revenja."
 	done
 
 ParryPhoneFullText:
-	text "Oh? There's no"
-	line "room to register"
-	cont "my phone number."
+	text "Oh? No tens espai"
+	line "per registrar el"
+	cont "meu número."
 	done
 
 ParryRematchText:
-	text "Hey, here comes"
-	line "the kid! Let's go!"
+	text "Ei, aquí ve el"
+	line "nano! Som-hi!"
 
-	para "Ready for my usual"
-	line "no-brainer, all-"
-	cont "out offense?"
+	para "Preparat per al"
+	line "meu atac sense"
+	cont "miraments?"
 	done
 
 ParryPackFullText:
-	text "Your PACK looks"
-	line "stuffed full!"
+	text "La MOTXILLA està"
+	line "plena!"
 
-	para "You can't have"
-	line "this now."
+	para "Ara no pots"
+	line "agafar això."
 	done
 
 ParryRematchGiftText:
-	text "Well, you're"
-	line "special all right."
+	text "Ets molt especial."
 
-	para "If only I'd begun"
-	line "#MON when I was"
-	cont "a tad younger…"
+	para "Si hagués començat"
+	line "amb els #MON"
+	cont "més jove…"
 
-	para "I want you to work"
-	line "and succeed for"
+	para "Vull que treballis"
+	line "i triomfis per"
 
-	para "the both of us."
-	line "So take this, OK?"
+	para "tots dos."
+	line "Pren això, va!"
 	done

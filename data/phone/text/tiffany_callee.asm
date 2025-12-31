@@ -1,78 +1,78 @@
 TiffanyAnswerPhoneText:
-	text "Yes? This is"
+	text "Sí? Soc"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
 	para "Oh, <PLAY_G>."
-	line "Good morning."
+	line "Bon dia."
 	done
 
 TiffanyAnswerPhoneDayText:
-	text "Yes? This is"
+	text "Sí? Soc"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
 	para "Oh, <PLAY_G>."
-	line "Hello."
+	line "Hola."
 	done
 
 TiffanyAnswerPhoneNiteText:
-	text "Yes? This is"
+	text "Sí? Soc"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Oh, <PLAY_G>, good"
-	line "evening."
+	para "Oh, <PLAY_G>,"
+	line "bona nit."
 	done
 
 TiffanyGreetText:
-	text "Is this <PLAY_G>?"
+	text "Ets <PLAY_G>?"
 
-	para "Good morning. This"
-	line "is @"
+	para "Bon dia. Soc"
+	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 TiffanyGreetDayText:
-	text "Is this <PLAY_G>?"
+	text "Ets <PLAY_G>?"
 
-	para "Hi, it's @"
+	para "Hola, soc @"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 TiffanyGreetNiteText:
-	text "Is this <PLAY_G>?"
+	text "Ets <PLAY_G>?"
 
-	para "Good evening. This"
-	line "is @"
+	para "Bona nit. Soc"
+	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 TiffanyGenericText:
-	text "Are your #MON"
-	line "doing well?"
+	text "Com estan els teus"
+	line "#MON?"
 
-	para "I hope you take"
-	line "them to a #MON"
-	cont "CENTER every day."
+	para "Espero que els"
+	line "portis al CENTRE"
+	cont "#MON cada dia."
 
-	para "Don't push them"
-	line "too hard."
+	para "No els forcis"
+	line "gaire."
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "cute and lively"
+	text " és"
+	line "bufó i viu"
 
-	para "precisely because"
-	line "I take it to a"
+	para "justament perquè"
+	line "el porto al CENTRE"
 
-	para "#MON CENTER"
-	line "every day."
+	para "#MON cada"
+	line "dia."
 	done

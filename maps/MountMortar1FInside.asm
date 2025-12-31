@@ -65,53 +65,57 @@ MountMortar1FInsideHiddenMaxRepel:
 	hiddenitem MAX_REPEL, EVENT_MOUNT_MORTAR_1F_INSIDE_HIDDEN_MAX_REPEL
 
 PokemaniacMillerSeenText:
-	text "I'm not losing"
-	line "this time!"
+	text "Aquesta vegada no"
+	line "perdré!"
 	done
 
 PokemaniacMillerBeatenText:
-	text "I lost to some"
-	line "kid…?"
+	text "He perdut contra"
+	line "un nen…?"
 	done
 
 PokemaniacMillerAfterBattleText:
-	text "A while back, this"
-	line "karate dude wanted"
+	text "Fa un temps, un"
+	line "karateca volia"
 
-	para "to battle. He was"
-	line "ridiculously good."
+	para "combatre. Era molt"
+	line "però que molt bo."
 
-	para "He just thrashed"
-	line "us silly."
+	para "Ens va estomacar"
+	line "de valent."
 
-	para "He went in deeper"
-	line "saying it was for"
+	para "Va entrar més a"
+	line "dins dient que era"
 
-	para "his training. I"
-	line "wonder how he is?"
+	para "per entrenar. Com"
+	line "li deu anar?"
 	done
 
 SupernerdMarkusSeenText:
-	text "Hey! HUGH!"
+	text "Ei! HUGH!"
 	done
 
 SupernerdMarkusBeatenText:
-	text "I mistook you for"
-	line "someone else…"
+	text "T'he confós amb"
+	line "una altra persona…"
 	done
 
 SupernerdMarkusAfterBattleText:
-	text "I came to explore"
-	line "MT.MORTAR, but I"
+	text "Vaig venir a"
+	line "explorar el MT."
 
-	para "got separated from"
-	line "my partner…"
+	para "MORTAR, però em"
+	line "vaig separar del"
 
-	para "Did you run into a"
-	line "trainer who uses a"
+	para "meu company…"
 
-	para "SEADRA that knows"
-	line "WATERFALL?"
+	para "Has vist algun"
+	line "entrenador que"
+
+	para "utilitzi un SEADRA"
+	line "que sàpiga"
+
+	para "WATERFALL?"
 	done
 
 MountMortar1FInside_MapEvents:

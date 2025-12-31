@@ -1,307 +1,304 @@
 LizMonAlwaysWantsToNuzzleText:
-	text "Oh, you have to"
-	line "hear this."
+	text "Oh, escolta això."
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "so adorable!"
+	text " és"
+	line "tan adorable!"
 
-	para "It always wants to"
-	line "nuzzle me!"
+	para "Sempre em vol"
+	line "fer petons!"
 	done
 
 LizDefeatedMonText:
-	text "And, and! Um…"
+	text "I, i! Em…"
 
-	para "We beat a wild"
+	para "Hem vençut un"
 	line "@"
 	text_ram wStringBuffer4
-	text " with"
+	text " salvatge"
 
-	para "just one hit a"
-	line "little while ago."
+	para "d'un sol cop fa"
+	line "una estona."
 
-	para "We felt sorry for"
-	line "it, though."
+	para "Però ens ha fet"
+	line "llàstima."
 	done
 
 LizLostAMonText:
-	text "And, and! Uh…"
+	text "I, i! Eh…"
 
-	para "We just saw a"
-	line "really gorgeous"
-	cont "@"
+	para "Hem vist un"
+	line "@"
 	text_ram wStringBuffer4
-	text "."
+	text " preciós"
+	cont "fa un moment."
 
-	para "But I was on the"
-	line "phone, so it got"
+	para "Però parlava per"
+	line "telèfon i ha"
 
-	para "away. It made us"
-	line "really angry!"
+	para "fugit. Ens ha"
+	line "fet molta ràbia!"
 	done
 
 LizBattleRematchText:
-	text "Hi! Do you have"
-	line "some free time?"
+	text "Hola! Tens temps"
+	line "lliure?"
 
-	para "I've got all sorts"
-	line "of time. If you're"
+	para "Jo en tinc molt."
+	line "Si estàs lliure,"
 
-	para "free, would you"
-	line "like to battle?"
+	para "vols fer un"
+	line "combat?"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Let me know when"
-	line "you get here!"
+	para "Avisa'm quan"
+	line "arribis!"
 	done
 
 LizWrongNumberText:
-	text "Hi, TANIA. How are"
-	line "you? This is LIZ."
+	text "Hola, TÀNIA. Com"
+	line "estàs? Sóc LIZ."
 
-	para "I'm fine, but I'm"
-	line "bored silly!"
+	para "Jo bé, però"
+	line "m'avorreixo molt!"
 
-	para "Huh… Wrong number?"
-	line "Oops! Sorry!"
+	para "Eh… Número erroni?"
+	line "Ui! Perdona!"
 	done
 
 LizHangUpText:
-	text "OK, I'll call you"
-	line "later!"
+	text "Bé, et trucaré"
+	line "després!"
 	done
 
 LizRuinsOfAlphGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "I was listening to"
-	line "the radio in the"
+	para "Sentia la ràdio"
+	line "a les RUÏNES ALFA"
 
-	para "RUINS OF ALPH when"
-	line "an odd broadcast"
+	para "quan una emissió"
+	line "estranya va"
 
-	para "suddenly cut it on"
-	line "the regular show."
+	para "interrompre el"
+	line "programa normal."
 
-	para "I wonder what it"
-	line "was. So strange!"
+	para "Què devia ser?"
+	line "Molt estrany!"
 	done
 
 LizFalknerGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "Don't you think"
-	line "FALKNER of VIOLET"
+	para "No trobes que en"
+	line "VORO del GIMNÀS"
 
-	para "GYM is cool and"
-	line "handsome?"
+	para "VIOLA és maco"
+	line "i atractiu?"
 
-	para "But they say his"
-	line "dad, who's out"
+	para "Però diuen que el"
+	line "seu pare, que és"
 
-	para "training on the"
-	line "road, is even more"
+	para "fora entrenant,"
+	line "és encara més"
 
-	para "cool and handsome"
-	line "than FALKNER."
+	para "atractiu que"
+	line "en VORO."
 
-	para "I wish I could"
-	line "meet him!"
+	para "M'agradaria"
+	line "conèixer-lo!"
 	done
 
 LizEarlGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "Do you know EARL,"
-	line "the teacher who"
+	para "Coneixes en DORI,"
+	line "el mestre de"
 
-	para "runs the #MON"
-	line "ACADEMY in VIOLET?"
+	para "l'ACADÈMIA #MON"
+	line "de VIOLA?"
 
-	para "I saw him doing"
-	line "pirouettes while"
+	para "L'he vist fent"
+	line "piruetes mentre"
 
-	para "he was running. It"
-	line "was wildly funny!"
+	para "corria. Ha estat"
+	line "molt graciós!"
 	done
 
 LizSurfPikachuGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "I collect #MON"
-	line "plush dolls."
+	para "Col·lecciono nines"
+	line "de peluix #MON."
 
-	para "But I can't seem"
-	line "to get a hold of a"
+	para "Però no trobo"
+	line "la NINA PIKACHU"
+	cont "SURFISTA."
 
-	para "SURF PIKACHU DOLL."
-	line "None of my friends"
+	para "Cap amic la té."
+	line "Deu ser molt rara!"
 
-	para "have it. It must"
-	line "be totally rare!"
-
-	para "You could really"
-	line "brag about it if"
-	cont "you had one."
+	para "Podries presumir"
+	line "molt si en"
+	cont "tinguessis una."
 	done
 
 LizMooMooMilkGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "Do you know about"
-	line "MOOMOO MILK?"
+	para "Coneixes la"
+	line "LLET MU-MU?"
 
-	para "You can buy it at"
-	line "MOOMOO FARM."
+	para "La venen a la"
+	line "GRANJA MU-MU."
 
-	para "It's supposed to"
-	line "be good for health"
+	para "Diuen que és bona"
+	line "per a la salut"
 
-	para "and beauty."
-	line "I really want to"
+	para "i la bellesa."
+	line "Vull provar-la."
 
-	para "try some. I bet"
-	line "it's delicious!"
+	para "Segur que és"
+	line "deliciosa!"
 	done
 
 LizSalonGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "There's a #MON"
-	line "SALON in GOLDENROD"
+	para "Hi ha un SALÓ"
+	line "#MON a DAURADA"
 
-	para "that's run by two"
-	line "brothers."
+	para "que porten dos"
+	line "germans."
 
-	para "The older brother"
-	line "is good, but the"
+	para "El gran és bo,"
+	line "però el petit"
 
-	para "younger one really"
-	line "isn't."
+	para "no tant."
 
-	para "But sometimes the"
-	line "younger one does a"
+	para "Però a vegades"
+	line "el petit ho fa"
 
-	para "better job than"
-	line "his brother."
+	para "millor que el"
+	line "seu germà."
 
-	para "Every time I go, I"
-	line "have a hard time"
+	para "Cada cop que hi"
+	line "vaig, em costa"
 
-	para "trying to decide"
-	line "whom I should use…"
+	para "decidir a qui"
+	line "triar…"
 	done
 
 LizWhitneyGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "GOLDENROD GYM's"
-	line "WHITNEY began"
+	para "La BLANCA del"
+	line "GIMNÀS DAURADA"
 
-	para "battling only a"
-	line "little while ago!"
+	para "fa poc que va"
+	line "començar a"
+	cont "lluitar!"
 
-	para "But the #MON"
-	line "LEAGUE chose her"
-	cont "as a GYM LEADER!"
+	para "Però la LLIGA"
+	line "#MON la va"
+	cont "triar"
+	cont "com a LÍDER!"
 
-	para "I bet she must be"
-	line "totally talented."
+	para "Deu ser molt"
+	line "talentosa."
 	done
 
 LizBugCatchingContestGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "Have you ever"
-	line "taken part in a"
+	para "Has participat"
+	line "mai en un Concurs"
 
-	para "Bug-Catching"
-	line "Contest at the"
-	cont "NATIONAL PARK?"
+	para "de Caça d'Insectes"
+	line "al PARC NATURAL?"
 
-	para "I did once, but"
-	line "all I could catch"
-	cont "was a CATERPIE."
+	para "Jo sí, però només"
+	line "vaig caçar un"
+	cont "CATERPIE."
 
-	para "But guess what!"
+	para "Però saps què?"
 
-	para "I won with that"
-	line "CATERPIE. Isn't"
-	cont "that great?"
+	para "Vaig guanyar amb"
+	line "aquell CATERPIE."
+	cont "No és genial?"
 	done
 
 LizBeautifulTrainerGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "I saw a beautiful"
+	para "He vist un/a"
 	line "@"
 	text_ram wStringBuffer4
-	text "!"
+	text " preciós/a!"
 
-	para "I wish I could"
-	line "become a beautiful"
-	cont "@"
+	para "M'agradaria ser"
+	line "un/a @"
 	text_ram wStringBuffer4
-	text " too."
+	text ""
+	cont "preciós/a també."
 	done
 
 LizForgotGossipText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "Uh… Um… Whoops!"
+	para "Eh… Em… Ui!"
 
-	para "I forgot what I"
-	line "was going to say!"
+	para "He oblidat què"
+	line "volia dir!"
 	done
 
 LizFawningOverMonText:
-	text "Listen, listen!"
+	text "Escolta, escolta!"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
 	text "…"
-	line "it… so pretty…"
+	line "és… tan bonic…"
 
-	para "and… giggle… so"
-	line "awesome… yes… but…"
+	para "i… riu… tan"
+	line "increïble… sí…"
 
-	para "very much… eeek!"
-	line "And… lovely…"
+	para "molt… iii!"
+	line "I… encantador…"
 
-	para "Just ravishing…"
-	line "Oh, too much!"
+	para "Fascinant…"
+	line "Oh, massa!"
 
-	para "…Hug it… sleeping…"
-	line "That's right…"
+	para "…Abraçar-lo…"
+	line "dormint… Sí…"
 
-	para "pretty… sigh… So"
-	line "nice… Cute…"
+	para "bonic… ai… Tan"
+	line "maco… Bufó…"
 
-	para "…Oops! Look at the"
-	line "time! I chatted"
-	cont "too long!"
+	para "…Ui! Quina hora"
+	line "és! He xerrat"
+	cont "massa estona!"
 
-	para "I'm sorry I took"
-	line "so much of your"
+	para "Perdona per"
+	line "fer-te perdre"
 
-	para "time!"
-	line "I love chatting!"
+	para "tant de temps!"
+	line "M'encanta xerrar!"
 	done
 
 LizReminderText:
-	text "I've got too much"
-	line "time on my hands!"
+	text "Tinc massa temps"
+	line "lliure!"
 
-	para "Let's battle right"
-	line "away!"
+	para "Lluitem ara"
+	line "mateix!"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"

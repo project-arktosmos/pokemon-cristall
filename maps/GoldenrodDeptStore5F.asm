@@ -139,80 +139,82 @@ GoldenrodDeptStore5FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore5FReceptionistOhYourMonDotDotDotText:
-	text "Hello. Oh, your"
+	text "Hola. Oh, el teu"
 	line "#MON…"
 	done
 
 GoldenrodDeptStore5FReceptionistThisMoveShouldBePerfectText:
-	text "It's very attached"
-	line "to you."
+	text "Està molt lligat"
+	line "a tu."
 
-	para "This move should"
-	line "be perfect for a"
-	cont "pair like you."
+	para "Aquest moviment"
+	line "hauria de ser"
+	cont "perfecte per vos."
 	done
 
 GoldenrodDeptStore5FReceptionistItsAdorableText:
-	text "It's adorable!"
+	text "És adorable!"
 
-	para "You should teach"
-	line "it good TM moves."
+	para "L'hauries"
+	line "d'ensenyar bons"
+	cont "moviments de MT."
 	done
 
 GoldenrodDeptStore5FReceptionistItLooksEvilHowAboutThisTMText:
-	text "It looks evil. How"
-	line "about this TM for"
-	cont "it?"
+	text "Sembla malvat."
+	line "Què et sembla"
+	cont "aquesta MT?"
 	done
 
 GoldenrodDeptStore5FReceptionistThereAreTMsPerfectForMonText:
-	text "There are sure to"
-	line "be TMs that are"
+	text "Segur que hi ha"
+	line "MTs que són"
 
-	para "just perfect for"
-	line "your #MON."
+	para "perfectes per al"
+	line "teu #MON."
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftExplanationText:
-	text "MYSTERY GIFT."
+	text "REGAL MISTERI."
 
-	para "With just a"
-	line "little beep, you"
-	cont "get a gift."
+	para "Amb un petit"
+	line "senyal, obtens"
+	cont "un regal."
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftRequiresGBCText:
-	text "The MYSTERY GIFT"
-	line "option requires a"
-	cont "Game Boy Color."
+	text "L'opció de REGAL"
+	line "MISTERI requereix"
+	cont "una Game Boy Color"
 	done
 
 GoldenrodDeptStore5FLassText:
-	text "On Sundays, a lady"
-	line "comes to check out"
-	cont "#MON."
+	text "Els diumenges,"
+	line "ve una senyora a"
+	cont "veure #MON."
 
-	para "She even gives"
-	line "away TMs!"
+	para "Fins i tot regala"
+	line "MTs!"
 	done
 
 GoldenrodDeptStore5FPokefanMText:
-	text "You can't rename a"
-	line "#MON you get in"
-	cont "a trade."
+	text "No pots canviar"
+	line "el nom d'un"
+	cont "#MON"
+	cont "d'intercanvi."
 
-	para "The name is a re-"
-	line "flection of the"
+	para "El nom reflecteix"
+	line "els sentiments de"
 
-	para "original trainer's"
-	line "feelings for it."
+	para "l'entrenador"
+	line "original."
 	done
 
 GoldenrodDeptStore5FDirectoryText:
-	text "Customize Your"
-	line "#MON"
+	text "Personalitza el"
+	line "teu #MON"
 
-	para "5F TM CORNER"
+	para "5P RACÓ DE MTs"
 	done
 
 GoldenrodDeptStore5F_MapEvents:

@@ -40,55 +40,56 @@ SandstormHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 SandstormHouseWomanText1:
-	text "Where are you off"
-	line "to with #MON?"
+	text "On vas amb els"
+	line "teus #MON?"
 
-	para "#MON LEAGUE?"
+	para "A la LLIGA"
+	line "#MON?"
 
-	para "Are your #MON"
-	line "loyal enough for"
-	cont "you to win?"
+	para "Els teus #MON"
+	line "són prou lleials"
+	cont "per a guanyar?"
 
-	para "Let me see…"
+	para "Deixa'm veure…"
 	done
 
 SandstormHouseWomanLoyalText:
-	text "Ah! Your #MON"
-	line "trusts you very"
-	cont "much."
+	text "Ah! El teu #MON"
+	line "confia molt en"
+	cont "tu."
 
-	para "It's nice to see a"
-	line "good trainer."
+	para "És un plaer veure"
+	line "un bon entrenador."
 
-	para "Here. A gift for"
-	line "your journey."
+	para "Té. Un regal pel"
+	line "teu viatge."
 	done
 
 SandstormHouseSandstormDescription:
-	text "TM37 happens to be"
-	line "SANDSTORM."
+	text "L'MT37 resulta"
+	line "ser SANDSTORM."
 
-	para "It's a move that"
-	line "inflicts damage on"
-	cont "both battlers."
+	para "És un moviment"
+	line "que fa mal als"
+	cont "dos combatents."
 
-	para "It's for advanced"
-	line "trainers only."
+	para "És només per a"
+	line "experts."
 
-	para "Use it if you"
-	line "dare. Good luck!"
+	para "Usa'l si t'atre-"
+	line "veixes. Bona sort!"
 	done
 
 SandstormHouseWomanDisloyalText:
-	text "If it doesn't come"
-	line "to trust you some"
+	text "Si no arriba a"
+	line "confiar més en tu"
 
-	para "more, it could be"
-	line "tough going."
+	para "podria ser difícil"
+	line "avançar."
 
-	para "Trust is the tie"
-	line "that binds #MON"
-	cont "and trainers."
+	para "La confiança és"
+	line "el vincle entre"
+	cont "#MON i humans."
 	done
 
 Route27SandstormHouse_MapEvents:

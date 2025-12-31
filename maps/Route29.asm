@@ -247,169 +247,168 @@ DudeMovementData2b:
 	step_end
 
 CatchingTutorialBoxFullText:
-	text "#MON hide in"
-	line "the grass. Who"
+	text "Els #MON s'ama-"
+	line "guen a l'herba."
 
-	para "knows when they'll"
-	line "pop out…"
+	para "Mai se sap quan"
+	line "sortiran…"
 	done
 
 CatchingTutorialIntroText:
-	text "I've seen you a"
-	line "couple times. How"
+	text "T'he vist un"
+	line "parell de cops."
 
-	para "many #MON have"
-	line "you caught?"
+	para "Quants #MON has"
+	line "capturat?"
 
-	para "Would you like me"
-	line "to show you how to"
-	cont "catch #MON?"
+	para "Vols que t'ensenyi"
+	line "com capturar"
+	cont "#MON?"
 	done
 
 CatchingTutorialDebriefText:
-	text "That's how you do"
-	line "it."
+	text "Així és com es"
+	line "fa."
 
-	para "If you weaken them"
-	line "first, #MON are"
-	cont "easier to catch."
+	para "Si els debilites"
+	line "primer, els"
+	cont "#MON"
+	cont "són més fàcils."
 	done
 
 CatchingTutorialDeclinedText:
-	text "Oh. Fine, then."
+	text "Oh. D'acord."
 
-	para "Anyway, if you"
-	line "want to catch"
+	para "De totes formes,"
+	line "si vols capturar"
 
-	para "#MON, you have"
-	line "to walk a lot."
+	para "#MON, hauràs de"
+	line "caminar molt."
 	done
 
 CatchingTutorialRepeatText:
-	text "Huh? You want me"
-	line "to show you how to"
-	cont "catch #MON?"
+	text "Eh? Vols que"
+	line "t'ensenyi com"
+	cont "capturar #MON?"
 	done
 
 Route29YoungsterText:
-	text "Yo. How are your"
-	line "#MON?"
+	text "Ei! Com estan els"
+	line "teus #MON?"
 
-	para "If they're weak"
-	line "and not ready for"
+	para "Si són febles i no"
+	line "estan preparats"
 
-	para "battle, keep out"
-	line "of the grass."
+	para "per lluitar, no"
+	line "vagis per l'herba."
 	done
 
 Route29TeacherText:
-	text "See those ledges?"
-	line "It's scary to jump"
-	cont "off them."
+	text "Veus les voreres?"
+	line "Fa por saltar-ne."
 
-	para "But you can go to"
-	line "NEW BARK without"
+	para "Però pots anar a"
+	line "POBLE ESCORÇA"
 
-	para "walking through"
-	line "the grass."
+	para "sense caminar per"
+	line "l'herba."
 	done
 
 Route29FisherText:
-	text "I wanted to take a"
-	line "break, so I saved"
+	text "Volia fer un"
+	line "descans, així que"
 
-	para "to record my"
-	line "progress."
+	para "he desat la"
+	line "partida."
 	done
 
 Route29CooltrainerMText_WaitingForDay: ; unreferenced
-	text "I'm waiting for"
-	line "#MON that"
+	text "Estic esperant"
+	line "#MON que"
 
-	para "appear only in the"
-	line "daytime."
+	para "només apareixen"
+	line "de dia."
 	done
 
 Route29CooltrainerMText_WaitingForNight:
-	text "I'm waiting for"
-	line "#MON that"
+	text "Estic esperant"
+	line "#MON que"
 
-	para "appear only at"
-	line "night."
+	para "només apareixen"
+	line "de nit."
 	done
 
 Route29CooltrainerMText_WaitingForMorning:
-	text "I'm waiting for"
-	line "#MON that"
+	text "Estic esperant"
+	line "#MON que"
 
-	para "appear only in the"
-	line "morning."
+	para "només apareixen"
+	line "al matí."
 	done
 
 MeetTuscanyText:
-	text "TUSCANY: I do be-"
-	line "lieve that this is"
+	text "TUSCANY: Crec que"
+	line "és el primer cop"
 
-	para "the first time"
-	line "we've met?"
+	para "que ens veiem,"
+	line "oi?"
 
-	para "Please allow me to"
-	line "introduce myself."
+	para "Deixa'm que em"
+	line "presenti."
 
-	para "I am TUSCANY of"
-	line "Tuesday."
+	para "Sóc la TUSCANY"
+	line "del dimarts."
 	done
 
 TuscanyGivesGiftText:
-	text "By way of intro-"
-	line "duction, please"
+	text "Com a presentació,"
+	line "si us plau"
 
-	para "accept this gift,"
-	line "a PINK BOW."
+	para "accepta aquest"
+	line "LLAÇ ROSA."
 	done
 
 TuscanyGaveGiftText:
-	text "TUSCANY: Wouldn't"
-	line "you agree that it"
-	cont "is most adorable?"
+	text "TUSCANY: No trobes"
+	line "que és molt bonic?"
 
-	para "It strengthens"
-	line "normal-type moves."
+	para "Reforça els atacs"
+	line "de tipus normal."
 
-	para "I am certain it"
-	line "will be of use."
+	para "Segur que et serà"
+	line "molt útil."
 	done
 
 TuscanyTuesdayText:
-	text "TUSCANY: Have you"
-	line "met MONICA, my"
-	cont "older sister?"
+	text "TUSCANY: Has"
+	line "conegut la MONICA,"
+	cont "la meva germana?"
 
-	para "Or my younger"
-	line "brother, WESLEY?"
+	para "O el meu germà"
+	line "petit, en WESLEY?"
 
-	para "I am the second of"
-	line "seven children."
+	para "Sóc la segona de"
+	line "set germans."
 	done
 
 TuscanyNotTuesdayText:
-	text "TUSCANY: Today is"
-	line "not Tuesday. That"
-	cont "is unfortunate…"
+	text "TUSCANY: Avui no"
+	line "és dimarts. Quina"
+	cont "llàstima…"
 	done
 
 Route29Sign1Text:
-	text "ROUTE 29"
+	text "RUTA 29"
 
-	para "CHERRYGROVE CITY -"
-	line "NEW BARK TOWN"
+	para "CIUTAT CIRERER -"
+	line "POBLE ESCORÇA"
 	done
 
 Route29Sign2Text:
-	text "ROUTE 29"
+	text "RUTA 29"
 
-	para "CHERRYGROVE CITY -"
-	line "NEW BARK TOWN"
+	para "CIUTAT CIRERER -"
+	line "POBLE ESCORÇA"
 	done
 
 Route29_MapEvents:

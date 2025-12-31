@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const BURNEDTOWER1F_ROCK
 	const BURNEDTOWER1F_EUSINE
 	const BURNEDTOWER1F_RIVAL
@@ -160,119 +160,125 @@ BurnedTower1FEusineMovement:
 BurnedTowerRival_BeforeText:
 	text "<……> <……> <……>"
 
-	para "…Oh, it's you."
+	para "…Oh, ets tu."
 
-	para "I came looking for"
-	line "some legendary"
+	para "He vingut a buscar"
+	line "uns #MON"
 
-	para "#MON that they"
-	line "say roosts here."
+	para "llegendaris que"
+	line "diuen que viuen"
+	cont "aquí."
 
-	para "But there's"
-	line "nothing here!"
+	para "Però no hi ha"
+	line "res!"
 
-	para "Nothing after all"
-	line "the trouble of"
+	para "Res de res després"
+	line "de tot l'esforç"
 
-	para "coming to this"
-	line "dump? No way!"
+	para "de venir a aquest"
+	line "lloc? No pot ser!"
 
-	para "It's all your"
-	line "fault!"
+	para "Tot és culpa"
+	line "teva!"
 	done
 
 BurnedTowerRival_WinText:
-	text "…Humph!"
+	text "…Bah!"
 
-	para "This is why I hate"
-	line "battling wimps."
+	para "Per això odio"
+	line "lluitar contra"
+	cont "covards."
 
-	para "There's no"
-	line "challenge in it."
+	para "No suposa cap"
+	line "repte."
 	done
 
 BurnedTowerRival_AfterText1:
-	text "…Aw, whatever."
+	text "…Bé, tant se val."
 
-	para "You would never be"
-	line "able to catch a"
-
-	para "legendary #MON"
-	line "anyway."
+	para "Tu mai no podries"
+	line "atrapar un #MON"
+	cont "llegendari."
 	done
 
 BurnedTowerRival_LossText:
-	text "…Humph!"
+	text "…Bah!"
 
-	para "This is why I hate"
-	line "battling wimps."
+	para "Per això odio"
+	line "lluitar contra"
+	cont "covards."
 
-	para "It's just a waste"
-	line "of my time."
+	para "És una pèrdua"
+	line "de temps."
 	done
 
 BurnedTowerRival_AfterText2:
-	text "Humph!"
+	text "Bah!"
 
-	para "What are you doing"
-	line "falling into a"
+	para "Què fas caient"
+	line "per un forat?"
 
-	para "hole? Some genius"
-	line "you are!"
+	para "Quin geni que"
+	line "ets!"
 
-	para "Serves you right!"
+	para "T'ho mereixes!"
 	done
 
 BurnedTower1FEusineIntroText:
-	text "EUSINE: My name's"
+	text "EUSINE: Em dic"
 	line "EUSINE."
 
-	para "I'm on the trail"
-	line "of a #MON named"
-	cont "SUICUNE."
+	para "Segueixo la pista"
+	line "d'un #MON que"
+	cont "es diu SUICUNE."
 
-	para "And you are…?"
+	para "I tu ets…?"
 
-	para "<PLAYER>? Glad to"
-	line "meet you!"
+	para "<PLAYER>? Encantat"
+	line "de conèixer-te!"
 
-	para "I heard rumors"
-	line "that SUICUNE is in"
+	para "He sentit rumors"
+	line "que SUICUNE és en"
 
-	para "this BURNED TOWER,"
-	line "so I came to look."
+	para "aquesta TORRE"
+	line "CREMADA i he"
+	cont "vingut a mirar."
 
-	para "But where exactly"
-	line "could it be?"
+	para "Però on deu"
+	line "ser exactament?"
 	done
 
 BurnedTower1FEusineText:
-	text "EUSINE: I heard"
-	line "that SUICUNE is in"
+	text "EUSINE: He sentit"
+	line "que SUICUNE és en"
 
-	para "this BURNED TOWER,"
-	line "so I came to look."
+	para "aquesta TORRE"
+	line "CREMADA i he"
+	cont "vingut a mirar."
 
-	para "But where exactly"
-	line "could it be?"
+	para "Però on deu"
+	line "ser exactament?"
 	done
 
 BurnedTower1FMortyText:
-	text "MORTY: ECRUTEAK's"
-	line "GYM LEADER has to"
+	text "MORTY: El LÍDER"
+	line "de GIMNÀS"
 
-	para "study what are"
-	line "said to be the"
+	para "d'ECRUTEAK ha"
+	line "d'estudiar els"
 
-	para "legendary #MON"
-	line "--SUICUNE, ENTEI"
-	cont "and RAIKOU."
+	para "#MON que diuen"
+	line "que són"
 
-	para "EUSINE is here, so"
-	line "I've decided to"
+	para "llegendaris:"
+	line "SUICUNE, ENTEI"
+	cont "i RAIKOU."
 
-	para "investigate the"
-	line "TOWER with him."
+	para "Com que EUSINE"
+	line "és aquí, he"
+
+	para "decidit explorar"
+	line "la TORRE amb ell."
 	done
 
 BurnedTower1F_MapEvents:

@@ -125,92 +125,90 @@ SaffronMagnetTrainStationPlayerLeaveTrainAndEnterStationMovement:
 	step_end
 
 SaffronMagnetTrainStationOfficerTrainIsntOperatingText:
-	text "I'm sorry, but the"
-	line "MAGNET TRAIN isn't"
-	cont "operating now."
+	text "Ho sento, però ara"
+	line "el TREN MAGNÈTIC"
+	cont "no funciona."
 	done
 
 SaffronMagnetTrainStationOfficerAreYouComingOnBoardText:
-	text "We'll soon depart"
-	line "for GOLDENROD."
+	text "Aviat sortirem cap"
+	line "a GOLDENROD."
 
-	para "Are you coming on"
-	line "board?"
+	para "Pujaràs a bord?"
 	done
 
 SaffronMagnetTrainStationOfficerRightThisWayText:
-	text "May I see your"
-	line "rail PASS, please?"
+	text "Em pots ensenyar"
+	line "el teu ABONAMENT?"
 
-	para "OK. Right this"
-	line "way, please."
+	para "D'acord. Per aquí,"
+	line "si us plau."
 	done
 
 SaffronMagnetTrainStationOfficerYouDontHaveAPassText:
-	text "Sorry, but you"
-	line "don't have a PASS."
+	text "Ho sento, però no"
+	line "tens un ABONAMENT."
 	done
 
 SaffronMagnetTrainStationOfficerHopeToSeeYouAgainText:
-	text "We hope to see you"
-	line "again."
+	text "Esperem tornar-te"
+	line "a veure."
 	done
 
 SaffronMagnetTrainStationOfficerArrivedInSaffronText:
-	text "We have arrived in"
+	text "Hem arribat a"
 	line "SAFFRON."
 
-	para "We hope to see you"
-	line "again."
+	para "Esperem tornar-te"
+	line "a veure."
 	done
 
 SaffronMagnetTrainStationGymGuideText:
-	text "The MAGNET TRAIN"
-	line "is a super-modern"
+	text "El TREN MAGNÈTIC"
+	line "és un tren súper"
 
-	para "rail liner that"
-	line "uses electricity"
+	para "modern que fa"
+	line "servir imants i"
 
-	para "and magnets to"
-	line "attain incredible"
-	cont "speed."
+	para "electricitat per"
+	line "assolir velocitats"
+	cont "increïbles."
 
-	para "However, if there"
-	line "isn't any elec-"
-	cont "tricity…"
+	para "Però si no hi ha"
+	line "electricitat…"
 	done
 
 SaffronMagnetTrainStationGymGuideText_ReturnedMachinePart:
-	text "Whew…"
+	text "Buf…"
 
-	para "How many times"
-	line "have I gone back"
+	para "Quantes vegades"
+	line "hauré anat d'anada"
 
-	para "and forth between"
-	line "KANTO and JOHTO?"
+	para "i tornada entre"
+	line "KANTO i JOHTO?"
 	done
 
 SaffronMagnetTrainStationTeacherText:
-	text "Before the MAGNET"
-	line "TRAIN STATION was"
+	text "Abans que es"
+	line "construís"
 
-	para "built, there was a"
-	line "house there."
+	para "l'ESTACIÓ DEL TREN"
+	line "MAGNÈTIC, aquí hi"
+	cont "havia una casa."
 
-	para "A little girl"
-	line "named COPYCAT used"
-	cont "to live there."
+	para "Una nena anomenada"
+	line "COPYCAT hi vivia."
 	done
 
 SaffronMagnetTrainStationLassText:
-	text "Hi. Do you have a"
-	line "rail PASS? I have"
+	text "Hola! Tens un"
+	line "ABONAMENT? Jo sí."
 
-	para "one. All the peo-"
-	line "ple in SAFFRON who"
+	para "Tota la gent de"
+	line "SAFFRON que va amb"
 
-	para "ride the MAGNET"
-	line "TRAIN have PASSES."
+	para "el TREN MAGNÈTIC"
+	line "en té un."
 	done
 
 SaffronMagnetTrainStation_MapEvents:

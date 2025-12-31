@@ -193,56 +193,56 @@ Rocket2Script_LetsYouPassNorth:
 	step_end
 
 RocketText_TollFee:
-	text "Hold it there,"
-	line "kiddo!"
+	text "Para aquí,"
+	line "jovenet!"
 
-	para "The toll is ¥{d:ROUTE43GATE_TOLL}"
-	line "to go through."
+	para "El peatge és"
+	line "¥{d:ROUTE43GATE_TOLL} per passar."
 	done
 
 RocketText_ThankYou:
-	text "Thank you very"
-	line "much!"
+	text "Moltes gràcies!"
 	done
 
 RocketText_AllYouGot:
-	text "Then pay what you"
-	line "have, please."
+	text "Doncs paga el que"
+	line "tinguis, si us"
+	cont "plau."
 	done
 
 RocketText_MakingABundle:
-	text "He-he-he. We're"
-	line "making a bundle."
+	text "He-he-he. Estem"
+	line "fent un bon grapat"
+	cont "de diners."
 
-	para "Everyone wants to"
-	line "see what's going"
-
-	para "on up at LAKE OF"
-	line "RAGE."
+	para "Tothom vol veure"
+	line "què passa al LLAC"
+	cont "DE LA FÚRIA."
 	done
 
 OfficerText_FoundTM:
-	text "I got chased from"
-	line "my post by these"
-	cont "thugs in black."
+	text "Aquests matons de"
+	line "negre m'han fet"
+	cont "fora del meu lloc."
 
-	para "They left this"
-	line "behind."
+	para "Han deixat això"
+	line "aquí."
 
-	para "It makes me uncom-"
-	line "fortable. Could"
-	cont "you take it away?"
+	para "Em fa sentir"
+	line "incòmode. Te'l"
+	cont "pots endur?"
 	done
 
 Text_ReceivedTM30: ; unreferenced
-	text "<PLAYER> received"
-	line "TM30."
+	text "<PLAYER> ha rebut"
+	line "la MT30."
 	done
 
 OfficerText_AvoidGrass:
-	text "Use this gate to"
-	line "avoid walking in"
-	cont "the grass."
+	text "Fes servir aquesta"
+	line "porta per evitar"
+	cont "caminar per"
+	cont "l'herba."
 	done
 
 Route43Gate_MapEvents:

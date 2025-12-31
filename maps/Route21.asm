@@ -42,49 +42,49 @@ TrainerFisherArnold:
 	end
 
 SwimmermSethSeenText:
-	text "Land ho! Gotta"
-	line "keep going!"
+	text "Terra a la vista!"
+	line "He de continuar!"
 	done
 
 SwimmermSethBeatenText:
-	text "Glug…"
+	text "Glup…"
 	done
 
 SwimmermSethAfterBattleText:
-	text "This arrogant guy"
-	line "was at CINNABAR's"
-	cont "volcano."
+	text "Un tipus arrogant"
+	line "era al volcà de"
+	cont "CINNABAR."
 	done
 
 SwimmerfNikkiSeenText:
-	text "If I win, you have"
-	line "to help me with my"
-	cont "suntan lotion!"
+	text "Si guanyo, m'has"
+	line "d'ajudar a posar-"
+	cont "me crema solar!"
 	done
 
 SwimmerfNikkiBeatenText:
-	text "I'm worried about"
-	line "sunburn…"
+	text "Em preocupen les"
+	line "cremades de sol…"
 	done
 
 SwimmerfNikkiAfterBattleText:
-	text "I have to watch"
-	line "out for blemishes"
-	cont "caused by the sun."
+	text "He de vigilar les"
+	line "taques que causa"
+	cont "el sol."
 	done
 
 FisherArnoldSeenText:
-	text "I'm bored by fish-"
-	line "ing. Let's battle!"
+	text "Estic avorrit de"
+	line "pescar. Lluitem!"
 	done
 
 FisherArnoldBeatenText:
-	text "Utter failure…"
+	text "Un fracàs total…"
 	done
 
 FisherArnoldAfterBattleText:
-	text "I'll just go back"
-	line "to fishing…"
+	text "Tornaré a"
+	line "pescar…"
 	done
 
 Route21_MapEvents:

@@ -23,17 +23,17 @@ Route43MahoganyGateOfficer:
 	end
 
 Route43MahoganyGateOfficerText:
-	text "Only people headed"
-	line "up to LAKE OF RAGE"
+	text "Últimament, només"
+	line "ha passat gent que"
 
-	para "have been through"
-	line "here lately."
+	para "anava cap al LLAC"
+	line "DE LA FÚRIA."
 	done
 
 Route43MahoganyGateOfficerRocketsClearedText:
-	text "Nobody goes up to"
-	line "LAKE OF RAGE these"
-	cont "days."
+	text "Ja ningú puja al"
+	line "LLAC DE LA FÚRIA,"
+	cont "avui dia."
 	done
 
 Route43MahoganyGate_MapEvents:

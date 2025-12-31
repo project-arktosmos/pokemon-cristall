@@ -1,139 +1,141 @@
 AnthonyMonAteSomeBerriesText:
-	text "The other day, I"
-	line "was watching my"
-
-	para "@"
+	text "L'altre dia mirava"
+	line "el meu @"
 	text_ram wStringBuffer4
-	text " eat"
-	line "some BERRIES."
+	text_start
 
-	para "It looked like it"
-	line "was enjoying its"
+	para "mentre menjava"
+	line "unes BAIES."
 
-	para "meal, so I decided"
-	line "to try some."
+	para "Semblava que"
+	line "s'ho passava bé,"
 
-	para "I'm not sure if"
-	line "people should eat"
+	para "així que vaig"
+	line "decidir tastar-ne."
 
-	para "that stuff, but it"
-	line "was delicious!"
+	para "No sé si la gent"
+	line "hauria de menjar"
+
+	para "això, però estava"
+	line "boníssim!"
 	done
 
 AnthonyDefeatedMonText:
-	text "Lately, I've been"
-	line "running across"
-
-	para "wild @"
+	text "Últimament trobo"
+	line "molts @"
 	text_ram wStringBuffer4
 	text_start
-	line "quite often."
 
-	para "They're easily"
-	line "taken care of."
+	para "salvatges."
+
+	para "Són fàcils de"
+	line "vèncer."
 	done
 
 AnthonyLostAMonText:
-	text "Oh yeah, I was"
-	line "battling this"
+	text "Ah, sí, l'altre"
+	line "dia lluitava"
 
-	para "@"
+	para "contra un"
+	line "@"
 	text_ram wStringBuffer4
-	text " the"
-	line "other day…"
+	text "…"
 
-	para "It took off when I"
-	line "got distracted by"
-	cont "a passing BEAUTY."
+	para "Va fugir quan em"
+	line "vaig distreure"
+	cont "amb una BELLESA."
 
-	para "Learn from my"
-	line "mistake--always"
+	para "Aprèn del meu"
+	line "error: concentra't"
 
-	para "stay focused on"
-	line "the job at hand!"
+	para "sempre en el que"
+	line "tens entre mans!"
 	done
 
 AnthonyBattleRematchText:
-	text "Come on--let's"
-	line "battle right now!"
+	text "Va, lluitem ara"
+	line "mateix!"
 
-	para "@"
+	para "Sóc a @"
 	text_ram wStringBuffer5
-	text " is"
-	line "where I am."
+	text "."
 
-	para "Come on down if"
-	line "you feel up to it!"
+	para "Vine si et veus"
+	line "amb cor!"
 	done
 
 AnthonyHangUpText:
-	text "All right then!"
-	line "Be good!"
+	text "D'acord, doncs!"
+	line "Cuida't!"
 	done
 
 AnthonySwarmText:
-	text "<PLAYER>! It's"
-	line "mind-blowing!"
+	text "<PLAYER>! És"
+	line "increïble!"
 
-	para "I took a hike in"
-	line "@"
+	para "Ahir vaig anar"
+	line "d'excursió a"
+	cont "@"
 	text_ram wStringBuffer5
-	text_start
-	cont "yesterday, see?"
+	text "."
 
-	para "Well, there were"
-	line "tons of @"
+	para "Hi havia un munt"
+	line "de @"
+	text_ram wStringBuffer4
+	text "!"
+
+	para "Ho has de veure!"
+
+	para "Tinc la sensació"
+	line "que els @"
 	text_ram wStringBuffer4
 	text_start
-	para "around! You have"
-	line "to see it!"
 
-	para "I get this feeling"
-	line "that @"
-	text_ram wStringBuffer4
-	text_start
-	para "may be timid."
-	line "I didn't see any"
+	para "són tímids."
+	line "No n'he vist on"
 
-	para "where there are"
-	line "strong #MON."
+	para "hi ha #MON"
+	line "forts."
 	done
 
 AnthonyWasntPayingAttentionText:
-	text "Rare #MON?"
+	text "#MON rars?"
 
-	para "Hey, sorry! I was"
-	line "too focused on my"
+	para "Ep, perdona!"
+	line "Estava massa"
 
-	para "hike, so I wasn't"
-	line "paying attention."
+	para "concentrat en"
+	line "l'excursió i no"
+
+	para "hi parava"
+	line "atenció."
 	done
 
 AnthonyReminderText:
-	text "Hello! You haven't"
-	line "forgotten about"
+	text "Hola! No t'has"
+	line "oblidat del"
 
-	para "our battle, have"
-	line "you?"
+	para "nostre combat,"
+	line "oi?"
 
 	para "@"
 	text_ram wStringBuffer5
 	text "!"
-	line "I'm waiting!"
+	line "T'espero!"
 	done
 
 AnthonyHurryText:
-	text "Hello? What? Where"
-	line "is DUNSPARCE?"
+	text "Hola? Què? On és"
+	line "DUNSPARCE?"
 
-	para "DARK CAVE! Hurry!"
+	para "COVA FOSCA! Corre!"
 
-	para "I know I've said"
-	line "it before, but"
+	para "Ja ho he dit,"
+	line "però els"
 
-	para "DUNSPARCE don't"
-	line "appear when there"
+	para "DUNSPARCE no"
+	line "surten quan hi ha"
 
-	para "are strong #MON"
-	line "around."
+	para "#MON forts"
+	line "a la vora."
 	done

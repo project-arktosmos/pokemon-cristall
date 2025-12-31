@@ -1,10 +1,10 @@
-	object_const_def
-	const EARLSPOKEMONACADEMY_EARL
-	const EARLSPOKEMONACADEMY_YOUNGSTER1
-	const EARLSPOKEMONACADEMY_GAMEBOY_KID1
-	const EARLSPOKEMONACADEMY_GAMEBOY_KID2
-	const EARLSPOKEMONACADEMY_YOUNGSTER2
-	const EARLSPOKEMONACADEMY_POKEDEX
+object_const_def
+const EARLSPOKEMONACADEMY_EARL
+const EARLSPOKEMONACADEMY_YOUNGSTER1
+const EARLSPOKEMONACADEMY_GAMEBOY_KID1
+const EARLSPOKEMONACADEMY_GAMEBOY_KID2
+const EARLSPOKEMONACADEMY_YOUNGSTER2
+const EARLSPOKEMONACADEMY_POKEDEX
 
 EarlsPokemonAcademy_MapScripts:
 	def_scene_scripts
@@ -114,12 +114,12 @@ AcademyBlackboard:
 	dbw BANK(@), NULL
 
 .Text:
-	db "PSN@"
+	db "ENV@"
 	db "PAR@"
-	db "SLP@"
-	db "BRN@"
-	db "FRZ@"
-	db "QUIT@"
+	db "SON@"
+	db "CRE@"
+	db "GEL@"
+	db "SURT@"
 
 AcademyNotebook:
 	opentext
@@ -161,250 +161,268 @@ AcademyEarlSpinMovement:
 	step_end
 
 AcademyEarlIntroText:
-	text "EARL, I am!"
+	text "Sóc l'EARL!"
 
-	para "Wonderful are"
-	line "#MON, yes!"
+	para "Meravellosos són"
+	line "els #MON, sí!"
 
-	para "Teach you I will"
-	line "to be a better"
-	cont "trainer!"
+	para "T'ensenyaré a ser"
+	line "un entrenador"
+	cont "millor!"
 
-	para "What you want to"
-	line "know? Want to be"
-	cont "a winner is you?"
+	para "Què vols saber?"
+	line "Vols ser un"
+	cont "guanyador?"
 	done
 
 AcademyEarlTeachHowToWinText:
-	text "Good! Teach you,"
-	line "I will!"
+	text "Bé! T'ensenyaré!"
 
-	para "In battle, #MON"
-	line "top on list jump"
-	cont "out first!"
+	para "En combat, el"
+	line "#MON al"
+	cont "capdamunt"
+	cont "surt primer!"
 
-	para "Change order in"
-	line "list, make battle"
-	cont "easy, maybe!"
+	para "Canvia l'ordre de"
+	line "la llista i el"
+	cont "combat serà fàcil!"
 
-	para "More from me you"
-	line "want to hear?"
+	para "Vols saber-ne"
+	line "més?"
 	done
 
 AcademyEarlTeachMoreText:
-	text "So, want to know"
-	line "how to raise"
-	cont "#MON well?"
+	text "Vols saber com"
+	line "criar bé els"
+	cont "#MON?"
 	done
 
 AcademyEarlTeachHowToRaiseWellText:
-	text "Fine! Teach you,"
-	line "I will!"
+	text "Molt bé!"
+	line "T'ensenyaré!"
 
-	para "If #MON come"
-	line "out in battle even"
+	para "Si un #MON surt"
+	line "en combat, encara"
 
-	para "briefly, some EXP."
-	line "Points it gets."
+	para "que sigui poc,"
+	line "rep punts d'EXP."
 
-	para "At top of list put"
-	line "weak #MON."
+	para "Posa un #MON"
+	line "feble al capdamunt"
+	cont "de la llista."
 
-	para "Switch in battle"
-	line "quick!"
+	para "Canvia'l ràpid"
+	line "en combat!"
 
-	para "This way, weak"
-	line "#MON strong"
-	cont "become!"
+	para "Així, els #MON"
+	line "febles es tornaran"
+	cont "forts!"
 	done
 
 AcademyEarlNoMoreToTeachText:
-	text "Oh! Smart student"
-	line "you are! Nothing"
-	cont "more do I teach!"
+	text "Oh! Ets un alumne"
+	line "molt llest! No"
+	cont "t'ensenyo res més!"
 
-	para "Good to #MON"
-	line "you must be!"
+	para "Sigues bo amb els"
+	line "#MON!"
 	done
 
 EarlsPokemonAcademyYoungster1Text:
-	text "I'm taking notes"
-	line "of the teacher's"
-	cont "lecture."
+	text "Prenc apunts de"
+	line "la classe del"
+	cont "professor."
 
-	para "I'd better copy"
-	line "the stuff on the"
-	cont "blackboard too."
+	para "Hauria de copiar"
+	line "el que hi ha a"
+	cont "la pissarra."
 	done
 
 EarlsPokemonAcademyGameboyKid1Text:
-	text "I traded my best"
-	line "#MON to the"
-	cont "guy beside me."
+	text "He canviat el meu"
+	line "millor #MON amb"
+	cont "el noi del costat."
 	done
 
 EarlsPokemonAcademyGameboyKid2Text:
-	text "Huh? The #MON I"
-	line "just got is hold-"
-	cont "ing something!"
+	text "Eh? El #MON que"
+	line "acabo de rebre"
+	cont "porta alguna cosa!"
 	done
 
 EarlsPokemonAcademyYoungster2Text:
-	text "A #MON holding"
-	line "a BERRY will heal"
-	cont "itself in battle."
+	text "Un #MON amb una"
+	line "BAIA es curarà"
+	cont "sol en combat."
 
-	para "Many other items"
-	line "can be held by"
+	para "Molts altres"
+	line "objectes poden"
+	cont "portar els"
 	cont "#MON…"
 
-	para "It sure is tough"
-	line "taking notes…"
+	para "Quina feina,"
+	line "prendre apunts…"
 	done
 
 AcademyBlackboardText:
-	text "The blackboard"
-	line "describes #MON"
+	text "La pissarra"
+	line "descriu els canvis"
 
-	para "status changes in"
-	line "battle."
+	para "d'estat dels"
+	line "#MON en combat."
 	done
 
 AcademyBlackboardText2: ; unreferenced
-	text "Read which topic?"
+	text "Quin tema vols"
+	line "llegir?"
 	done
 
 AcademyPoisonText:
-	text "If poisoned, a"
-	line "#MON steadily"
-	cont "loses HP."
+	text "Si està enve-"
+	line "rinat, un #MON"
+	cont "perd PS a poc a"
+	cont "poc."
 
-	para "Poison lingers"
-	line "after the battle,"
+	para "L'enverinament"
+	line "continua després"
+	cont "del combat,"
 
-	para "and HP is lost as"
-	line "you walk."
+	para "i perds PS mentre"
+	line "camines."
 
-	para "To cure it, use an"
-	line "ANTIDOTE."
+	para "Per curar-lo, fes"
+	line "servir un ANTÍDOT."
 	done
 
 AcademyParalysisText:
-	text "Paralysis reduces"
-	line "speed and may"
-	cont "prevent movement."
+	text "La paràlisi"
+	line "redueix la"
+	cont "velocitat i pot"
+	cont "impedir moure's."
 
-	para "It remains after"
-	line "battle, so use"
-	cont "a PARLYZ HEAL."
+	para "Continua després"
+	line "del combat. Usa"
+	cont "una ANTIPARÀLISI."
 	done
 
 AcademySleepText:
-	text "If asleep, your"
-	line "#MON can't make"
-	cont "a move."
+	text "Si està adormit,"
+	line "el teu #MON no"
+	cont "pot fer res."
 
-	para "A sleeping #MON"
-	line "doesn't wake up"
-	cont "after battle."
+	para "Un #MON adormit"
+	line "no es desperta"
+	cont "després del"
+	cont "combat."
 
-	para "Wake it up with"
-	line "an AWAKENING."
+	para "Desperta'l amb un"
+	line "DESVETLLADOR."
 	done
 
 AcademyBurnText:
-	text "A burn steadily"
-	line "consumes HP."
+	text "Una cremada"
+	line "consumeix PS"
+	cont "constantment."
 
-	para "It also reduces"
-	line "attack power."
+	para "També redueix el"
+	line "poder d'atac."
 
-	para "A burn lingers"
-	line "after battle."
+	para "La cremada"
+	line "continua després"
+	cont "del combat."
 
-	para "Use a BURN HEAL as"
-	line "the cure."
+	para "Usa una CURA"
+	line "CREMADA per"
+	cont "curar-la."
 	done
 
 AcademyFreezeText:
-	text "If your #MON is"
-	line "frozen, it can't"
-	cont "do a thing."
+	text "Si el teu #MON"
+	line "està congelat, no"
+	cont "pot fer res."
 
-	para "It remains frozen"
-	line "after battle."
+	para "Continua congelat"
+	line "després del"
+	cont "combat."
 
-	para "Thaw it out with"
-	line "an ICE HEAL."
+	para "Descongela'l amb"
+	line "una CURA GEL."
 	done
 
 AcademyNotebookText:
-	text "It's this kid's"
-	line "notebook…"
+	text "És la llibreta"
+	line "d'aquest nen…"
 
-	para "Catch #MON"
-	line "using # BALLS."
+	para "Captura #MON"
+	line "amb # BALLS."
 
-	para "Up to six can be"
-	line "in your party."
+	para "Pots portar-ne"
+	line "fins a sis a"
+	cont "l'equip."
 
-	para "Keep reading?"
+	para "Segueixo llegint?"
 	done
 
 AcademyNotebookText1:
-	text "Before throwing a"
-	line "# BALL, weaken"
-	cont "the target first."
+	text "Abans de llançar"
+	line "una # BALL,"
+	cont "afebleix l'enemic."
 
-	para "A poisoned or"
-	line "burned #MON is"
-	cont "easier to catch."
+	para "Un #MON"
+	line "enverinant o"
+	cont "cremat és més"
+	cont "fàcil de capturar."
 
-	para "Keep reading?"
+	para "Segueixo llegint?"
 	done
 
 AcademyNotebookText2:
-	text "Some moves may"
-	line "cause confusion."
+	text "Alguns moviments"
+	line "poden causar"
+	cont "confusió."
 
-	para "Confusion may make"
-	line "a #MON attack"
-	cont "itself."
+	para "La confusió pot"
+	line "fer que un #MON"
+	cont "s'ataqui a ell"
+	cont "mateix."
 
-	para "Leaving battle"
-	line "clears up any"
-	cont "confusion."
+	para "Sortir del combat"
+	line "elimina qualsevol"
+	cont "confusió."
 
-	para "Keep reading?"
+	para "Segueixo llegint?"
 	done
 
 AcademyNotebookText3:
-	text "People who catch"
-	line "and use #MON"
+	text "La gent que"
+	line "captura i usa"
+	cont "#MON en combat"
 
-	para "in battle are"
-	line "#MON trainers."
+	para "són entrenadors"
+	line "de #MON."
 
-	para "They are expected"
-	line "to visit #MON"
+	para "S'espera que"
+	line "visitin GIMNASOS"
 
-	para "GYMS and defeat"
-	line "other trainers."
+	para "i derrotin altres"
+	line "entrenadors."
 
-	para "The next page"
-	line "is… Blank!"
+	para "La pàgina"
+	line "següent és…"
+	cont "En blanc!"
 
-	para "Boy: E-he-he…"
+	para "Nen: Je-je-je…"
 
-	para "I haven't written"
-	line "anymore…"
+	para "No n'he escrit"
+	line "més…"
 	done
 
 AcademyStickerMachineText:
-	text "This super machine"
-	line "prints data out as"
+	text "Aquesta"
+	line "supermàquina"
 
-	para "stickers!"
+	para "imprimeix dades"
+	line "en adhesius!"
 	done
 
 EarlsPokemonAcademy_MapEvents:

@@ -1,55 +1,58 @@
 JackAskNumber1Text:
-	text "Your knowledge is"
-	line "impressive!"
+	text "El teu coneixement"
+	line "és impressionant!"
 
-	para "I like that!"
+	para "M'agrada!"
 
-	para "Want to trade"
-	line "battle tips?"
+	para "Vols intercanviar"
+	line "consells de"
+	cont "combat?"
 
-	para "I'll phone if I"
-	line "get good info."
+	para "Et trucaré si"
+	line "tinc informació."
 
-	para "Would you tell me"
-	line "your number?"
+	para "Em dones el teu"
+	line "número?"
 	done
 
 JackAskNumber2Text:
-	text "Want to trade"
-	line "battle tips?"
+	text "Vols intercanviar"
+	line "consells de"
+	cont "combat?"
 
-	para "I'll phone if I"
-	line "get good info."
+	para "Et trucaré si"
+	line "tinc informació."
 
-	para "Would you tell me"
-	line "your number?"
+	para "Em dones el teu"
+	line "número?"
 	done
 
 JackNumberAcceptedText:
-	text "I'll call you if I"
-	line "hear anything!"
+	text "Et trucaré si"
+	line "descobreixo res!"
 	done
 
 JackNumberDeclinedText:
-	text "Oh, OK. Too bad…"
+	text "Oh, bé. Quina"
+	line "llàstima…"
 
-	para "Well, if you ever"
-	line "want my number,"
-	cont "come see me, OK?"
+	para "Si mai vols el meu"
+	line "número, vine a"
+	cont "veure'm, d'acord?"
 	done
 
 JackPhoneFullText:
-	text "Oh?"
-	line "Your phone's full."
+	text "Oi?"
+	line "Tens el telèfon"
+	cont "ple."
 
-	para "It can't register"
-	line "my number."
+	para "No puc registrar"
+	line "el meu número."
 	done
 
 JackRematchText:
-	text "Hi, I was waiting"
-	line "for you to show!"
+	text "Ei, t'esperava!"
 
-	para "Let's get started"
-	line "right away!"
+	para "Comencem de"
+	line "seguida!"
 	done

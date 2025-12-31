@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const NATIONALPARK_LASS1
 	const NATIONALPARK_POKEFAN_F1
 	const NATIONALPARK_TEACHER1
@@ -306,72 +306,73 @@ NationalParkHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_NATIONAL_PARK_HIDDEN_FULL_HEAL
 
 NationalParkLassText:
-	text "Look! Check out my"
-	line "bag!"
+	text "Mira! Fixa't en la"
+	line "meva bossa!"
 
-	para "I printed out my"
-	line "favorites from my"
+	para "He imprès els"
+	line "meus favorits del"
 
-	para "#DEX and stuck"
-	line "them on my bag."
+	para "#DEX i els he"
+	line "enganxat aquí."
 	done
 
 NationalParkPokefanFText:
-	text "This is MAIL I got"
-	line "from my daughter."
-	cont "It cheers me up."
+	text "Aquesta CARTA és"
+	line "de la meva filla."
+	cont "M'anima molt."
 	done
 
 NationalParkTeacher1Text:
-	text "Pay attention,"
-	line "please!"
+	text "Atenció, si us"
+	line "plau!"
 
-	para "…Oops, I have to"
-	line "quit thinking like"
+	para "…Ui, haig de"
+	line "deixar de pensar"
 
-	para "a teacher all the"
-	line "time."
+	para "com a mestra tot"
+	line "el temps."
 
-	para "You must be a"
-	line "#MON trainer."
+	para "Tu deus ser un"
+	line "entrenador"
+	cont "#MON."
 
-	para "Since you're work-"
-	line "ing so hard, I"
+	para "Com que t'esforces"
+	line "tant, vull donar-"
 
-	para "want you to have"
-	line "this."
+	para "te això."
 	done
 
 NationalParkTeacher1Text_GotQuickClaw:
-	text "Let a #MON hold"
-	line "that QUICK CLAW."
+	text "Fes que un #MON"
+	line "porti la URPA R."
 
-	para "Sometimes it will"
-	line "strike first"
-	cont "during battle."
+	para "A vegades atacarà"
+	line "primer durant el"
+	cont "combat."
 	done
 
 NationalParkYoungster1Text:
-	text "I'm playing with"
-	line "stickers I printed"
-	cont "from my #DEX."
+	text "Jugo amb adhesius"
+	line "que he imprès del"
+	cont "meu #DEX."
 	done
 
 NationalParkYoungster2Text:
-	text "I get the other"
-	line "guy's #DEX"
-	cont "sticker if I win."
+	text "Si guanyo, em"
+	line "quedo l'adhesiu"
+	cont "#DEX de"
+	cont "l'altre."
 	done
 
 NationalParkTeacher2Text:
-	text "I take walks in"
-	line "the PARK, but I"
+	text "Passejo pel PARC,"
+	line "però mai entro a"
 
-	para "never go into the"
-	line "grass."
+	para "l'herba."
 
-	para "Trainers always"
-	line "want to battle…"
+	para "Els entrenadors"
+	line "sempre volen"
+	cont "lluitar…"
 	done
 
 NationalParkPersianText:
@@ -379,136 +380,147 @@ NationalParkPersianText:
 	done
 
 NationalParkGameboyKidText:
-	text "I'm printing out"
-	line "my #DEX."
+	text "Estic imprimint"
+	line "el meu #DEX."
 
-	para "You can also print"
-	line "out stuff like"
+	para "També pots"
+	line "imprimir coses"
 
-	para "MAIL and your PC"
-	line "BOXES."
+	para "com CARTES i les"
+	line "CAIXES del PC."
 	done
 
 SchoolboyJack1SeenText:
-	text "The world of"
-	line "#MON is deep."
+	text "El món dels"
+	line "#MON"
+	cont "és profund."
 
-	para "There are still"
-	line "lots of things we"
-	cont "don't know."
+	para "Encara hi ha"
+	line "moltes coses que"
+	cont "no sabem."
 
-	para "But I know more"
-	line "than you do!"
+	para "Però jo en sé més"
+	line "que tu!"
 	done
 
 SchoolboyJack1BeatenText:
-	text "Wha-wha-what?"
+	text "Qu-qu-què?"
 	done
 
 SchoolboyJackTradeMonText:
-	text "There is a lot"
-	line "to learn."
+	text "Hi ha molt per"
+	line "aprendre."
 
-	para "For example…"
+	para "Per exemple…"
 
-	para "There are {d:NUM_TMS} kinds"
-	line "of TMs."
+	para "Hi ha {d:NUM_TMS}"
+	line "tipus"
+	cont "de MT."
 
-	para "Traded #MON"
-	line "level up faster."
+	para "Els #MON"
+	line "intercanviats"
+	cont "pugen més ràpid."
 	done
 
 PokefanfBeverly1SeenText:
-	text "My #MON are"
-	line "simply darling."
+	text "Els meus #MON"
+	line "són adorables."
 
-	para "Let me tell you"
-	line "how proud my"
-	cont "darlings make me."
+	para "Deixa que"
+	line "t'expliqui com"
+
+	para "d'orgullosa em fan"
+	line "els meus tresors."
 	done
 
 PokefanfBeverly1BeatenText:
-	text "I can beat you in"
-	line "pride, but…"
+	text "En orgull et puc"
+	line "guanyar, però…"
 	done
 
 PokefanBeverlyCuteMonText:
-	text "I must say, your"
-	line "#MON are quite"
-	cont "cute, too."
+	text "He de dir que els"
+	line "teus #MON també"
+	cont "són molt bonics."
 	done
 
 PokefanmWilliamSeenText:
-	text "We adore our #-"
-	line "MON, even if they"
-	cont "dislike us."
+	text "Adorem els nostres"
+	line "#MON, encara"
 
-	para "That's what being"
-	line "a FAN is about."
+	para "que no ens vulguin"
+	line "gaire."
+
+	para "Això és ser un"
+	line "FAN de veritat."
 	done
 
 PokefanmWilliamBeatenText:
-	text "M-my #MON!"
+	text "E-els meus"
+	line "#MON!"
 	done
 
 PokefanmWilliamAfterBattleText:
-	text "I lost the battle,"
-	line "but my #MON win"
+	text "He perdut el"
+	line "combat, però els"
 
-	para "the prize for"
-	line "being most lovely."
+	para "meus #MON"
+	line "guanyen"
+	cont "el premi a la"
+	cont "bellesa."
 	done
 
 PokefanFBeverlyMarillFriendText:
-	text "My friend keeps a"
-	line "MARILL!"
+	text "La meva amiga té"
+	line "un MARILL!"
 
-	para "I find them very"
-	line "endearing."
+	para "Els trobo molt"
+	line "encantadors."
 
-	para "Oh, I wish for a"
-	line "MARILL of my own…"
+	para "Ai, desitjo tenir"
+	line "un MARILL meu…"
 	done
 
 LassKriseSeenText:
-	text "Hello? Why are you"
-	line "staring at me?"
+	text "Ei? Per què em"
+	line "mires fixament?"
 
-	para "Oh, a battle?"
+	para "Ah, un combat?"
 	done
 
 LassKriseBeatenText:
-	text "…Hmmm…"
+	text "…Mmm…"
 	done
 
 LassKriseAfterBattleText:
-	text "I thought you were"
-	line "staring at me"
-	cont "because I'm cute!"
+	text "Pensava que em"
+	line "miraves perquè"
+	cont "sóc bonica!"
 	done
 
 NationalParkRelaxationSquareText:
-	text "RELAXATION SQUARE"
-	line "NATIONAL PARK"
+	text "PLAÇA DEL REPÒS"
+	line "PARC NACIONAL"
 	done
 
 NationalParkBattleNoticeText:
-	text "What is this"
-	line "notice?"
+	text "Què diu aquest"
+	line "cartell?"
 
-	para "Please battle only"
-	line "in the grass."
+	para "Si us plau,"
+	line "lluiteu només"
+	cont "a l'herba."
 
-	para "NATIONAL PARK"
-	line "WARDEN'S OFFICE"
+	para "OFICINA DEL"
+	line "GUARDAPARC"
 	done
 
 NationalParkTrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "Print out MAIL by"
-	line "opening it then"
-	cont "pressing START."
+	para "Imprimeix CARTES"
+	line "obrint-les i"
+	cont "prement START."
 	done
 
 NationalPark_MapEvents:

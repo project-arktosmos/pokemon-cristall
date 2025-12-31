@@ -236,195 +236,197 @@ Route25MistyLeavesMovement:
 	step_end
 
 Route25MistyDateText:
-	text "MISTY: Aww! Why"
-	line "did you have to"
+	text "MISTY: Oh! Per"
+	line "què has hagut de"
 
-	para "show up and bug us"
-	line "now?"
+	para "venir a molestar-"
+	line "nos ara?"
 
-	para "Do you know what"
-	line "they call people"
-	cont "like you?"
+	para "Saps com en diuen"
+	line "de la gent com tu?"
 
-	para "Pests! You heard"
-	line "me right, pest!"
+	para "Pesats! M'has"
+	line "sentit bé, pesat!"
 
 	para "…"
 
-	para "…Oh? Those BADGES"
-	line "you have… Are they"
-	cont "JOHTO GYM BADGES?"
+	para "…Oh? Aquestes"
+	line "MEDALLES… Són"
+	cont "MEDALLES de JOHTO?"
 
-	para "If you have eight,"
-	line "you must be good."
+	para "Si en tens vuit,"
+	line "deus ser bo."
 
-	para "OK, then. Come to"
-	line "CERULEAN GYM."
+	para "D'acord. Vine al"
+	line "GIMNÀS CERULEAN."
 
-	para "I'll be happy to"
-	line "take you on."
+	para "Estaré encantada"
+	line "de combatre."
 
-	para "I'm MISTY, the"
-	line "GYM LEADER in"
-	cont "CERULEAN."
+	para "Sóc MISTY, la"
+	line "LÍDER DE GIMNÀS"
+	cont "de CERULEAN."
 	done
 
 SchoolboyDudleySeenText:
-	text "Beat the six of us"
-	line "trainers to win a"
-	cont "fabulous prize!"
+	text "Venç els sis"
+	line "entrenadors per"
+	cont "guanyar un premi!"
 
-	para "Think you've got"
-	line "what it takes?"
+	para "Creus que tens el"
+	line "que cal?"
 	done
 
 SchoolboyDudleyBeatenText:
-	text "Whoo! Good stuff."
+	text "Uau! Ben fet."
 	done
 
 SchoolboyDudleyAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 LassEllenSeenText:
-	text "I'm second."
-	line "Now it's serious!"
+	text "Sóc la segona."
+	line "Ara va de debò!"
 	done
 
 LassEllenBeatenText:
-	text "How could I lose?"
+	text "Com he pogut"
+	line "perdre?"
 	done
 
 LassEllenAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 SchoolboyJoeSeenText:
-	text "Here's No. 3!"
-	line "I won't be easy."
+	text "Aquí ve el núm.3!"
+	line "No serà fàcil."
 	done
 
 SchoolboyJoeBeatenText:
-	text "Ow! Stomped flat!"
+	text "Au! M'has aixafat!"
 	done
 
 SchoolboyJoeAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 LassLauraSeenText:
-	text "I'm No. 4!"
-	line "Getting tired?"
+	text "Sóc la núm. 4!"
+	line "Estàs cansat?"
 	done
 
 LassLauraBeatenText:
-	text "I lost too…"
+	text "Jo també he"
+	line "perdut…"
 	done
 
 LassLauraAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 CamperLloydSeenText:
-	text "OK! I'm No. 5."
-	line "I'll stomp you!"
+	text "OK! Sóc el núm.5."
+	line "T'aixafaré!"
 	done
 
 CamperLloydBeatenText:
-	text "Whoa! Too much."
+	text "Uau! Massa fort."
 	done
 
 CamperLloydAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 LassShannonSeenText:
-	text "I'm the last in"
-	line "line, but I tell"
-	cont "you, I'm tough!"
+	text "Sóc l'última de"
+	line "la fila, però"
+	cont "sóc dura!"
 	done
 
 LassShannonBeatenText:
-	text "You're kidding."
+	text "No pot ser."
 	done
 
 LassShannonAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho he donat tot."
+	line "No em penedeixo."
 	done
 
 SupernerdPatSeenText:
 	text "Mufufufu…"
 
-	para "I have nothing to"
-	line "do with the six-"
-	cont "pack trainers."
+	para "Jo no tinc res a"
+	line "veure amb els sis"
+	cont "entrenadors."
 
-	para "I waited here to"
-	line "beat you when you"
+	para "He esperat aquí"
+	line "per vèncer-te"
 
-	para "were tired out by"
-	line "all the battles."
+	para "quan estiguessis"
+	line "cansat de lluitar."
 	done
 
 SupernerdPatBeatenText:
-	text "Aren't you tired"
-	line "at all?"
+	text "No estàs gens"
+	line "cansat?"
 	done
 
 SupernerdPatAfterBattleText:
-	text "I'm sorry… I won't"
-	line "cheat anymore…"
+	text "Perdona… No faré"
+	line "més trampes…"
 	done
 
 CooltrainermKevinNuggetText:
-	text "You took on one"
-	line "more battle than"
+	text "Has fet un combat"
+	line "més del que"
 
-	para "you expected, but"
-	line "you won anyway."
+	para "esperaves, però"
+	line "has guanyat igual."
 
-	para "As promised, you"
-	line "win a prize."
+	para "Com vam prometre,"
+	line "aquí tens el premi"
 	done
 
 CooltrainermKevinSeenText:
-	text "But after seeing"
-	line "how you battle, I"
+	text "Però veient com"
+	line "lluites, vull"
 
-	para "want to see how"
-	line "I'll fare."
+	para "saber com m'anirà"
+	line "a mi."
 
-	para "How about it? Let"
-	line "me take you on."
+	para "Què me'n dius?"
+	line "Deixa'm combatre."
 	done
 
 CooltrainermKevinBeatenText:
-	text "I've never had a"
-	line "battle this good!"
+	text "Mai no havia fet"
+	line "un combat així!"
 	done
 
 CooltrainermKevinAfterBattleText:
-	text "That was a great"
-	line "battle!"
+	text "Ha estat un gran"
+	line "combat!"
 
-	para "You and your #-"
-	line "MON are truly out-"
-	cont "standing!"
+	para "Tu i els teus"
+	line "#-"
+	cont "MON sou realment"
+	cont "excepcionals!"
 	done
 
 BillsHouseSignText:
-	text "SEA COTTAGE"
-	line "BILL'S HOUSE"
+	text "CASETA DEL MAR"
+	line "CASA D'EN BILL"
 	done
 
 UnusedBillsHouseSignText: ; unreferenced
-	text "BILL'S HOUSE"
+	text "CASA D'EN BILL"
 	done
 
 Route25_MapEvents:

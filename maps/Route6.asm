@@ -37,56 +37,56 @@ Route6UndergroundPathSign:
 	jumptext Route6UndergroundPathSignText
 
 Route6PokefanMText:
-	text "The road is closed"
-	line "until the problem"
+	text "El camí és tancat"
+	line "fins que el"
 
-	para "at the POWER PLANT"
-	line "is solved."
+	para "problema de la"
+	line "CENTRAL es resol."
 	done
 
 Route6UndergroundPathSignText:
-	text "UNDERGROUND PATH"
+	text "CAMÍ SUBTERRANI"
 
 	para "CERULEAN CITY -"
 	line "VERMILION CITY"
 	done
 
 PokefanmRexSeenText:
-	text "My PHANPY is the"
-	line "cutest in the"
-	cont "world."
+	text "El meu PHANPY és"
+	line "el més bufó del"
+	cont "món."
 	done
 
 PokefanmRexBeatenText:
-	text "My PHANPY!"
+	text "El meu PHANPY!"
 	done
 
 PokefanmRexAfterBattleText:
-	text "Look how adorable"
-	line "my PHANPY acts!"
+	text "Mira que adorable"
+	line "és el meu PHANPY!"
 
-	para "Isn't it cute"
-	line "enough to make"
-	cont "your heart melt?"
+	para "No és prou bufó"
+	line "per fondre't el"
+	cont "cor?"
 	done
 
 PokefanmAllanSeenText:
-	text "My TEDDIURSA is"
-	line "the cutest in the"
-	cont "world."
+	text "El meu TEDDIURSA"
+	line "és el més bufó"
+	cont "del món."
 	done
 
 PokefanmAllanBeatenText:
-	text "My TEDDIURSA!"
+	text "El meu TEDDIURSA!"
 	done
 
 PokefanmAllanAfterBattleText:
-	text "Look how adorable"
-	line "my TEDDIURSA acts!"
+	text "Mira que adorable"
+	line "és el TEDDIURSA!"
 
-	para "Isn't it cute"
-	line "enough to make"
-	cont "your heart melt?"
+	para "No és prou bufó"
+	line "per fondre't el"
+	cont "cor?"
 	done
 
 Route6_MapEvents:

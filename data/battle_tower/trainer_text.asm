@@ -1,623 +1,640 @@
 _BTGreetingM1Text:
-	text "Hello, glad to"
-	line "meet you!"
+	text "Hola, encantat"
+	line "de conèixer-te!"
 
-	para "I do hope we have"
-	line "a good battle."
+	para "Espero que tinguem"
+	line "un bon combat."
 	done
 
 _BTLossM1Text:
-	text "Thank you! A most"
-	line "enjoyable battle!"
+	text "Gràcies! Ha estat"
+	line "un combat genial!"
 	done
 
 _BTWinM1Text:
-	text "Thank you. You are"
-	line "formidable."
+	text "Gràcies. Ets molt"
+	line "fort."
 	done
 
 _BTGreetingM2Text:
-	text "Work, work, work…"
-	line "I'm always busy!"
+	text "Feina, feina…"
+	line "Sempre ocupat!"
 	done
 
 _BTLossM2Text:
-	text "But, I work hard"
-	line "in battle too!"
+	text "Però, també"
+	line "treballo en"
+	cont "combat!"
 	done
 
 _BTWinM2Text:
-	text "I'm too busy to be"
-	line "battling!"
+	text "Estic massa ocupat"
+	line "per combatre!"
 	done
 
 _BTGreetingM3Text:
-	text "Brace yourself for"
-	line "my all-out attack!"
+	text "Prepara't per al"
+	line "meu atac total!"
 	done
 
 _BTLossM3Text:
-	text "What a cakewalk!"
-	line "You're too easy!"
+	text "Massa fàcil!"
+	line "Ets molt fluix!"
 	done
 
 _BTWinM3Text:
-	text "I won't lose next"
-	line "time, all right?"
+	text "No perdré el"
+	line "pròxim cop!"
 	done
 
 _BTGreetingM4Text:
-	text "Heh, your #MON"
-	line "look pretty cool."
+	text "Eh, els teus"
+	line "#MON"
+	cont "són molt macos."
 	done
 
 _BTLossM4Text:
-	text "Hey, hey, no way!"
-	line "You won't win!"
+	text "Eh, eh, de cap"
+	line "manera! Guanyaré!"
 	done
 
 _BTWinM4Text:
-	text "You serious?"
-	line "This is brutal!"
+	text "De debò?"
+	line "Això és brutal!"
 	done
 
 _BTGreetingM5Text:
-	text "#MON every day!"
-	line "I love battling!"
+	text "#MON cada dia!"
+	line "M'encanta lluitar!"
 	done
 
 _BTLossM5Text:
-	text "I'm on top of my"
-	line "game, but not you!"
+	text "Jo estic en forma,"
+	line "però tu no!"
 	done
 
 _BTWinM5Text:
-	text "I don't care that"
-	line "I lost, really!"
+	text "M'és igual haver"
+	line "perdut, de"
+	cont "veritat!"
 	done
 
 _BTGreetingM6Text:
-	text "Hi, there! Let's"
-	line "keep this clean!"
+	text "Hola! Juguem net!"
 	done
 
 _BTLossM6Text:
-	text "Whoops, sorry for"
-	line "that wipeout!"
+	text "Ui, perdona per"
+	line "la pallissa!"
 	done
 
 _BTWinM6Text:
-	text "Whoops! Come on,"
-	line "let me win one!"
+	text "Ui! Vinga, deixa'm"
+	line "guanyar un cop!"
 	done
 
 _BTGreetingM7Text:
-	text "Do you want to see"
-	line "my battle level?"
+	text "Vols veure el meu"
+	line "nivell de combat?"
 	done
 
 _BTLossM7Text:
-	text "Hehehe, I know"
-	line "your level now!"
+	text "Hehe, ara sé"
+	line "el teu nivell!"
 	done
 
 _BTWinM7Text:
-	text "Ouch… I'm just too"
-	line "weak…"
+	text "Au… Sóc massa"
+	line "feble…"
 	done
 
 _BTGreetingM8Text:
-	text "Hey, let's battle."
-	line "I'm your opponent."
+	text "Ei, combatem."
+	line "Sóc l'oponent."
 	done
 
 _BTLossM8Text:
-	text "Wow, you're not"
-	line "serious about it!"
+	text "Uau, no t'ho"
+	line "prens seriosament!"
 	done
 
 _BTWinM8Text:
-	text "…Urgh… Nothing"
-	line "positive here…"
+	text "…Uf… Res de"
+	line "positiu aquí…"
 	done
 
 _BTGreetingM9Text:
-	text "I'm your"
-	line "opponent."
+	text "Sóc el teu"
+	line "oponent."
 
-	para "Get ready to be"
-	line "hammered."
+	para "Prepara't per a"
+	line "una pallissa."
 	done
 
 _BTLossM9Text:
-	text "Hahah! That was a"
-	line "pushover!"
+	text "Haha! Ha estat"
+	line "bufar i fer"
+	cont "ampolles!"
 	done
 
 _BTWinM9Text:
-	text "No way! There has"
-	line "to be a mistake!"
+	text "No pot ser! Hi ha"
+	line "d'haver un error!"
 	done
 
 _BTGreetingM10Text:
-	text "Hah!"
-	line "Let's get rolling!"
+	text "Ha!"
+	line "Comencem!"
 	done
 
 _BTLossM10Text:
-	text "Wahahaha! Didn't"
-	line "break a sweat!"
+	text "Wahaha! Ni he"
+	line "suat!"
 	done
 
 _BTWinM10Text:
-	text "Tough! I'm no"
-	line "match for you!"
+	text "Dur! No estic"
+	line "al teu nivell!"
 	done
 
 _BTGreetingM11Text:
 	text "<……><……><……>"
-	line "<……><……>Battle?"
+	line "<……><……>Combat?"
 	done
 
 _BTLossM11Text:
 	text "<……><……><……>"
-	line "<……><……>I won?"
+	line "<……><……>He guanyat?"
 	done
 
 _BTWinM11Text:
 	text "<……><……><……>"
-	line "<……><……>I lost?"
+	line "<……><……>He perdut?"
 	done
 
 _BTGreetingM12Text:
-	text "You want to be a"
-	line "leader?"
+	text "Vols ser un"
+	line "líder?"
 
-	para "Let me battle you,"
-	line "then!"
+	para "Doncs deixa'm"
+	line "combatre amb tu!"
 	done
 
 _BTLossM12Text:
-	text "You need another"
-	line "ten years of"
+	text "Necessites deu"
+	line "anys més"
 
-	para "training to get"
-	line "better, I'd say."
+	para "d'entrenament per"
+	line "millorar."
 	done
 
 _BTWinM12Text:
-	text "You're incredibly"
-	line "talented."
+	text "Tens un talent"
+	line "increïble."
 
-	para "No one can touch"
-	line "you now!"
+	para "Ningú no et pot"
+	line "tocar ara!"
 	done
 
 _BTGreetingM13Text:
-	text "Today, I'm going"
-	line "to whomp you."
+	text "Avui et"
+	line "destrossaré."
 	done
 
 _BTLossM13Text:
-	text "I knew I'd win."
-	line "I'm so great!"
+	text "Sabia que"
+	line "guanyaria. Genial!"
 	done
 
 _BTWinM13Text:
-	text "Uh? My plans are"
-	line "out of whack…"
+	text "Eh? Els meus plans"
+	line "han fallat…"
 	done
 
 _BTGreetingM14Text:
-	text "I bet you can't"
-	line "beat me!"
+	text "Segur que no em"
+	line "pots guanyar!"
 	done
 
 _BTLossM14Text:
-	text "Those #MON"
-	line "aren't enough!"
+	text "Aquests #MON"
+	line "no són prou bons!"
 	done
 
 _BTWinM14Text:
-	text "I want your"
-	line "#MON. Please?"
+	text "Vull els teus"
+	line "#MON. Si us"
+	cont "plau?"
 	done
 
 _BTGreetingM15Text:
-	text "I'll show you a"
-	line "real battle!"
+	text "T'ensenyaré un"
+	line "combat de veritat!"
 	done
 
 _BTLossM15Text:
-	text "This battle…"
-	line "I'm bored!"
+	text "Aquest combat…"
+	line "M'avorreixo!"
 	done
 
 _BTWinM15Text:
-	text "…I won't turn tail"
-	line "in battle!"
+	text "…No fugiré d'un"
+	line "combat!"
 	done
 
 _BTGreetingM16Text:
-	text "Let's go!"
-	line "No holds barred!"
+	text "Som-hi!"
+	line "Sense"
+	cont "restriccions!"
 	done
 
 _BTLossM16Text:
-	text "Sorry! I wanted"
-	line "the win more!"
+	text "Perdona! Jo volia"
+	line "guanyar més!"
 	done
 
 _BTWinM16Text:
-	text "Wahah! Congrats!"
-	line "I can't do better!"
+	text "Wahah! Felicitats!"
+	line "No ho puc fer"
+	cont "millor!"
 	done
 
 _BTGreetingM17Text:
-	text "My #MON skills"
-	line "are phenomenal!"
+	text "Les meves"
+	line "habilitats #MON"
+	cont "són fenomenals!"
 	done
 
 _BTLossM17Text:
-	text "You've got a long"
-	line "way to go."
+	text "Et queda molt"
+	line "camí per fer."
 
-	para "Well, keep trying!"
-	line "Best of luck!"
+	para "Bé, segueix"
+	line "provant! Sort!"
 	done
 
 _BTWinM17Text:
-	text "Aww… Don't lose"
-	line "after beating me."
+	text "Au… No perdis"
+	line "després de"
+	cont "guanyar-me."
 	done
 
 _BTGreetingM18Text:
-	text "Who are you?"
-	line "I don't know you…"
+	text "Qui ets?"
+	line "No et conec…"
 	done
 
 _BTLossM18Text:
-	text "I must've imagined"
-	line "that."
+	text "M'ho dec haver"
+	line "imaginat."
 
-	para "There seems to be"
-	line "no one here…"
+	para "Sembla que no hi"
+	line "ha ningú aquí…"
 	done
 
 _BTWinM18Text:
-	text "Who am I?"
-	line "I don't know…"
+	text "Qui sóc?"
+	line "No ho sé…"
 	done
 
 _BTGreetingM19Text:
-	text "Um… Are you that…"
-	line "um…person?"
+	text "Hm… Ets aquell…"
+	line "hm…personatge?"
 	done
 
 _BTLossM19Text:
-	text "It doesn't appear"
-	line "to be you…"
+	text "No sembles ser"
+	line "tu…"
 	done
 
 _BTWinM19Text:
-	text "Then you really"
-	line "are the legendary…"
+	text "Llavors realment"
+	line "ets el llegendari…"
 	done
 
 _BTGreetingM20Text:
-	text "I heard that"
-	line "you're hot!"
+	text "He sentit que"
+	line "ets molt bo!"
 	done
 
 _BTLossM20Text:
-	text "Not bad. I was"
-	line "just a bit better."
+	text "No està malament."
+	line "Jo era una mica"
+	cont "millor."
 	done
 
 _BTWinM20Text:
-	text "Eh, you're not"
-	line "that special."
+	text "Bah, no ets res"
+	line "d'especial."
 	done
 
 _BTGreetingM21Text:
-	text "I'm scared about"
-	line "what might happen."
+	text "Tinc por del que"
+	line "pugui passar."
 
-	para "My #MON are way"
-	line "too strong."
+	para "Els meus #MON"
+	line "són"
+	cont "massa forts."
 	done
 
 _BTLossM21Text:
-	text "See? My #MON"
-	line "were too strong."
+	text "Veus? Els meus"
+	line "#MON eren massa"
+	cont "forts."
 	done
 
 _BTWinM21Text:
-	text "Graa! My #MON"
-	line "were total wimps!"
+	text "Graa! Els meus"
+	line "#MON eren massa"
+	cont "fluixos!"
 	done
 
 _BTGreetingM22Text:
-	text "Hey, there!"
-	line "I'll take you on!"
+	text "Hola!"
+	line "T'accepto el"
+	cont "repte!"
 	done
 
 _BTLossM22Text:
-	text "Don't you have a"
-	line "better strategy?"
+	text "No tens una"
+	line "estratègia millor?"
 	done
 
 _BTWinM22Text:
-	text "You've got decent"
-	line "style!"
+	text "Tens un estil"
+	line "decent!"
 	done
 
 _BTGreetingM23Text:
-	text "I wonder if I can"
-	line "battle properly…"
+	text "Em pregunto si puc"
+	line "combatre bé…"
 	done
 
 _BTLossM23Text:
-	text "Um… Sorry…"
-	line "I think I won."
+	text "Hm… Perdona…"
+	line "Crec que he"
+	cont "guanyat."
 	done
 
 _BTWinM23Text:
-	text "I guess I'm not"
-	line "good enough yet…"
+	text "Suposo que encara"
+	line "no sóc prou bo…"
 	done
 
 _BTGreetingM24Text:
 	text "Wrrooar!"
-	line "I won't lose!"
+	line "No perdré!"
 	done
 
 _BTLossM24Text:
-	text "Wrrooar! I knew"
-	line "I was a genius!"
+	text "Wrrooar! Sabia que"
+	line "era un geni!"
 	done
 
 _BTWinM24Text:
-	text "Arrooh! I hate it"
-	line "when I lose!"
+	text "Arrooh! Odio"
+	line "perdre!"
 	done
 
 _BTGreetingM25Text:
-	text "Sorry, but I'm"
-	line "going to win."
+	text "Perdona, però"
+	line "guanyaré."
 	done
 
 _BTLossM25Text:
-	text "Yeah! My #MON"
-	line "rule!"
+	text "Sí! Els meus"
+	line "#MON"
+	cont "són els millors!"
 	done
 
 _BTWinM25Text:
-	text "Oh, close! I lost"
-	line "by just a bit!"
+	text "Oh, quasi! He"
+	line "perdut per poc!"
 	done
 
 _BTGreetingF1Text:
-	text "OK, I'm not"
-	line "fooling around!"
+	text "OK, no estic de"
+	line "broma!"
 	done
 
 _BTLossF1Text:
-	text "Yay! Too easy!"
-	line "Like, no way!"
+	text "Bé! Massa fàcil!"
+	line "De cap manera!"
 	done
 
 _BTWinF1Text:
 	text "No!"
-	line "Like, no way!"
+	line "De cap manera!"
 	done
 
 _BTGreetingF2Text:
-	text "Look! My #MON"
-	line "are really cute!"
+	text "Mira! Els meus"
+	line "#MON són monos!"
 	done
 
 _BTLossF2Text:
-	text "Aren't they really"
-	line "adorable?"
+	text "No són adorables?"
 	done
 
 _BTWinF2Text:
-	text "I'm sorry, it's"
-	line "all my fault!"
+	text "Ho sento, és"
+	line "culpa meva!"
 	done
 
 _BTGreetingF3Text:
-	text "Let's get our"
-	line "battle started!"
+	text "Comencem el"
+	line "combat!"
 	done
 
 _BTLossF3Text:
-	text "Was I too strong"
-	line "for you?"
+	text "Era massa forta"
+	line "per a tu?"
 	done
 
 _BTWinF3Text:
-	text "Ooh, you're in a"
-	line "different class."
+	text "Ooh, estàs en una"
+	line "altra lliga."
 	done
 
 _BTGreetingF4Text:
-	text "Are we going to"
-	line "battle? Let's!"
+	text "Combatem?"
+	line "Som-hi!"
 	done
 
 _BTLossF4Text:
-	text "Oh, you're too"
-	line "weak. Shame."
+	text "Oh, ets massa"
+	line "feble. Quina pena."
 	done
 
 _BTWinF4Text:
-	text "Wow! Are you quite"
-	line "satisfied?"
+	text "Uau! Estàs"
+	line "satisfet?"
 	done
 
 _BTGreetingF5Text:
-	text "Oh, you have some"
-	line "rare #MON."
+	text "Oh, tens #MON"
+	line "rars."
 	done
 
 _BTLossF5Text:
-	text "May I have one of"
-	line "your #MON?"
+	text "Em dones un dels"
+	line "teus #MON?"
 	done
 
 _BTWinF5Text:
-	text "…I want one of"
-	line "your #MON."
+	text "…Vull un dels"
+	line "teus #MON."
 	done
 
 _BTGreetingF6Text:
-	text "Want to hear about"
-	line "my cute #MON?"
+	text "Vols sentir parlar"
+	line "dels meus #MON?"
 	done
 
 _BTLossF6Text:
-	text "What do you think"
-	line "about my cuties?"
+	text "Què en penses"
+	line "dels meus bufons?"
 	done
 
 _BTWinF6Text:
-	text "Oh! My! You're a"
-	line "dreadful trainer!"
+	text "Oh! Ets un"
+	line "entrenador dolent!"
 	done
 
 _BTGreetingF7Text:
-	text "Battle? Sure!"
-	line "Right now!"
+	text "Combat? Clar!"
+	line "Ara mateix!"
 	done
 
 _BTLossF7Text:
-	text "Oh, I love it!"
-	line "Battling is wild!"
+	text "Oh, m'encanta!"
+	line "Combatre és"
+	cont "genial!"
 	done
 
 _BTWinF7Text:
-	text "Oh, how rude! Wait"
-	line "till next time!"
+	text "Oh, que mal"
+	line "educat!"
+	cont "Espera al pròxim!"
 	done
 
 _BTGreetingF8Text:
-	text "Please let me win!"
-	line "Please?"
+	text "Deixa'm guanyar!"
+	line "Si us plau?"
 	done
 
 _BTLossF8Text:
-	text "Wow, thank you!"
-	line "You're so nice!"
+	text "Uau, gràcies!"
+	line "Ets molt amable!"
 	done
 
 _BTWinF8Text:
-	text "You're mean!"
-	line "I hate meanies!"
+	text "Ets dolent!"
+	line "Odio els dolents!"
 	done
 
 _BTGreetingF9Text:
-	text "Well, can we"
-	line "begin?"
+	text "Bé, podem"
+	line "començar?"
 	done
 
 _BTLossF9Text:
-	text "Well, I beg your"
-	line "pardon…"
+	text "Bé, et demano"
+	line "perdó…"
 	done
 
 _BTWinF9Text:
-	text "Sob… That's not"
-	line "fair!"
+	text "Snif… Això no"
+	line "és just!"
 	done
 
 _BTGreetingF10Text:
-	text "I'm good!"
-	line "You can't win."
+	text "Sóc bona!"
+	line "No pots guanyar."
 	done
 
 _BTLossF10Text:
-	text "Giving up? You're"
-	line "pretty weak!"
+	text "Et rendeixes? Ets"
+	line "força fluix!"
 	done
 
 _BTWinF10Text:
-	text "I won't accept"
-	line "this… No way!"
+	text "No ho accepto…"
+	line "De cap manera!"
 	done
 
 _BTGreetingF11Text:
-	text "Are you treating"
-	line "this seriously?"
+	text "T'ho prens"
+	line "seriosament?"
 	done
 
 _BTLossF11Text:
-	text "Oh, sorry! Looks"
-	line "like I won!"
+	text "Oh, perdona!"
+	line "Sembla que guanyo!"
 	done
 
 _BTWinF11Text:
-	text "Oh, how nasty!"
-	line "You were serious!"
+	text "Oh, que dolent!"
+	line "Anaves de debò!"
 	done
 
 _BTGreetingF12Text:
-	text "Ahahah! I'll take"
-	line "it easy on you!"
+	text "Ahahah! Aniré"
+	line "suau amb tu!"
 	done
 
 _BTLossF12Text:
-	text "Oops, sorry! But"
-	line "I'm happy too!"
+	text "Ups, perdona! Però"
+	line "estic contenta!"
 	done
 
 _BTWinF12Text:
-	text "Oh, oh, I lost!"
-	line "Thanks. Bye!"
+	text "Oh, oh, he perdut!"
+	line "Gràcies. Adéu!"
 	done
 
 _BTGreetingF13Text:
-	text "BATTLE TOWER is a"
-	line "tough place!"
+	text "La TORRE COMBAT és"
+	line "un lloc dur!"
 	done
 
 _BTLossF13Text:
-	text "You might have a"
-	line "hard time."
+	text "Potser ho tindràs"
+	line "difícil."
 	done
 
 _BTWinF13Text:
-	text "Ooh, you might"
-	line "make a run here!"
+	text "Ooh, potser"
+	line "arribes lluny"
+	cont "aquí!"
 	done
 
 _BTGreetingF14Text:
-	text "I want to see your"
-	line "style in action!"
+	text "Vull veure el teu"
+	line "estil en acció!"
 	done
 
 _BTLossF14Text:
-	text "Every battle is a"
-	line "drama!"
+	text "Cada combat és"
+	line "un drama!"
 	done
 
 _BTWinF14Text:
-	text "Oh… Want to trade"
-	line "something?"
+	text "Oh… Vols"
+	line "intercanviar algo?"
 	done
 
 _BTGreetingF15Text:
-	text "OK, here goes!"
-	line "I have momentum!"
+	text "OK, som-hi!"
+	line "Tinc impuls!"
 	done
 
 _BTLossF15Text:
-	text "See, I rolled"
-	line "right over you!"
+	text "Veus, t'he passat"
+	line "per sobre!"
 	done
 
 _BTWinF15Text:
-	text "No! This did not"
-	line "happen!"
+	text "No! Això no ha"
+	line "passat!"
 	done

@@ -79,48 +79,48 @@ TrainerCooltrainerfFran:
 	end
 
 CooltrainermCodySeenText:
-	text "It's not as if we"
-	line "all use dragon-"
-	cont "type #MON."
+	text "No és que tots"
+	line "usem # de"
+	cont "tipus drac."
 	done
 
 CooltrainermCodyBeatenText:
-	text "Rats! If only I"
-	line "had a dragon!"
+	text "Ostres! Si tingués"
+	line "un drac!"
 	done
 
 CooltrainermCodyAfterBattleText:
-	text "Members of our"
-	line "dragon-user clan"
+	text "Els membres del"
+	line "clan d'usuaris de"
 
-	para "can use dragon"
-	line "#MON only after"
+	para "dracs només podem"
+	line "usar # drac"
 
-	para "our MASTER allows"
-	line "it."
+	para "quan el MESTRE ho"
+	line "permet."
 	done
 
 CooltrainerfFranSeenText:
-	text "I can't allow a"
-	line "nameless trainer"
-	cont "past me!"
+	text "No deixaré passar"
+	line "un entrenador"
+	cont "desconegut!"
 
-	para "CLAIR would be"
-	line "livid if I did!"
+	para "La CLAIR"
+	line "s'enfadaria!"
 	done
 
 CooltrainerfFranBeatenText:
-	text "Awww… I lost…"
+	text "Oh… He perdut…"
 	done
 
 CooltrainerfFranAfterBattleText:
-	text "Uh-oh… CLAIR is"
-	line "going to be mad…"
+	text "Ui… La CLAIR"
+	line "s'enfadarà…"
 	done
 
 BlackthornGym2FBoulderFellText:
-	text "The boulder fell"
-	line "through!"
+	text "La roca ha caigut"
+	line "a baix!"
 	done
 
 BlackthornGym2F_MapEvents:

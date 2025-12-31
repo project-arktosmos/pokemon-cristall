@@ -23,24 +23,26 @@ Route19FuchsiaGateOfficerScript:
 	end
 
 Route19FuchsiaGateOfficerText:
-	text "CINNABAR's volcano"
-	line "erupted."
+	text "El volcà de"
+	line "CINNABAR ha entrat"
+	cont "en erupció."
 
-	para "It hurled boulders"
-	line "that cut off ROUTE"
-	cont "19 indefinitely."
+	para "Ha llançat roques"
+	line "que han tallat la"
+	cont "RUTA 19."
 
-	para "I wonder if the"
-	line "people of CINNABAR"
-	cont "are safe…"
+	para "Em pregunto si la"
+	line "gent de CINNABAR"
+	cont "estarà bé…"
 	done
 
 Route19FuchsiaGateOfficerText_RocksCleared:
-	text "No CINNABAR citi-"
-	line "zens were injured"
+	text "Cap ciutadà de"
+	line "CINNABAR ha"
+	cont "resultat ferit"
 
-	para "by the eruption."
-	line "That's great!"
+	para "per l'erupció."
+	line "Quina satisfacció!"
 	done
 
 Route19FuchsiaGate_MapEvents:

@@ -1,245 +1,253 @@
 ChadObservingWildText:
-	text "I recently began"
-	line "observing wild"
+	text "Fa poc he començat"
+	line "a observar"
 	cont "@"
 	text_ram wStringBuffer4
-	text "."
+	text " salvatges."
 
-	para "I've been learning"
-	line "all sorts of new"
+	para "Estic aprenent"
+	line "moltes coses noves"
 
-	para "things through my"
-	line "observations."
+	para "amb les meves"
+	line "observacions."
 
-	para "I wish I could"
-	line "become a #MON"
+	para "M'agradaria ser"
+	line "investigador de"
 
-	para "researcher like"
-	line "PROF.OAK soon."
+	para "#MON com el"
+	line "PROF.OAK aviat."
 	done
 
 ChadDefeatedMonText:
-	text "Oh yes, I managed"
-	line "to knock out a"
+	text "Ah sí, fa un"
+	line "temps vaig vèncer"
 
-	para "wild @"
+	para "un @"
 	text_ram wStringBuffer4
-	text " a"
-	line "while back."
+	text ""
+	line "salvatge."
 
-	para "Well, considering"
-	line "all the studying I"
+	para "Bé, tenint en"
+	line "compte tot el que"
 
-	para "do every day, it"
-	line "was inevitable."
+	para "estudio cada dia,"
+	line "era inevitable."
 	done
 
 ChadLostAMonText:
-	text "Oh yes, I came"
-	line "close to catching"
+	text "Ah sí, gairebé"
+	line "vaig atrapar"
 
-	para "a wild @"
+	para "un @"
 	text_ram wStringBuffer4
-	text ","
-	line "but it got away."
+	text ""
+	line "salvatge, però"
+	cont "va escapar."
 
-	para "For the longest"
-	line "time, I've been"
+	para "Feia molt temps"
+	line "que volia observar"
 
-	para "wanting to observe"
-	line "@"
+	para "@"
 	text_ram wStringBuffer4
-	text ". Rats…"
+	text "."
+	line "Quina llàstima…"
 	done
 
 ChadBattleRematchText:
-	text "Want to battle?"
-	line "I have to battle"
+	text "Vols combatre?"
+	line "He de combatre"
 
-	para "every so often to"
-	line "avoid rusting out."
+	para "de tant en tant"
+	line "per no oxidar-me."
 
-	para "I'll be on"
+	para "Seré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 ChadHangUpText:
-	text "See you later!"
+	text "Fins després!"
 	done
 
 ChadBlueGossipText:
-	text "Do you know BLUE?"
+	text "Coneixes en BLAU?"
 
-	para "He's PROF.OAK's"
-	line "grandson and a"
+	para "És el nét del"
+	line "PROF.OAK i un"
 
-	para "former #MON"
-	line "LEAGUE CHAMPION!"
+	para "antic CAMPIÓ de"
+	line "la LLIGA #MON!"
 
-	para "He's one super"
-	line "#MON trainer!"
+	para "És un entrenador"
+	line "de #MON genial!"
 	done
 
 ChadDaisyGossipText:
-	text "PROF.OAK has a"
-	line "granddaughter"
-	cont "named DAISY."
+	text "El PROF.OAK té"
+	line "una néta que"
+	cont "es diu DAISY."
 
-	para "When she's around,"
-	line "even the most"
+	para "Quan ella és a"
+	line "prop, fins i tot"
 
-	para "ferocious #MON"
-	line "calm right down."
+	para "els #MON més"
+	line "ferotges es"
+	cont "calmen."
 	done
 
 ChadProfElmGossipText:
-	text "Everyone's talking"
-	line "about PROF.ELM."
+	text "Tothom parla del"
+	line "PROF.ELM."
 
-	para "He used to be an"
-	line "assistant to the"
-	cont "great PROF.OAK!"
+	para "Abans era ajudant"
+	line "del gran PROF.OAK!"
 
-	para "That is so cool!"
-	line "I envy him!"
+	para "Això és molt"
+	line "genial! L'envejo!"
 	done
 
 ChadProfOaksDreamGossipText:
-	text "PROF.OAK's dream"
-	line "is to compile a"
+	text "El somni del PROF."
+	line "OAK és completar"
 
-	para "comprehensive"
-	line "#DEX."
+	para "una #DEX"
+	line "exhaustiva."
 
-	para "I envy you for"
-	line "taking part in"
-	cont "that project…"
+	para "T'envejo per"
+	line "participar en"
+	cont "aquest projecte…"
 	done
 
 ChadKurtGossipText:
-	text "Do you know KURT,"
-	line "the BALL creator?"
+	text "Coneixes en KURT,"
+	line "el creador de"
+	cont "BALLS?"
 
-	para "He and PROF.OAK go"
-	line "back a long way."
+	para "Ell i el PROF.OAK"
+	line "es coneixen de fa"
+	cont "molt."
 
-	para "I guess great"
-	line "people attract one"
-	cont "another!"
+	para "La gent gran"
+	line "s'atreu entre"
+	cont "ella!"
 	done
 
 ChadLeagueGossipText:
-	text "#MON LEAGUE is"
-	line "the great gather-"
-	cont "ing place for all"
+	text "La LLIGA #MON"
+	line "és"
+	cont "el punt de reunió"
 
-	para "trainers who wish"
-	line "to become CHAMP."
+	para "de tots els"
+	line "entrenadors que"
 
-	para "PROF.OAK acts as"
-	line "an advisor to the"
+	para "volen ser"
+	line "CAMPIONS."
 
-	para "#MON LEAGUE's"
-	line "headquarters."
+	para "El PROF.OAK és"
+	line "assessor de la"
 
-	para "He really is a"
-	line "great man."
+	para "seu de la LLIGA"
+	line "#MON."
+
+	para "Realment és un"
+	line "gran home."
 	done
 
 ChadPokemonTalkGossipText:
-	text "PROF.OAK'S #MON"
-	line "TALK is a popular"
-	cont "radio show, right?"
+	text "POKÉMON AL DIA"
+	line "del PROF.OAK és"
+	cont "un programa famós."
 
-	para "Did you know that"
-	line "he was going to"
+	para "Sabies que al"
+	line "principi anava a"
 
-	para "turn down the show"
-	line "at first?"
+	para "rebutjar fer el"
+	line "programa?"
 
-	para "But MARY's energy"
-	line "and persistence"
-	cont "wore him down."
+	para "Però l'energia i"
+	line "la insistència de"
 
-	para "So we have MARY to"
-	line "thank for it!"
+	para "la MARY el van"
+	line "convèncer."
+
+	para "Hem de donar les"
+	line "gràcies a la MARY!"
 	done
 
 ChadProfOakTrainerGossipText:
-	text "PROF.OAK used to"
-	line "be a trainer a"
-	cont "long time ago."
+	text "El PROF.OAK va"
+	line "ser entrenador"
+	cont "fa molt temps."
 
-	para "But rather than"
-	line "battling, he found"
+	para "Però en comptes"
+	line "de combatre, li"
 
-	para "#MON themselves"
-	line "to be interesting."
+	para "van interessar"
+	line "més els #MON."
 
-	para "So he abandoned"
-	line "his training to"
+	para "Així que va deixar"
+	line "d'entrenar per"
 
-	para "focus on becoming"
-	line "a researcher."
+	para "centrar-se en ser"
+	line "investigador."
 	done
 
 ChadDaisyTeaGossipText:
-	text "PROF.OAK has a"
-	line "granddaughter"
-	cont "named DAISY."
+	text "El PROF.OAK té"
+	line "una néta que"
+	cont "es diu DAISY."
 
-	para "She has tea every"
-	line "day for an hour"
+	para "Cada dia pren te"
+	line "durant una hora"
 
-	para "from three in the"
-	line "afternoon."
+	para "a partir de les"
+	line "tres de la tarda."
 
-	para "I wish I could"
-	line "join her for tea"
+	para "M'agradaria"
+	line "prendre te amb"
 
-	para "and chat about"
+	para "ella i parlar del"
 	line "PROF.OAK."
 	done
 
 ChadProfOakTravelingGossipText:
-	text "Did you know?"
-	line "PROF.OAK traveled"
+	text "Ho sabies?"
+	line "El PROF.OAK va"
 
-	para "all over the world"
-	line "when he was young."
+	para "viatjar per tot"
+	line "el món de jove."
 
-	para "While traveling,"
-	line "he must've learned"
+	para "Mentre viatjava,"
+	line "devia aprendre"
 
-	para "about #MON"
-	line "naturally."
+	para "sobre #MON de"
+	line "forma natural."
 
-	para "I envy him…"
-	line "I'd like to travel"
+	para "L'envejo…"
+	line "M'agradaria"
 
-	para "and learn about"
-	line "things too…"
+	para "viatjar i aprendre"
+	line "coses també…"
 	done
 
 ChadGoingToStudyHardText:
-	text "I'm going to study"
-	line "hard so PROF.OAK"
+	text "Estudiaré molt"
+	line "perquè el PROF."
 
-	para "will make me his"
-	line "assistant!"
+	para "OAK em faci el"
+	line "seu ajudant!"
 	done
 
 ChadReminderText:
-	text "Do you remember"
-	line "about our battle?"
+	text "Recordes el nostre"
+	line "combat?"
 
-	para "The place is"
+	para "El lloc és"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Hurry over--I'm"
-	line "waiting."
+	para "Vine ràpid,"
+	line "t'espero."
 	done

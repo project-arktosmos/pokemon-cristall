@@ -1,70 +1,71 @@
 WadeAskNumber1Text:
-	text "You're awesome!"
-	line "I like you!"
+	text "Ets genial!"
+	line "M'agrades!"
 
-	para "I look for #MON"
-	line "here every day."
+	para "Busco #MON aquí"
+	line "cada dia."
 
-	para "When I'm in the"
-	line "grass, I find all"
-	cont "kinds of BERRIES."
+	para "Quan soc a l'herba"
+	line "trobo tota mena"
+	cont "de BAIES."
 
-	para "If you'd like,"
-	line "I'll share some."
+	para "Si vols, te'n"
+	line "donaré algunes."
 
-	para "Could I get your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu telèfon?"
 	done
 
 WadeAskNumber2Text:
-	text "When I'm in the"
-	line "grass, I find all"
-	cont "kinds of BERRIES."
+	text "Quan soc a l'herba"
+	line "trobo tota mena"
+	cont "de BAIES."
 
-	para "If you'd like,"
-	line "I'll share some."
+	para "Si vols, te'n"
+	line "donaré algunes."
 
-	para "Could I get your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu telèfon?"
 	done
 
 WadeNumberAcceptedText:
-	text "You'll hear from"
-	line "me as soon as I"
+	text "Et trucaré quan"
+	line "trobi alguna cosa"
 
-	para "find anything that"
-	line "you might like."
+	para "que et pugui"
+	line "agradar."
 	done
 
 WadeNumberDeclinedText:
-	text "Oh well. Don't be"
-	line "shy if you want to"
-	cont "get my number."
+	text "Oh, bé. No tinguis"
+	line "vergonya si vols"
+	cont "el meu número."
 	done
 
 WadePhoneFullText:
-	text "Your phone list"
-	line "has no room for my"
-	cont "number."
+	text "La teva llista no"
+	line "té espai per al"
+	cont "meu número."
 	done
 
 WadeRematchText:
-	text "I was waiting for"
-	line "you. Let's battle!"
+	text "T'estava esperant."
+	line "Lluitem!"
 	done
 
 WadeGiftText:
-	text "Good to see you!"
-	line "See? This is what"
+	text "M'alegro de"
+	line "veure't! Mira,"
 
-	para "I found."
-	line "It's for you!"
+	para "això és el que"
+	line "he trobat. És teu!"
 	done
 
 WadePackFullText:
-	text "Oops, your PACK's"
-	line "full. Too bad."
+	text "Ai, la MOTXILLA"
+	line "és plena."
+	cont "Llàstima."
 
-	para "You should come"
-	line "back for it later."
+	para "Hauries de tornar"
+	line "a buscar-ho."
 	done

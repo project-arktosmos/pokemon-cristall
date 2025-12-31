@@ -23,30 +23,30 @@ GoldenrodPPSpeechHouseRadio:
 	jumpstd Radio2Script
 
 GoldenrodPPSpeechHouseFisherText:
-	text "Once while I was"
-	line "battling, my"
+	text "Un cop, mentre"
+	line "lluitava, el meu"
 
-	para "#MON couldn't"
-	line "make any moves."
+	para "#MON no podia"
+	line "fer cap moviment."
 
-	para "The POWER POINTS,"
-	line "or PP, of its"
+	para "Els PUNTS DE"
+	line "PODER, o PP, dels"
 
-	para "moves were all"
-	line "gone."
+	para "seus moviments"
+	line "s'havien esgotat."
 	done
 
 GoldenrodPPSpeechHouseLassText:
-	text "Sometimes, a"
-	line "healthy #MON"
+	text "De vegades, un"
+	line "#MON saludable"
 
-	para "may be unable to"
-	line "use its moves."
+	para "pot no poder usar"
+	line "els seus atacs."
 
-	para "If that happens,"
-	line "heal it at a #-"
-	cont "MON CENTER or use"
-	cont "an item."
+	para "Si això passa,"
+	line "cura'l a un CENTRE"
+	cont "#MON o usa un"
+	cont "objecte."
 	done
 
 GoldenrodPPSpeechHouse_MapEvents:

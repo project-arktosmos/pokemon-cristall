@@ -1,8 +1,8 @@
-	object_const_def
-	const ECRUTEAKTINTOWERENTRANCE_SAGE1
-	const ECRUTEAKTINTOWERENTRANCE_SAGE2
-	const ECRUTEAKTINTOWERENTRANCE_SAGE3
-	const ECRUTEAKTINTOWERENTRANCE_GRAMPS
+object_const_def
+const ECRUTEAKTINTOWERENTRANCE_SAGE1
+const ECRUTEAKTINTOWERENTRANCE_SAGE2
+const ECRUTEAKTINTOWERENTRANCE_SAGE3
+const ECRUTEAKTINTOWERENTRANCE_GRAMPS
 
 EcruteakTinTowerEntrance_MapScripts:
 	def_scene_scripts
@@ -150,129 +150,131 @@ EcruteakTinTowerEntranceSageBlocksRightMovement:
 	step_end
 
 EcruteakTinTowerEntranceSageText:
-	text "TIN TOWER is off"
-	line "limits to anyone"
+	text "L'accés a la TORRE"
+	line "CAMPANA és vetat"
 
-	para "without ECRUTEAK"
-	line "GYM's BADGE."
+	para "a qui no tingui la"
+	line "MEDALLA d'ECRUTEAK"
 
-	para "Sorry, but you'll"
-	line "have to leave."
+	para "Disculpa, però has"
+	line "de marxar."
 	done
 
 EcruteakTinTowerEntranceSageText_GotFogBadge:
-	text "TIN TOWER is off"
-	line "limits to anyone"
+	text "L'accés a la TORRE"
+	line "CAMPANA és vetat"
 
-	para "without ECRUTEAK"
-	line "GYM's BADGE."
+	para "a qui no tingui la"
+	line "MEDALLA d'ECRUTEAK"
 
 	para "Ah!"
 
-	para "ECRUTEAK's GYM"
-	line "BADGE! Please, go"
-	cont "right through."
+	para "La MEDALLA"
+	line "d'ECRUTEAK! Passa,"
+	cont "si us plau."
 	done
 
 EcruteakTinTowerEntranceSageText_NoClearBell:
-	text "A momentous event"
-	line "has occurred."
+	text "Ha succeït un"
+	line "fet transcendental"
 
-	para "I beg your pardon,"
-	line "but I must ask you"
-	cont "to leave."
+	para "Disculpa, però he"
+	line "de demanar-te que"
+	cont "te'n vagis."
 
-	para "…What soothes the"
-	line "soul…"
+	para "…Allò que calma"
+	line "l'ànima…"
 
-	para "The WISE TRIO say"
-	line "things that are so"
+	para "El TRIO SAVI diu"
+	line "coses que són tan"
 
-	para "very difficult to"
-	line "understand…"
+	para "difícils"
+	line "d'entendre…"
 	done
 
 EcruteakTinTowerEntranceSageText_HearsClearBell:
-	text "A momentous event"
-	line "has occurred."
+	text "Ha succeït un"
+	line "fet transcendental"
 
-	para "I beg your pardon,"
-	line "but I must ask you"
-	cont "to leave."
+	para "Disculpa, però he"
+	line "de demanar-te que"
+	cont "te'n vagis."
 
 	para "<……><……><……>"
 
 	para "Ah!"
 
-	para "The sound of that"
-	line "CLEAR BELL!"
+	para "El so d'aquesta"
+	line "CAMPANA CLARA!"
 
-	para "It… It's sublime!"
+	para "És… És sublim!"
 
-	para "I've never heard"
-	line "so beautiful a"
-	cont "sound before!"
+	para "Mai no havia"
+	line "sentit un so tan"
+	cont "bell!"
 
-	para "That bell's chime"
-	line "is indicative of"
-	cont "the bearer's soul."
+	para "El so d'aquesta"
+	line "campana reflecteix"
+	cont "l'ànima del qui la"
+	cont "porta."
 
-	para "You…"
+	para "Tu…"
 
-	para "You may be able to"
-	line "make it through"
-	cont "TIN TOWER."
+	para "Potser podràs"
+	line "arribar al cim de"
+	cont "la TORRE CAMPANA."
 
-	para "Please, do go on."
+	para "Passa, si us plau."
 	done
 
 EcruteakTinTowerEntranceSageText_PleaseDoGoOn:
-	text "Please, do go on."
+	text "Passa, si us plau."
 	done
 
 EcruteakTinTowerEntranceSageText_HeardClearBell:
-	text "That bell's chime"
-	line "is indicative of"
-	cont "the bearer's soul."
+	text "El so d'aquesta"
+	line "campana reflecteix"
+	cont "l'ànima del qui la"
+	cont "porta."
 
-	para "You…"
+	para "Tu…"
 
-	para "You may be able to"
-	line "make it through"
-	cont "TIN TOWER."
+	para "Potser podràs"
+	line "arribar al cim de"
+	cont "la TORRE CAMPANA."
 
-	para "Please, do go on."
+	para "Passa, si us plau."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText:
-	text "The TIN TOWER"
-	line "ahead is a nine-"
+	text "La TORRE CAMPANA"
+	line "és una torre de"
 
-	para "tier tower of"
-	line "divine beauty."
+	para "nou pisos d'una"
+	line "bellesa divina."
 
-	para "It soothes the"
-	line "soul of all who"
-	cont "see it."
+	para "Calma l'ànima de"
+	line "tots els qui la"
+	cont "contemplen."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText_GotClearBell:
-	text "The TIN TOWER"
-	line "shook! A #MON"
+	text "La TORRE CAMPANA"
+	line "ha tremolat! Un"
 
-	para "must have returned"
-	line "to the top!"
+	para "#MON deu haver"
+	line "tornat al cim!"
 	done
 
 EcruteakTinTowerEntranceGrampsText:
-	text "Two towers…"
-	line "Two #MON…"
+	text "Dues torres…"
+	line "Dos #MON…"
 
-	para "But when one"
-	line "burned down, both"
+	para "Però quan una"
+	line "es va cremar, els"
 
-	para "#MON flew away,"
-	line "never to return."
+	para "#MON van fugir"
+	line "per no tornar mai."
 	done
 
 EcruteakTinTowerEntrance_MapEvents:

@@ -146,109 +146,114 @@ RuinsOfAlphKabutoChamberSkyfallTopMovement:
 	step_end
 
 RuinsOfAlphKabutoChamberReceptionistText:
-	text "Welcome to this"
-	line "chamber."
+	text "Benvingut a"
+	line "aquesta cambra."
 
-	para "There are sliding"
-	line "panels that depict"
+	para "Hi ha panells"
+	line "lliscants que"
 
-	para "a #MON drawn by"
-	line "the ancients."
+	para "representen un"
+	line "#MON dibuixat"
+	cont "pels antics."
 
-	para "Slide the panels"
-	line "around to form the"
-	cont "picture."
+	para "Mou els panells"
+	line "per formar la"
+	cont "imatge."
 
-	para "To the right is a"
-	line "description of the"
-	cont "#MON."
+	para "A la dreta hi ha"
+	line "una descripció"
+	cont "del #MON."
 
-	para "Scientists in the"
-	line "back are examining"
+	para "Els científics"
+	line "del fons examinen"
 
-	para "some newly found"
-	line "patterns."
+	para "uns patrons que"
+	line "s'han trobat ara."
 	done
 
 RuinsOfAlphKabutoChamberScientistCrypticText:
-	text "Recently, strange,"
-	line "cryptic patterns"
-	cont "have appeared."
+	text "Recentment, uns"
+	line "patrons estranys"
+	cont "han aparegut."
 
-	para "It's odd. They"
-	line "weren't here a"
-	cont "little while ago…"
+	para "És estrany. No hi"
+	line "eren fa ben poc…"
 
-	para "You should take a"
-	line "look at the walls."
+	para "Hauries de donar"
+	line "un cop d'ull a"
+	cont "les parets."
 	done
 
 RuinsOfAlphKabutoChamberScientistHoleText:
-	text "Ah! Here's another"
-	line "huge hole!"
+	text "Ah! Aquí hi ha un"
+	line "altre forat"
+	cont "enorme!"
 
-	para "It's big enough to"
-	line "go through!"
+	para "És prou gran per"
+	line "passar-hi!"
 	done
 
 RuinsOfAlphKabutoChamberScientistTremorText:
-	text "That tremor was"
-	line "pretty scary!"
+	text "Aquell tremolor"
+	line "feia molta por!"
 
-	para "But I'm more"
-	line "concerned about"
-	cont "this wall here…"
+	para "Però em preocupa"
+	line "més aquesta paret"
+	cont "d'aquí…"
 	done
 
 RuinsOfAlphKabutoChamberUnusedText: ; unreferenced
-	text "The patterns on"
-	line "the wall appear to"
-	cont "be words!"
+	text "Els patrons de la"
+	line "paret semblen ser"
+	cont "paraules!"
 
-	para "And those sliding"
-	line "stone panels seem"
+	para "I els panells de"
+	line "pedra lliscants"
 
-	para "to be signals of"
-	line "some kind."
+	para "semblen ser algun"
+	line "tipus de senyal."
 
-	para "I think they make"
-	line "#MON appear,"
+	para "Crec que fan"
+	line "aparèixer #MON,"
 
-	para "but it's not clear"
-	line "yet…"
+	para "però encara no"
+	line "està clar…"
 	done
 
 RuinsOfAlphKabutoChamberWallPatternLeftText:
-	text "Patterns appeared"
-	line "on the walls…"
+	text "Han aparegut uns"
+	line "patrons a les"
+	cont "parets…"
 	done
 
 RuinsOfAlphKabutoChamberUnownText: ; unreferenced
-	text "It's UNOWN text!"
+	text "És text UNOWN!"
 	done
 
 RuinsOfAlphKabutoChamberWallPatternRightText:
-	text "Patterns appeared"
-	line "on the walls…"
+	text "Han aparegut uns"
+	line "patrons a les"
+	cont "parets…"
 	done
 
 RuinsOfAlphKabutoChamberWallHoleText:
-	text "There's a big hole"
-	line "in the wall!"
+	text "Hi ha un forat"
+	line "enorme a la paret!"
 	done
 
 RuinsOfAlphKabutoChamberAncientReplicaText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "És una rèplica"
+	line "d'un #MON"
+	cont "antic."
 	done
 
 RuinsOfAlphKabutoChamberDescriptionText:
-	text "A #MON that hid"
-	line "on the sea floor."
+	text "Un #MON que"
+	line "s'amagava al fons"
+	cont "del mar."
 
-	para "Eyes on its back"
-	line "scanned the area."
+	para "Ulls a l'esquena"
+	line "vigilaven l'àrea."
 	done
 
 RuinsOfAlphKabutoChamber_MapEvents:

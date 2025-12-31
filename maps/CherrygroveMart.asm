@@ -41,32 +41,34 @@ CherrygroveMartYoungsterScript:
 	jumptextfaceplayer CherrygroveMartYoungsterText
 
 CherrygroveMartCooltrainerMText:
-	text "They're fresh out"
-	line "of # BALLS!"
+	text "S'han acabat les"
+	line "#BALLS!"
 
-	para "When will they get"
-	line "more of them?"
+	para "Quan en tornaran"
+	line "a tenir?"
 	done
 
 CherrygroveMartCooltrainerMText_PokeBallsInStock:
-	text "# BALLS are in"
-	line "stock! Now I can"
-	cont "catch #MON!"
+	text "Hi ha #BALLS"
+	line "en estoc! Ara ja"
+	cont "puc caçar #MON!"
 	done
 
 CherrygroveMartYoungsterText:
-	text "When I was walking"
-	line "in the grass, a"
+	text "Mentre caminava"
+	line "per l'herba, un"
 
-	para "bug #MON poi-"
-	line "soned my #MON!"
+	para "#MON insecte"
+	line "ha enverinat el"
+	cont "meu #MON!"
 
-	para "I just kept going,"
-	line "but then my"
-	cont "#MON fainted."
+	para "He seguit"
+	line "caminant, però el"
+	cont "#MON s'ha"
+	cont "desmaiat."
 
-	para "You should keep an"
-	line "ANTIDOTE with you."
+	para "Hauries de portar"
+	line "un ANTÍDOT."
 	done
 
 CherrygroveMart_MapEvents:

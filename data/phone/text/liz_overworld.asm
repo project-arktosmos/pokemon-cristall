@@ -1,44 +1,45 @@
 LizAskNumber1Text:
-	text "Oh? You're on a"
-	line "big journey to see"
-	cont "the sights? Neat!"
+	text "Oh? Fas un gran"
+	line "viatge per veure"
+	cont "llocs? Genial!"
 
-	para "Let's be friends!"
-	line "Can I have your"
-	cont "phone number?"
+	para "Siguem amics!"
+	line "Em dones el teu"
+	cont "núm. de telèfon?"
 
-	para "I want to hear"
-	line "about everything"
-	cont "you've seen!"
+	para "Vull sentir tot"
+	line "el que hagis"
+	cont "vist!"
 	done
 
 LizAskNumber2Text:
-	text "Let's be friends!"
-	line "Can I have your"
-	cont "phone number?"
+	text "Siguem amics!"
+	line "Em dones el teu"
+	cont "núm. de telèfon?"
 
-	para "I want to hear"
-	line "about everything"
-	cont "you've seen!"
+	para "Vull sentir tot"
+	line "el que hagis"
+	cont "vist!"
 	done
 
 LizNumberAcceptedText:
-	text "I'll telephone you"
-	line "if I hear anything"
-	cont "interesting."
+	text "Et trucaré si"
+	line "sento res"
+	cont "interessant."
 	done
 
 LizNumberDeclinedText:
-	text "Aww… You won't be"
-	line "my friend?"
+	text "Oh… No vols ser"
+	line "amic meu?"
 	done
 
 LizPhoneFullText:
-	text "Wait! Your phone"
-	line "list is filled up!"
+	text "Espera! La llista"
+	line "del telèfon és"
+	cont "plena!"
 	done
 
 LizRematchText:
-	text "You're late! Let's"
-	line "get started now!"
+	text "Fas tard! Comencem"
+	line "ara mateix!"
 	done

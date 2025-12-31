@@ -1,9 +1,9 @@
-	object_const_def
-	const OLIVINELIGHTHOUSE5F_SAILOR
-	const OLIVINELIGHTHOUSE5F_YOUNGSTER
-	const OLIVINELIGHTHOUSE5F_POKE_BALL1
-	const OLIVINELIGHTHOUSE5F_POKE_BALL2
-	const OLIVINELIGHTHOUSE5F_POKE_BALL3
+object_const_def
+const OLIVINELIGHTHOUSE5F_SAILOR
+const OLIVINELIGHTHOUSE5F_YOUNGSTER
+const OLIVINELIGHTHOUSE5F_POKE_BALL1
+const OLIVINELIGHTHOUSE5F_POKE_BALL2
+const OLIVINELIGHTHOUSE5F_POKE_BALL3
 
 OlivineLighthouse5F_MapScripts:
 	def_scene_scripts
@@ -45,47 +45,48 @@ OlivineLighthouse5FHiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_OLIVINE_LIGHTHOUSE_5F_HIDDEN_HYPER_POTION
 
 SailorErnestSeenText:
-	text "I wanted to battle"
-	line "JASMINE, but she's"
+	text "Volia lluitar amb"
+	line "JASMINE, però ara"
 
-	para "not up to it now."
-	line "So, how about you?"
+	para "no està en forma."
+	line "I tu, què tal?"
 	done
 
 SailorErnestBeatenText:
-	text "Whoa, whoa. You're"
-	line "overwhelming!"
+	text "Ui, ui! Ets massa"
+	line "fort!"
 	done
 
 SailorErnestAfterBattleText:
-	text "A GYM LEADER isn't"
-	line "just about being"
+	text "Un LÍDER DE GIMNÀS"
+	line "no només ha de ser"
 
-	para "strong. A LEADER"
-	line "also needs to be"
-	cont "compassionate."
+	para "fort. Un LÍDER"
+	line "també ha de tenir"
+	cont "compassió."
 	done
 
 BirdKeeperDenisSeenText:
-	text "We're pretty high"
-	line "up here. My bird"
+	text "Som molt amunt."
+	line "Els meus #MON"
 
-	para "#MON are in"
-	line "prime form."
+	para "ocell estan en"
+	line "plena forma."
 	done
 
 BirdKeeperDenisBeatenText:
-	text "Oops…They crashed…"
+	text "Oi! Han caigut…"
 	done
 
 BirdKeeperDenisAfterBattleText:
-	text "My #MON learned"
-	line "how to use FLY in"
+	text "Els meus #MON"
+	line "van aprendre a"
+	cont "fer FLY a"
 	cont "CIANWOOD."
 
-	para "Well, since I'm a"
-	line "loser, I'll FLY"
-	cont "across the sea…"
+	para "Bé, com que he"
+	line "perdut, volaré"
+	cont "cap al mar…"
 	done
 
 OlivineLighthouse5F_MapEvents:

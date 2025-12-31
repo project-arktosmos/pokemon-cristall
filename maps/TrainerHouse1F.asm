@@ -35,104 +35,104 @@ TrainerHouseIllegibleBook:
 	jumptext TrainerHouseIllegibleText
 
 TrainerHouse1FReceptionistText:
-	text "Welcome to TRAINER"
-	line "HOUSE, the newest"
+	text "Benvingut a la"
+	line "CASA ENTRENADORS,"
 
-	para "and most happening"
-	line "place in VIRIDIAN."
+	para "el lloc més nou i"
+	line "actiu de VIRIDIAN."
 
-	para "We're open to"
-	line "trainers only."
+	para "Només admeten"
+	line "entrenadors."
 
-	para "You can battle"
-	line "against the best"
+	para "Pots combatre"
+	line "contra els millors"
 
-	para "of the best right"
-	line "downstairs."
+	para "dels millors a"
+	line "sota."
 	done
 
 TrainerHouse1FCooltrainerMText:
-	text "VIRIDIAN is the"
-	line "town closest to"
-	cont "INDIGO PLATEAU."
+	text "VIRIDIAN és el"
+	line "poble més proper a"
+	cont "ALTIPLÀ ÍNDIC."
 
-	para "They built this"
-	line "place because so"
+	para "Van construir"
+	line "aquest lloc perquè"
 
-	para "many trainers pass"
-	line "through on their"
+	para "molts entrenadors"
+	line "hi passen de camí"
 
-	para "way up to INDIGO"
-	line "PLATEAU."
+	para "cap a l'ALTIPLÀ"
+	line "ÍNDIC."
 	done
 
 TrainerHouse1FCooltrainerFText:
-	text "They hold practice"
-	line "battles downstairs"
-	cont "here."
+	text "Fan combats de"
+	line "pràctica a sota."
 
-	para "I would love to"
-	line "see how well a"
+	para "M'encantaria"
+	line "veure com combaten"
 
-	para "trainer from JOHTO"
-	line "battles."
+	para "els entrenadors"
+	line "de JOHTO."
 	done
 
 TrainerHouse1FYoungsterText:
-	text "I guess you can't"
-	line "become the CHAMP"
+	text "Suposo que no pots"
+	line "ser CAMPIÓ si no"
 
-	para "unless you go all"
-	line "over the place and"
+	para "vas per tot arreu"
+	line "i lluites contra"
 
-	para "battle all kinds"
-	line "of people."
+	para "tota mena de"
+	line "gent."
 
-	para "The CHAMPION from"
-	line "PALLET traveled to"
+	para "El CAMPIÓ de"
+	line "PALLET va viatjar"
 
-	para "all the cities and"
-	line "towns in KANTO."
+	para "a totes les ciutas"
+	line "i pobles de KANTO."
 	done
 
 TrainerHouse1FGentlemanText:
-	text "Whew… I'm taking a"
-	line "rest from #MON"
-	cont "battles."
+	text "Uf… Estic fent un"
+	line "descans dels"
+	cont "combats #MON."
 	done
 
 TrainerHouseSign1Text:
-	text "Practice battles"
-	line "are held in the"
+	text "Els combats de"
+	line "pràctica es fan"
 
-	para "TRAINING HALL"
-	line "downstairs."
+	para "a la SALA"
+	line "D'ENTRENAMENT."
 
-	para "Skilled trainers"
-	line "are invited to"
-	cont "participate."
+	para "S'hi conviden"
+	line "entrenadors"
+	cont "experts."
 	done
 
 TrainerHouseSign2Text:
-	text "There are no rules"
-	line "or regulations for"
+	text "No hi ha normes ni"
+	line "regulacions per"
 
-	para "practice matches."
-	line "Just like in field"
+	para "als combats de"
+	line "pràctica. Com als"
 
-	para "battles, anything"
-	line "goes!"
+	para "combats de camp,"
+	line "tot s'hi val!"
 	done
 
 TrainerHouseIllegibleText:
-	text "…What's this?"
-	line "A strategy memo?"
+	text "…Què és això?"
+	line "Una nota tàctica?"
 
-	para "This writing looks"
-	line "like ONIX tracks…"
+	para "Aquesta lletra"
+	line "sembla petjades"
+	cont "d'ONIX…"
 
-	para "It's completely"
-	line "illegible…"
+	para "És completament"
+	line "il·legible…"
 	done
 
 TrainerHouse1F_MapEvents:

@@ -46,68 +46,71 @@ OlivineLighthouse3FEther:
 	itemball ETHER
 
 BirdKeeperTheoSeenText:
-	text "Why are you here?"
-	line "Are you just going"
+	text "Què hi fas, aquí?"
+	line "Has vingut només"
 
-	para "to gawk? I suggest"
-	line "that you leave!"
+	para "a mirar? Et"
+	line "recomano que te'n"
+	cont "vagis!"
 	done
 
 BirdKeeperTheoBeatenText:
-	text "You really are"
-	line "concerned…"
+	text "Realment estàs"
+	line "preocupat…"
 	done
 
 BirdKeeperTheoAfterBattleText:
-	text "How the heck do"
-	line "you go up?"
+	text "Com diantre es"
+	line "puja?"
 
-	para "I want to visit"
-	line "the sick #MON,"
+	para "Vull visitar el"
+	line "#MON malalt,"
 
-	para "but I can't get up"
-	line "there…"
+	para "però no puc pujar"
+	line "fins allà dalt…"
 	done
 
 SailorTerrellSeenText:
-	text "Sailors are both"
-	line "kind and strong."
-	cont "How about you?"
+	text "Els mariners som"
+	line "amables i forts."
+	cont "I tu, què?"
 	done
 
 SailorTerrellBeatenText:
-	text "You are both kind"
-	line "and strong…"
+	text "Ets amable i"
+	line "fort…"
 	done
 
 SailorTerrellAfterBattleText:
-	text "Every time I come"
-	line "back to OLIVINE, I"
-	cont "visit the GYM."
+	text "Cada cop que torno"
+	line "a OLIVINA, visito"
+	cont "el GIMNÀS."
 
-	para "The GYM LEADER's"
-	line "#MON type has"
+	para "El tipus de"
+	line "#MON"
+	cont "del LÍDER ha"
 
-	para "changed without me"
-	line "noticing."
+	para "canviat sense que"
+	line "me n'adonés."
 	done
 
 GentlemanPrestonSeenText:
-	text "I travel the world"
-	line "to train my #-"
-	cont "MON. I wish to"
-	cont "battle with you."
+	text "Viatjo pel món"
+	line "per entrenar els"
+	cont "meus #MON."
+	cont "Vull lluitar amb"
+	cont "tu."
 	done
 
 GentlemanPrestonBeatenText:
-	text "…sigh… I must"
-	line "train some more…"
+	text "…ah… He"
+	line "d'entrenar més…"
 	done
 
 GentlemanPrestonAfterBattleText:
-	text "JASMINE used to"
-	line "use rock #MON"
-	cont "like ONIX."
+	text "La JASMINE abans"
+	line "usava #MON de"
+	cont "roca com ONIX."
 	done
 
 OlivineLighthouse3F_MapEvents:

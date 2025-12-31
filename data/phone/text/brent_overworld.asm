@@ -1,62 +1,66 @@
 BrentAskNumber1Text:
-	text "By the way, you're"
-	line "a #MANIAC…"
+	text "Per cert, tu ets"
+	line "un #MANÍAC…"
 
-	para "I can tell."
-	line "Yes, you are."
+	para "Ho noto."
+	line "Sí, ho ets."
 
-	para "But your knowledge"
-	line "is shallow still!"
+	para "Però el teu"
+	line "coneixement és"
+	cont "encara superflu!"
 
-	para "Do you know BILL?"
-	line "He's an incredible"
+	para "Coneixes en BILL?"
+	line "És un #MANÍAC"
 
-	para "#MANIAC."
-	line "I revere him."
+	para "increïble."
+	line "El venero."
 
-	para "I'll teach you all"
-	line "I know about BILL,"
+	para "T'ensenyaré tot"
+	line "el que sé d'en"
 
-	para "so leave me your"
-	line "phone number."
+	para "BILL, així que"
+	line "dona'm el teu"
+	cont "número de telèfon."
 	done
 
 BrentAskNumber2Text:
-	text "I'll teach you all"
-	line "I know about BILL,"
+	text "T'ensenyaré tot"
+	line "el que sé d'en"
 
-	para "so leave me your"
-	line "phone number."
+	para "BILL, així que"
+	line "dona'm el teu"
+	cont "número de telèfon."
 	done
 
 BrentNumberAcceptedText:
-	text "BILL--he's more"
-	line "than amazing!"
+	text "En BILL--és més"
+	line "que increïble!"
 
-	para "To be a #MANIAC"
-	line "like him someday…"
+	para "Ser un #MANÍAC"
+	line "com ell algun dia…"
 
-	para "That's my dream."
+	para "Aquest és el meu"
+	line "somni."
 	done
 
 BrentNumberDeclinedText:
-	text "You're going to"
-	line "regret it…"
+	text "Te'n penediràs…"
 
-	para "And I won't care…"
+	para "I no m'importarà…"
 	done
 
 BrentPhoneFullText:
-	text "Huh? Your phone"
-	line "list's full."
+	text "Eh? La teva"
+	line "llista és plena."
 
-	para "A #MANIAC has"
-	line "to be more tidy!"
+	para "Un #MANÍAC ha"
+	line "de ser més"
+	cont "ordenat!"
 	done
 
 BrentRematchText:
-	text "I've been waiting."
+	text "T'estava esperant."
 
-	para "Look, check out my"
+	para "Mira, mira el meu"
 	line "#MON!"
 	done

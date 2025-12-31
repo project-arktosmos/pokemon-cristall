@@ -1,85 +1,85 @@
 GavenMonGreaterThanImaginedText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
 	text_start
-	line "might be greater"
-	cont "than I imagined."
+	line "potser és millor"
+	cont "del que pensava."
 
-	para "I doubt I'll see a"
+	para "Dubto que vegi cap"
 	line "@"
 	text_ram wStringBuffer4
-	text " that's"
-	cont "better than mine."
+	text " millor"
+	cont "que el meu."
 	done
 
 GavenDefeatedMonText:
-	text "Oh, and I managed"
-	line "to barely defeat"
+	text "Ah, i vaig poder"
+	line "derrotar per poc"
 
-	para "@"
+	para "un @"
 	text_ram wStringBuffer4
-	text " the"
-	line "other day."
+	text ""
+	line "l'altre dia."
 
-	para "I've never seen a"
-	line "@"
+	para "Mai n'havia vist"
+	line "un @"
 	text_ram wStringBuffer4
-	text " get"
-	cont "that strong…"
+	text " tan"
+	cont "fort…"
 
-	para "You shouldn't let"
-	line "your guard down,"
+	para "No baixis la"
+	line "guàrdia,"
 
-	para "even against a"
-	line "#MON you're"
-	cont "used to seeing."
+	para "ni contra #MON"
+	line "que vegis"
+	cont "sovint."
 	done
 
 GavenLostAMonText:
-	text "And a while back,"
-	line "I tried to catch a"
-	cont "wild @"
+	text "I fa un temps,"
+	line "vaig intentar"
+	cont "atrapar @"
 	text_ram wStringBuffer4
 	text "."
 
-	para "But it managed to"
-	line "elude me."
+	para "Però em va"
+	line "escapar."
 
-	para "One wrong decision"
-	line "could mean total"
+	para "Una mala decisió"
+	line "pot significar"
 
-	para "failure… You ought"
-	line "to be careful too."
+	para "fracàs total…"
+	line "Ves amb compte."
 	done
 
 GavenBattleRematchText:
-	text "Let's battle!"
+	text "Combatem!"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Give me a shout"
-	line "when you're close."
+	para "Avisa'm quan"
+	line "siguis a prop."
 	done
 
 GavenHangUpText:
-	text "OK, I'll talk to"
-	line "you soon!"
+	text "D'acord, parlem"
+	line "aviat!"
 	done
 
 GavenHangUpNotThursdayText:
-	text "I obsess over how"
-	line "to beat you."
+	text "Penso com guanyar-"
+	line "te constantment."
 	done
 
 GavenReminderText:
-	text "<PLAY_G>, why"
-	line "aren't you here?"
+	text "<PLAY_G>, per què"
+	line "no ets aquí?"
 
-	para "I'll take you down"
-	line "with @"
+	para "Et guanyaré amb"
+	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done

@@ -1,10 +1,10 @@
-	object_const_def
-	const CELADONGYM_ERIKA
-	const CELADONGYM_LASS1
-	const CELADONGYM_LASS2
-	const CELADONGYM_BEAUTY
-	const CELADONGYM_TWIN1
-	const CELADONGYM_TWIN2
+object_const_def
+const CELADONGYM_ERIKA
+const CELADONGYM_LASS1
+const CELADONGYM_LASS2
+const CELADONGYM_BEAUTY
+const CELADONGYM_TWIN1
+const CELADONGYM_TWIN2
 
 CeladonGym_MapScripts:
 	def_scene_scripts
@@ -111,158 +111,160 @@ CeladonGymStatue:
 	jumpstd GymStatue2Script
 
 ErikaBeforeBattleText:
-	text "ERIKA: Hello…"
-	line "Lovely weather,"
+	text "ERIKA: Hola…"
+	line "Quin temps més bo"
 
-	para "isn't it?"
-	line "It's so pleasant…"
+	para "que fa, oi?"
+	line "Tan agradable…"
 
-	para "…I'm afraid I may"
-	line "doze off…"
+	para "…Em temo que em"
+	line "puc adormir…"
 
-	para "My name is ERIKA."
-	line "I am the LEADER of"
-	cont "CELADON GYM."
+	para "Em dic ERIKA."
+	line "Sóc la LÍDER del"
+	cont "GIMNÀS CELADON."
 
-	para "…Oh? All the way"
-	line "from JOHTO, you"
-	cont "say? How nice…"
+	para "…Oh? Véns de"
+	line "JOHTO, dius?"
+	cont "Que bé…"
 
-	para "Oh. I'm sorry, I"
-	line "didn't realize"
+	para "Oh. Perdona, no"
+	line "m'havia adonat"
 
-	para "that you wished to"
-	line "challenge me."
+	para "que em volies"
+	line "desafiar."
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "D'acord, però"
+	line "no perdré."
 	done
 
 ErikaBeatenText:
 	text "ERIKA: Oh!"
-	line "I concede defeat…"
+	line "Admeto la derrota…"
 
-	para "You are remarkably"
-	line "strong…"
+	para "Ets molt fort…"
 
-	para "I shall give you"
-	line "RAINBOWBADGE…"
+	para "Et donaré la"
+	line "MEDALLA ARCIRIS…"
 	done
 
 PlayerReceivedRainbowBadgeText:
-	text "<PLAYER> received"
-	line "RAINBOWBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA"
+	cont "ARCIRIS."
 	done
 
 ErikaExplainTMText:
-	text "ERIKA: That was a"
-	line "delightful match."
+	text "ERIKA: Ha estat"
+	line "un combat"
+	cont "deliciós."
 
-	para "I felt inspired."
-	line "Please, I wish you"
-	cont "to have this TM."
+	para "M'he sentit"
+	line "inspirada. Vull"
+	cont "que tinguis la MT."
 
-	para "It is GIGA DRAIN."
+	para "És GIGA DRAIN."
 
-	para "It is a wonderful"
-	line "move that drains"
+	para "És un moviment"
+	line "meravellós que"
 
-	para "half the damage it"
-	line "inflicts to heal"
-	cont "your #MON."
+	para "drena la meitat"
+	line "del mal que causa"
+	cont "per curar el #."
 
-	para "Please use it if"
-	line "it pleases you…"
+	para "Fes-la servir si"
+	line "et plau…"
 	done
 
 ErikaAfterBattleText:
-	text "ERIKA: Losing"
-	line "leaves a bitter"
-	cont "aftertaste…"
+	text "ERIKA: Perdre"
+	line "deixa un regust"
+	cont "amarg…"
 
-	para "But knowing that"
-	line "there are strong"
+	para "Però saber que hi"
+	line "ha entrenadors"
 
-	para "trainers spurs me"
-	line "to do better…"
+	para "forts m'anima a"
+	line "millorar…"
 	done
 
 LassMichelleSeenText:
-	text "Do you think a"
-	line "girls-only GYM"
-	cont "is rare?"
+	text "Trobes que un"
+	line "GIMNÀS només de"
+	cont "noies és rar?"
 	done
 
 LassMichelleBeatenText:
-	text "Oh, bleah!"
+	text "Oh, bah!"
 	done
 
 LassMichelleAfterBattleText:
-	text "I just got care-"
-	line "less, that's all!"
+	text "M'he descuidat,"
+	line "això és tot!"
 	done
 
 PicnickerTanyaSeenText:
-	text "Oh, a battle?"
-	line "That's kind of"
-	cont "scary, but OK!"
+	text "Oh, un combat?"
+	line "Fa una mica de"
+	cont "por, però va!"
 	done
 
 PicnickerTanyaBeatenText:
-	text "Oh, that's it?"
+	text "Oh, ja està?"
 	done
 
 PicnickerTanyaAfterBattleText:
-	text "Oh, look at all"
-	line "your BADGES. No"
+	text "Oh, mira quantes"
+	line "MEDALLES tens."
 
-	para "wonder I couldn't"
-	line "win!"
+	para "No és estrany que"
+	line "no pogués guanyar!"
 	done
 
 BeautyJuliaSeenText:
-	text "Were you looking"
-	line "at these flowers"
-	cont "or at me?"
+	text "Miraves aquestes"
+	line "flors o a mi?"
 	done
 
 BeautyJuliaBeatenText:
-	text "How annoying!"
+	text "Que molest!"
 	done
 
 BeautyJuliaAfterBattleText:
-	text "How do I go about"
-	line "becoming ladylike"
-	cont "like ERIKA?"
+	text "Com puc arribar a"
+	line "ser tan elegant"
+	cont "com l'ERIKA?"
 	done
 
 TwinsJoAndZoe1SeenText:
-	text "We'll show you"
-	line "#MON moves that"
-	cont "ERIKA taught us!"
+	text "T'ensenyarem els"
+	line "moviments # que"
+	cont "l'ERIKA ens va"
+	cont "ensenyar!"
 	done
 
 TwinsJoAndZoe1BeatenText:
-	text "Oh… We lost…"
+	text "Oh… Hem perdut…"
 	done
 
 TwinsJoAndZoe1AfterBattleText:
-	text "ERIKA will get you"
-	line "back for us!"
+	text "L'ERIKA et farà"
+	line "pagar per això!"
 	done
 
 TwinsJoAndZoe2SeenText:
-	text "We're going to"
-	line "protect ERIKA!"
+	text "Protegirem"
+	line "l'ERIKA!"
 	done
 
 TwinsJoAndZoe2BeatenText:
-	text "We couldn't win…"
+	text "No hem pogut"
+	line "guanyar…"
 	done
 
 TwinsJoAndZoe2AfterBattleText:
-	text "ERIKA is much,"
-	line "much stronger!"
+	text "L'ERIKA és molt,"
+	line "molt més forta!"
 	done
 
 CeladonGym_MapEvents:

@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CELADONMANSION3F_COOLTRAINER_M
 	const CELADONMANSION3F_GYM_GUIDE
 	const CELADONMANSION3F_SUPER_NERD
@@ -82,22 +82,22 @@ CeladonMansion3FReferenceMaterial:
 	jumptext CeladonMansion3FReferenceMaterialText
 
 GameFreakGameDesignerText:
-	text "Is that right?"
+	text "Ah, sí?"
 
-	para "I'm the GAME"
-	line "DESIGNER!"
+	para "Sóc el DISSENYADOR"
+	line "DE JOCS!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't give up!"
+	para "Omplir la #DEX"
+	line "és difícil, però"
+	cont "no et rendeixis!"
 	done
 
 GameFreakGameDesignerCompletedPokedexText:
-	text "Wow! Excellent!"
-	line "You completed your"
+	text "Uau! Excel·lent!"
+	line "Has completat la"
 	cont "#DEX!"
 
-	para "Congratulations!"
+	para "Felicitats!"
 	done
 
 GameFreakGameDesignerPauseForDiplomaText:
@@ -105,86 +105,88 @@ GameFreakGameDesignerPauseForDiplomaText:
 	done
 
 GameFreakGameDesignerAfterDiplomaText:
-	text "The GRAPHIC ARTIST"
-	line "will print out a"
-	cont "DIPLOMA for you."
+	text "L'ARTISTA GRÀFIC"
+	line "t'imprimirà un"
+	cont "DIPLOMA."
 
-	para "You should go show"
-	line "it off."
+	para "Hauries d'anar a"
+	line "ensenyar-lo."
 	done
 
 GameFreakGraphicArtistText:
-	text "I'm the GRAPHIC"
-	line "ARTIST."
+	text "Sóc l'ARTISTA"
+	line "GRÀFIC."
 
-	para "I drew you!"
+	para "Et vaig dibuixar!"
 	done
 
 GameFreakGraphicArtistPrintDiplomaText:
-	text "I'm the GRAPHIC"
-	line "ARTIST."
+	text "Sóc l'ARTISTA"
+	line "GRÀFIC."
 
-	para "Oh, you completed"
-	line "your #DEX?"
+	para "Has completat la"
+	line "#DEX?"
 
-	para "Want me to print"
-	line "out your DIPLOMA?"
+	para "Vols que impri-"
+	line "meixi el DIPLOMA?"
 	done
 
 GameFreakGraphicArtistRefusedText:
-	text "Give me a shout if"
-	line "you want your"
-	cont "DIPLOMA printed."
+	text "Avisa'm si vols"
+	line "que t'imprimeixi"
+	cont "el DIPLOMA."
 	done
 
 GameFreakGraphicArtistErrorText:
-	text "Something's wrong."
-	line "I'll have to can-"
-	cont "cel printing."
+	text "Alguna cosa no va"
+	line "bé. Hauré de can-"
+	cont "cel·lar la còpia."
 	done
 
 GameFreakProgrammerText:
-	text "Who, me? I'm the"
-	line "PROGRAMMER."
+	text "Jo? Sóc el"
+	line "PROGRAMADOR."
 
-	para "Play the slot"
-	line "machines!"
+	para "Juga a les"
+	line "màquines escura-"
+	cont "butxaques!"
 	done
 
 GameFreakCharacterDesignerText:
-	text "Aren't the TWINS"
-	line "adorable?"
+	text "Les BESSONES no"
+	line "són adorables?"
 
-	para "JASMINE's pretty"
-	line "too."
+	para "La JASMINE també"
+	line "és bonica."
 
-	para "Oh, I love them!"
+	para "M'encanten!"
 	done
 
 CeladonMansion3FDevRoomSignText:
 	text "GAME FREAK"
-	line "DEVELOPMENT ROOM"
+	line "SALA DESENVOLUPA."
 	done
 
 CeladonMansion3FDrawingText:
-	text "It's a detailed"
-	line "drawing of a"
-	cont "pretty girl."
+	text "És un dibuix"
+	line "detallat d'una"
+	cont "noia bonica."
 	done
 
 CeladonMansion3FGameProgramText:
-	text "It's the game"
-	line "program. Messing"
+	text "És el programa"
+	line "del joc. Tocar-lo"
 
-	para "with it could put"
-	line "a bug in the game!"
+	para "podria posar un"
+	line "bug al joc!"
 	done
 
 CeladonMansion3FReferenceMaterialText:
-	text "It's crammed with"
-	line "reference materi-"
-	cont "als. There's even"
-	cont "a # DOLL."
+	text "Està ple de"
+	line "material de refe-"
+	cont "rència. Fins i"
+	cont "tot hi ha una #"
+	cont "DOLL."
 	done
 
 CeladonMansion3F_MapEvents:

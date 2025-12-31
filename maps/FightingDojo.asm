@@ -20,24 +20,24 @@ FightingDojoFocusBand:
 	itemball FOCUS_BAND
 
 FightingDojoBlackBeltText:
-	text "Hello!"
+	text "Hola!"
 
-	para "KARATE KING, the"
-	line "FIGHTING DOJO's"
+	para "El REI DEL KARATE,"
+	line "mestre del DOJO"
 
-	para "master, is in a"
-	line "cave in JOHTO for"
-	cont "training."
+	para "DE LLUITA, és en"
+	line "una cova a JOHTO"
+	cont "entrenant."
 	done
 
 FightingDojoSign1Text:
-	text "What goes around"
-	line "comes around!"
+	text "Qui la fa, la"
+	line "paga!"
 	done
 
 FightingDojoSign2Text:
-	text "Enemies on every"
-	line "side!"
+	text "Enemics per tots"
+	line "els costats!"
 	done
 
 FightingDojo_MapEvents:

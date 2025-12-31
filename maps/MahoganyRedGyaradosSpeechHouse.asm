@@ -33,29 +33,30 @@ MahoganyRedGyaradosSpeechHouseUnusedBookshelf2: ; unreferenced
 	jumpstd MagazineBookshelfScript
 
 MahoganyRedGyaradosSpeechHouseBlackBeltText:
-	text "I heard that a red"
-	line "GYARADOS appeared"
-	cont "at the LAKE."
+	text "He sentit que un"
+	line "GYARADOS vermell"
+	cont "va aparèixer al"
+	cont "LLAC."
 
-	para "That's odd, since"
-	line "even ordinary"
+	para "És estrany, ja que"
+	line "fins i tot els"
 
-	para "GYARADOS are rare"
-	line "in that lake…"
+	para "GYARADOS normals"
+	line "hi són rars…"
 	done
 
 MahoganyRedGyaradosSpeechHouseTeacherText:
-	text "My favorite radio"
-	line "program? I'd say"
-	cont "#MON MUSIC."
+	text "El meu programa de"
+	line "ràdio preferit?"
+	cont "Música #MON."
 	done
 
 MahoganyRedGyaradosSpeechHouseTeacherText_RocketsInRadioTower:
-	text "I've been hearing"
-	line "laughter on the"
+	text "Sento riures a la"
+	line "ràdio…"
 
-	para "radio…"
-	line "It's creepy."
+	para "Em fa molta"
+	line "angúnia."
 	done
 
 MahoganyRedGyaradosSpeechHouse_MapEvents:

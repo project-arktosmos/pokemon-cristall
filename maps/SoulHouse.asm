@@ -22,52 +22,54 @@ SoulHouseGrannyScript:
 	jumptextfaceplayer SoulHouseGrannyText
 
 MrFujiText:
-	text "MR.FUJI: Welcome."
+	text "SR.FUJI: Hola."
 
-	para "Hmm… You appear to"
-	line "be raising your"
+	para "Hmm… Sembla que"
+	line "cries els teus"
 
-	para "#MON in a kind"
-	line "and loving manner."
+	para "#MON amb molta"
+	line "cura i amor."
 
-	para "#MON lovers"
-	line "come here to pay"
+	para "Els amants dels"
+	line "#MON vénen aquí"
 
-	para "their respects to"
-	line "departed #MON."
+	para "a retre homenatge"
+	line "als #MON"
+	cont "difunts."
 
-	para "Please offer con-"
-	line "dolences for the"
+	para "Si us plau, oferiu"
+	line "el vostre condol"
 
-	para "souls of the de-"
-	line "parted #MON."
+	para "per les ànimes"
+	line "dels #MON"
+	cont "difunts."
 
-	para "I'm sure that will"
-	line "make them happy."
+	para "Segur que això"
+	line "els farà feliços."
 	done
 
 SoulHouseTeacherText:
-	text "There are other"
-	line "graves of #MON"
-	cont "here, I think."
+	text "Hi ha altres"
+	line "tombes de #MON"
+	cont "aquí, crec."
 
-	para "There are many"
-	line "chambers that only"
-	cont "MR.FUJI may enter."
+	para "Hi ha moltes"
+	line "cambres on només"
+	cont "el SR.FUJI pot."
 	done
 
 SoulHouseLassText:
-	text "I came with my mom"
-	line "to visit #MON"
-	cont "graves…"
+	text "He vingut amb la"
+	line "meva mare a veure"
+	cont "tombes de #MON…"
 	done
 
 SoulHouseGrannyText:
-	text "The #MON that"
-	line "lived with me…"
+	text "Els #MON que"
+	line "vivien amb mi…"
 
-	para "I loved them like"
-	line "my grandchildren…"
+	para "Els estimava com"
+	line "als meus néts…"
 	done
 
 SoulHouse_MapEvents:

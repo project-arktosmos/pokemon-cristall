@@ -75,21 +75,21 @@ _Option:
 	ret
 
 StringOptions:
-	db "TEXT SPEED<LF>"
+	db "VELOCITAT<LF>"
 	db "        :<LF>"
-	db "BATTLE SCENE<LF>"
+	db "ESCENA<LF>"
 	db "        :<LF>"
-	db "BATTLE STYLE<LF>"
+	db "ESTIL<LF>"
 	db "        :<LF>"
-	db "SOUND<LF>"
+	db "SO<LF>"
 	db "        :<LF>"
-	db "PRINT<LF>"
+	db "IMPRIMIR<LF>"
 	db "        :<LF>"
-	db "MENU ACCOUNT<LF>"
+	db "COMPTE<LF>"
 	db "        :<LF>"
-	db "FRAME<LF>"
-	db "        :TYPE<LF>"
-	db "CANCEL@"
+	db "MARC<LF>"
+	db "        :TIPUS<LF>"
+	db "CANCEL·LAR@"
 
 GetOptionPointer:
 	jumptable .Pointers, wJumptableIndex
@@ -163,9 +163,9 @@ Options_TextSpeed:
 	dw .Mid
 	dw .Slow
 
-.Fast: db "FAST@"
-.Mid:  db "MID @"
-.Slow: db "SLOW@"
+.Fast: db "RÀPID@"
+.Mid:  db "MIG  @"
+.Slow: db "LENT @"
 
 GetTextSpeed:
 ; converts TEXT_DELAY_* value in a to OPT_TEXT_SPEED_* value in c,
@@ -227,8 +227,8 @@ Options_BattleScene:
 	and a
 	ret
 
-.On:  db "ON @"
-.Off: db "OFF@"
+.On:  db "SÍ @"
+.Off: db "NO @"
 
 Options_BattleStyle:
 	ld hl, wOptions
@@ -265,8 +265,8 @@ Options_BattleStyle:
 	and a
 	ret
 
-.Shift: db "SHIFT@"
-.Set:   db "SET  @"
+.Shift: db "CANVI@"
+.Set:   db "FIXE @"
 
 Options_Sound:
 	ld hl, wOptions
@@ -311,7 +311,7 @@ Options_Sound:
 	ret
 
 .Mono:   db "MONO  @"
-.Stereo: db "STEREO@"
+.Stereo: db "ESTÈREO@"
 
 	const_def
 	const OPT_PRINT_LIGHTEST ; 0
@@ -450,8 +450,8 @@ Options_MenuAccount:
 	and a
 	ret
 
-.Off: db "OFF@"
-.On:  db "ON @"
+.Off: db "NO @"
+.On:  db "SÍ @"
 
 Options_Frame:
 	ld hl, wTextboxFrame

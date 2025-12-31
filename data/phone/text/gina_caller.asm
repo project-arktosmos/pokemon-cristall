@@ -1,118 +1,117 @@
 GinaGettingInSyncWithMonText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text " and"
-	line "I are getting more"
+	text " i jo"
+	line "ens entenem cada"
 
-	para "in sync with each"
-	line "other."
+	para "cop millor."
 	done
 
 GinaDefeatedMonText:
-	text "We battled a wild"
-	line "@"
+	text "Hem lluitat contra"
+	line "un @"
 	text_ram wStringBuffer4
-	text " and"
+	text ""
 
-	para "managed to drop it"
-	line "in a close match."
+	para "salvatge i l'hem"
+	line "vençut per poc."
 
-	para "We're getting into"
-	line "the groove!"
+	para "Ja agafem el"
+	line "ritme!"
 	done
 
 GinaLostAMonText:
-	text "But, you know?"
+	text "Però, saps?"
 
-	para "I still haven't"
-	line "caught @"
+	para "Encara no he"
+	line "atrapat @"
 	text_ram wStringBuffer4
 	text "."
 
-	para "It's getting past"
-	line "frustrating…"
+	para "Ja és més que"
+	line "frustrant…"
 	done
 
 GinaBattleRematchText:
-	text "Would you be my"
-	line "practice partner"
-	cont "again sometime?"
+	text "Vols ser el meu"
+	line "company de pràcti-"
+	cont "ques un altre cop?"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "…Could you take it"
-	line "a little easier on"
-	cont "me next time?"
+	para "…Pots anar una"
+	line "mica més suau el"
+	cont "pròxim cop?"
 	done
 
 GinaHangUpText:
-	text "Bye! Let's chat"
-	line "again!"
+	text "Adéu! Tornem a"
+	line "parlar!"
 	done
 
 GinaRocketTakeoverRumorText:
-	text "Have you heard"
-	line "about TEAM ROCKET?"
+	text "Has sentit parlar"
+	line "de l'EQUIP ROCKET?"
 
-	para "They've taken over"
-	line "the RADIO TOWER in"
-	cont "GOLDENROD."
+	para "Han ocupat la"
+	line "TORRE RÀDIO de"
+	cont "TRIGAL."
 
-	para "Are the people"
-	line "inside safe?"
+	para "La gent de dins"
+	line "estarà bé?"
 	done
 
 GinaFoundItemText:
-	text "I picked up some-"
-	line "thing nice today."
+	text "Avui he trobat"
+	line "una cosa bona."
 
-	para "I want you to have"
-	line "it, so I called!"
+	para "T'ho vull donar,"
+	line "per això truco!"
 
-	para "You will come for"
-	line "it, won't you?"
+	para "Vindràs a buscar-"
+	line "ho, oi?"
 
-	para "@"
+	para "Sóc a"
+	line "@"
 	text_ram wStringBuffer5
-	text " is"
-	line "where I am."
+	text "."
 	done
 
 GinaHaventFoundAnythingYetText:
-	text "Sorry, I haven't"
-	line "found anything"
+	text "Ho sento, encara"
+	line "no he trobat res"
 
-	para "useful yet…"
-	line "I promise, if I"
+	para "útil…"
+	line "Et prometo que,"
 
-	para "find anything, you"
-	line "can have it!"
+	para "si trobo alguna"
+	line "cosa, serà per tu!"
 	done
 
 GinaReminderText:
 	text "Oh, <PLAY_G>!"
-	line "How soon can I"
+	line "Quan em vindràs"
 
-	para "expect to see you"
-	line "for our battle?"
+	para "a veure per al"
+	line "nostre combat?"
 
-	para "Don't forget,"
+	para "No ho oblidis,"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 GinaComePickUpText:
-	text "I'm getting really"
-	line "impatient, waiting"
+	text "M'impaciento"
+	line "esperant per"
 
-	para "to give you my"
-	line "present!"
+	para "donar-te el meu"
+	line "regal!"
 
-	para "Hurry over to"
+	para "Vine ràpid a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"

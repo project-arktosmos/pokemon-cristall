@@ -236,146 +236,145 @@ Movement_NinjaSpin:
 JanineText_DisappointYou:
 	text "Fufufufu…"
 
-	para "I'm sorry to dis-"
-	line "appoint you…"
+	para "Sento decebre't…"
 
-	para "I'm only joking!"
+	para "Era broma!"
 
-	para "I'm the real deal!"
+	para "Sóc l'autèntica!"
 
-	para "JANINE of FUCHSIA"
-	line "GYM, that's me!"
+	para "JANINE del GIMNÀS"
+	line "FÚCSIA, sóc jo!"
 	done
 
 JanineText_ToughOne:
-	text "JANINE: You're a"
-	line "tough one. You"
-	cont "definitely won…"
+	text "JANINE: Ets molt"
+	line "dur. Sens dubte"
+	cont "has guanyat…"
 
-	para "Here's SOULBADGE."
-	line "Take it."
+	para "Aquí tens la"
+	line "MEDALLA ÀNIMA."
 	done
 
 Text_ReceivedSoulBadge:
-	text "<PLAYER> received"
-	line "SOULBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA ÀNIMA."
 	done
 
 JanineText_ToxicSpeech:
-	text "JANINE: You're so"
-	line "tough! I have a"
-	cont "special gift!"
+	text "JANINE: Ets molt"
+	line "fort! Tinc un"
+	cont "regal especial!"
 
-	para "It's TOXIC, a pow-"
-	line "erful poison that"
+	para "És TOXIC, un verí"
+	line "potent que redueix"
 
-	para "steadily saps the"
-	line "victim's HP."
+	para "els PS de la"
+	line "víctima."
 	done
 
 JanineText_ApplyMyself:
-	text "JANINE: I'm going"
-	line "to really apply"
+	text "JANINE: M'esforça-"
+	line "ré molt i millora-"
 
-	para "myself and improve"
-	line "my skills."
+	para "ré les meves"
+	line "habilitats."
 
-	para "I want to become"
-	line "better than both"
-	cont "Father and you!"
+	para "Vull ser millor"
+	line "que el Pare i"
+	cont "que tu!"
 	done
 
 LassAliceBeforeText:
 	text "Fufufu!"
 
-	para "I'm JANINE, the"
-	line "GYM LEADER!"
+	para "Sóc JANINE, la"
+	line "LÍDER del GIMNÀS!"
 
-	para "No, I'm not!"
-	line "Gotcha, sucker!"
+	para "No, no ho sóc!"
+	line "T'he enganyat!"
 	done
 
 LassAliceBeatenText:
-	text "I had you fooled…"
+	text "T'havia enganyat…"
 	done
 
 LassAliceAfterText:
-	text "How will you dis-"
-	line "tinguish our real"
-	cont "LEADER?"
+	text "Com distingiràs"
+	line "la nostra LÍDER"
+	cont "autèntica?"
 	done
 
 LassLindaBeforeText:
-	text "Fooled you!"
+	text "T'he enganyat!"
 	line "Hahaha!"
 	done
 
 LassLindaBeatenText:
-	text "Ooh… I lost…"
-	line "You're not weak…"
+	text "Oh… He perdut…"
+	line "No ets feble…"
 	done
 
 LassLindaAfterText:
-	text "Well? Wasn't my"
-	line "disguise perfect?"
+	text "Què? No era"
+	line "perfecte la meva"
+	cont "disfressa?"
 	done
 
 PicnickerCindyBeforeText:
-	text "I'm JANINE!"
+	text "Sóc JANINE!"
 
-	para "How did you know I"
-	line "was real?"
+	para "Com has sabut que"
+	line "era l'autèntica?"
 
-	para "Let's battle!"
+	para "Lluitem!"
 	done
 
 PicnickerCindyBeatenText:
-	text "Darn it!"
-	line "I wanted to win!"
+	text "Llàstima!"
+	line "Volia guanyar!"
 	done
 
 PicnickerCindyAfterText:
-	text "You must be"
-	line "getting tired."
+	text "Deus estar"
+	line "cansant-te."
 	done
 
 CamperBarryBeforeText:
 	text "Wahahaha!"
 
-	para "You betcha!"
-	line "I'm JANINE!"
+	para "És clar!"
+	line "Sóc JANINE!"
 	done
 
 CamperBarryBeatenText:
-	text "My disguise was"
-	line "right on! Dang!"
+	text "La meva disfressa"
+	line "era bona! Renoi!"
 	done
 
 CamperBarryAfterText:
-	text "Hey, you. Was my"
-	line "disguise cute or"
-	cont "what, huh?"
+	text "Ei, tu. Era bonica"
+	line "la meva disfressa"
+	cont "o què, eh?"
 	done
 
 FuchsiaGymGuideText:
-	text "Yo, CHAMP in"
-	line "making!"
+	text "Ei, futur CAMPIÓ!"
 
-	para "Whoops! Take a"
-	line "good look around"
+	para "Ui! Mira bé al"
+	line "teu voltant."
 
-	para "you. The trainers"
-	line "all look like the"
-	cont "LEADER, JANINE."
+	para "Els entrenadors"
+	line "semblen la LÍDER,"
+	cont "JANINE."
 
-	para "Which of them is"
-	line "the real JANINE?"
+	para "Quina d'elles és"
+	line "la JANINE real?"
 	done
 
 FuchsiaGymGuideWinText:
-	text "That was a great"
-	line "battle, trainer"
-	cont "from JOHTO!"
+	text "Ha estat un gran"
+	line "combat, entrena-"
+	cont "dor de JOHTO!"
 	done
 
 FuchsiaGym_MapEvents:

@@ -25,18 +25,18 @@ BlackthornDragonSpeechHouseMagazineBookshelf: ; unreferenced
 	jumpstd MagazineBookshelfScript
 
 BlackthornDragonSpeechHouseGrannyText:
-	text "A clan of trainers"
-	line "who can freely"
+	text "Un clan d'entrena-"
+	line "dors que dominen"
 
-	para "command dragons"
-	line "live right here in"
-	cont "BLACKTHORN."
+	para "els dracs viu"
+	line "aquí mateix, a"
+	cont "POKEMON."
 
-	para "As a result, there"
-	line "are many legends"
+	para "Per això, hi ha"
+	line "moltes llegendes"
 
-	para "about dragons in"
-	line "this town."
+	para "sobre dracs en"
+	line "aquesta ciutat."
 	done
 
 BlackthornDragonSpeechHouseDratiniText:

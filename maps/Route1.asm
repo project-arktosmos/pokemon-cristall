@@ -1,7 +1,7 @@
-	object_const_def
-	const ROUTE1_YOUNGSTER
-	const ROUTE1_COOLTRAINER_F
-	const ROUTE1_FRUIT_TREE
+object_const_def
+const ROUTE1_YOUNGSTER
+const ROUTE1_COOLTRAINER_F
+const ROUTE1_FRUIT_TREE
 
 Route1_MapScripts:
 	def_scene_scripts
@@ -37,45 +37,46 @@ Route1FruitTree:
 	fruittree FRUITTREE_ROUTE_1
 
 SchoolboyDannySeenText:
-	text "If trainers meet,"
-	line "the first thing to"
-	cont "do is battle."
+	text "Si dos entrenadors"
+	line "es troben, el més"
+	cont "normal és lluitar."
 	done
 
 SchoolboyDannyBeatenText:
-	text "Awww… I've got a"
-	line "losing record…"
+	text "Oh no… Tinc més"
+	line "derrotes que no"
+	cont "pas victòries…"
 	done
 
 SchoolboyDannyAfterBattleText:
-	text "For trainers, it's"
-	line "a given that we'll"
+	text "Per als"
+	line "entrenadors, és"
 
-	para "battle whenever we"
-	line "meet."
+	para "normal lluitar"
+	line "quan ens trobem."
 	done
 
 CooltrainerfQuinnSeenText:
-	text "You there!"
-	line "Want to battle?"
+	text "Tu, aquí!"
+	line "Vols lluitar?"
 	done
 
 CooltrainerfQuinnBeatenText:
-	text "Down and out…"
+	text "Estic feta pols…"
 	done
 
 CooltrainerfQuinnAfterBattleText:
-	text "You're strong."
+	text "Ets molt fort."
 
-	para "You obviously must"
-	line "have trained hard."
+	para "És evident que"
+	line "has entrenat molt."
 	done
 
 Route1SignText:
-	text "ROUTE 1"
+	text "RUTA 1"
 
-	para "PALLET TOWN -"
-	line "VIRIDIAN CITY"
+	para "POBLE PALETA -"
+	line "CIUTAT VIRIDIANA"
 	done
 
 Route1_MapEvents:

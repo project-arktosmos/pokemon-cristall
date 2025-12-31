@@ -152,10 +152,10 @@ GoldenrodGameCornerTMVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "TM25    5500@"
-	db "TM14    5500@"
-	db "TM38    5500@"
-	db "CANCEL@"
+	db "MT25    5500@"
+	db "MT14    5500@"
+	db "MT38    5500@"
+	db "ANUL·LA@"
 
 GoldenrodGameCornerPrizeMonVendorScript:
 	faceplayer
@@ -241,7 +241,7 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	db "ABRA        100@"
 	db "CUBONE      800@"
 	db "WOBBUFFET  1500@"
-	db "CANCEL@"
+	db "ANUL·LA@"
 
 GoldenrodGameCornerPharmacistScript:
 	faceplayer
@@ -320,160 +320,162 @@ GoldenrodGameCornerCardFlipMachineScript:
 	end
 
 GoldenrodGameCornerPrizeVendorIntroText:
-	text "Welcome!"
+	text "Benvingut!"
 
-	para "We exchange your"
-	line "game coins for"
-	cont "fabulous prizes!"
+	para "Canviem les teves"
+	line "fitxes de joc per"
+	cont "premis fabulosos!"
 	done
 
 GoldenrodGameCornerPrizeVendorWhichPrizeText:
-	text "Which prize would"
-	line "you like?"
+	text "Quin premi vols?"
 	done
 
 GoldenrodGameCornerPrizeVendorConfirmPrizeText:
 	text_ram wStringBuffer3
 	text "."
-	line "Is that right?"
+	line "És correcte?"
 	done
 
 GoldenrodGameCornerPrizeVendorHereYouGoText:
-	text "Here you go!"
+	text "Aquí tens!"
 	done
 
 GoldenrodGameCornerPrizeVendorNeedMoreCoinsText:
-	text "Sorry! You need"
-	line "more coins."
+	text "Ho sento! Et calen"
+	line "més fitxes."
 	done
 
 GoldenrodGameCornerPrizeVendorNoMoreRoomText:
-	text "Sorry. You can't"
-	line "carry any more."
+	text "Ho sento. No pots"
+	line "portar-ne més."
 	done
 
 GoldenrodGameCornerPrizeVendorQuitText:
-	text "OK. Please save"
-	line "your coins and"
-	cont "come again!"
+	text "D'acord. Estalvia"
+	line "les fitxes i"
+	cont "torna-hi!"
 	done
 
 GoldenrodGameCornerPrizeVendorNoCoinCaseText:
-	text "Oh? You don't have"
-	line "a COIN CASE."
+	text "Oh? No tens cap"
+	line "MONEDER."
 	done
 
 GoldenrodGameCornerPharmacistText:
 if DEF(_CRYSTAL_AU)
-	text "This machine looks"
-	line "the same as the"
-	cont "others."
+	text "Aquesta màquina"
+	line "sembla igual que"
+	cont "les altres."
 	done
 else
-	text "I always play this"
-	line "slot machine. It"
+	text "Sempre jugo a"
+	line "aquesta escura-"
+	cont "butxaques."
 
-	para "pays out more than"
-	line "others, I think."
+	para "Crec que paga més"
+	line "que les altres."
 	done
 endc
 
 GoldenrodGameCornerPokefanM1Text:
 if DEF(_CRYSTAL_AU)
-	text "These machines"
-	line "seem different"
+	text "Aquestes màquines"
+	line "semblen diferents"
 
-	para "from the ones at"
-	line "CELADON CITY!"
+	para "de les de CIUTAT"
+	line "CARAMEL!"
 	done
 else
-	text "I just love this"
-	line "new slot machine."
+	text "M'encanta aquesta"
+	line "escurabutxaques."
 
-	para "It's more of a"
-	line "challenge than the"
-	cont "ones in CELADON."
+	para "És més difícil que"
+	line "les de CARAMEL."
 	done
 endc
 
 GoldenrodGameCornerCooltrainerMText:
 if DEF(_CRYSTAL_AU)
-	text "Nothing is certain"
-	line "in this area."
+	text "Res no és segur"
+	line "en aquesta zona."
 	done
 else
-	text "Life is a gamble."
-	line "I'm going to flip"
-	cont "cards till I drop!"
+	text "La vida és un joc"
+	line "d'atzar. Giraré"
+	cont "cartes fins morir!"
 	done
 endc
 
 GoldenrodGameCornerPokefanFText:
-	text "Card flip…"
+	text "Girar cartes…"
 
 if DEF(_CRYSTAL_AU)
-	para "Different from the"
-	line "other machines."
+	para "Diferent de les"
+	line "altres màquines."
 	done
 else
-	para "I prefer it over"
-	line "the slots because"
+	para "Ho prefereixo a"
+	line "les escurabutxa-"
+	cont "ques perquè és"
 
-	para "it's easier to"
-	line "figure the odds."
+	para "més fàcil calcular"
+	line "les probabilitats."
 
-	para "But the payout is"
-	line "much lower."
+	para "Però el premi és"
+	line "molt més baix."
 	done
 endc
 
 GoldenrodGameCornerCooltrainerFText:
-	text "I won't quit until"
-	line "I win!"
+	text "No deixaré fins"
+	line "que guanyi!"
 	done
 
 GoldenrodGameCornerGentlemanText:
-	text "I taught BLIZZARD"
-	line "to my #MON."
+	text "Vaig ensenyar"
+	line "BLIZZARD al meu"
+	cont "#."
 
-	para "It was hard to get"
-	line "enough coins for"
+	para "Va ser difícil"
+	line "aconseguir prou"
 
-	para "it, but it was"
-	line "worth it."
+	para "fitxes, però va"
+	line "valer la pena."
 	done
 
 GoldenrodGameCornerPokefanM2Text:
 if DEF(_CRYSTAL_AU)
-	text "COIN CASE? I threw"
-	line "it away in the"
-	cont "UNDERGROUND."
+	text "MONEDER? El vaig"
+	line "llençar al"
+	cont "SOTERRANI."
 	done
 else
-	text "I couldn't win at"
-	line "the slots, and I"
+	text "No podia guanyar a"
+	line "les escurabutxa-"
+	cont "ques, i ho vaig"
 
-	para "blew it on card"
-	line "flipping…"
+	para "perdre tot girant"
+	line "cartes…"
 
-	para "I got so furious,"
-	line "I tossed out my"
+	para "Em vaig enfadar"
+	line "tant que vaig"
 
-	para "COIN CASE in the"
-	line "UNDERGROUND."
+	para "llençar el MONEDER"
+	line "al SOTERRANI."
 	done
 endc
 
 MoveTutorInsideText:
-	text "Wahahah! The coins"
-	line "keep rolling in!"
+	text "Uahaha! Les fitxes"
+	line "no paren d'entrar!"
 	done
 
 GoldenrodGameCornerLeftTheirDrinkText:
-	text "Someone left their"
-	line "drink."
+	text "Algú s'ha deixat"
+	line "la beguda."
 
-	para "It smells sweet."
+	para "Fa olor de dolç."
 	done
 
 GoldenrodGameCorner_MapEvents:

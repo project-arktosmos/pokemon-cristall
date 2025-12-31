@@ -32,27 +32,27 @@ Rattey:
 	end
 
 ViridianNicknameSpeechHousePokefanMText:
-	text "Do you put a lot"
-	line "of thought into"
+	text "Penses molt a"
+	line "l'hora de posar"
 
-	para "naming your"
+	para "nom als teus"
 	line "#MON?"
 
-	para "Giving them good"
-	line "nicknames adds to"
+	para "Posar-los bons"
+	line "sobrenoms fa més"
 
-	para "the fun of trading"
-	line "with others."
+	para "divertit canviar"
+	line "amb altres."
 	done
 
 ViridianNicknameSpeechHouseLassText:
-	text "They're SPEARY--"
-	line "a SPEAROW--and"
-	cont "RATTEY--a RATTATA."
+	text "Són SPEARY, un"
+	line "SPEAROW, i RATTEY"
+	cont "un RATTATA."
 	done
 
 SpearyText:
-	text "SPEARY: Ch-chun!"
+	text "SPEARY: Txu-txun!"
 	done
 
 RatteyText:

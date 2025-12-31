@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const KOGASROOM_KOGA
 
 KogasRoom_MapScripts:
@@ -79,52 +79,53 @@ KogasRoom_EnterMovement:
 	step_end
 
 KogaScript_KogaBeforeText:
-	text "Fwahahahaha!"
+	text "Muahahaha!"
 
-	para "I am KOGA of the"
-	line "ELITE FOUR."
+	para "Soc KOGA, de"
+	line "l'ALTA CÚPULA."
 
-	para "I live in shadows,"
-	line "a ninja!"
+	para "Visc a les ombres,"
+	line "soc un ninja!"
 
-	para "My intricate style"
-	line "will confound and"
-	cont "destroy you!"
+	para "El meu estil"
+	line "intricat et"
+	cont "confondrà!"
 
-	para "Confusion, sleep,"
-	line "poison…"
+	para "Confusió, son,"
+	line "verí…"
 
-	para "Prepare to be the"
-	line "victim of my sin-"
-	cont "ister technique!"
+	para "Prepara't per ser"
+	line "la víctima de la"
+	cont "meva tècnica!"
 
-	para "Fwahahahaha!"
+	para "Muahahaha!"
 
-	para "#MON is not"
-	line "merely about brute"
+	para "Els # no són"
+	line "només força"
 
-	para "force--you shall"
-	line "see soon enough!"
+	para "bruta. Ho veuràs"
+	line "aviat!"
 	done
 
 KogaScript_KogaBeatenText:
 	text "Ah!"
-	line "You have proven"
-	cont "your worth!"
+	line "Has demostrat"
+	cont "la teva vàlua!"
 	done
 
 KogaScript_KogaDefeatText:
-	text "I subjected you to"
-	line "everything I could"
-	cont "muster."
+	text "T'he sotmès a tot"
+	line "el que he pogut"
+	cont "reunir."
 
-	para "But my efforts"
-	line "failed. I must"
-	cont "hone my skills."
+	para "Però he fallat."
+	line "He de perfeccionar"
+	cont "les meves arts."
 
-	para "Go on to the next"
-	line "room, and put your"
-	cont "abilities to test!"
+	para "Ves a la sala"
+	line "següent i posa a"
+	cont "prova les teves"
+	cont "habilitats!"
 	done
 
 KogasRoom_MapEvents:

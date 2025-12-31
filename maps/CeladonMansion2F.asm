@@ -13,38 +13,39 @@ CeladonMansion2FBookshelf:
 	jumpstd DifficultBookshelfScript
 
 CeladonMansion2FComputerText:
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "<PLAYER> ha engegat"
+	line "el PC."
 
 	para "…"
 
-	para "Someone was in the"
-	line "middle of compos-"
-	cont "ing an e-mail."
+	para "Algú estava a"
+	line "mig d'escriure un"
+	cont "correu."
 
-	para "…I hope you'll"
-	line "come visit KANTO."
+	para "…Espero que"
+	line "vinguis"
+	cont "a visitar KANTO."
 
-	para "I think you'll be"
-	line "surprised at how"
+	para "Crec que et"
+	line "sorprendrà veure"
 
-	para "much things have"
-	line "changed here."
+	para "com han canviat"
+	line "les coses aquí."
 
-	para "You'll also see"
-	line "many #MON that"
+	para "També hi veuràs"
+	line "molts #MON que"
 
-	para "aren't native to"
-	line "JOHTO."
+	para "no són originaris"
+	line "de JOHTO."
 
-	para "To the PRODUCER"
+	para "Al PRODUCTOR"
 
 	para "…"
 	done
 
 CeladonMansion2FMeetingRoomSignText:
 	text "GAME FREAK"
-	line "MEETING ROOM"
+	line "SALA DE REUNIONS"
 	done
 
 CeladonMansion2F_MapEvents:

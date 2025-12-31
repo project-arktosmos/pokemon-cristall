@@ -1,69 +1,68 @@
 ParryNothingCanMatchText:
-	text "Nothing can match"
-	line "my @"
+	text "Res no pot vèncer"
+	line "el meu @"
 	text_ram wStringBuffer4
-	text " now."
+	text "."
 	done
 
 ParryDefeatedMonText:
-	text "Yeah, we KO'd a"
-	line "wild @"
+	text "Hem deixat KO un"
+	line "@"
 	text_ram wStringBuffer4
-	text "!"
+	text " salvatge!"
 
-	para "That was OK, but I"
-	line "wanted to get it…"
+	para "Ha estat bé, però"
+	line "el volia atrapar…"
 	done
 
 ParryLostAMonText:
-	text "And yesterday, we"
-	line "spotted a wild"
-
-	para "@"
+	text "Ahir vam veure un"
+	line "@"
 	text_ram wStringBuffer4
-	text "."
-	line "We were debating"
+	text " salvatge."
 
-	para "whether to catch"
-	line "it or beat it."
+	para "Estàvem pensant"
+	line "si l'atrapàvem"
 
-	para "When along came"
-	line "another guy who"
+	para "o el derrotàvem."
 
-	para "caught it!"
-	line "How about that!"
+	para "Llavors va venir"
+	line "un altre i el va"
+
+	para "atrapar!"
+	line "Què et sembla!"
 	done
 
 ParryBattleRematchText:
-	text "You're thinking"
-	line "you'd like to"
+	text "Estàs pensant que"
+	line "vols combatre amb"
 
-	para "battle me. Am I"
-	line "right or what?"
+	para "mi. Tinc raó o"
+	line "no?"
 
-	para "Yep! We'll meet on"
+	para "Ens veiem a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 ParryHangUpText:
-	text "OK, give me a call"
-	line "again!"
+	text "Truca'm un altre"
+	line "cop!"
 	done
 
 ParryBattleWithMeText:
-	text "You'll battle with"
-	line "me again, right?"
+	text "Tornaràs a lluitar"
+	line "amb mi, oi?"
 	done
 
 ParryHaventYouGottenToText:
-	text "Haven't you gotten"
-	line "to @"
+	text "Encara no has"
+	line "arribat a @"
 	text_ram wStringBuffer5
 	text "?"
 
-	para "Waiting here isn't"
-	line "bad, but I'd sure"
-	cont "like to battle!"
+	para "Esperar aquí no"
+	line "està malament,"
+	cont "però vull lluitar!"
 	done

@@ -16,35 +16,36 @@ FishingDudesHouseBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 FishingDudeText:
-	text "I am the FISHING"
-	line "DUDE, the elder of"
-	cont "the FISHING BROS."
+	text "Sóc el PESCADOR,"
+	line "el gran de la"
+	cont "FAMÍLIA PESCADORA."
 
-	para "Have you met the"
-	line "FISHING GURU at"
-	cont "LAKE OF RAGE?"
+	para "Has conegut el"
+	line "GURU PESCADOR del"
+	cont "LLAC DE LA IRA?"
 
-	para "He dreams about"
-	line "seeing the world's"
-	cont "greatest MAGIKARP."
+	para "Somia amb veure"
+	line "el MAGIKARP més"
+	cont "gran del món."
 
-	para "If you don't mind,"
-	line "could you show him"
+	para "Si no et sap greu,"
+	line "li podries mostrar"
 
-	para "any MAGIKARP you"
-	line "catch?"
+	para "els MAGIKARP que"
+	line "pesquis?"
 
-	para "Who knows, you may"
-	line "catch the MAGIKARP"
-	cont "of his dreams."
+	para "Qui sap, potser"
+	line "pesques el"
+	cont "MAGIKARP"
+	cont "dels seus somnis."
 	done
 
 FishingDudesHousePhotoText:
-	text "It's a photo of"
-	line "people fishing…"
+	text "És una foto de"
+	line "gent pescant…"
 
-	para "They're having a"
-	line "great time…"
+	para "S'ho passen"
+	line "d'allò més bé…"
 	done
 
 VermilionFishingSpeechHouse_MapEvents:

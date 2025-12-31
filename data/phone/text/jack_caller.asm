@@ -1,192 +1,194 @@
 JackIntelligenceKeepsRisingText:
-	text "My @"
+	text "La intel·ligència"
+	line "del meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "intelligence keeps"
+	text ""
 
-	para "rising. It might"
-	line "be smarter than"
-	cont "yours!"
+	para "no para de"
+	line "créixer."
+	cont "Potser és més"
+	cont "llest"
+	cont "que el teu!"
 	done
 
 JackDefeatedMonText:
-	text "The other day, I"
-	line "easily defeated a"
-	cont "@"
+	text "L'altre dia vaig"
+	line "vèncer fàcilment"
+	cont "un @"
 	text_ram wStringBuffer4
 	text "."
 
-	para "I think swapping"
-	line "tips with you is"
-	cont "starting to help."
+	para "Crec que compartir"
+	line "consells amb tu"
+	cont "m'està ajudant."
 	done
 
 JackLostAMonText:
-	text "Oh, and listen."
-	line "I missed catching"
+	text "Ah, escolta."
+	line "Per poc no vaig"
 
-	para "a @"
+	para "capturar un"
+	line "@"
 	text_ram wStringBuffer4
-	text " by"
-	line "just a tiny bit."
+	text "."
 
-	para "If I'd been a bit"
-	line "more informed, I'm"
+	para "Si hagués sabut"
+	line "una mica més,"
 
-	para "sure I would've"
-	line "caught it…"
+	para "segur que l'hauria"
+	line "atrapat…"
 	done
 
 JackBattleRematchText:
-	text "Do you want to"
-	line "battle? I'll show"
+	text "Vols combatre?"
+	line "Et mostraré com"
 
-	para "you how to battle"
-	line "logically."
+	para "es combat amb"
+	line "lògica."
 
-	para "I'll be in"
+	para "Seré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "Give me a shout if"
-	line "you're nearby."
+	para "Avisa'm si passes"
+	line "per aquí."
 	done
 
 JackHangUpText:
-	text "See you later!"
+	text "Fins aviat!"
 	done
 
 JackThunderTriviaText:
-	text "Did you know?"
+	text "Ho sabies?"
 
-	para "When it's raining,"
-	line "THUNDER is sure to"
-	cont "strike."
+	para "Quan plou, THUNDER"
+	line "sempre encerta."
 	done
 
 JackRolloutTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If you use DEFENSE"
-	line "CURL, ROLLOUT's"
+	para "Si uses DEFENSE"
+	line "CURL, el poder de"
 
-	para "power goes way up"
-	line "past normal."
+	para "ROLLOUT augmenta"
+	line "molt."
 	done
 
 JackSolarbeamTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If the sunlight is"
-	line "harsh, SOLARBEAM"
+	para "Si fa sol intens,"
+	line "SOLARBEAM no"
 
-	para "doesn't need to be"
-	line "charged up."
+	para "necessita"
+	line "carregar-se."
 	done
 
 JackStompTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If the opponent"
-	line "uses MINIMIZE,"
+	para "Si el rival usa"
+	line "MINIMIZE, el teu"
 
-	para "your STOMP becomes"
-	line "more powerful."
+	para "STOMP es torna"
+	line "més potent."
 	done
 
 JackGustTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If your opponent"
-	line "is FLYing, your"
+	para "Si el rival usa"
+	line "FLY, el teu GUST"
 
-	para "GUST becomes much"
-	line "more powerful."
+	para "es torna molt"
+	line "més potent."
 	done
 
 JackTwisterTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If your opponent"
-	line "is FLYing, your"
+	para "Si el rival usa"
+	line "FLY, el teu"
 
-	para "TWISTER becomes"
-	line "more powerful."
+	para "TWISTER es torna"
+	line "més potent."
 	done
 
 JackEarthquakeTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If your opponent"
-	line "uses DIG, your"
+	para "Si el rival usa"
+	line "DIG, el teu"
 
-	para "EARTHQUAKE becomes"
-	line "more powerful."
+	para "EARTHQUAKE es"
+	line "torna més potent."
 	done
 
 JackMagnitudeTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If your opponent"
-	line "uses DIG, your"
+	para "Si el rival usa"
+	line "DIG, el teu"
 
-	para "MAGNITUDE becomes"
-	line "more powerful."
+	para "MAGNITUDE es"
+	line "torna més potent."
 	done
 
 JackSandstormTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "The rock, ground"
-	line "and steel types"
+	para "Els tipus roca,"
+	line "terra i acer no"
 
-	para "can't be hurt by"
+	para "reben dany de"
 	line "SANDSTORM."
 	done
 
 JackSunnyDayTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "If the sunlight is"
-	line "harsh, water-type"
+	para "Si fa sol intens,"
+	line "els moviments"
 
-	para "moves become much"
-	line "weaker."
+	para "d'aigua es tornen"
+	line "més febles."
 	done
 
 JackRainDanceTriviaText:
-	text "Did you know…?"
+	text "Ho sabies?"
 
-	para "When it's raining,"
-	line "fire-type moves"
+	para "Quan plou, els"
+	line "moviments de foc"
 
-	para "become much weaker"
-	line "than usual."
+	para "es tornen més"
+	line "febles del normal."
 	done
 
 JackHeardSomeGreatTipsText:
-	text "My friend heard"
-	line "some great tips."
+	text "El meu amic ha"
+	line "descobert consells"
+	cont "genials."
 
-	para "He's going to let"
-	line "me in on some."
+	para "Me n'explicarà"
+	line "uns quants."
 
-	para "When he tells me,"
-	line "I'll call right"
-	cont "away and tell you."
+	para "Quan m'ho digui,"
+	line "et trucaré de"
+	cont "seguida."
 	done
 
 JackReminderText:
-	text "Hey, <PLAY_G>!"
+	text "Ei, <PLAY_G>!"
 
-	para "Do you remember"
-	line "your promise?"
+	para "Recordes la teva"
+	line "promesa?"
 
-	para "We have to battle"
-	line "soon!"
+	para "Hem de combatre"
+	line "aviat!"
 
-	para "I'll be at"
+	para "Seré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."

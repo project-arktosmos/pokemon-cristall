@@ -148,68 +148,69 @@ RuinsOfAlphOutsidePlayerEnterLabMovement:
 	step_end
 
 RuinsOfAlphOutsideScientistText:
-	text "Hm? That's a #-"
-	line "DEX, isn't it?"
-	cont "May I see it?"
+	text "Hm? Això és una"
+	line "#DEX, oi?"
+	cont "Puc veure-la?"
 
-	para "There are so many"
-	line "kinds of #MON."
+	para "Hi ha tants tipus"
+	line "de #MON."
 
-	para "Hm? What's this?"
+	para "Hm? Què és això?"
 
-	para "What is this"
+	para "Quin és aquest"
 	line "#MON?"
 
-	para "It looks like the"
-	line "strange writing on"
+	para "S'assembla a"
+	line "l'estranya"
 
-	para "the walls of the"
-	line "RUINS."
+	para "escriptura de les"
+	line "parets de RUÏNES."
 
-	para "If those drawings"
-	line "are really #-"
-	cont "MON, there should"
-	cont "be many more."
+	para "Si els dibuixos"
+	line "són realment #-"
+	cont "MON, n'hi hauria"
+	cont "d'haver més."
 
-	para "I know! Let me up-"
-	line "grade your #-"
-	cont "DEX. Follow me."
+	para "Ja ho sé! Deixa'm"
+	line "millorar la teva"
+	cont "#DEX."
+	cont "Segueix-me."
 	done
 
 SuperNerdStanSeenText:
-	text "What do you want?"
-	line "I'm studying--"
-	cont "don't disturb me!"
+	text "Què vols?"
+	line "Estic estudiant,"
+	cont "no em molestis!"
 	done
 
 SuperNerdStanBeatenText:
-	text "Sorry…"
-	line "I'm frustrated by"
+	text "Ho sento…"
+	line "Estic frustrat"
 
-	para "our lack of real"
-	line "understanding…"
+	para "per la nostra"
+	line "manca de veritable"
+	cont "comprensió…"
 	done
 
 SuperNerdStanAfterBattleText:
-	text "The RUINS are from"
-	line "about 1500 years"
-	cont "ago."
+	text "Les RUÏNES són de"
+	line "fa uns 1500 anys."
 
-	para "Nobody knows who"
-	line "built them."
+	para "Ningú sap qui les"
+	line "va construir."
 
-	para "It's also not"
-	line "known if the #-"
-	cont "MON statues have"
-	cont "any meaning."
+	para "Tampoc se sap si"
+	line "les estàtues de"
+	cont "#MON tenen"
+	cont "algun significat."
 
-	para "It's all one big"
-	line "mystery…"
+	para "Tot és un gran"
+	line "misteri…"
 	done
 
 PsychicNathanSeenText:
-	text "Hmmm… This is a"
-	line "strange place."
+	text "Hmmm… Aquest és"
+	line "un lloc estrany."
 	done
 
 PsychicNathanBeatenText:
@@ -217,65 +218,66 @@ PsychicNathanBeatenText:
 	done
 
 PsychicNathanAfterBattleText:
-	text "I like thinking"
-	line "here."
+	text "M'agrada pensar"
+	line "aquí."
 	done
 
 RuinsOfAlphOutsideMysteryChamberSignText:
-	text "MYSTERY STONE"
-	line "PANEL CHAMBER"
+	text "CAMBRA DEL PANELL"
+	line "DE PEDRA MISTERIÓS"
 	done
 
 RuinsOfAlphSignText:
-	text "RUINS OF ALPH"
-	line "VISITORS WELCOME"
+	text "RUÏNES D'ALPH"
+	line "VISITANTS"
+	cont "BENVINGUTS"
 	done
 
 RuinsOfAlphResearchCenterSignText:
-	text "RUINS OF ALPH"
-	line "RESEARCH CENTER"
+	text "CENTRE D'ESTUDIS"
+	line "RUÏNES D'ALPH"
 
-	para "THE AUTHORITY ON"
-	line "THE RUINS OF ALPH"
+	para "L'AUTORITAT SOBRE"
+	line "LES RUÏNES D'ALPH"
 	done
 
 RuinsOfAlphOutsideFisherText1:
-	text "While exploring"
-	line "the RUINS, we"
+	text "Mentre exploràvem"
+	line "les RUÏNES, vam"
 
-	para "suddenly noticed"
-	line "an odd presence."
+	para "notar de sobte"
+	line "una presència."
 
-	para "We all got scared"
-	line "and ran away."
+	para "Tots ens vam"
+	line "espantar i fugir."
 
-	para "You should be"
-	line "careful too."
+	para "Tu també hauries"
+	line "d'anar amb compte."
 	done
 
 RuinsOfAlphOutsideFisherText2:
-	text "The RUINS hide a"
-	line "huge secret!"
+	text "Les RUÏNES amaguen"
+	line "un gran secret!"
 
-	para "…I think…"
+	para "…crec…"
 	done
 
 RuinsOfAlphOutsideYoungster1Text:
-	text "There are many"
-	line "kinds of UNOWN, so"
+	text "Hi ha molts tipus"
+	line "d'UNOWN, així que"
 
-	para "we use them for"
-	line "our secret codes."
+	para "els fem servir per"
+	line "als codis secrets."
 	done
 
 RuinsOfAlphOutsideYoungster2Text:
 	text "A… H… E… A… D…"
 	line "Hmm…"
 
-	para "What?"
+	para "Què?"
 
-	para "I'm decoding this"
-	line "message!"
+	para "Estic desxifrant"
+	line "aquest missatge!"
 	done
 
 RuinsOfAlphOutside_MapEvents:

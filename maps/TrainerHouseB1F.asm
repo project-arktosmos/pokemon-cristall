@@ -110,61 +110,61 @@ Movement_TrainerHouseTurnBack:
 	step_end
 
 TrainerHouseB1FIntroText:
-	text "Hi. Welcome to our"
-	line "TRAINING HALL."
+	text "Hola! Benvingut a"
+	line "la SALA D'ENTRENA-"
+	cont "MENT."
 
-	para "You may battle a"
-	line "trainer once per"
-	cont "day."
+	para "Pots combatre un"
+	line "entrenador un cop"
+	cont "al dia."
 	done
 
 TrainerHouseB1FYourOpponentIsText:
 	text_ram wStringBuffer3
-	text " is your"
-	line "opponent today."
+	text " és el teu"
+	line "oponent d'avui."
 	done
 
 TrainerHouseB1FAskWantToBattleText:
-	text "Would you like to"
-	line "battle?"
+	text "Vols combatre?"
 	done
 
 TrainerHouseB1FGoRightInText:
-	text "Please go right"
-	line "through."
+	text "Passa endavant,"
+	line "si us plau."
 
-	para "You may begin"
-	line "right away."
+	para "Pots començar"
+	line "quan vulguis."
 	done
 
 TrainerHouseB1FPleaseComeAgainText:
-	text "Sorry. Only those"
-	line "trainers who will"
+	text "Ho sento. Només"
+	line "els entrenadors"
 
-	para "be battling are"
-	line "allowed to go in."
+	para "que lluitaran"
+	line "poden entrar."
 	done
 
 TrainerHouseB1FSecondChallengeDeniedText:
-	text "I'm sorry."
-	line "This would be your"
+	text "Ho sento."
+	line "Seria la teva"
 
-	para "second time today."
-	line "You're permitted"
+	para "segona vegada"
+	line "avui. Només pots"
 
-	para "to enter just once"
-	line "a day."
+	para "entrar un cop"
+	line "al dia."
 	done
 
 TrainerHouseB1FCalBeatenText:
-	text "I lost…"
-	line "Darn…"
+	text "He perdut…"
+	line "Quina ràbia…"
 	done
 
 TrainerHouseB1FCalBeforeText:
-	text "I traveled out"
-	line "here just so I"
-	cont "could battle you."
+	text "He viatjat fins"
+	line "aquí només per"
+	cont "combatre amb tu."
 	done
 
 TrainerHouseB1F_MapEvents:

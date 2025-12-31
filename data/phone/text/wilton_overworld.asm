@@ -1,61 +1,61 @@
 WiltonAskNumber1Text:
-	text "Eh, our battle was"
-	line "fun, I'd say…"
+	text "El combat ha estat"
+	line "divertit, diria…"
 
-	para "When I'm fishing,"
-	line "I sometimes snag"
+	para "Quan pesco, a"
+	line "vegades enganxo"
 
-	para "items that people"
-	line "have dropped."
+	para "objectes que la"
+	line "gent ha perdut."
 
-	para "Do you want them?"
-	line "What's the number?"
+	para "Els vols? Quin és"
+	line "el teu número?"
 	done
 
 WiltonAskNumber2Text:
-	text "If I snag an item"
-	line "while I'm fishing,"
+	text "Si enganxo algun"
+	line "objecte pescant,"
 
-	para "it's yours. What's"
-	line "your number?"
+	para "serà per tu. Quin"
+	line "és el teu número?"
 	done
 
 WiltonNumberAcceptedText:
-	text "If I snag anything"
-	line "good, I'll be sure"
-	cont "to let you know."
+	text "Si enganxo alguna"
+	line "cosa bona, t'ho"
+	cont "faré saber."
 	done
 
 WiltonNumberDeclinedText:
-	text "All right… Come"
-	line "back if you have a"
-	cont "change of heart."
+	text "D'acord… Torna si"
+	line "canvies d'opinió."
 	done
 
 WiltonPhoneFullText:
-	text "You can't register"
-	line "another number."
+	text "No pots registrar"
+	line "cap més número."
 	done
 
 WiltonRematchText:
-	text "Argh! You startled"
-	line "POLIWAG into"
-	cont "fleeing again!"
+	text "Ah! Has espantat"
+	line "el POLIWAG i ha"
+	cont "fugit altre cop!"
 	done
 
 WiltonGiftText:
-	text "So here you are."
+	text "Ja ets aquí."
 
-	para "See this?"
-	line "I snagged it just"
+	para "Veus això?"
+	line "Ho acabo"
+	cont "d'enganxar"
 
-	para "a little while"
-	line "ago. It's yours."
+	para "fa una estona."
+	line "És per tu."
 	done
 
 WiltonPackFullText:
-	text "Your PACK's full?"
+	text "La MOTXILLA plena?"
 
-	para "I'll give it to"
-	line "you later."
+	para "Te'l donaré més"
+	line "tard."
 	done

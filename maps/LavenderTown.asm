@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const LAVENDERTOWN_POKEFAN_M
 	const LAVENDERTOWN_TEACHER
 	const LAVENDERTOWN_GRAMPS
@@ -45,62 +45,66 @@ LavenderMartSignText:
 	jumpstd MartSignScript
 
 LavenderTownPokefanMText:
-	text "That's quite some"
-	line "building, eh?"
+	text "Quin edifici més"
+	line "gran, oi?"
 
-	para "It's KANTO's RADIO"
-	line "TOWER."
+	para "És la TORRE de"
+	line "RÀDIO de KANTO."
 	done
 
 LavenderTownTeacherText:
-	text "KANTO has many"
-	line "good radio shows."
+	text "KANTO té molts"
+	line "bons programes de"
+	cont "ràdio."
 	done
 
 LavenderTownGrampsText:
-	text "People come from"
-	line "all over to pay"
+	text "Ve gent de tot"
+	line "arreu a retre"
 
-	para "their respects to"
-	line "the departed souls"
-	cont "of #MON."
+	para "homenatge a les"
+	line "ànimes dels"
+	cont "#MON"
+	cont "difunts."
 	done
 
 LavenderTownYoungsterText:
-	text "You need a #"
-	line "FLUTE to wake"
-	cont "sleeping #MON."
+	text "Necessites una"
+	line "FLAUTA # per"
+	cont "despertar #MON."
 
-	para "Every trainer has"
-	line "to know that!"
+	para "Tot entrenador ho"
+	line "ha de saber!"
 	done
 
 LavenderTownSignText:
-	text "LAVENDER TOWN"
+	text "POBLE LAVANDA"
 
-	para "The Noble Purple"
-	line "Town"
+	para "El Noble Poble"
+	line "Porpra"
 	done
 
 KantoRadioStationSignText:
-	text "KANTO RADIO"
-	line "STATION"
+	text "EMISSORA DE RÀDIO"
+	line "DE KANTO"
 
-	para "Your Favorite"
-	line "Programs On-Air"
-	cont "Around the Clock!"
+	para "Els Teus Programes"
+	line "Preferits les 24"
+	cont "Hores del Dia!"
 	done
 
 VolunteerPokemonHouseSignText:
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "CASA DELS #MON"
+	line "VOLUNTARIS"
+	cont "LAVANDA"
 	done
 
 SoulHouseSignText:
-	text "SOUL HOUSE"
+	text "CASA DE LES ÀNIMES"
 
-	para "May the Souls of"
-	line "#MON Rest Easy"
+	para "Que les Ànimes"
+	line "dels #MON"
+	cont "Descansin en Pau"
 	done
 
 LavenderTown_MapEvents:

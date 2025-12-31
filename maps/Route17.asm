@@ -66,68 +66,68 @@ Route17HiddenMaxElixer:
 	hiddenitem MAX_ELIXER, EVENT_ROUTE_17_HIDDEN_MAX_ELIXER
 
 BikerRileySeenText:
-	text "Hey, you! You're"
-	line "from JOHTO, huh?"
+	text "Ei, tu! Ets de"
+	line "JOHTO, oi?"
 	done
 
 BikerRileyBeatenText:
-	text "Whoa, you kick!"
+	text "Quina pallissa!"
 	done
 
 BikerRileyAfterBattleText:
-	text "Don't get cocky,"
-	line "you JOHTO punk!"
+	text "No et creguis,"
+	line "marrec de JOHTO!"
 	done
 
 BikerJoelSeenText:
-	text "Wow. That's a cool"
-	line "BICYCLE!"
+	text "Quina BICICLETA"
+	line "més guai!"
 	done
 
 BikerJoelBeatenText:
-	text "But you don't just"
-	line "look cool…"
+	text "No només tens"
+	line "bona pinta…"
 	done
 
 BikerJoelAfterBattleText:
-	text "I look cool, but"
-	line "I'm weak, so I'm"
-	cont "not really cool."
+	text "Faig bona pinta,"
+	line "però sóc fluix,"
+	cont "no sóc tan guai."
 
-	para "I have to train"
-	line "harder…"
+	para "He d'entrenar"
+	line "més dur…"
 	done
 
 BikerGlennSeenText:
-	text "Hey! Want to have"
-	line "a speed battle?"
+	text "Ei! Vols fer una"
+	line "cursa ràpida?"
 	done
 
 BikerGlennBeatenText:
-	text "Yikes! You've got"
-	line "awesome torque!"
+	text "Tens una força"
+	line "increïble!"
 	done
 
 BikerGlennAfterBattleText:
-	text "Hands-free riding"
-	line "is considered cool"
-	cont "on CYCLING ROAD."
+	text "Anar sense mans"
+	line "és molt guai a la"
+	cont "RUTA CICLISTA."
 	done
 
 BikerCharlesSeenText:
-	text "We're fearless"
-	line "highway stars!"
+	text "Som les estrelles"
+	line "de la carretera!"
 	done
 
 BikerCharlesBeatenText:
-	text "Arrrgh! Crash and"
-	line "burn!"
+	text "Arrrgh! Quina"
+	line "ensopegada!"
 	done
 
 BikerCharlesAfterBattleText:
-	text "Reckless driving"
-	line "causes accidents!"
-	cont "Take it easy!"
+	text "Conduir temerari"
+	line "causa accidents!"
+	cont "Vés amb compte!"
 	done
 
 Route17_MapEvents:

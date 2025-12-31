@@ -317,250 +317,260 @@ RocketBaseRivalShovesPlayerMovement:
 	step_end
 
 LanceGetPasswordText:
-	text "LANCE: It takes"
-	line "two passwords to"
+	text "LANCE: Calen dues"
+	line "contrasenyes per"
 
-	para "get into the"
-	line "boss's quarters."
+	para "entrar al"
+	line "quarter del cap."
 
-	para "Those passwords"
-	line "are known only to"
-	cont "a few ROCKETS."
+	para "Aquestes contrase-"
+	line "nyes només les"
+	cont "saben uns ROCKETS."
 
-	para "That ROCKET there"
-	line "very graciously"
-	cont "told me so."
+	para "Aquell ROCKET d'a-"
+	line "llà m'ho ha dit"
+	cont "molt amablement."
 
-	para "<PLAY_G>, let's go"
-	line "get the passwords."
+	para "<PLAY_G>, anem a"
+	line "buscar-les."
 	done
 
 TeamRocketBaseB3FRocketText:
-	text "Urrggh… The guy"
-	line "in the cape is"
-	cont "incredibly tough…"
+	text "Urrggh… El de la"
+	line "capa és increïble-"
+	cont "ment dur…"
 	done
 
 RocketBaseRivalText:
 	text "…"
 
-	para "Didn't I tell you"
-	line "that I was going"
+	para "No t'havia dit que"
+	line "destruiria l'EQUIP"
 
-	para "to destroy TEAM"
-	line "ROCKET?"
+	para "ROCKET?"
 
-	para "…Tell me, who was"
-	line "the guy in the"
+	para "…Digues-me, qui"
+	line "era el de la capa"
 
-	para "cape who used"
-	line "dragon #MON?"
+	para "que usava #MON"
+	line "de tipus drac?"
 
-	para "My #MON were no"
-	line "match at all."
+	para "Els meus #MON"
+	line "no"
+	cont "van poder fer res."
 
-	para "I don't care that"
-	line "I lost. I can beat"
+	para "M'és igual haver"
+	line "perdut. El puc"
 
-	para "him by getting"
-	line "stronger #MON."
+	para "guanyar amb"
+	line "#MON"
+	cont "més forts."
 
-	para "It's what he said"
-	line "that bothers me…"
+	para "El que em molesta"
+	line "és el que va dir…"
 
-	para "He told me that"
-	line "I don't love and"
+	para "Em va dir que no"
+	line "estimo ni confio"
 
-	para "trust my #MON"
-	line "enough."
+	para "prou en els meus"
+	line "#MON."
 
-	para "I'm furious that I"
-	line "lost to a bleeding"
-	cont "heart like him."
+	para "M'enfurisma haver"
+	line "perdut contra un"
+	cont "cor tendre com ell"
 
-	para "…Humph! I don't"
-	line "have the time for"
-	cont "the likes of you!"
+	para "…Bah! No tinc"
+	line "temps per gent"
+	cont "com tu!"
 	done
 
 ExecutiveM4BeforeText:
-	text "What? Who are you?"
-	line "This is the office"
+	text "Què? Qui ets tu?"
+	line "Aquesta és l'ofi-"
 
-	para "of our leader,"
+	para "cina del líder,"
 	line "GIOVANNI."
 
-	para "Since disbanding"
-	line "TEAM ROCKET three"
+	para "Des que va disol-"
+	line "dre l'EQUIP ROCKET"
 
-	para "years ago, he has"
-	line "been in training."
+	para "fa tres anys, ha"
+	line "estat entrenant."
 
-	para "But we're certain"
-	line "he will be back"
+	para "Però estem segurs"
+	line "que tornarà algun"
 
-	para "some day to assume"
-	line "command again."
+	para "dia per assumir el"
+	line "comandament."
 
-	para "That's why we're"
-	line "standing guard."
+	para "Per això fem"
+	line "guàrdia."
 
-	para "I won't let any-"
-	line "one disturb this"
-	cont "place!"
+	para "No deixaré que"
+	line "ningú molesti"
+	cont "aquest lloc!"
 	done
 
 ExecutiveM4BeatenText:
-	text "I… I couldn't do a"
-	line "thing…"
+	text "Jo… No he pogut"
+	line "fer res…"
 
-	para "GIOVANNI, please"
-	line "forgive me…"
+	para "GIOVANNI, si us"
+	line "plau perdona'm…"
 	done
 
 ExecutiveM4AfterText:
-	text "No, I can't let"
-	line "this affect me."
+	text "No, no deixaré que"
+	line "això m'afecti."
 
-	para "I have to inform"
-	line "the others…"
+	para "He d'informar els"
+	line "altres…"
 	done
 
 RocketBaseMurkrowText:
-	text "MURKROW: The"
-	line "password is…"
+	text "MURKROW: La"
+	line "contrasenya és…"
 
-	para "HAIL GIOVANNI."
+	para "VISCA GIOVANNI."
 	done
 
 GruntF5SeenText:
-	text "Do I know the"
-	line "password?"
+	text "Que si sé la"
+	line "contrasenya?"
 
-	para "Maybe."
+	para "Potser."
 
-	para "But no weakling's"
-	line "going to get it!"
+	para "Però cap dèbil me"
+	line "la traurà!"
 	done
 
 GruntF5BeatenText:
-	text "All right. Stop."
-	line "I'll tell you."
+	text "D'acord. Para."
+	line "T'ho diré."
 	done
 
 GruntF5AfterBattleText:
-	text "The password to"
-	line "the boss's room is"
+	text "La contrasenya de"
+	line "la sala del cap és"
 
-	para "SLOWPOKETAIL."
+	para "CUASLOWPOKE."
 
-	para "But it's useless"
-	line "unless you have"
-	cont "two passwords."
+	para "Però no et servirà"
+	line "si no tens les"
+	cont "dues contrasenyes."
 	done
 
 GruntM28SeenText:
-	text "Hyuck-hyuck-hyuck!"
+	text "Nyac-nyac-nyac!"
 
-	para "You're challenging"
-	line "me to a battle?"
+	para "Em reptes a una"
+	line "batalla?"
 
-	para "Hah! You're nuts,"
-	line "but you have guts!"
+	para "Ha! Ets boig, però"
+	line "tens coratge!"
 
-	para "I like that!"
+	para "M'agrada!"
 
-	para "If you can beat"
-	line "me, I'll tell you"
+	para "Si em guanyes, et"
+	line "diré la contrasen-"
 
-	para "a password to the"
-	line "boss's room!"
+	para "ya de la sala del"
+	line "cap!"
 	done
 
 GruntM28BeatenText:
-	text "Hyuck-hyuck-hyuck!"
-	line "You're good!"
+	text "Nyac-nyac-nyac!"
+	line "Ets bo!"
 	done
 
 GruntM28AfterBattleText:
-	text "Hyuck-hyuck-hyuck!"
+	text "Nyac-nyac-nyac!"
 
-	para "The password to"
-	line "the boss's room…"
+	para "La contrasenya de"
+	line "la sala del cap…"
 
-	para "Uh…, I think it is"
-	line "RATICATE TAIL."
+	para "Eh…, crec que és"
+	line "CUA DE RATICATE."
 	done
 
 ScientistRossSeenText:
-	text "I used to work for"
-	line "SILPH, but now I"
+	text "Abans treballava"
+	line "per SILPH, però"
 
-	para "run research for"
-	line "TEAM ROCKET."
+	para "ara dirigeixo la"
+	line "recerca de l'EQUIP"
+	cont "ROCKET."
 
-	para "A meddlesome child"
-	line "like you needs to"
-	cont "be punished."
+	para "Un nen entremetut"
+	line "com tu mereix un"
+	cont "càstig."
 	done
 
 ScientistRossBeatenText:
-	text "A mere tactical"
-	line "error cost me…"
+	text "Un simple error"
+	line "tàctic m'ha costat"
+	cont "la victòria…"
 	done
 
 ScientistRossAfterBattleText:
-	text "A radio signal"
-	line "that drives #-"
-	cont "MON mad…"
+	text "Un senyal de ràdio"
+	line "que torna els"
+	cont "#-"
+	cont "MON bojos…"
 
-	para "My experiment is a"
-	line "complete success."
+	para "El meu experiment"
+	line "és un èxit total."
 
-	para "My promotion is"
-	line "assured. This loss"
+	para "El meu ascens és"
+	line "segur. Perdre no"
 
-	para "means absolutely"
-	line "nothing."
+	para "significa absolu-"
+	line "tament res."
 	done
 
 ScientistMitchSeenText:
-	text "I don't care that"
-	line "#MON are hurt"
-	cont "by our experiment."
+	text "No m'importa que"
+	line "els #MON"
+	cont "pateixin"
+	cont "pel nostre experi-"
+	cont "ment."
 	done
 
 ScientistMitchBeatenText:
-	text "Thinking is my"
-	line "strong suit, not"
-	cont "battling."
+	text "Pensar és el meu"
+	line "punt fort, no pas"
+	cont "lluitar."
 	done
 
 ScientistMitchAfterBattleText:
-	text "If we turn up the"
-	line "power of our radio"
+	text "Si augmentem la"
+	line "potència del nos-"
 
-	para "signal for broad-"
-	line "cast nationwide…"
+	para "tre senyal per"
+	line "emetre-la arreu…"
 
-	para "The very thought"
-	line "excites me!"
+	para "Només pensar-ho"
+	line "m'emociona!"
 	done
 
 TeamRocketBaseB3FLockedDoorNeedsPasswordText:
-	text "The door's closed…"
+	text "La porta és"
+	line "tancada…"
 
-	para "It needs two"
-	line "passwords to open."
+	para "Calen dues"
+	line "contrasenyes per"
+	cont "obrir-la."
 	done
 
 TeamRocketBaseB3FLockedDoorOpenSesameText:
-	text "The door's closed…"
+	text "La porta és"
+	line "tancada…"
 
-	para "<PLAYER> entered"
-	line "the two passwords."
+	para "<PLAYER> ha entrat"
+	line "les contrasenyes."
 
-	para "The door opened!"
+	para "La porta s'ha"
+	line "obert!"
 	done
 
 TeamRocketBaseB3F_MapEvents:

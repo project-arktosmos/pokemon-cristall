@@ -10,11 +10,13 @@ Route5UndergroundPathEntranceTeacherScript:
 	jumptextfaceplayer Route5UndergroundPathEntranceTeacherText
 
 Route5UndergroundPathEntranceTeacherText:
-	text "Many cities in"
-	line "JOHTO have long"
+	text "Moltes ciutats de"
+	line "JOHTO tenen una"
 
-	para "histories. I'd"
-	line "love to visit!"
+	para "llarga història."
+	line "M'encantaria"
+
+	para "visitar-les!"
 	done
 
 Route5UndergroundPathEntrance_MapEvents:

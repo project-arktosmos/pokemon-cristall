@@ -46,56 +46,56 @@ GoldenrodBikeShopBicycle:
 	jumptext GoldenrodBikeShopBicycleText
 
 GoldenrodBikeShopClerkIntroText:
-	text "…sigh… I moved"
-	line "here, but I can't"
+	text "…ai… M'he mudat"
+	line "aquí, però no puc"
 
-	para "sell my BICYCLES."
-	line "Why is that?"
+	para "vendre BICICLES."
+	line "Per què serà?"
 
-	para "Could you ride a"
-	line "BICYCLE and adver-"
-	cont "tise for me?"
+	para "Podries anar amb"
+	line "BICI i fer-me"
+	cont "publicitat?"
 	done
 
 GoldenrodBikeShopClerkAgreedText:
-	text "Really? Great!"
+	text "De debò? Genial!"
 
-	para "Give me your name"
-	line "and phone number,"
+	para "Dóna'm el teu nom"
+	line "i número de tel.,"
 
-	para "and I'll loan you"
-	line "a BICYCLE."
+	para "i et deixaré una"
+	line "BICICLETA."
 	done
 
 BorrowedABicycleText:
-	text "<PLAYER> borrowed a"
-	line "BICYCLE."
+	text "<PLAYER> ha agafat"
+	line "una BICICLETA."
 	done
 
 GoldenrodBikeShopClerkFirstRateBikesText:
-	text "My BICYCLES are"
-	line "first-rate! You"
+	text "Les meves BICIS"
+	line "són les millors!"
 
-	para "can ride them"
-	line "anywhere."
+	para "Pots anar-hi on"
+	line "vulguis."
 	done
 
 GoldenrodBikeShopClerkRefusedText:
-	text "…sigh… Oh, for"
-	line "the kindness of"
-	cont "people…"
+	text "…ai… On és"
+	line "l'amabilitat de"
+	cont "la gent…"
 	done
 
 GoldenrodBikeShopJustReleasedCompactBikeText:
-	text "Just released!"
+	text "Novetat!"
 
-	para "First-rate compact"
-	line "BICYCLES!"
+	para "BICICLES compactes"
+	line "de primera!"
 	done
 
 GoldenrodBikeShopBicycleText:
-	text "It's a shiny new"
-	line "BICYCLE!"
+	text "És una BICICLETA"
+	line "nova i lluent!"
 	done
 
 GoldenrodBikeShop_MapEvents:

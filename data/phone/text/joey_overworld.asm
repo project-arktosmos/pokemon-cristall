@@ -1,71 +1,74 @@
 JoeyAskNumber1Text:
-	text "Listen, can I get"
-	line "your phone number?"
+	text "Escolta, em dones"
+	line "el teu número?"
 
-	para "I'll ring you for"
-	line "some battles."
+	para "Et trucaré per"
+	line "fer combats."
 
-	para "I'm a rookie too, "
-	line "so I think it'd be"
-	cont "a good motivator."
+	para "Jo també sóc un"
+	line "novell, així que"
+	cont "ens motivarem."
 	done
 
 JoeyAskNumber2Text:
-	text "Can I get your"
-	line "phone number?"
+	text "Em dones el teu"
+	line "número?"
 
-	para "I don't want to"
-	line "lose against you!"
+	para "No vull perdre"
+	line "contra tu!"
 
-	para "We have to battle"
-	line "again, OK?"
+	para "Hem de tornar a"
+	line "combatre, oi?"
 	done
 
 JoeyNumberAcceptedText:
-	text "I'll ring you"
-	line "whenever I get the"
-	cont "urge to battle!"
+	text "Et trucaré quan"
+	line "tingui ganes de"
+	cont "combatre!"
 	done
 
 JoeyNumberDeclinedText:
-	text "Oh, all right…"
+	text "Oh, d'acord…"
 
-	para "But I won't lose"
-	line "to you again!"
+	para "Però no tornaré"
+	line "a perdre contra"
+	cont "tu!"
 	done
 
 JoeyPhoneFullText:
-	text "Huh, what? Your"
-	line "phone's full."
+	text "Eh, què? Tens el"
+	line "telèfon ple."
 	done
 
 JoeyRematchText:
-	text "I've been waiting!"
-	line "Let's battle now!"
+	text "T'estava esperant!"
+	line "Combatem ara!"
 	done
 
 JoeyPackFullText:
-	text "Hey, wait! Your"
-	line "PACK is stuffed!"
+	text "Ei, espera! Tens"
+	line "la MOTXILLA plena!"
 
-	para "Well, we'll leave"
-	line "it till next time."
+	para "Bé, ho deixarem"
+	line "per a un altre"
+	cont "dia."
 	done
 
 JoeyRematchGiftText:
-	text "And yet another"
-	line "loss…"
+	text "Una altra"
+	line "derrota…"
 
-	para "No doubt about"
-	line "it--you're tough."
+	para "No hi ha dubte:"
+	line "ets molt fort."
 
-	para "Being beaten this"
-	line "often actually"
-	cont "feels good now!"
+	para "De tant perdre,"
+	line "ja m'hi he"
+	cont "acostumat!"
 
-	para "Here, take this. "
-	line "Use it to get even"
+	para "Pren això. Fes-lo"
+	line "servir per ser"
 
-	para "tougher. That will"
-	line "toughen me up too!"
+	para "encara més fort."
+	line "Així jo també ho"
+	cont "seré!"
 	done

@@ -107,137 +107,139 @@ BillsHouseRadio:
 	jumpstd Radio2Script
 
 BillTakeThisEeveeText:
-	text "BILL: Hi, <PLAYER>!"
-	line "Do us a favor and"
-	cont "take this EEVEE."
+	text "BILL: Ei, <PLAYER>!"
+	line "Fes-nos un favor i"
+	cont "queda't EEVEE."
 
-	para "It came over when"
-	line "I was adjusting"
-	cont "the TIME CAPSULE."
+	para "Va venir quan"
+	line "ajustava la"
+	cont "CÀPSULA TEMPORAL."
 
-	para "Someone has to"
-	line "take care of it,"
+	para "Algú n'ha de tenir"
+	line "cura, però no"
 
-	para "but I don't like"
-	line "being outside."
+	para "m'agrada sortir"
+	line "de casa."
 
-	para "Can I count on you"
-	line "to play with it,"
+	para "Puc comptar amb"
+	line "tu per jugar-hi,"
 	cont "<PLAYER>?"
 	done
 
 BillImCountingOnYouText:
-	text "BILL: I knew you'd"
-	line "come through!"
+	text "BILL: Sabia que no"
+	line "em fallaries!"
 
-	para "Way to go! You're"
-	line "the real deal!"
+	para "Molt bé! Ets un"
+	line "crack!"
 
-	para "OK, I'm counting"
-	line "on you."
+	para "D'acord, compto"
+	line "amb tu."
 
-	para "Take good care of"
-	line "it!"
+	para "Cuida'l bé!"
 	done
 
 ReceivedEeveeText:
-	text "<PLAYER> received"
+	text "<PLAYER> ha rebut"
 	line "EEVEE!"
 	done
 
 BillEeveeMayEvolveText:
-	text "BILL: PROF.ELM"
-	line "claims EEVEE may"
+	text "BILL: El PROF.ELM"
+	line "diu que EEVEE pot"
 
-	para "evolve in new and"
-	line "unknown ways."
+	para "evolucionar de"
+	line "maneres noves."
 	done
 
 BillPartyFullText:
-	text "Whoa, wait. You"
-	line "can't carry any"
-	cont "more #MON."
+	text "Espera! No pots"
+	line "portar més #MON"
+	cont "a sobre."
 	done
 
 BillNoEeveeText:
-	text "Oh… Now what to"
-	line "do?"
+	text "Oh… I ara què"
+	line "faig?"
 	done
 
 BillPopWontWorkText:
-	text "BILL: My pop, he"
-	line "won't work. All he"
+	text "BILL: El meu pare"
+	line "no treballa. Només"
 
-	para "does is goof off"
-	line "all day long."
+	para "fa el gandul tot"
+	line "el sant dia."
 
-	para "He's getting to be"
-	line "a real headache…"
+	para "Comença a ser un"
+	line "maldecap…"
 	done
 
 BillsMomText_BeforeEcruteak:
-	text "Oh, you collect"
-	line "#MON? My son"
-	cont "BILL is an expert."
+	text "Oh, col·lecciones"
+	line "#MON? El meu"
+	cont "fill BILL n'és"
+	cont "un expert."
 
-	para "He just got called"
-	line "to the #MON"
+	para "L'acaben de cridar"
+	line "al CENTRE #MON"
 
-	para "CENTER in ECRUTEAK"
-	line "CITY."
+	para "de CIUTAT"
+	line "ECRUTEAK."
 
-	para "My husband went"
-	line "off to the GAME"
+	para "El meu marit ha"
+	line "anat al CASINO"
 
-	para "CORNER without"
-	line "being called…"
+	para "sense que ningú"
+	line "el cridés…"
 	done
 
 BillsMomText_AfterEcruteak:
-	text "My husband was"
-	line "once known as a"
+	text "El meu marit era"
+	line "conegut com un"
 
-	para "#MANIAC."
-	line "BILL must have"
+	para "#MANÍAC."
+	line "En BILL deu haver"
 
-	para "taken after his"
-	line "father."
+	para "sortit al seu"
+	line "pare."
 	done
 
 BillsYoungerSisterUsefulNumberText:
-	text "Are you a trainer?"
+	text "Ets entrenador?"
 
-	para "I've got a useful"
-	line "phone number for"
-	cont "you."
+	para "Tinc un número de"
+	line "telèfon útil per"
+	cont "a tu."
 	done
 
 RecordedBillsNumberText:
-	text "<PLAYER> recorded"
-	line "BILL's number."
+	text "<PLAYER> ha anotat"
+	line "el núm. d'en BILL."
 	done
 
 BillsYoungerSisterRefusedNumberText:
-	text "My brother made"
-	line "the PC #MON"
-	cont "storage system."
+	text "El meu germà va"
+	line "fer el sistema"
+	cont "d'emmagatzem de"
+	cont "#MON del PC."
 
-	para "I was going to"
-	line "give you BILL's"
-	cont "number…"
+	para "T'anava a donar"
+	line "el número d'en"
+	cont "BILL…"
 	done
 
 BillsYoungerSisterPhoneFullText:
-	text "You can't record"
-	line "any more numbers."
+	text "No pots anotar"
+	line "més números."
 	done
 
 BillsYoungerSisterStorageSystemText:
-	text "My big brother"
-	line "BILL made the PC"
+	text "El meu germà gran"
+	line "BILL va crear el"
 
-	para "#MON storage"
-	line "system."
+	para "sistema d'emmagat-"
+	line "zematge de"
+	cont "#MON."
 	done
 
 BillsFamilysHouse_MapEvents:

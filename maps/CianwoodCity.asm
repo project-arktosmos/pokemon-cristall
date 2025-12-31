@@ -180,201 +180,204 @@ CianwoodCityEusineDepartMovement:
 	step_end
 
 ChucksWifeEasierToFlyText:
-	text "You crossed the"
-	line "sea to get here?"
+	text "Has creuat el mar"
+	line "per arribar aquí?"
 
-	para "That must have"
-	line "been hard."
+	para "Això deu haver"
+	line "estat difícil."
 
-	para "It would be much"
-	line "easier if your"
+	para "Seria molt més"
+	line "fàcil si els teus"
 
-	para "#MON knew how"
-	line "to FLY…"
+	para "#MON sabessin"
+	line "volar…"
 	done
 
 ChucksWifeBeatChuckText:
-	text "But you can't use"
-	line "FLY without this"
-	cont "city's GYM BADGE."
+	text "Però no pots usar"
+	line "Vol sense la"
+	cont "MEDALLA d'aquí."
 
-	para "If you beat the"
-	line "GYM LEADER here,"
-	cont "come see me."
+	para "Si vences el"
+	line "LÍDER DE GIMNÀS,"
+	cont "vine a veure'm."
 
-	para "I'll have a nice"
-	line "gift for you."
+	para "Tinc un regal per"
+	line "a tu."
 	done
 
 ChucksWifeGiveHMText:
-	text "That's CIANWOOD's"
-	line "GYM BADGE!"
+	text "Aquesta és la"
+	line "MEDALLA CIANWOOD!"
 
-	para "Then you should"
-	line "take this HM."
+	para "Doncs hauries"
+	line "d'agafar aquesta"
+	cont "MO."
 	done
 
 ChucksWifeFlySpeechText:
-	text "Teach FLY to your"
-	line "#MON."
+	text "Ensenya Vol als"
+	line "teus #MON."
 
-	para "You will be able"
-	line "to FLY instantly"
+	para "Podràs volar"
+	line "a l'instant a"
 
-	para "to anywhere you "
-	line "have visited."
+	para "qualsevol lloc"
+	line "que hagis visitat."
 	done
 
 ChucksWifeChubbyText:
-	text "My husband lost to"
-	line "you, so he needs"
-	cont "to train harder."
+	text "El meu marit va"
+	line "perdre contra tu,"
+	cont "i ha d'entrenar."
 
-	para "That's good, since"
-	line "he was getting a"
-	cont "little chubby."
+	para "Està bé, perquè"
+	line "s'estava posant"
+	cont "una mica gras."
 	done
 
 CianwoodCityYoungsterText:
-	text "If you use FLY,"
-	line "you can get back"
+	text "Si uses Vol, pots"
+	line "tornar a OLIVINE"
 
-	para "to OLIVINE in-"
-	line "stantly."
+	para "a l'instant."
 	done
 
 CianwoodCityPokefanMText:
-	text "Boulders to the"
-	line "north of town can"
-	cont "be crushed."
+	text "Les roques al"
+	line "nord del poble es"
+	cont "poden trencar."
 
-	para "They may be hiding"
-	line "something."
+	para "Potser amaguen"
+	line "alguna cosa."
 
-	para "Your #MON could"
-	line "use ROCK SMASH to"
-	cont "break them."
+	para "Els teus #MON"
+	line "poden usar"
+	cont "DESTROCAROCS."
 	done
 
 CianwoodCityLassText:
-	text "CHUCK, the GYM"
-	line "LEADER, spars with"
+	text "CHUCK, el LÍDER"
+	line "DEL GIMNÀS, lluita"
 
-	para "his fighting #-"
-	line "MON."
+	para "amb els seus #-"
+	line "MON de lluita."
 	done
 
 CianwoodCityUnusedText:
-	text "There are several"
-	line "islands between"
-	cont "here and OLIVINE."
+	text "Hi ha diverses"
+	line "illes entre aquí"
+	cont "i OLIVINE."
 
-	para "A mythical sea"
-	line "creature supposed-"
-	cont "ly lives there."
+	para "Diuen que una"
+	line "criatura marina"
+	cont "mítica hi viu."
 	done
 
 EusineSuicuneText:
-	text "EUSINE: Yo,"
+	text "EUSINE: Ei,"
 	line "<PLAYER>."
 
-	para "Wasn't that"
-	line "SUICUNE just now?"
+	para "No era Suicune"
+	line "ara mateix?"
 
-	para "I only caught a"
-	line "quick glimpse, but"
+	para "Només l'he vist"
+	line "de reüll, però"
 
-	para "I thought I saw"
-	line "SUICUNE running on"
-	cont "the waves."
+	para "m'ha semblat que"
+	line "Suicune corria"
+	cont "sobre les ones."
 
-	para "SUICUNE is beau-"
-	line "tiful and grand."
+	para "Suicune és bell"
+	line "i majestuós."
 
-	para "And it races"
-	line "through towns and"
+	para "I corre pels"
+	line "pobles i camins"
 
-	para "roads at simply"
-	line "awesome speeds."
+	para "a velocitats"
+	line "increïbles."
 
-	para "It's wonderful…"
+	para "És meravellós…"
 
-	para "I want to see"
-	line "SUICUNE up close…"
+	para "Vull veure"
+	line "Suicune de prop…"
 
-	para "I've decided."
+	para "Ja ho he decidit."
 
-	para "I'll battle you as"
-	line "a trainer to earn"
-	cont "SUICUNE's respect!"
+	para "Lluitaré amb tu"
+	line "com a entrenador"
+	cont "per guanyar-me el"
+	cont "respecte de"
+	cont "Suicune!"
 
-	para "Come on, <PLAYER>."
-	line "Let's battle now!"
+	para "Va, <PLAYER>."
+	line "Lluitem ara!"
 	done
 
 EusineBeatenText:
-	text "I hate to admit"
-	line "it, but you win."
+	text "M'és difícil"
+	line "admetre-ho, però"
+	cont "has guanyat."
 	done
 
 EusineAfterText:
-	text "You're amazing,"
+	text "Ets increïble,"
 	line "<PLAYER>!"
 
-	para "No wonder #MON"
-	line "gravitate to you."
+	para "No és estrany que"
+	line "els #MON"
+	cont "t'estimin."
 
-	para "I get it now."
+	para "Ara ho entenc."
 
-	para "I'm going to keep"
-	line "searching for"
-	cont "SUICUNE."
+	para "Continuaré"
+	line "buscant Suicune."
 
-	para "I'm sure we'll see"
-	line "each other again."
+	para "Segur que ens"
+	line "tornarem a veure."
 
-	para "See you around!"
+	para "Fins aviat!"
 	done
 
 CianwoodCitySignText:
-	text "CIANWOOD CITY"
+	text "CIUTAT CIANWOOD"
 
-	para "A Port Surrounded"
-	line "by Rough Seas"
+	para "Un Port Envoltat"
+	line "de Mars Braus"
 	done
 
 CianwoodGymSignText:
-	text "CIANWOOD CITY"
-	line "#MON GYM"
+	text "CIUTAT CIANWOOD"
+	line "GIMNÀS #MON"
 
-	para "LEADER: CHUCK"
+	para "LÍDER: CHUCK"
 
-	para "His Roaring Fists"
-	line "Do the Talking"
+	para "Els Seus Punys"
+	line "Parlen per Ell"
 	done
 
 CianwoodPharmacySignText:
-	text "500 Years of"
-	line "Tradition"
+	text "500 Anys de"
+	line "Tradició"
 
-	para "CIANWOOD CITY"
-	line "PHARMACY"
+	para "FARMÀCIA"
+	line "CIUTAT CIANWOOD"
 
-	para "We Await Your"
-	line "Medicinal Queries"
+	para "Esperem les Vos-"
+	line "tres Consultes"
 	done
 
 CianwoodPhotoStudioSignText:
-	text "CIANWOOD CITY"
-	line "PHOTO STUDIO"
+	text "CIUTAT CIANWOOD"
+	line "ESTUDI DE FOTOS"
 
-	para "Take a Snapshot as"
-	line "a Keepsake!"
+	para "Fes-te una Foto"
+	line "de Record!"
 	done
 
 CianwoodPokeSeerSignText:
-	text "THE # SEER"
-	line "AHEAD"
+	text "LA VIDENT #"
+	line "ENDAVANT"
 	done
 
 CianwoodCity_MapEvents:

@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const BLACKTHORNGYM1F_CLAIR
 	const BLACKTHORNGYM1F_COOLTRAINER_M1
 	const BLACKTHORNGYM1F_COOLTRAINER_M2
@@ -148,240 +148,231 @@ BlackthornGymStatue:
 	jumpstd GymStatue2Script
 
 ClairIntroText:
-	text "I am CLAIR."
+	text "Sóc la CLAIR."
 
-	para "The world's best"
-	line "dragon master."
+	para "La millor mestra"
+	line "de dragons del món"
 
-	para "I can hold my own"
-	line "against even the"
+	para "Puc fer front"
+	line "fins i tot a"
 
-	para "#MON LEAGUE's"
-	line "ELITE FOUR."
+	para "l'ELIT QUATRE de"
+	line "la LLIGA #MON."
 
-	para "Do you still want"
-	line "to take me on?"
+	para "Encara vols"
+	line "enfrontar-te a mi?"
 
-	para "…Fine."
-	line "Let's do it!"
+	para "…D'acord."
+	line "Endavant!"
 
-	para "As a GYM LEADER,"
-	line "I will use my full"
+	para "Com a LÍDER DE"
+	line "GIMNÀS, faré"
 
-	para "power against any"
-	line "opponent!"
+	para "servir tot el meu"
+	line "poder!"
 	done
 
 ClairWinText:
-	text "I lost?"
+	text "He perdut?"
 
-	para "I don't believe"
-	line "it. There must be"
-	cont "some mistake…"
+	para "No m'ho crec."
+	line "Hi ha d'haver"
+	cont "algun error…"
 	done
 
 ClairText_GoToDragonsDen:
-	text "I won't admit"
-	line "this."
+	text "No ho admetré."
 
-	para "I may have lost,"
-	line "but you're still"
+	para "Potser he perdut,"
+	line "però encara no"
 
-	para "not ready for the"
-	line "#MON LEAGUE."
+	para "estàs preparat"
+	line "per a la LLIGA."
 
-	para "I know. You should"
-	line "take the dragon"
-	cont "user challenge."
+	para "Ja sé! Hauries de"
+	line "fer la prova dels"
+	cont "domadors de dracs."
 
-	para "Behind this GYM is"
-	line "a place called"
-	cont "DRAGON'S DEN."
+	para "Darrere el GIMNÀS"
+	line "hi ha un lloc"
+	cont "dit COVA DEL DRAC."
 
-	para "There is a small"
-	line "shrine at its"
+	para "Al centre hi ha"
+	line "un petit santuari."
 
-	para "center."
-	line "Go there."
+	para "Ves-hi."
 
-	para "If you can prove"
-	line "that you've lost"
+	para "Si pots demostrar"
+	line "que has deixat les"
 
-	para "your lazy ideals,"
-	line "I will recognize"
+	para "teves idees"
+	line "mandroses, et"
 
-	para "you as a trainer"
-	line "worthy of a GYM"
-	cont "BADGE!"
+	para "reconeixeré com"
+	line "a entrenador digne"
+	cont "d'una MEDALLA!"
 	done
 
 ClairText_TooMuchToExpect:
-	text "What's the matter?"
+	text "Què passa?"
 
-	para "Is it too much to"
-	line "expect of you?"
+	para "És massa per"
+	line "demanar-te?"
 	done
 
 BlackthornGymClairText_YouKeptMeWaiting:
-	text "You've kept me"
-	line "waiting!"
+	text "M'has fet esperar!"
 
-	para "Here! Take this!"
+	para "Aquí tens! Pren-ho"
 	done
 
 BlackthornGymText_ReceivedTM24:
-	text "<PLAYER> received"
-	line "TM24."
+	text "<PLAYER> ha rebut"
+	line "la MT24."
 	done
 
 BlackthornGymClairText_DescribeTM24:
-	text "That contains"
+	text "Conté l'atac"
 	line "DRAGONBREATH."
 
-	para "No, it doesn't"
-	line "have anything to"
-	cont "do with my breath."
+	para "No, no té res a"
+	line "veure amb el meu"
+	cont "alè."
 
-	para "If you don't want"
-	line "it, you don't have"
-	cont "to take it."
+	para "Si no el vols,"
+	line "no cal que el"
+	cont "prenguis."
 	done
 
 BlackthornGymClairText_BagFull:
-	text "What is this? You"
-	line "don't have room?"
+	text "Què és això? No"
+	line "tens espai?"
 	done
 
 BlackthornGymClairText_League:
-	text "What's the matter?"
+	text "Què passa?"
 
-	para "Aren't you headed"
-	line "to the #MON"
-	cont "LEAGUE?"
+	para "No vas cap a la"
+	line "LLIGA #MON?"
 
-	para "Don't you know"
-	line "where it is?"
+	para "No saps on és?"
 
-	para "From here, go to"
-	line "NEW BARK TOWN."
+	para "Des d'aquí, ves a"
+	line "POBLE ESCORÇA."
 
-	para "Then SURF east."
-	line "The route there is"
-	cont "very tough."
+	para "Després fes SURF"
+	line "cap a l'est. La"
+	cont "ruta és molt dura."
 
-	para "Don't you dare"
-	line "lose at the #-"
-	cont "MON LEAGUE!"
+	para "No t'atreveixis a"
+	line "perdre a la LLIGA"
+	cont "#MON!"
 
-	para "If you do, I'll"
-	line "feel even worse"
+	para "Si ho fas, em"
+	line "sentiré encara"
 
-	para "about having lost"
-	line "to you!"
+	para "pitjor per haver"
+	line "perdut contra tu!"
 
-	para "Give it every-"
-	line "thing you've got."
+	para "Dóna-ho tot!"
 	done
 
 CooltrainermPaulSeenText:
-	text "Your first battle"
-	line "against dragons?"
+	text "El teu primer"
+	line "combat amb dracs?"
 
-	para "I'll show you how"
-	line "tough they are!"
+	para "Et mostraré com"
+	line "de durs són!"
 	done
 
 CooltrainermPaulBeatenText:
-	text "My dragon #MON"
-	line "lost?"
+	text "El meu # drac"
+	line "ha perdut?"
 	done
 
 CooltrainermPaulAfterBattleText:
-	text "LANCE told you"
-	line "that he'd like to"
+	text "En LANCE t'ha dit"
+	line "que li agradaria"
 
-	para "see you again?"
-	line "Not a chance!"
+	para "tornar-te a veure?"
+	line "De cap manera!"
 	done
 
 CooltrainermMikeSeenText:
-	text "My chance of"
-	line "losing? Not even"
-	cont "one percent!"
+	text "Probabilitat de"
+	line "perdre? Ni un"
+	cont "per cent!"
 	done
 
 CooltrainermMikeBeatenText:
-	text "That's odd."
+	text "Què estrany."
 	done
 
 CooltrainermMikeAfterBattleText:
-	text "I know my short-"
-	line "comings now."
+	text "Ara sé quines són"
+	line "les meves manques."
 
-	para "Thanks for showing"
-	line "me!"
+	para "Gràcies per"
+	line "mostrar-m'ho!"
 	done
 
 CooltrainerfLolaSeenText:
-	text "Dragons are sacred"
-	line "#MON."
+	text "Els dracs són"
+	line "# sagrats."
 
-	para "They are full of"
-	line "life energy."
+	para "Estan plens"
+	line "d'energia vital."
 
-	para "If you're not"
-	line "serious, you won't"
+	para "Si no vas de"
+	line "debò, no podràs"
 
-	para "be able to beat"
-	line "them."
+	para "vèncer-los."
 	done
 
 CooltrainerfLolaBeatenText:
-	text "Way to go!"
+	text "Molt bé!"
 	done
 
 CooltrainerfLolaAfterBattleText:
-	text "Dragons are weak"
-	line "against dragon-"
-	cont "type moves."
+	text "Els dracs són"
+	line "febles contra"
+	cont "atacs de drac."
 	done
 
 BlackthornGymGuideText:
-	text "Yo! CHAMP in"
-	line "making!"
+	text "Ei! Futur CAMPIÓ!"
 
-	para "It's been a long"
-	line "journey, but we"
+	para "Ha estat un llarg"
+	line "viatge, però ja"
 
-	para "are almost done!"
-	line "Count on me!"
+	para "gairebé acabem!"
+	line "Compta amb mi!"
 
-	para "CLAIR uses the"
-	line "mythical and sac-"
-	cont "red dragon-type"
-	cont "#MON."
+	para "La CLAIR fa servir"
+	line "els mítics i"
+	cont "sagrats # drac."
 
-	para "You can't damage"
-	line "them very easily."
+	para "No els pots fer"
+	line "mal fàcilment."
 
-	para "But you know,"
-	line "they're supposed"
+	para "Però, saps?, diuen"
+	line "que són febles"
 
-	para "to be weak against"
-	line "ice-type moves."
+	para "contra els atacs"
+	line "de tipus gel."
 	done
 
 BlackthornGymGuideWinText:
-	text "You were great to"
-	line "beat CLAIR!"
+	text "Has estat genial"
+	line "en guanyar CLAIR!"
 
-	para "All that's left is"
-	line "the #MON LEAGUE"
-	cont "challenge."
+	para "Només queda el"
+	line "repte de la LLIGA"
+	cont "#MON."
 
-	para "You're on the way"
-	line "to becoming the"
-	cont "#MON CHAMPION!"
+	para "Estàs a punt de"
+	line "ser el CAMPIÓ"
+	cont "#MON!"
 	done
 
 BlackthornGym1F_MapEvents:

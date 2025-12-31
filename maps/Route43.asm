@@ -323,179 +323,185 @@ Route43MaxEther:
 	itemball MAX_ETHER
 
 PokemaniacBenSeenText:
-	text "I love #MON!"
+	text "M'encanten els"
+	line "#MON!"
 
-	para "That's why I"
-	line "started--and why"
+	para "Per això vaig"
+	line "començar, i per"
 
-	para "I'll keep on col-"
-	line "lecting #MON!"
+	para "això seguiré"
+	line "col·leccionant-ne!"
 	done
 
 PokemaniacBenBeatenText:
-	text "How could you do"
-	line "this to me?"
+	text "Com m'has pogut"
+	line "fer això?"
 	done
 
 PokemaniacBenAfterBattleText:
-	text "What else do I"
-	line "like besides"
+	text "Què més m'agrada"
+	line "a part dels"
 	cont "#MON?"
 
-	para "MARY on the radio."
-	line "I bet she's cute!"
+	para "La MARY a la"
+	line "ràdio. Segur que"
+	cont "és molt maca!"
 	done
 
 PokemaniacBrentSeenText:
-	text "Hey! Do you have"
-	line "any rare #MON?"
+	text "Ei! Tens algun"
+	line "#MON rar?"
 	done
 
 PokemaniacBrentBeatenText:
-	text "Oh, my poor #-"
-	line "MON! Darlings!"
+	text "Oh, els meus"
+	line "pobres #MON!"
 	done
 
 PokemaniacBrentAfterBattleText:
-	text "I'd be happy just"
-	line "to own a single"
-	cont "rare #MON."
+	text "Ja seria feliç"
+	line "amb només un"
+	cont "#MON rar."
 	done
 
 PokemaniacRonSeenText:
-	text "Would you get"
-	line "this?"
+	text "T'ho pots creure?"
 
-	para "Some <RIVAL> guy"
-	line "made fun of my"
-	cont "#MON!"
+	para "Un tal <RIVAL>"
+	line "s'ha burlat dels"
+	cont "meus #MON!"
 
-	para "Darn it! My #-"
-	line "MON's great!"
+	para "El meu #MON"
+	line "és genial!"
 	done
 
 PokemaniacRonBeatenText:
-	text "My NIDOKING did"
-	line "pretty right on!"
+	text "El meu NIDOKING"
+	line "ho ha fet bé!"
 	done
 
 PokemaniacRonAfterBattleText:
-	text "It's okay for"
-	line "people to like"
+	text "Està bé que a la"
+	line "gent li agradin"
 
-	para "different types"
-	line "of #MON."
+	para "diferents tipus"
+	line "de #MON."
 
-	para "#MON isn't just"
-	line "about having the"
-	cont "most powerful one."
+	para "Això no va només"
+	line "de tenir el més"
+	cont "poderós."
 	done
 
 FisherMarvinSeenText:
-	text "I'm in a slump."
+	text "Estic en un mal"
+	line "moment."
 
-	para "Maybe it's the"
-	line "gear I'm using."
+	para "Potser és l'equip"
+	line "que faig servir."
 
-	para "Let's battle for a"
-	line "change of pace!"
+	para "Lluitem per"
+	line "canviar el ritme!"
 	done
 
 FisherMarvinBeatenText:
-	text "I lost, but I feel"
-	line "better anyway."
+	text "He perdut, però"
+	line "em sento millor."
 	done
 
 FisherMarvinAfterBattleText:
-	text "KURT's LURE BALL"
-	line "is the best for"
+	text "La LURE BALL d'en"
+	line "KURT és la millor"
 
-	para "catching hooked"
-	line "#MON."
+	para "per atrapar #-"
+	line "MON pescats."
 
-	para "It's much more"
-	line "effective than a"
+	para "És molt més"
+	line "efectiva que una"
 	cont "ULTRA BALL."
 	done
 
 CamperSpencerSeenText:
-	text "I can do so much"
-	line "with my #MON--"
-	cont "it's super-fun!"
+	text "Puc fer tantes"
+	line "coses amb el meu"
+	cont "#MON! És"
+	cont "genial!"
 	done
 
 CamperSpencerBeatenText:
-	text "Losing isn't fun"
-	line "at all…"
+	text "Perdre no és"
+	line "gens divertit…"
 	done
 
 CamperSpencerAfterBattleText:
-	text "What is going on"
-	line "at LAKE OF RAGE?"
+	text "Què passa al LLAC"
+	line "DE LA FÚRIA?"
 
-	para "We were planning"
-	line "to camp there."
+	para "Teníem previst"
+	line "acampar-hi."
 	done
 
 PicnickerTiffanySeenText:
-	text "Are you going to"
-	line "LAKE OF RAGE too?"
+	text "Tu també vas al"
+	line "LLAC DE LA FÚRIA?"
 
-	para "Let's play for a "
-	line "little while!"
+	para "Juguem una"
+	line "estoneta!"
 	done
 
 PicnickerTiffanyBeatenText:
-	text "I played too much!"
+	text "He jugat massa!"
 	done
 
 PicnickerTiffanyWantsPicnicText:
-	text "I'm having a pic-"
-	line "nic with #MON."
+	text "Estic fent un"
+	line "pícnic amb"
+	cont "#MON."
 
-	para "Won't you join us?"
+	para "No vols unir-t'hi?"
 	done
 
 PicnickerTiffanyClefairyText:
-	text "Isn't my CLEFAIRY"
-	line "just the most"
-	cont "adorable thing?"
+	text "El meu CLEFAIRY"
+	line "no és la cosa més"
+	cont "adorable?"
 	done
 
 Route43Sign1Text:
-	text "ROUTE 43"
+	text "RUTA 43"
 
-	para "LAKE OF RAGE -"
-	line "MAHOGANY TOWN"
+	para "LLAC DE LA FÚRIA -"
+	line "CIUTAT CAOBA"
 	done
 
 Route43Sign2Text:
-	text "ROUTE 43"
+	text "RUTA 43"
 
-	para "LAKE OF RAGE -"
-	line "MAHOGANY TOWN"
+	para "LLAC DE LA FÚRIA -"
+	line "CIUTAT CAOBA"
 	done
 
 Route43TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "All #MON have"
-	line "pros and cons"
+	para "Tots els #MON"
+	line "tenen avantatges"
 
-	para "depending on their"
-	line "types."
+	para "i desavantatges"
+	line "segons el seu"
+	cont "tipus."
 
-	para "If their types"
-	line "differ, a higher-"
+	para "Si els tipus són"
+	line "diferents, un"
 
-	para "level #MON may"
-	line "lose in battle."
+	para "#MON de nivell"
+	line "més alt pot"
+	cont "perdre en combat."
 
-	para "Learn which types"
-	line "are strong and"
+	para "Aprèn quins tipus"
+	line "són forts i"
 
-	para "weak against your"
-	line "#MON's type."
+	para "dèbils contra el"
+	line "tipus del teu."
 	done
 
 Route43_MapEvents:

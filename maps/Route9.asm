@@ -84,32 +84,34 @@ Route9HiddenEther:
 	hiddenitem ETHER, EVENT_ROUTE_9_HIDDEN_ETHER
 
 CamperDeanSeenText:
-	text "I came to explore"
-	line "ROCK TUNNEL."
+	text "He vingut a"
+	line "explorar el TÚNEL"
+	cont "ROCA."
 	done
 
 CamperDeanBeatenText:
-	text "Whoa! Danger, man."
+	text "Apa! Perill, home."
 	done
 
 CamperDeanAfterBattleText:
-	text "My #MON were"
-	line "hurt before even"
+	text "Els meus #MON"
+	line "ja estaven ferits"
 
-	para "entering ROCK"
-	line "TUNNEL."
+	para "abans d'entrar al"
+	line "TÚNEL ROCA."
 
-	para "I'd better take"
-	line "them to a #MON"
-	cont "CENTER right away."
+	para "Hauria de dur-los"
+	line "a un CENTRE"
+	cont "#MON de"
+	cont "seguida."
 	done
 
 PicnickerHeidiSeenText:
-	text "Have you ever been"
-	line "to a picnic?"
+	text "Has anat mai a un"
+	line "pícnic?"
 
-	para "They're so much"
-	line "fun!"
+	para "Són molt"
+	line "divertits!"
 	done
 
 PicnickerHeidiBeatenText:
@@ -117,90 +119,89 @@ PicnickerHeidiBeatenText:
 	done
 
 PicnickerHeidiAfterBattleText:
-	text "We bake lots of"
-	line "goodies and share"
+	text "Fem moltes llami-"
+	line "nadures i les"
 
-	para "them all around."
-	line "They're delicious!"
+	para "compartim amb"
+	line "tothom. Delícies!"
 	done
 
 CamperSidSeenText:
-	text "Hey, you!"
-	line "Don't litter!"
+	text "Ei, tu!"
+	line "No llencis brossa!"
 	done
 
 CamperSidBeatenText:
-	text "I was just point-"
-	line "ing out…"
+	text "Només volia"
+	line "assenyalar…"
 	done
 
 CamperSidAfterBattleText:
-	text "Sorry. You weren't"
-	line "littering. It was"
-	cont "my mistake."
+	text "Perdona. No"
+	line "llençaves brossa."
+	cont "M'he equivocat."
 	done
 
 PicnickerEdnaSeenText:
-	text "People shouldn't"
-	line "leave any litter"
-	cont "behind."
+	text "La gent no hauria"
+	line "de deixar brossa"
+	cont "enrere."
 	done
 
 PicnickerEdnaBeatenText:
-	text "Ohh… I lost…"
+	text "Ohh… He perdut…"
 	done
 
 PicnickerEdnaAfterBattleText:
-	text "Conserving energy"
-	line "is important, but"
+	text "Estalviar energia"
+	line "és important, però"
 
-	para "the environment is"
-	line "even more vital."
+	para "el medi ambient és"
+	line "encara més vital."
 	done
 
 HikerTimSeenText:
-	text "She'll be coming"
-	line "'round MT.SILVER"
-	cont "when she comes…"
+	text "Ella vindrà per"
+	line "la MT.PLATA quan"
+	cont "arribi…"
 
-	para "MT.SILVER is in"
-	line "JOHTO, right?"
+	para "La MT.PLATA és a"
+	line "JOHTO, oi?"
 	done
 
 HikerTimBeatenText:
-	text "I was too busy"
-	line "singing…"
+	text "Estava massa"
+	line "ocupat cantant…"
 	done
 
 HikerTimAfterBattleText:
-	text "Battles are about"
-	line "concentration."
+	text "Els combats són"
+	line "concentració."
 	done
 
 HikerSidneySeenText:
-	text "I'll tell you a"
-	line "secret."
+	text "Et diré un secret."
 
-	para "But first, we"
-	line "battle!"
+	para "Però primer,"
+	line "lluitem!"
 	done
 
 HikerSidneyBeatenText:
-	text "Oh, dang!"
-	line "I lost that…"
+	text "Oh, diantre!"
+	line "He perdut…"
 	done
 
 HikerSidneyAfterBattleText:
-	text "The POWER PLANT is"
-	line "across a small"
-	cont "river."
+	text "La CENTRAL està"
+	line "a l'altre costat"
+	cont "d'un petit riu."
 	done
 
 Route9SignText:
-	text "ROUTE 9"
+	text "RUTA 9"
 
-	para "CERULEAN CITY -"
-	line "ROCK TUNNEL"
+	para "CIUTAT CERULEAN -"
+	line "TÚNEL ROCA"
 	done
 
 Route9_MapEvents:

@@ -35,85 +35,89 @@ Route24RocketScript:
 	end
 
 Route24RocketSeenText:
-	text "Hey, kid! Me am a"
-	line "TEAM ROCKET member"
-	cont "kind of guy!"
+	text "Ei, nen! Jo ser un"
+	line "TEAM ROCKET membre"
+	cont "tipus de noi!"
 
-	para "Come from another"
-	line "country, a trainer"
-	cont "number one, me!"
+	para "Venir d'un altre"
+	line "país, un"
+	cont "entrenador"
+	cont "número u, jo!"
 
-	para "Think I did, if"
-	line "stop the energy,"
+	para "Pensar jo vaig, si"
+	line "aturar l'energia,"
 
-	para "be big panic for"
-	line "here people!"
+	para "ser gran pànic per"
+	line "aquí gent!"
 
-	para "Secret it is my"
-	line "mission, so tell"
-	cont "you I not!"
+	para "Secret és la meva"
+	line "missió, així dir"
+	cont "a tu jo no!"
 
-	para "But! If win you do"
-	line "versus me, a man I"
+	para "Però! Si guanyar"
+	line "tu fas contra mi,"
 
-	para "be and mine secret"
-	line "to you I tell."
+	para "un home jo ser i"
+	line "secret a tu dir."
 
-	para "Hey, kid! Battle"
-	line "begin we do!"
+	para "Ei, nen! Batalla"
+	line "començar"
+	cont "nosaltres!"
 	done
 
 Route24RocketBeatenText:
-	text "Ayieeeh! No, no,"
-	line "no, believe it I"
-	cont "can't!"
+	text "Aiiieee! No, no,"
+	line "no, creure-ho jo"
+	cont "no puc!"
 
-	para "Strong very much"
-	line "be you! Match I am"
-	cont "not to you!"
+	para "Fort molt molt"
+	line "ser tu! Rival jo"
+	cont "no ser per tu!"
 	done
 
 Route24RocketAfterBattleText:
-	text "OK. Tell you mine"
-	line "secret will I."
+	text "D'acord. Dir a tu"
+	line "secret meu jo"
+	cont "faré."
 
-	para "MACHINE PART steal"
-	line "by me, hide it I"
+	para "PEÇA MÀQUINA robar"
+	line "per mi, amagar-la"
 
-	para "did in GYM of the"
-	line "CERULEAN."
+	para "jo vaig al GIMNÀS"
+	line "de CERULEAN."
 
-	para "Inside water put"
-	line "it I did. Look for"
+	para "Dins aigua posar"
+	line "jo vaig. Buscar tu"
 
-	para "in water center of"
-	line "GYM at."
+	para "a l'aigua centre"
+	line "del GIMNÀS."
 
-	para "But you forget me"
-	line "not!"
+	para "Però tu oblidar a"
+	line "mi no!"
 
-	para "Beat you for sure"
-	line "will TEAM ROCKET."
+	para "Derrotar a tu de"
+	line "segur TEAM ROCKET."
 
-	para "Come from JOHTO"
-	line "will they, mine"
+	para "Venir de JOHTO"
+	line "ells, els meus"
 
-	para "friends, yes. Will"
-	line "revenge they are."
+	para "amics, sí."
+	line "Venjança"
+	cont "fer ells."
 	done
 
 Route24RocketDisappearsText:
 	text "…"
 
-	para "You say what? TEAM"
-	line "ROCKET bye-bye a"
+	para "Tu dir què? TEAM"
+	line "ROCKET adéu-siau"
 
-	para "go-go? Broken it"
-	line "is says you?"
+	para "marxar? Trencat"
+	line "estar dius tu?"
 
-	para "Oh, no! Should I"
-	line "do what now on"
-	cont "from, me?"
+	para "Oh, no! Haver jo"
+	line "fer què ara a"
+	cont "partir de, jo?"
 	done
 
 Route24_MapEvents:

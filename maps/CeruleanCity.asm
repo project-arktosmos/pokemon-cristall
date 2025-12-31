@@ -148,36 +148,37 @@ CeruleanCityHiddenBerserkGene:
 	hiddenitem BERSERK_GENE, EVENT_FOUND_BERSERK_GENE_IN_CERULEAN_CITY
 
 CeruleanCityCooltrainerMText1:
-	text "KANTO's POWER"
-	line "PLANT?"
+	text "La CENTRAL de"
+	line "KANTO?"
 
-	para "It's near the end"
-	line "of ROUTE 9, the"
+	para "És a prop del"
+	line "final de la RUTA"
 
-	para "road that heads"
-	line "east from here."
+	para "9, el camí que va"
+	line "cap a l'est."
 
-	para "I think there was"
-	line "an accident of"
-	cont "some sort there."
+	para "Crec que hi va"
+	line "haver un accident"
+	cont "o alguna cosa."
 	done
 
 CeruleanCityCooltrainerMText2:
-	text "You're collecting"
-	line "every single kind"
-	cont "of #MON?"
+	text "Estàs col·leccio-"
+	line "nant totes les"
+	cont "espècies de"
+	cont "#MON?"
 
-	para "That must be quite"
-	line "a challenge, but"
-	cont "it sounds fun too."
+	para "Deu ser tot un"
+	line "repte, però també"
+	cont "sembla divertit."
 	done
 
 CeruleanCitySuperNerdText:
-	text "The CAPE in the"
-	line "north is a good"
+	text "El CAP al nord és"
+	line "un bon lloc per a"
 
-	para "place for dates."
-	line "Girls like it!"
+	para "cites. A les"
+	line "noies els agrada!"
 	done
 
 CeruleanCitySlowbroText:
@@ -185,14 +186,14 @@ CeruleanCitySlowbroText:
 	done
 
 CeruleanCityCooltrainerFText1:
-	text "My SLOWBRO and I"
-	line "make an awesome"
-	cont "combination!"
+	text "El meu SLOWBRO i"
+	line "jo fem una"
+	cont "combinació genial!"
 	done
 
 CeruleanCityCooltrainerFText2:
-	text "SLOWBRO, show me"
-	line "your CONFUSION!"
+	text "SLOWBRO, ensenya'm"
+	line "el teu CONFUSION!"
 	done
 
 CeruleanCityCooltrainerFText3:
@@ -200,77 +201,81 @@ CeruleanCityCooltrainerFText3:
 	done
 
 CeruleanCityFisherText:
-	text "I'm a huge fan of"
-	line "CERULEAN GYM's"
-	cont "MISTY."
+	text "Sóc un gran fan de"
+	line "la MISTY del"
+	cont "GIMNÀS de"
+	cont "CERULEAN."
 	done
 
 CeruleanCityFisherRocketTipText:
-	text "I saw this shady"
-	line "guy go off toward"
-	cont "CERULEAN's CAPE."
+	text "He vist un tipus"
+	line "sospitós anar cap"
+	cont "al CAP de"
+	cont "CERULEAN."
 	done
 
 CeruleanCityYoungsterText1:
-	text "There used to be a"
-	line "cave here that had"
+	text "Abans hi havia una"
+	line "cova aquí que"
 
-	para "horribly powerful"
-	line "#MON in it."
+	para "tenia #MON"
+	line "molt poderosos."
 	done
 
 CeruleanCityYoungsterText2:
-	text "Ayuh?"
+	text "Eh?"
 
-	para "My ITEMFINDER is"
-	line "responding…"
+	para "El meu CERCAOBJ."
+	line "està responent…"
 	done
 
 CeruleanCitySignText:
-	text "CERULEAN CITY"
+	text "CIUTAT CERULEAN"
 
-	para "A Mysterious Blue"
-	line "Aura Surrounds It"
+	para "Una Misteriosa"
+	line "Aura Blava"
+	cont "l'Envolta"
 	done
 
 CeruleanGymSignText:
-	text "CERULEAN CITY"
-	line "#MON GYM"
-	cont "LEADER: MISTY"
+	text "CIUTAT CERULEAN"
+	line "GIMNÀS #MON"
+	cont "LÍDER: MISTY"
 
-	para "The Tomboyish"
-	line "Mermaid"
+	para "La Sirena"
+	line "Entremaliadeta"
 	done
 
 CeruleanBikeShopSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "The BIKE SHOP has"
-	line "moved to GOLDENROD"
-	cont "CITY in JOHTO…"
+	para "La BOTIGA DE BICIS"
+	line "s'ha traslladat a"
+	cont "CIUTAT GOLDENROD"
+	cont "a JOHTO…"
 	done
 
 CeruleanPoliceSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "Stamp out thievery"
-	line "and make the city"
+	para "Acabem amb els"
+	line "robatoris i fem"
 
-	para "a friendlier, more"
-	line "cheerful place!"
+	para "la ciutat més"
+	line "amigable i alegre!"
 
-	para "CERULEAN POLICE"
+	para "POLICIA CERULEAN"
 	done
 
 CeruleanCapeSignText:
-	text "CERULEAN CAPE"
-	line "AHEAD"
+	text "CAP DE CERULEAN"
+	line "ENDAVANT"
 	done
 
 CeruleanLockedDoorText:
-	text "It's locked…"
+	text "Està tancat…"
 	done
 
 CeruleanCity_MapEvents:

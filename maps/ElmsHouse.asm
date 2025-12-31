@@ -20,63 +20,62 @@ ElmsHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 ElmsWifeText:
-	text "Hi, <PLAY_G>! My"
-	line "husband's always"
+	text "Hola, <PLAY_G>! El"
+	line "meu marit sempre"
 
-	para "so busy--I hope"
-	line "he's OK."
+	para "està tan ocupat…"
+	line "Espero que estigui"
+	cont "bé."
 
-	para "When he's caught"
-	line "up in his #MON"
+	para "Quan s'endinsa en"
+	line "la investigació"
 
-	para "research, he even"
-	line "forgets to eat."
+	para "#MON, fins i"
+	line "tot oblida menjar."
 	done
 
 ElmsSonText:
-	text "When I grow up,"
-	line "I'm going to help"
-	cont "my dad!"
+	text "Quan sigui gran,"
+	line "ajudaré el meu"
+	cont "pare!"
 
-	para "I'm going to be a"
-	line "great #MON"
-	cont "professor!"
+	para "Seré un gran"
+	line "professor #MON!"
 	done
 
 ElmsHouseLabFoodText: ; unreferenced
-	text "There's some food"
-	line "here. It must be"
-	cont "for the LAB."
+	text "Aquí hi ha menjar."
+	line "Deu ser per al"
+	cont "LABORATORI."
 	done
 
 ElmsHousePokemonFoodText: ; unreferenced
-	text "There's some food"
-	line "here. This must be"
-	cont "for #MON."
+	text "Aquí hi ha menjar."
+	line "Deu ser per als"
+	cont "#MON."
 	done
 
 ElmsHousePCText:
-	text "#MON. Where do"
-	line "they come from? "
+	text "#MON. D'on"
+	line "vénen?"
 
-	para "Where are they"
-	line "going?"
+	para "On van?"
 
-	para "Why has no one"
-	line "ever witnessed a"
-	cont "#MON's birth?"
+	para "Per què ningú no"
+	line "ha presenciat mai"
+	cont "néixer un #MON?"
 
-	para "I want to know! I"
-	line "will dedicate my"
+	para "Vull saber-ho!"
+	line "Dedicaré la vida"
 
-	para "life to the study"
-	line "of #MON!"
+	para "a l'estudi dels"
+	line "#MON!"
 
 	para "…"
 
-	para "It's a part of"
-	line "PROF.ELM's re-"
-	cont "search papers."
+	para "És part dels"
+	line "treballs del"
+	cont "PROF.ELM."
 	done
 
 ElmsHouse_MapEvents:

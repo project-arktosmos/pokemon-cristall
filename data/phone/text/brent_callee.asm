@@ -1,79 +1,81 @@
 BrentAnswerPhoneText:
-	text "Yes? @"
+	text "Sí? @"
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'ap…"
 
-	para "Ah, <PLAYER>. What"
-	line "can I do for you?"
+	para "Ah, <PLAYER>. Què"
+	line "puc fer per tu?"
 	done
 
 BrentAnswerPhoneDayText:
-	text "Yes? @"
+	text "Sí? @"
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'ap…"
 
-	para "Ah, <PLAYER>. What"
-	line "can I do for you?"
+	para "Ah, <PLAYER>. Què"
+	line "puc fer per tu?"
 	done
 
 BrentAnswerPhoneNiteText:
-	text "Yes? @"
+	text "Sí? @"
 	text_ram wStringBuffer3
-	text " here…"
+	text " a l'ap…"
 
-	para "Ah, <PLAYER>. What"
-	line "can I do for you?"
+	para "Ah, <PLAYER>. Què"
+	line "puc fer per tu?"
 	done
 
 BrentGreetText:
-	text "Hiya, <PLAYER>. How"
-	line "are you doing?"
+	text "Ei, <PLAYER>. Com"
+	line "estàs?"
 
-	para "Hey! It's me,"
+	para "Ei! Soc jo,"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 BrentGreetDayText:
-	text "Hiya, <PLAYER>, how"
-	line "are you doing?"
+	text "Ei, <PLAYER>, com"
+	line "estàs?"
 
-	para "Hey, it's me,"
+	para "Ei, soc jo,"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 BrentGreetNiteText:
-	text "Hiya, <PLAYER>, how"
-	line "are you doing?"
+	text "Ei, <PLAYER>, com"
+	line "estàs?"
 
-	para "Hey, it's me,"
+	para "Ei, soc jo,"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 BrentGenericText:
-	text "Oh yeah, I saw you"
-	line "coming out of a"
+	text "Ah sí, et vaig"
+	line "veure sortint"
 
-	para "#MON CENTER the"
-	line "other day."
+	para "d'un CENTRE"
+	line "#MON"
+	cont "l'altre dia."
 
-	para "You heal your"
-	line "#MON regularly,"
+	para "Cures els teus"
+	line "#MON sovint,"
 
-	para "don't you?"
-	line "I'm impressed."
+	para "oi que sí?"
+	line "Impressive."
 
-	para "Heh, my @"
+	para "El meu @"
 	text_ram wStringBuffer4
 	text_start
-	line "is so tough, it"
+	line "és tan fort que"
 
-	para "doesn't need to go"
-	line "to #MON CENTERS"
-	cont "often. Heheh!"
+	para "no cal que vagi"
+	line "als CENTRES"
+	cont "#MON"
+	cont "sovint. Hehe!"
 	done

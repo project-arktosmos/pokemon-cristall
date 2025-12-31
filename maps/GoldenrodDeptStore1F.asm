@@ -28,52 +28,54 @@ GoldenrodDeptStore1FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore1FReceptionistText:
-	text "Welcome to GOLDEN-"
-	line "ROD DEPT.STORE."
+	text "Benvingut als"
+	line "grans magatzems"
+	cont "TRIGAT DAURAT."
 	done
 
 GoldenrodDeptStore1FGentlemanText:
-	text "The DEPT.STORE"
-	line "has a decent se-"
-	cont "lection."
+	text "Els magatzems"
+	line "tenen una bona"
+	cont "selecció."
 
-	para "But some items"
-	line "are only available"
+	para "Però alguns"
+	line "objectes només es"
 
-	para "as GAME CORNER"
-	line "prizes."
+	para "troben al RACÓ"
+	line "RECREATIU."
 	done
 
 GoldenrodDeptStore1FPokefanFText:
-	text "I'm raring to shop"
-	line "again today!"
+	text "Tinc moltes ganes"
+	line "de comprar avui!"
 	done
 
 GoldenrodDeptStore1FBugCatcherText:
-	text "Mom's good at"
-	line "bargain hunting."
+	text "La mare és bona"
+	line "buscant ofertes."
 
-	para "She always buys"
-	line "stuff at lower"
-	cont "prices."
+	para "Sempre compra"
+	line "coses a preus"
+	cont "més baixos."
 	done
 
 GoldenrodDeptStore1FDirectoryText:
-	text "1F SERVICE COUNTER"
+	text "1F TAULELL"
 
-	para "2F TRAINER'S"
-	line "   MARKET"
+	para "2F MERCAT DEL"
+	line "   ENTRENADOR"
 
-	para "3F BATTLE"
-	line "   COLLECTION"
+	para "3F COL·LECCIÓ"
+	line "   DE COMBAT"
 
-	para "4F MEDICINE BOX"
+	para "4F MEDICINES"
 
-	para "5F TM CORNER"
+	para "5F RACÓ DE MT"
 
-	para "6F TRANQUIL SQUARE"
+	para "6F PLAÇA"
+	line "   TRANQUIL·LA"
 
-	para "ROOFTOP LOOKOUT"
+	para "TERRAT MIRADOR"
 	done
 
 GoldenrodDeptStore1F_MapEvents:

@@ -21,29 +21,27 @@ VioletMartCooltrainerMScript:
 	jumptextfaceplayer VioletMartCooltrainerMText
 
 VioletMartGrannyText:
-	text "When you first"
-	line "catch a #MON,"
-	cont "it may be weak."
+	text "Quan atrapes un"
+	line "#MON per primer"
+	cont "cop, pot ser feb."
 
-	para "But it will even-"
-	line "tually grow to be"
-	cont "strong."
+	para "Però amb el temps"
+	line "es farà fort."
 
-	para "It's important to"
-	line "treat #MON with"
-	cont "love."
+	para "És important"
+	line "tractar els"
+	cont "#MON"
+	cont "amb amor."
 	done
 
 VioletMartCooltrainerMText:
-	text "#MON can hold"
-	line "items like POTION"
-	cont "and ANTIDOTE."
+	text "Els #MON poden"
+	line "portar objectes"
+	cont "com POTION."
 
-	para "But they don't"
-	line "appear to know how"
-
-	para "to use manmade"
-	line "items."
+	para "Però no sembla que"
+	line "sàpiguen com usar"
+	cont "objectes humans."
 	done
 
 VioletMart_MapEvents:

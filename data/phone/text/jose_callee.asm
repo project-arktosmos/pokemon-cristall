@@ -1,37 +1,37 @@
 JoseAnswerPhoneText:
-	text "Hello, this is"
+	text "Hola, soc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
 	para "Oh, <PLAY_G>?"
-	line "Good morning!"
+	line "Bon dia!"
 	done
 
 JoseAnswerPhoneDayText:
-	text "Hello, this is"
+	text "Hola, soc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Oh, <PLAY_G>? Hi!"
+	para "Oh, <PLAY_G>? Ei!"
 	done
 
 JoseAnswerPhoneNiteText:
-	text "Hello, this is"
+	text "Hola, soc en"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
 	para "Oh, <PLAY_G>?"
-	line "Good evening!"
+	line "Bona nit!"
 	done
 
 JoseGreetText:
 	text "Oh, <PLAY_G>?"
 
-	para "Tweet! Yeah, it's"
-	line "me, @"
+	para "Piu! Sí, soc jo,"
+	line "en @"
 	text_ram wStringBuffer3
 	text "."
 	done
@@ -39,8 +39,8 @@ JoseGreetText:
 JoseGreetDayText:
 	text "Oh, <PLAY_G>?"
 
-	para "Tweet! Yeah, it's"
-	line "me, @"
+	para "Piu! Sí, soc jo,"
+	line "en @"
 	text_ram wStringBuffer3
 	text "."
 	done
@@ -48,22 +48,22 @@ JoseGreetDayText:
 JoseGreetNiteText:
 	text "Oh, <PLAY_G>?"
 
-	para "Tweet! Yeah, it's"
-	line "me, @"
+	para "Piu! Sí, soc jo,"
+	line "en @"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 JoseGenericText:
-	text "Are your #MON"
-	line "still cooking?"
+	text "Els teus #MON"
+	line "encara creixen?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " has"
-	line "too much energy."
+	text " té"
+	line "massa energia."
 
-	para "Once it takes off,"
-	line "it won't come back"
-	cont "for a while."
+	para "Un cop s'envola,"
+	line "no torna fins al"
+	cont "cap d'una estona."
 	done

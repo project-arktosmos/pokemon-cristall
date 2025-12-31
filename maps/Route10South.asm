@@ -1,6 +1,6 @@
-	object_const_def
-	const ROUTE10SOUTH_POKEFAN_M1
-	const ROUTE10SOUTH_POKEFAN_M2
+object_const_def
+const ROUTE10SOUTH_POKEFAN_M1
+const ROUTE10SOUTH_POKEFAN_M2
 
 Route10South_MapScripts:
 	def_scene_scripts
@@ -37,40 +37,41 @@ HikerJimSeenText:
 	done
 
 HikerJimBeatenText:
-	text "Hahaha-hachoo!"
+	text "Hahaha-atxim!"
 	done
 
 HikerJimAfterBattleText:
-	text "Hay fever is"
-	line "making me sneeze!"
-	cont "Ahahah-CHOO!"
+	text "L'al·lèrgia al"
+	line "pol·len em fa"
+	cont "esternudar!"
+	cont "Ahahah-ATXIM!"
 	done
 
 PokefanmRobertSeenText:
-	text "You like #MON,"
-	line "don't you?"
+	text "T'agraden els"
+	line "#MON, oi?"
 
-	para "Me too!"
+	para "A mi també!"
 	done
 
 PokefanmRobertBeatenText:
-	text "I'd have to say"
-	line "that's my loss."
+	text "He de dir que"
+	line "he perdut."
 	done
 
 PokefanmRobertAfterBattleText:
-	text "Look what you did"
-	line "to my #MON…"
+	text "Mira què has fet"
+	line "als meus #MON…"
 
-	para "I won't forget"
-	line "this…"
+	para "No oblidaré"
+	line "això…"
 	done
 
 Route10SignText:
-	text "ROUTE 10"
+	text "RUTA 10"
 
-	para "CERULEAN CITY -"
-	line "LAVENDER TOWN"
+	para "CIUTAT CELESTE -"
+	line "POBLE LAVANDA"
 	done
 
 Route10South_MapEvents:

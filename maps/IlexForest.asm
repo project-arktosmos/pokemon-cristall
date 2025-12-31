@@ -736,37 +736,36 @@ IlexForestPlayerStepsDownMovement:
 	step_end
 
 IlexForestApprenticeIntroText:
-	text "Oh, man… My boss"
-	line "is going to be"
-	cont "steaming…"
+	text "Ai, caram… El meu"
+	line "cap s'enfadarà…"
 
-	para "The FARFETCH'D"
-	line "that CUTS trees"
+	para "El FARFETCH'D que"
+	line "talla els arbres"
 
-	para "for charcoal took"
-	line "off on me."
+	para "per fer carbó"
+	line "ha fugit."
 
-	para "I can't go looking"
-	line "for it here in the"
-	cont "ILEX FOREST."
+	para "No el puc buscar"
+	line "aquí al BOSC"
+	cont "D'ILEX."
 
-	para "It's too big, dark"
-	line "and scary for me…"
+	para "És massa gran,"
+	line "fosc i fa por…"
 	done
 
 IlexForestApprenticeAfterText:
-	text "Wow! Thanks a"
-	line "whole bunch!"
+	text "Uau! Moltes"
+	line "gràcies!"
 
-	para "My boss's #MON"
-	line "won't obey me be-"
-	cont "cause I don't have"
-	cont "a BADGE."
+	para "El #MON del meu"
+	line "cap no m'obeeix"
+	cont "perquè no tinc"
+	cont "cap MEDALLA."
 	done
 
 Text_ItsTheMissingPokemon:
-	text "It's the missing"
-	line "#MON!"
+	text "És el #MON"
+	line "perdut!"
 	done
 
 Text_Kwaaaa:
@@ -774,164 +773,166 @@ Text_Kwaaaa:
 	done
 
 Text_CharcoalMasterIntro:
-	text "Ah! My FARFETCH'D!"
+	text "Oh! El meu"
+	line "FARFETCH'D!"
 
-	para "You found it for"
-	line "us, kid?"
+	para "L'has trobat,"
+	line "noi?"
 
-	para "Without it, we"
-	line "wouldn't be able"
+	para "Sense ell, no"
+	line "podríem tallar"
 
-	para "to CUT trees for"
-	line "charcoal."
+	para "arbres per fer"
+	line "carbó."
 
-	para "Thanks, kid!"
+	para "Gràcies, noi!"
 
-	para "Now, how can I"
-	line "thank you…"
+	para "Com puc"
+	line "agrair-t'ho…"
 
-	para "I know! Here, take"
-	line "this."
+	para "Ja ho sé! Té,"
+	line "agafa això."
 	done
 
 Text_CharcoalMasterOutro:
-	text "That's the CUT HM."
-	line "Teach that to a"
+	text "Aquesta és la MO"
+	line "Tallar. Ensenya-"
 
-	para "#MON to clear"
-	line "small trees."
+	para "la a un #MON"
+	line "per tallar arbres"
+	cont "petits."
 
-	para "Of course, you"
-	line "have to have the"
+	para "És clar, has de"
+	line "tenir la MEDALLA"
 
-	para "GYM BADGE from"
-	line "AZALEA to use it."
+	para "del GIMNÀS"
+	line "d'AZALEA."
 	done
 
 Text_CharcoalMasterTalkAfter:
-	text "Do you want to"
-	line "apprentice as a"
+	text "Vols fer"
+	line "d'aprenent de"
 
-	para "charcoal maker"
-	line "with me?"
+	para "carboner amb"
+	line "mi?"
 
-	para "You'll be first-"
-	line "rate in ten years!"
+	para "En deu anys seràs"
+	line "de primera!"
 	done
 
 Text_HeadbuttIntro:
-	text "What am I doing?"
+	text "Què faig?"
 
-	para "I'm shaking trees"
-	line "using HEADBUTT."
+	para "Sacsejo arbres"
+	line "amb HEADBUTT."
 
-	para "It's fun. Here,"
-	line "you try it too!"
+	para "És divertit."
+	line "Té, prova-ho tu!"
 	done
 
 Text_HeadbuttOutro:
-	text "Rattle trees with"
-	line "HEADBUTT. Some-"
-	cont "times, sleeping"
-	cont "#MON fall out."
+	text "Sacseja arbres"
+	line "amb HEADBUTT. De"
+	cont "vegades, cauen"
+	cont "#MON adormits."
 	done
 
 Text_IlexForestLass:
-	text "Did something"
-	line "happen to the"
-	cont "forest's guardian?"
+	text "Ha passat alguna"
+	line "cosa al guardià"
+	cont "del bosc?"
 	done
 
 IlexForestSignpostText:
-	text "ILEX FOREST is"
-	line "so overgrown with"
+	text "El BOSC D'ILEX"
+	line "és tan ple"
 
-	para "trees that you"
-	line "can't see the sky."
+	para "d'arbres que no"
+	line "es veu el cel."
 
-	para "Please watch out"
-	line "for items that may"
-	cont "have been dropped."
+	para "Si us plau, aneu"
+	line "amb compte amb els"
+	cont "objectes perduts."
 	done
 
 Text_IlexForestShrine:
-	text "ILEX FOREST"
-	line "SHRINE…"
+	text "SANTUARI DEL"
+	line "BOSC D'ILEX…"
 
-	para "It's in honor of"
-	line "the forest's"
-	cont "protector…"
+	para "En honor del"
+	line "protector del"
+	cont "bosc…"
 	done
 
 Text_ShrineCelebiEvent:
-	text "ILEX FOREST"
-	line "SHRINE…"
+	text "SANTUARI DEL"
+	line "BOSC D'ILEX…"
 
-	para "It's in honor of"
-	line "the forest's"
-	cont "protector…"
+	para "En honor del"
+	line "protector del"
+	cont "bosc…"
 
-	para "Oh? What is this?"
+	para "Oh? Què és això?"
 
-	para "It's a hole."
-	line "It looks like the"
+	para "És un forat."
+	line "Sembla que la"
 
-	para "GS BALL would fit"
-	line "inside it."
+	para "BALL GS hi"
+	line "encaixaria."
 
-	para "Want to put the GS"
-	line "BALL here?"
+	para "Vols posar-hi"
+	line "la BALL GS?"
 	done
 
 Text_InsertGSBall:
-	text "<PLAYER> put in the"
-	line "GS BALL."
+	text "<PLAYER> ha posat"
+	line "la BALL GS."
 	done
 
 Text_KurtCaughtCelebi:
-	text "Whew, wasn't that"
-	line "something!"
+	text "Buf, quina"
+	line "experiència!"
 
-	para "<PLAYER>, that was"
-	line "fantastic. Thanks!"
+	para "<PLAYER>, ha estat"
+	line "fantàstic. Gràcies"
 
-	para "The legends about"
-	line "that SHRINE were"
-	cont "real after all."
+	para "Les llegendes"
+	line "sobre el SANTUARI"
+	cont "eren certes."
 
-	para "I feel inspired by"
-	line "what I just saw."
+	para "El que he vist"
+	line "m'ha inspirat."
 
-	para "It motivates me to"
-	line "make better BALLS!"
+	para "Em motiva a fer"
+	line "BALLS millors!"
 
-	para "I'm going!"
+	para "Me'n vaig!"
 	done
 
 BugCatcherWayneSeenText:
-	text "Don't sneak up on"
-	line "me like that!"
+	text "No t'acostis tan"
+	line "sigilosament!"
 
-	para "You frightened a"
-	line "#MON away!"
+	para "Has espantat"
+	line "un #MON!"
 	done
 
 BugCatcherWayneBeatenText:
-	text "I hadn't seen that"
-	line "#MON before…"
+	text "No havia vist mai"
+	line "aquest #MON…"
 	done
 
 BugCatcherWayneAfterBattleText:
-	text "A #MON I've"
-	line "never seen before"
+	text "Un #MON que no"
+	line "havia vist mai"
 
-	para "fell out of the"
-	line "tree when I used"
+	para "ha caigut d'un"
+	line "arbre quan he fet"
 	cont "HEADBUTT."
 
-	para "I ought to use"
-	line "HEADBUTT in other"
-	cont "places too."
+	para "Hauria de fer"
+	line "HEADBUTT en"
+	cont "altres llocs."
 	done
 
 IlexForest_MapEvents:

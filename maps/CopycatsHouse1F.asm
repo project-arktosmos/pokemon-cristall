@@ -36,34 +36,34 @@ CopycatsHouse1FBlisseyScript:
 	end
 
 CopycatsHouse1FPokefanMText:
-	text "My daughter likes"
-	line "to mimic people."
+	text "A la meva filla li"
+	line "agrada imitar."
 
-	para "Her mimicry has"
-	line "earned her the"
+	para "La seva habilitat"
+	line "li ha donat el"
 
-	para "nickname COPYCAT"
-	line "around here."
+	para "sobrenom COPYCAT"
+	line "per aquí."
 	done
 
 CopycatsHouse1FPokefanFText:
-	text "My daughter is so"
-	line "self-centered…"
+	text "La meva filla és"
+	line "tan egocèntrica…"
 
-	para "She only has a few"
-	line "friends."
+	para "Només té uns pocs"
+	line "amics."
 	done
 
 CopycatsHouse1FPokefanFText_ReturnedMachinePart:
-	text "She recently lost"
-	line "the # DOLL that"
+	text "Fa poc va perdre"
+	line "la NINA # que"
 
-	para "a boy gave her"
-	line "three years ago."
+	para "un noi li va donar"
+	line "fa tres anys."
 
-	para "Ever since then,"
-	line "she's gotten even"
-	cont "better at mimicry…"
+	para "Des de llavors,"
+	line "ha millorat encara"
+	cont "més a imitar…"
 	done
 
 CopycatsHouse1FBlisseyText:

@@ -74,83 +74,81 @@ DayCareBookshelf:
 	jumpstd DifficultBookshelfScript
 
 Text_GrampsLookingForYou:
-	text "Gramps was looking"
-	line "for you."
+	text "L'avi et buscava."
 	done
 
 Text_DayCareManTalksAboutEggTicket: ; unreferenced
-	text "I'm the DAY-CARE"
-	line "MAN."
+	text "Sóc el cuidador de"
+	line "la GUARDERIA."
 
-	para "There's something"
-	line "new in GOLDENROD"
+	para "Hi ha una novetat"
+	line "a TRIGAL: el RACÓ"
 
-	para "called the TRADE"
-	line "CORNER."
+	para "D'INTERCANVI."
 
-	para "I was given an EGG"
-	line "TICKET that can be"
+	para "Em van donar un"
+	line "TIQUET D'OU que es"
 
-	para "traded in for a"
-	line "ODD EGG."
+	para "pot bescanviar"
+	line "per un OU ESTRANY."
 
-	para "But since we run a"
-	line "DAY-CARE, we don't"
+	para "Però com que tenim"
+	line "una GUARDERIA, no"
 
-	para "need it. You may"
-	line "as well have it."
+	para "el necessitem. Tu"
+	line "el pots tenir."
 	done
 
 DayCareManText_GiveOddEgg:
-	text "I'm the DAY-CARE"
-	line "MAN."
+	text "Sóc el cuidador de"
+	line "la GUARDERIA."
 
-	para "Do you know about"
-	line "EGGS?"
+	para "Saps què són els"
+	line "OUS?"
 
-	para "I was raising"
-	line "#MON with my"
-	cont "wife, you see."
+	para "Criava #MON"
+	line "amb la meva dona,"
+	cont "veus."
 
-	para "We were shocked to"
-	line "find an EGG!"
+	para "Ens vam sorprendre"
+	line "en trobar un OU!"
 
-	para "How incredible is"
-	line "that?"
+	para "No és increïble?"
 
-	para "Well, wouldn't you"
-	line "like this EGG?"
+	para "Bé, no voldries"
+	line "aquest OU?"
 
-	para "Then fine, this is"
-	line "yours to keep!"
+	para "Doncs, bé, queda't"
+	line "aquest OU!"
 	done
 
 DayCareText_ComeAgain: ; unreferenced
-	text "Come again."
+	text "Torna-hi quan"
+	line "vulguis."
 	done
 
 DayCareText_GotOddEgg:
-	text "<PLAYER> received"
-	line "ODD EGG!"
+	text "<PLAYER> ha rebut"
+	line "l'OU ESTRANY!"
 	done
 
 DayCareText_DescribeOddEgg:
-	text "I found that when"
-	line "I was caring for"
+	text "El vaig trobar"
+	line "mentre cuidava el"
 
-	para "someone's #MON"
-	line "before."
+	para "#MON d'algú"
+	line "fa un temps."
 
-	para "But the trainer"
-	line "didn't want the"
+	para "Però l'entrenador"
+	line "no volia l'OU,"
 
-	para "EGG, so I'd kept"
-	line "it around."
+	para "així que me'l"
+	line "vaig quedar."
 	done
 
 DayCareText_PartyFull:
-	text "You've no room for"
-	line "this."
+	text "No tens espai per"
+	line "a això."
 	done
 
 DayCare_MapEvents:

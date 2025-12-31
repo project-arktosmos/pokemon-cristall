@@ -313,220 +313,222 @@ Route45HiddenPpUp:
 	hiddenitem PP_UP, EVENT_ROUTE_45_HIDDEN_PP_UP
 
 HikerErikSeenText:
-	text "Be prepared for"
-	line "anything!"
+	text "Prepara't per a"
+	line "qualsevol cosa!"
 
-	para "Let me see if your"
-	line "#MON have been"
-	cont "raised properly!"
+	para "Deixa'm veure si"
+	line "els teus #MON"
+	cont "estan ben criats!"
 	done
 
 HikerErikBeatenText:
-	text "Oh, I lost that!"
+	text "Oh, he perdut!"
 	done
 
 HikerErikAfterBattleText:
-	text "I'll head back to"
-	line "BLACKTHORN's ICE"
+	text "Tornaré al CAMÍ"
+	line "GELAT de TRIGAL"
 
-	para "PATH and train"
-	line "some more."
+	para "i entrenaré una"
+	line "mica més."
 	done
 
 HikerMichaelSeenText:
-	text "Yo! You're spunky!"
-	line "But you know what?"
+	text "Ei! Tens empenta!"
+	line "Però saps què?"
 
-	para "When it comes to"
-	line "sheer spunkiness,"
-	cont "I'm the man!"
+	para "Quan es tracta de"
+	line "tenir empenta, jo"
+	cont "sóc el millor!"
 	done
 
 HikerMichaelBeatenText:
-	text "My #MON weren't"
-	line "spunky enough!"
+	text "Els meus #MON"
+	line "no"
+	cont "tenien empenta!"
 	done
 
 HikerMichaelAfterBattleText:
-	text "Boy, do I love"
-	line "HP UP! Mmmm, yum!"
+	text "M'encanta el MÉS"
+	line "PS! Mmmm, nyam!"
 
-	para "I keep drinking my"
-	line "#MON's!"
+	para "Em bec els dels"
+	line "meus #MON!"
 
-	para "I can't help it!"
+	para "No ho puc evitar!"
 	done
 
 HikerParry3SeenText:
-	text "My #MON are"
-	line "power packed!"
+	text "Els meus #MON"
+	line "són molt forts!"
 	done
 
 HikerParry3BeatenText:
-	text "Wahahah! I'm the"
-	line "big loser!"
+	text "Uahahà! Sóc un"
+	line "gran perdedor!"
 	done
 
 HikerParryAfterBattleText:
-	text "I'm not much good"
-	line "at thinking, see?"
+	text "No sóc gaire bo"
+	line "pensant, saps?"
 
-	para "So, I just plow"
-	line "ahead with power!"
+	para "Així que vaig"
+	line "endavant amb pura"
+	cont "força!"
 	done
 
 HikerTimothySeenText:
-	text "Why do I climb"
-	line "mountains?"
+	text "Per què escalo"
+	line "muntanyes?"
 
-	para "Because they're"
-	line "there."
+	para "Perquè hi són."
 
-	para "Why do I train"
+	para "Per què entreno"
 	line "#MON?"
 
-	para "Because they're"
-	line "there!"
+	para "Perquè hi són!"
 	done
 
 HikerTimothyBeatenText:
-	text "Losses…"
-	line "They're there too!"
+	text "Les derrotes…"
+	line "També hi són!"
 	done
 
 HikerTimothyAfterBattleText:
-	text "The best thing to"
-	line "ever happen to me"
+	text "El millor que"
+	line "m'ha passat mai"
 
-	para "was discovering"
-	line "#MON."
+	para "va ser descobrir"
+	line "els #MON."
 	done
 
 HikerParryGivesIronText:
-	text "I just can't find"
-	line "a way to win!"
+	text "No trobo la manera"
+	line "de guanyar!"
 
-	para "Keep it up!"
+	para "Continua així!"
 
-	para "Oh, and take this"
-	line "--it's the gift"
+	para "Ah, i pren això."
+	line "És el regal que"
 
-	para "you couldn't take"
-	line "when we last met."
+	para "no vas poder"
+	line "agafar l'últim"
+	cont "cop."
 	done
 
 BlackbeltKenji3SeenText:
-	text "I was training"
-	line "here alone."
+	text "Estava entrenant"
+	line "aquí sol."
 
-	para "Behold the fruits"
-	line "of my labor!"
+	para "Contempla els"
+	line "fruits del meu"
+	cont "esforç!"
 	done
 
 BlackbeltKenji3BeatenText:
-	text "Waaaargh!"
+	text "Aaaargh!"
 	done
 
 BlackbeltKenjiAfterBattleText:
-	text "This calls for"
-	line "extreme measures."
+	text "Això requereix"
+	line "mesures extremes."
 
-	para "I must take to the"
-	line "hills and train in"
-	cont "solitude."
+	para "He d'anar als"
+	line "turons i entrenar"
+	cont "en soledat."
 	done
 
 BlackbeltKenjiMorningText:
-	text "I'm going to train"
-	line "a bit more before"
-	cont "I break for lunch."
+	text "Entrenaré una"
+	line "mica més abans de"
+	cont "parar per dinar."
 	done
 
 BlackbeltKenjiNightText:
-	text "We had plenty of"
-	line "rest at lunch, so"
+	text "Hem descansat molt"
+	line "a l'hora de dinar."
 
-	para "now we're all"
-	line "ready to go again!"
+	para "Ara estem tots"
+	line "llestos de nou!"
 
-	para "We're going to"
-	line "train again!"
+	para "Tornarem a"
+	line "entrenar!"
 	done
 
 CooltrainermRyanSeenText:
-	text "What are your"
-	line "thoughts on rais-"
-	cont "ing #MON?"
+	text "Què en penses de"
+	line "criar #MON?"
 	done
 
 CooltrainermRyanBeatenText:
-	text "You've won my"
-	line "respect."
+	text "T'has guanyat el"
+	line "meu respecte."
 	done
 
 CooltrainermRyanAfterBattleText:
-	text "I see you're rais-"
-	line "ing your #MON"
-	cont "with care."
+	text "Veig que cries"
+	line "els teus #MON"
+	cont "amb cura."
 
-	para "The bond you build"
-	line "will save you in"
-	cont "tough situations."
+	para "El vincle que"
+	line "formeu us salvarà"
+	cont "en moments durs."
 	done
 
 CooltrainerfKellySeenText:
-	text "What is your"
-	line "battle strategy?"
+	text "Quina és la teva"
+	line "estratègia?"
 
-	para "It is foolish to"
-	line "use strong moves"
-	cont "indiscriminately."
+	para "És absurd usar"
+	line "moviments forts"
+	cont "sense criteri."
 	done
 
 CooltrainerfKellyBeatenText:
-	text "Fine. I lost."
+	text "D'acord. He"
+	line "perdut."
 	done
 
 CooltrainerfKellyAfterBattleText:
-	text "I'm not in favor"
-	line "of overly power-"
-	cont "ful moves."
+	text "No estic a favor"
+	line "dels moviments"
+	cont "massa potents."
 
-	para "I want to win, but"
-	line "I also don't want"
-	cont "to harm #MON."
+	para "Vull guanyar, però"
+	line "tampoc vull fer"
+	cont "mal als #MON."
 	done
 
 Route45DummyText:
-	text "I'm really, really"
-	line "tough!"
+	text "Sóc molt i molt"
+	line "dur!"
 
-	para "Is there anywhere"
-	line "I can prove how"
-	cont "tough I really am?"
+	para "Hi ha algun lloc"
+	line "on pugui demostrar"
+	cont "com sóc de dur?"
 	done
 
 CamperQuentinSeenText:
-	text "I'm really, really"
-	line "tough!"
+	text "Sóc molt i molt"
+	line "dur!"
 	done
 
 CamperQuentinBeatenText:
-	text "I was tough at the"
-	line "BATTLE TOWER…"
+	text "Era dur a la TORRE"
+	line "BATALLA…"
 	done
 
 CamperQuentinAfterBattleText:
-	text "Have you been to"
-	line "the BATTLE TOWER?"
+	text "Has anat a la"
+	line "TORRE BATALLA?"
 
-	para "I never, ever lose"
-	line "there, but…"
+	para "Jo mai no hi"
+	line "perdo, però…"
 	done
 
 Route45SignText:
-	text "ROUTE 45"
-	line "MOUNTAIN RD. AHEAD"
+	text "RUTA 45"
+	line "CAMÍ DE MUNTANYA"
 	done
 
 Route45_MapEvents:

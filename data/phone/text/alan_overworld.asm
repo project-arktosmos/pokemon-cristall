@@ -1,71 +1,71 @@
 AlanAskNumber1Text:
-	text "Reading textbooks"
-	line "is worthwhile"
-	cont "every so often."
+	text "Llegir llibres val"
+	line "la pena de tant"
+	cont "en tant."
 
-	para "When I'm reading"
-	line "and walking, I"
-	cont "have to look down."
+	para "Quan llegeixo i"
+	line "camino, miro"
+	cont "cap avall."
 
-	para "So I notice items"
-	line "on the ground."
+	para "Així trobo coses"
+	line "a terra."
 
-	para "Next time I find"
-	line "something, I'll"
-	cont "give it to you."
+	para "El pròxim cop que"
+	line "trobi alguna cosa,"
+	cont "te la donaré."
 
-	para "May I have your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu telèfon?"
 	done
 
 AlanAskNumber2Text:
-	text "If I find some-"
-	line "thing, it's yours."
+	text "Si trobo alguna"
+	line "cosa, serà teva."
 
-	para "So may I have your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu telèfon?"
 	done
 
 AlanNumberAcceptedText:
-	text "I'll call you as"
-	line "soon as I find"
+	text "Et trucaré quan"
+	line "trobi alguna cosa."
 
-	para "something. You can"
-	line "count on it!"
+	para "Pots comptar-hi!"
 	done
 
 AlanNumberDeclinedText:
-	text "Oh… I thought it"
-	line "would be a good"
+	text "Oh… Pensava que"
+	line "seria un bon"
 
-	para "break to call you"
-	line "when I'm studying…"
+	para "descans trucar-te"
+	line "mentre estudio…"
 	done
 
 AlanPhoneFullText:
-	text "There's no room"
-	line "for my number."
+	text "No hi ha espai"
+	line "pel meu número."
 	done
 
 AlanRematchText:
-	text "I waited around"
-	line "for you!"
+	text "T'he estat"
+	line "esperant!"
 
-	para "I'm thoroughly"
-	line "prepared today!"
+	para "Avui estic ben"
+	line "preparat!"
 	done
 
 AlanGiftText:
-	text "This, this! This"
-	line "is yours! Ta-da!"
+	text "Això, això! Això"
+	line "és per a tu!"
 	done
 
 AlanPackFullText:
-	text "Whoops!"
+	text "Ui!"
 
-	para "You can't carry"
-	line "any more items!"
+	para "No pots portar"
+	line "més objectes!"
 
-	para "I'll hold it until"
-	line "next time."
+	para "T'ho guardaré"
+	line "fins al pròxim"
+	cont "cop."
 	done

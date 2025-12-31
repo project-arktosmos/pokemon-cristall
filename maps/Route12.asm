@@ -1,10 +1,10 @@
-	object_const_def
-	const ROUTE12_FISHER1
-	const ROUTE12_FISHER2
-	const ROUTE12_FISHER3
-	const ROUTE12_FISHER4
-	const ROUTE12_POKE_BALL1
-	const ROUTE12_POKE_BALL2
+object_const_def
+const ROUTE12_FISHER1
+const ROUTE12_FISHER2
+const ROUTE12_FISHER3
+const ROUTE12_FISHER4
+const ROUTE12_POKE_BALL1
+const ROUTE12_POKE_BALL2
 
 Route12_MapScripts:
 	def_scene_scripts
@@ -71,97 +71,98 @@ Route12HiddenElixer:
 	hiddenitem ELIXER, EVENT_ROUTE_12_HIDDEN_ELIXER
 
 FisherMartinSeenText:
-	text "Patience is the"
-	line "key to both fish-"
-	cont "ing and #MON."
+	text "La paciència és"
+	line "la clau de la"
+	cont "pesca i els #."
 	done
 
 FisherMartinBeatenText:
-	text "Gwaaah!"
+	text "Aaaarg!"
 	done
 
 FisherMartinAfterBattleText:
-	text "I'm too impatient"
-	line "for fishing…"
+	text "Sóc massa impaci-"
+	line "ent per pescar…"
 	done
 
 FisherStephenSeenText:
-	text "I feel so content,"
-	line "fishing while lis-"
-	cont "tening to some"
-	cont "tunes on my radio."
+	text "Em sento tan bé,"
+	line "pescant mentre"
+	cont "escolto música"
+	cont "a la ràdio."
 	done
 
 FisherStephenBeatenText:
-	text "My stupid radio"
-	line "distracted me!"
+	text "La ràdio m'ha"
+	line "distret!"
 	done
 
 FisherStephenAfterBattleText:
-	text "Have you checked"
-	line "out KANTO's radio"
+	text "Has escoltat els"
+	line "programes de"
 
-	para "programs? We get a"
-	line "good variety here."
+	para "ràdio de KANTO?"
+	line "Hi ha varietat."
 	done
 
 FisherBarneySeenText:
-	text "What's most impor-"
-	line "tant in our every-"
-	cont "day lives?"
+	text "Què és el més"
+	line "important en la"
+	cont "vida quotidiana?"
 	done
 
 FisherBarneyBeatenText:
-	text "The answer is"
-	line "coming up next!"
+	text "La resposta serà"
+	line "revelada ara!"
 	done
 
 FisherBarneyAfterBattleText:
-	text "I think electric-"
-	line "ity is the most"
+	text "Crec que l'elec-"
+	line "tricitat és el"
 
-	para "important thing in"
-	line "our daily lives."
+	para "més important en"
+	line "la vida diària."
 
-	para "If it weren't,"
-	line "people wouldn't"
+	para "Si no ho fos,"
+	line "la gent no hauria"
 
-	para "have made such a"
-	line "fuss when the"
+	para "fet tant d'enre-"
+	line "nou quan la"
 
-	para "POWER PLANT went"
-	line "out of commission."
+	para "CENTRAL ELÈCTRICA"
+	line "va deixar de fun-"
+	cont "cionar."
 	done
 
 FisherKyleSeenText:
-	text "Do you remember?"
+	text "Te'n recordes?"
 	done
 
 FisherKyleBeatenText:
-	text "You do remember?"
+	text "Te'n recordes?"
 	done
 
 FisherKyleAfterBattleText:
-	text "The tug you feel"
-	line "on the ROD when"
+	text "L'estirada que"
+	line "notes a la CANYA"
 
-	para "you hook a #-"
-	line "MON…"
+	para "quan enganxes un"
+	line "#MON…"
 
-	para "That's the best"
-	line "feeling ever for"
-	cont "an angler like me."
+	para "És la millor"
+	line "sensació per a un"
+	cont "pescador com jo."
 	done
 
 Route12SignText:
-	text "ROUTE 12"
+	text "RUTA 12"
 
-	para "NORTH TO LAVENDER"
-	line "TOWN"
+	para "AL NORD:"
+	line "POBLE LAVANDA"
 	done
 
 FishingSpotSignText:
-	text "FISHING SPOT"
+	text "ZONA DE PESCA"
 	done
 
 Route12_MapEvents:

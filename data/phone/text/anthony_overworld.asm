@@ -1,52 +1,52 @@
 AnthonyAskNumber1Text:
-	text "By the way, I'm a"
-	line "HIKER, so I often"
+	text "Per cert, sóc"
+	line "EXCURSIONISTA i"
 
-	para "go to mountains"
-	line "and caves."
+	para "sovint vaig a"
+	line "muntanyes i coves."
 
-	para "I occasionally see"
-	line "rare #MON."
+	para "A vegades veig"
+	line "#MON rars."
 
-	para "I could call you"
-	line "the next time I"
-	cont "see one."
+	para "Podria trucar-te"
+	line "quan en veiés un."
 
-	para "Feel like swapping"
-	line "phone numbers?"
+	para "Vols intercanviar"
+	line "els telèfons?"
 	done
 
 AnthonyAskNumber2Text:
-	text "I could call you"
-	line "when I see some"
-	cont "rare #MON."
+	text "Podria trucar-te"
+	line "quan veiés #MON"
+	cont "rars."
 
-	para "Feel like swapping"
-	line "phone numbers?"
+	para "Vols intercanviar"
+	line "els telèfons?"
 	done
 
 AnthonyNumberAcceptedText:
-	text "Be patient. I'll"
-	line "find some rare"
-	cont "#MON for you!"
+	text "Paciència. Et"
+	line "trobaré #MON"
+	cont "rars!"
 	done
 
 AnthonyNumberDeclinedText:
-	text "You're cold. I may"
-	line "as well head to"
-	cont "the mountains…"
+	text "Ets fred. Potser"
+	line "me n'aniré a les"
+	cont "muntanyes…"
 	done
 
 AnthonyPhoneFullText:
-	text "Your phone's full."
+	text "El telèfon és"
+	line "ple."
 
-	para "It can't register"
-	line "my phone number."
+	para "No pot guardar el"
+	line "meu número."
 	done
 
 AnthonyRematchText:
-	text "All righty, then!"
+	text "Molt bé, doncs!"
 
-	para "My #MON and I"
-	line "are raring to go!"
+	para "Els meus #MON i"
+	line "jo estem llestos!"
 	done

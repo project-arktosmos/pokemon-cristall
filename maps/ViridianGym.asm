@@ -62,109 +62,105 @@ ViridianGymStatue:
 	jumpstd GymStatue2Script
 
 LeaderBlueBeforeText:
-	text "BLUE: Yo! Finally"
-	line "got here, huh?"
+	text "BLUE: Ei! Per fi"
+	line "has arribat, eh?"
 
-	para "I wasn't in the"
-	line "mood at CINNABAR,"
+	para "No estava d'humor"
+	line "a CINNABAR,"
 
-	para "but now I'm ready"
-	line "to battle you."
+	para "però ara estic a"
+	line "punt per lluitar."
 
 	para "…"
 
-	para "You're telling me"
-	line "you conquered all"
-	cont "the GYMS in JOHTO?"
+	para "Em dius que has"
+	line "conquerit tots els"
+	cont "GIMNASOS de JOHTO?"
 
-	para "Heh! JOHTO's GYMS"
-	line "must be pretty"
-	cont "pathetic then."
+	para "Bah! Els GIMNASOS"
+	line "de JOHTO deuen ser"
+	cont "molt fluixos."
 
-	para "Hey, don't worry"
-	line "about it."
+	para "Ei, no et"
+	line "preocupis."
 
-	para "I'll know if you"
-	line "are good or not by"
+	para "Sabré si ets bo o"
+	line "no lluitant contra"
 
-	para "battling you right"
-	line "now."
+	para "tu ara mateix."
 
-	para "Ready, JOHTO"
-	line "CHAMP?"
+	para "Preparat, CAMPIÓ"
+	line "de JOHTO?"
 	done
 
 LeaderBlueWinText:
-	text "BLUE: What?"
+	text "BLUE: Què?"
 
-	para "How the heck did I"
-	line "lose to you?"
+	para "Com dimonis he"
+	line "pogut perdre?"
 
 	para "…"
 
-	para "Tch, all right…"
-	line "Here, take this--"
-	cont "it's EARTHBADGE."
+	para "Tsc, bé…"
+	line "Té, agafa això:"
+	cont "la INSÍGNIA TERRA."
 	done
 
 Text_ReceivedEarthBadge:
-	text "<PLAYER> received"
-	line "EARTHBADGE."
+	text "<PLAYER> ha rebut"
+	line "INSÍGNIA TERRA."
 	done
 
 LeaderBlueAfterText:
 	text "BLUE: …"
 
-	para "All right, I was"
-	line "wrong. You're the"
+	para "D'acord, m'he"
+	line "equivocat. Ets"
 
-	para "real deal. You are"
-	line "a good trainer."
+	para "autèntic. Ets un"
+	line "bon entrenador."
 
-	para "But I'm going to"
-	line "beat you someday."
+	para "Però algun dia et"
+	line "venceré."
 
-	para "Don't you forget"
-	line "it!"
+	para "No ho oblidis!"
 	done
 
 LeaderBlueEpilogueText:
-	text "BLUE: Listen, you."
+	text "BLUE: Escolta'm."
 
-	para "You'd better not"
-	line "lose until I beat"
-	cont "you. Got it?"
+	para "Més val que no"
+	line "perdis fins que et"
+	cont "venci. Entès?"
 	done
 
 ViridianGymGuideText:
-	text "Yo, CHAMP in"
-	line "making!"
+	text "Ei, futur CAMPIÓ!"
 
-	para "How's it going?"
-	line "Looks like you're"
-	cont "on a roll."
+	para "Com va? Sembla que"
+	line "vas molt bé."
 
-	para "The GYM LEADER is"
-	line "a guy who battled"
+	para "El LÍDER del"
+	line "GIMNÀS és un tipus"
 
-	para "the CHAMPION three"
-	line "years ago."
+	para "que va lluitar amb"
+	line "el CAMPIÓ fa tres"
+	cont "anys."
 
-	para "He's no pushover."
+	para "No és fàcil."
 
-	para "Give it everything"
-	line "you've got!"
+	para "Dóna-ho tot!"
 	done
 
 ViridianGymGuideWinText:
-	text "Man, you are truly"
-	line "tough…"
+	text "Noi, ets realment"
+	line "dur…"
 
-	para "That was a heck of"
-	line "an inspirational"
+	para "Ha estat un combat"
+	line "molt inspirador."
 
-	para "battle. It brought"
-	line "tears to my eyes."
+	para "M'ha fet plorar"
+	line "d'emoció."
 	done
 
 ViridianGym_MapEvents:

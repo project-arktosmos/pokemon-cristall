@@ -33,43 +33,43 @@ RedsHouse1FBookshelf:
 	jumpstd PictureBookshelfScript
 
 RedsMomText1:
-	text "Hi!"
+	text "Hola!"
 
-	para "RED's been away"
-	line "for a long time."
+	para "En RED fa temps"
+	line "que no hi és."
 
-	para "He hasn't called"
-	line "either, so I have"
+	para "Tampoc no ha"
+	line "trucat, així que"
 
-	para "no idea where he"
-	line "is or what he's"
-	cont "been doing."
+	para "no sé on és ni"
+	line "què ha estat"
+	cont "fent."
 
-	para "They say that no"
-	line "word is proof that"
+	para "Diuen que cap"
+	line "notícia és bona"
 
-	para "he's doing fine,"
-	line "but I do worry"
-	cont "about him."
+	para "notícia, però"
+	line "estic preocupada"
+	cont "per ell."
 	done
 
 RedsMomText2:
-	text "I worry about RED"
-	line "getting hurt or"
+	text "Em preocupa que"
+	line "en RED es faci"
 
-	para "sick, but he's a"
-	line "boy. I'm proud"
+	para "mal o emmalaltei-"
+	line "xi, però és un"
 
-	para "that he is doing"
-	line "what he wants to"
+	para "noi. Estic"
+	line "orgullosa que"
 
-	para "do."
+	para "faci el que vol."
 	done
 
 RedsHouse1FTVText:
-	text "They have programs"
-	line "that aren't shown"
-	cont "in JOHTO…"
+	text "Tenen programes"
+	line "que no es veuen"
+	cont "a JOHTO…"
 	done
 
 RedsHouse1F_MapEvents:

@@ -66,12 +66,12 @@ UnionCaveB1FBoulder:
 	jumpstd StrengthBoulderScript
 
 HikerPhillipSeenText:
-	text "It's been a while"
-	line "since I last saw"
-	cont "another person."
+	text "Feia temps que no"
+	line "veia una altra"
+	cont "persona."
 
-	para "Don't be shy."
-	line "Let's battle!"
+	para "No siguis tímid."
+	line "Lluitem!"
 	done
 
 HikerPhillipBeatenText:
@@ -79,74 +79,75 @@ HikerPhillipBeatenText:
 	done
 
 HikerPhillipAfterBattleText:
-	text "I've been lost for"
-	line "a long time…"
+	text "Fa molt de temps"
+	line "que estic perdut…"
 
-	para "I don't mind it"
-	line "here, but I am"
-	cont "soooo hungry!"
+	para "No em sap greu"
+	line "estar aquí, però"
+	cont "tinc molta gana!"
 	done
 
 HikerLeonardSeenText:
-	text "What do you know!"
-	line "A visitor!"
+	text "Ves per on!"
+	line "Un visitant!"
 	done
 
 HikerLeonardBeatenText:
-	text "Wahahah! You're a"
-	line "feisty one!"
+	text "Wahahah! Tens"
+	line "molt de nervi!"
 	done
 
 HikerLeonardAfterBattleText:
-	text "I live down here."
+	text "Visc aquí baix."
 
-	para "You can, too, if"
-	line "you'd like."
+	para "Tu també pots,"
+	line "si vols."
 
-	para "There's plenty of"
-	line "room, you see."
+	para "Hi ha molt"
+	line "d'espai, ja veus."
 	done
 
 PokemaniacAndrewSeenText:
-	text "Who's there?"
+	text "Qui hi ha?"
 
-	para "Leave me and my"
-	line "#MON alone!"
+	para "Deixa'ns en pau,"
+	line "a mi i als"
+	cont "#MON!"
 	done
 
 PokemaniacAndrewBeatenText:
-	text "Go…"
-	line "Go away!"
+	text "Vés…"
+	line "Vés-te'n!"
 	done
 
 PokemaniacAndrewAfterBattleText:
-	text "Just me and my"
-	line "#MON. I'm de-"
-	cont "lirious with joy."
+	text "Només jo i els"
+	line "meus #MON."
+	cont "Estic eufòric!"
 	done
 
 PokemaniacCalvinSeenText:
-	text "I came all the way"
-	line "here to conduct my"
-	cont "#MON research."
+	text "He vingut fins"
+	line "aquí per fer la"
+	cont "meva recerca #."
 
-	para "Let me demonstrate"
-	line "my findings in a"
-	cont "real battle!"
+	para "Deixa'm demostrar"
+	line "el que he après"
+	cont "en un combat real!"
 	done
 
 PokemaniacCalvinBeatenText:
-	text "You demonstrated"
-	line "on me!"
+	text "M'has demostrat"
+	line "a mi!"
 	done
 
 PokemaniacCalvinAfterBattleText:
-	text "I should compile"
-	line "and announce my"
-	cont "study findings."
+	text "Hauria de reunir"
+	line "i anunciar els"
+	cont "descobriments."
 
-	para "I might even be-"
-	line "come famous like"
+	para "Podria arribar a"
+	line "ser famós com el"
 	cont "PROF.ELM."
 	done
 

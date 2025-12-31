@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const OLIVINELIGHTHOUSE2F_SAILOR
 	const OLIVINELIGHTHOUSE2F_GENTLEMAN
 
@@ -152,53 +152,53 @@ TrainerSailorHuey:
 	end
 
 SailorHueySeenText:
-	text "Men of the sea are"
-	line "always spoiling"
-	cont "for a good fight!"
+	text "Els homes de mar"
+	line "sempre busquen un"
+	cont "bon combat!"
 	done
 
 SailorHueyBeatenText:
-	text "Urf!"
-	line "I lose!"
+	text "Uf!"
+	line "He perdut!"
 	done
 
 SailorHueyUnusedText: ; unreferenced
-	text "What power!"
-	line "How would you like"
+	text "Quina força!"
+	line "Voldries navegar"
 
-	para "to sail the seas"
-	line "with me?"
+	para "els mars amb mi?"
 	done
 
 GentlemanAlfredSeenText:
-	text "Hm? This is no"
-	line "place for playing."
+	text "Hm? Aquí no és"
+	line "lloc per jugar."
 	done
 
 GentlemanAlfredBeatenText:
-	text "Ah! I can see that"
-	line "you're serious."
+	text "Ah! Veig que vas"
+	line "de debò."
 	done
 
 GentlemanAlfredAfterBattleText:
-	text "Up top is a #-"
-	line "MON that keeps the"
-	cont "LIGHTHOUSE lit."
+	text "A dalt hi ha un"
+	line "#MON que manté"
+	cont "el FAR encès."
 
-	para "But I hear that"
-	line "it's sick now and"
+	para "Però he sentit"
+	line "que ara està"
 
-	para "can't be cured by"
-	line "ordinary medicine."
+	para "malalt i no es pot"
+	line "curar amb medicina"
+	cont "normal."
 	done
 
 SailorHueyGiveProteinText:
-	text "Man! You're as"
-	line "tough as ever!"
+	text "Noi! Ets tan dur"
+	line "com sempre!"
 
-	para "Anyway, here's"
-	line "that medicine from"
-	cont "before."
+	para "Bé, aquí tens la"
+	line "medicina de"
+	cont "l'altre cop."
 	done
 
 OlivineLighthouse2F_MapEvents:

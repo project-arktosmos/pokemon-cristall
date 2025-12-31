@@ -21,16 +21,16 @@ VermilionMartBeautyScript:
 	jumptextfaceplayer VermilionMartBeautyText
 
 VermilionMartSuperNerdText:
-	text "TEAM ROCKET is no"
-	line "longer in KANTO."
+	text "El TEAM ROCKET ja"
+	line "no és a KANTO."
 
-	para "That alone makes"
-	line "me happy."
+	para "Només això ja em"
+	line "fa feliç."
 	done
 
 VermilionMartBeautyText:
-	text "I'm thinking about"
-	line "going shopping in"
+	text "Estic pensant en"
+	line "anar de compres a"
 	cont "SAFFRON."
 	done
 

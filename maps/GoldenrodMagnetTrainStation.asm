@@ -104,62 +104,62 @@ GoldenrodMagnetTrainStationPlayerLeaveTrainAndEnterStationMovement:
 	step_end
 
 GoldenrodMagnetTrainStationOfficerTheTrainHasntComeInText:
-	text "The train hasn't"
-	line "come in…"
+	text "El tren no ha"
+	line "arribat…"
 
-	para "I know! I'll carry"
-	line "the passengers on"
-	cont "my back!"
+	para "Ja ho sé! Portaré"
+	line "els passatgers a"
+	cont "l'esquena!"
 
-	para "That won't work."
+	para "No funcionarà."
 	done
 
 GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
-	text "We'll soon depart"
-	line "for SAFFRON."
+	text "Aviat marxem cap"
+	line "a SAFFRON."
 
-	para "Are you coming"
-	line "aboard?"
+	para "Vols pujar a"
+	line "bord?"
 	done
 
 GoldenrodMagnetTrainStationOfficerRightThisWayText:
-	text "May I see your"
-	line "rail PASS, please?"
+	text "Puc veure el teu"
+	line "PASSI, si us plau?"
 
-	para "OK. Right this"
-	line "way, please."
+	para "D'acord. Per aquí,"
+	line "si us plau."
 	done
 
 GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText:
-	text "Sorry. You don't"
-	line "have a rail PASS."
+	text "Ho sento. No tens"
+	line "un PASSI de tren."
 	done
 
 GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
-	text "We hope to see you"
-	line "again!"
+	text "Esperem veure't"
+	line "aviat!"
 	done
 
 GoldenrodMagnetTrainStationOfficerArrivedInGoldenrodText:
-	text "We have arrived in"
+	text "Hem arribat a"
 	line "GOLDENROD."
 
-	para "We hope to see you"
-	line "again."
+	para "Esperem veure't"
+	line "aviat."
 	done
 
 GoldenrodMagnetTrainStationGentlemanText:
-	text "I'm the PRESIDENT."
+	text "Sóc el PRESIDENT."
 
-	para "My dream was to"
-	line "build a train that"
+	para "El meu somni era"
+	line "construir un tren"
 
-	para "is faster than any"
+	para "més ràpid que cap"
 	line "#MON."
 
-	para "It really brings"
-	line "JOHTO much closer"
-	cont "to KANTO."
+	para "Realment acosta"
+	line "molt JOHTO a"
+	cont "KANTO."
 	done
 
 GoldenrodMagnetTrainStation_MapEvents:

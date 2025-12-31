@@ -143,53 +143,53 @@ Route33FruitTree:
 	fruittree FRUITTREE_ROUTE_33
 
 HikerAnthony2SeenText:
-	text "I came through the"
-	line "tunnel, but I"
+	text "He passat pel"
+	line "túnel, però"
 
-	para "still have plenty"
-	line "of energy left."
+	para "encara em queda"
+	line "molta energia."
 	done
 
 HikerAnthony2BeatenText:
-	text "Whoa! You've got"
-	line "more zip than me!"
+	text "Uau! Tens més"
+	line "energia que jo!"
 	done
 
 HikerAnthony2AfterText:
-	text "We HIKERS are at"
-	line "our best in the"
-	cont "mountains."
+	text "Els EXCURSIONISTES"
+	line "estem en forma a"
+	cont "les muntanyes."
 	done
 
 HikerAnthonyDunsparceText:
-	text "Hey, did you get a"
-	line "DUNSPARCE?"
+	text "Ei, has atrapat"
+	line "un DUNSPARCE?"
 
-	para "I caught one too."
+	para "Jo també en tinc."
 
-	para "Take a look at it"
-	line "in the light. It's"
-	cont "got a funny face!"
+	para "Mira'l a la llum."
+	line "Té una cara molt"
+	cont "graciosa!"
 	done
 
 Route33LassText:
-	text "Pant, pant…"
+	text "Buf, buf…"
 
-	para "I finally got"
-	line "through that cave."
+	para "Per fi he sortit"
+	line "d'aquella cova."
 
-	para "It was much bigger"
-	line "than I'd expected."
+	para "Era molt més gran"
+	line "del que esperava."
 
-	para "I got too tired to"
-	line "explore the whole"
+	para "M'he cansat massa"
+	line "per explorar-la"
 
-	para "thing, so I came"
-	line "outside."
+	para "tota, així que he"
+	line "sortit a fora."
 	done
 
 Route33SignText:
-	text "ROUTE 33"
+	text "RUTA 33"
 	done
 
 Route33_MapEvents:

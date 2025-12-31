@@ -113,179 +113,180 @@ SaffronGymStatue:
 	jumpstd GymStatue2Script
 
 SabrinaIntroText:
-	text "SABRINA: I knew"
-	line "you were coming…"
+	text "SABRINA: Sabia"
+	line "que vindries…"
 
-	para "Three years ago I"
-	line "had a vision of"
-	cont "your arrival."
+	para "Fa tres anys vaig"
+	line "tenir una visió"
+	cont "de la teva visita."
 
-	para "You're after my"
-	line "BADGE."
+	para "Vols la meva"
+	line "MEDALLA."
 
-	para "I don't enjoy bat-"
-	line "tling, but it's my"
+	para "No m'agrada com-"
+	line "batre, però és el"
 
-	para "duty as a LEADER"
-	line "to confer BADGES"
+	para "meu deure com a"
+	line "LÍDER atorgar"
 
-	para "on anyone who has"
-	line "proven him- or"
-	cont "herself worthy."
+	para "MEDALLES a qui"
+	line "demostri ser"
+	cont "digne."
 
-	para "Since you wish it,"
-	line "I will show you my"
-	cont "psychic powers!"
+	para "Ja que ho desitges"
+	line "et mostraré els"
+	cont "meus poders!"
 	done
 
 SabrinaWinLossText:
-	text "SABRINA: Your"
-	line "power…"
+	text "SABRINA: El teu"
+	line "poder…"
 
-	para "It far exceeds"
-	line "what I foresaw…"
+	para "Supera amb escreix"
+	line "el que preveia…"
 
-	para "Maybe it isn't"
-	line "possible to fully"
+	para "Potser no es pot"
+	line "predir del tot"
 
-	para "predict what the"
-	line "future holds…"
+	para "el que depara"
+	line "el futur…"
 
-	para "OK, you win. You"
-	line "earned yourself"
-	cont "MARSHBADGE."
+	para "D'acord, has"
+	line "guanyat. T'has"
+	cont "guanyat la"
+	cont "M.ANÍMIC"
 	done
 
 ReceivedMarshBadgeText:
-	text "<PLAYER> received"
-	line "MARSHBADGE."
+	text "<PLAYER> ha rebut"
+	line "la M.ANÍMIC."
 	done
 
 SabrinaMarshBadgeText:
-	text "SABRINA: MARSH-"
-	line "BADGE draws out"
+	text "SABRINA: La"
+	line "M.ANÍMIC allibera"
 
-	para "your subliminal"
-	line "powers…"
+	para "els teus poders"
+	line "subliminals…"
 
-	para "Although I failed"
-	line "to accurately pre-"
-	cont "dict your power,"
-	cont "this much I know"
-	cont "to be true."
+	para "Tot i que no vaig"
+	line "predir bé el teu"
+	cont "poder, això sí"
+	cont "que ho sé del"
+	cont "cert."
 
-	para "You will become a"
-	line "celebrated and"
-	cont "beloved CHAMPION!"
+	para "Seràs un CAMPIÓ"
+	line "cèlebre i"
+	cont "estimat!"
 	done
 
 SabrinaFightDoneText:
-	text "SABRINA: Your love"
-	line "for your #MON"
+	text "SABRINA: L'amor"
+	line "pels teus #MON"
 
-	para "overwhelmed my"
-	line "psychic power…"
+	para "ha superat el meu"
+	line "poder psíquic…"
 
-	para "The power of love,"
-	line "I think, is also a"
+	para "El poder de l'amor"
+	line "crec que també és"
 
-	para "kind of psychic"
-	line "power…"
+	para "un tipus de poder"
+	line "psíquic…"
 	done
 
 MediumRebeccaSeenText:
-	text "The power of all"
-	line "those you defeated"
-	cont "comes to me!"
+	text "El poder de tots"
+	line "els que has vençut"
+	cont "ve cap a mi!"
 	done
 
 MediumRebeccaBeatenText:
-	text "Strong…"
-	line "Far too strong…"
+	text "Fort…"
+	line "Massa fort…"
 	done
 
 MediumRebeccaAfterBattleText:
-	text "What is the source"
-	line "of your power?"
+	text "Quina és la font"
+	line "del teu poder?"
 	done
 
 PsychicFranklinSeenText:
-	text "Psychic power is"
-	line "the power of your"
-	cont "soul."
+	text "El poder psíquic"
+	line "és el poder de la"
+	cont "teva ànima."
 	done
 
 PsychicFranklinBeatenText:
-	text "Your soul has more"
-	line "power than mine!"
+	text "La teva ànima té"
+	line "més poder que la"
+	cont "meva!"
 	done
 
 PsychicFranklinAfterBattleText:
-	text "You made your soul"
-	line "stronger, not just"
-	cont "your abilities."
+	text "Has enfortit la"
+	line "teva ànima, no"
+	cont "només habilitats."
 	done
 
 MediumDorisSeenText:
 	text "Fufufufu…"
-	line "I see it clearly."
+	line "Ho veig clarament."
 
-	para "I can see into"
-	line "your soul!"
+	para "Puc veure dins"
+	line "la teva ànima!"
 	done
 
 MediumDorisBeatenText:
-	text "Though I read you,"
-	line "I still lost…"
+	text "Tot i llegir-te,"
+	line "he perdut…"
 	done
 
 MediumDorisAfterBattleText:
-	text "Darn! I forgot"
-	line "that I predicted I"
-	cont "would lose to you."
+	text "Llamps! He oblidat"
+	line "que vaig predir"
+	cont "que perdria!"
 	done
 
 PsychicJaredSeenText:
-	text "The FIGHTING DOJO"
-	line "next door was once"
-	cont "this city's GYM."
+	text "El DOJO DE LLUITA"
+	line "del costat era"
+	cont "el GIMNÀS abans."
 	done
 
 PsychicJaredBeatenText:
-	text "I was no match…"
+	text "No era rival…"
 	done
 
 PsychicJaredAfterBattleText:
-	text "KARATE KING, the"
-	line "master of the"
+	text "El REI DEL KARATE,"
+	line "mestre del DOJO"
 
-	para "FIGHTING DOJO, was"
-	line "just destroyed by"
+	para "DE LLUITA, va ser"
+	line "derrotat per"
 	cont "SABRINA."
 	done
 
 SaffronGymGuideText:
-	text "Yo, CHAMP in"
-	line "making!"
+	text "Ei, futur CAMPIÓ!"
 
-	para "A trainer as"
-	line "skilled as you"
+	para "Un entrenador tan"
+	line "hàbil com tu"
 
-	para "doesn't need to be"
-	line "told how to deal"
+	para "no cal que li"
+	line "diguin com vèncer"
 
-	para "with psychic-type"
-	line "#MON, right?"
+	para "#MON de tipus"
+	line "psíquic, oi?"
 
-	para "I expect great"
-	line "things from you!"
+	para "Espero grans coses"
+	line "de tu!"
 
-	para "Good luck!"
+	para "Bona sort!"
 	done
 
 SaffronGymGuideWinText:
-	text "That was another"
-	line "fantastic battle!"
+	text "Ha estat un altre"
+	line "combat fantàstic!"
 	done
 
 SaffronGym_MapEvents:

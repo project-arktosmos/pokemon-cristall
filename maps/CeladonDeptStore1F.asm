@@ -24,51 +24,50 @@ CeladonDeptStore1FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 CeladonDeptStore1FReceptionistText:
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE!"
+	text "Hola! Benvingut"
+	line "als GRANS"
+	cont "MAGATZEMS CELADON!"
 
-	para "The directory is"
-	line "on the wall."
+	para "El directori és"
+	line "a la paret."
 	done
 
 CeladonDeptStore1FGentlemanText:
-	text "This DEPT.STORE is"
-	line "part of the same"
+	text "Aquests grans"
+	line "magatzems són de"
 
-	para "chain as the one"
-	line "in GOLDENROD CITY."
+	para "la mateixa cadena"
+	line "que els de CIUTAT"
+	cont "TRIGAL."
 
-	para "They were both"
-	line "renovated at the"
-	cont "same time."
+	para "Es van renovar"
+	line "tots dos alhora."
 	done
 
 CeladonDeptStore1FTeacherText:
-	text "This is my first"
-	line "time here."
+	text "És el primer cop"
+	line "que vinc aquí."
 
-	para "It's so big…"
+	para "És tan gran…"
 
-	para "I'm afraid I'll"
-	line "get lost."
+	para "Tinc por de"
+	line "perdre'm."
 	done
 
 CeladonDeptStore1FDirectoryText:
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1P: TAULELL"
+	line "    D'ATENCIÓ"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2P: BOTIGA DEL"
+	line "    ENTRENADOR"
 
-	para "3F: TM SHOP"
+	para "3P: BOTIGA DE MT"
 
-	para "4F: WISEMAN GIFTS"
+	para "4P: REGALS SAVIS"
 
-	para "5F: DRUG STORE"
+	para "5P: FARMÀCIA"
 
-	para "6F: ROOFTOP"
-	line "    SQUARE"
+	para "6P: TERRASSA"
 	done
 
 CeladonDeptStore1F_MapEvents:

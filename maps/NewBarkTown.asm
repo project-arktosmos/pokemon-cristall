@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const NEWBARKTOWN_TEACHER
 	const NEWBARKTOWN_FISHER
 	const NEWBARKTOWN_RIVAL
@@ -187,96 +187,97 @@ NewBarkTown_RivalReturnsToTheShadowsMovement:
 	step_end
 
 Text_GearIsImpressive:
-	text "Wow, your #GEAR"
-	line "is impressive!"
+	text "Uau, el teu"
+	line "#GEAR"
+	cont "és impressionant!"
 
-	para "Did your mom get"
-	line "it for you?"
+	para "Te l'ha comprat"
+	line "la teva mare?"
 	done
 
 Text_WaitPlayer:
-	text "Wait, <PLAY_G>!"
+	text "Espera, <PLAY_G>!"
 	done
 
 Text_WhatDoYouThinkYoureDoing:
-	text "What do you think"
-	line "you're doing?"
+	text "Què et penses"
+	line "que fas?"
 	done
 
 Text_ItsDangerousToGoAlone:
-	text "It's dangerous to"
-	line "go out without a"
+	text "És perillós"
+	line "sortir sense un"
 	cont "#MON!"
 
-	para "Wild #MON"
-	line "jump out of the"
+	para "Els #MON"
+	line "salvatges surten"
 
-	para "grass on the way"
-	line "to the next town."
+	para "de l'herba pel"
+	line "camí al poble."
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Your #MON"
-	line "is adorable!"
-	cont "I wish I had one!"
+	text "Oh! El teu #MON"
+	line "és adorable!"
+	cont "Voldria tenir-ne!"
 	done
 
 Text_TellMomIfLeaving:
-	text "Hi, <PLAY_G>!"
-	line "Leaving again?"
+	text "Hola, <PLAY_G>!"
+	line "Te'n vas?"
 
-	para "You should tell"
-	line "your mom if you"
-	cont "are leaving."
+	para "Hauries de dir-ho"
+	line "a la teva mare"
+	cont "si te'n vas."
 	done
 
 Text_CallMomOnGear:
-	text "Call your mom on"
-	line "your #GEAR to"
+	text "Truca a la mare"
+	line "pel #GEAR per"
 
-	para "let her know how"
-	line "you're doing."
+	para "fer-li saber com"
+	line "et va."
 	done
 
 Text_ElmDiscoveredNewMon:
-	text "Yo, <PLAYER>!"
+	text "Ei, <PLAYER>!"
 
-	para "I hear PROF.ELM"
-	line "discovered some"
-	cont "new #MON."
+	para "Diuen que el"
+	line "PROF.ELM ha"
+	cont "descobert nous"
+	cont "#MON."
 	done
 
 NewBarkTownRivalText1:
 	text "<……>"
 
-	para "So this is the"
-	line "famous ELM #MON"
-	cont "LAB…"
+	para "Així que aquest"
+	line "és el famós LAB."
+	cont "#MON d'ELM…"
 	done
 
 NewBarkTownRivalText2:
-	text "…What are you"
-	line "staring at?"
+	text "…Què mires?"
 	done
 
 NewBarkTownSignText:
-	text "NEW BARK TOWN"
+	text "POBLE ESCORÇA"
 
-	para "The Town Where the"
-	line "Winds of a New"
-	cont "Beginning Blow"
+	para "El poble on bufen"
+	line "els vents d'un"
+	cont "nou començament"
 	done
 
 NewBarkTownPlayersHouseSignText:
-	text "<PLAYER>'s House"
+	text "Casa d'en <PLAYER>"
 	done
 
 NewBarkTownElmsLabSignText:
-	text "ELM #MON LAB"
+	text "LAB. #MON D'ELM"
 	done
 
 NewBarkTownElmsHouseSignText:
-	text "ELM'S HOUSE"
+	text "CASA D'ELM"
 	done
 
 NewBarkTown_MapEvents:

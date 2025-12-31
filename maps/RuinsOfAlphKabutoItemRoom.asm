@@ -25,9 +25,9 @@ RuinsOfAlphKabutoItemRoomAncientReplica:
 	jumptext RuinsOfAlphKabutoItemRoomAncientReplicaText
 
 RuinsOfAlphKabutoItemRoomAncientReplicaText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "És la rèplica"
+	line "d'un antic"
+	cont "#MON."
 	done
 
 RuinsOfAlphKabutoItemRoom_MapEvents:

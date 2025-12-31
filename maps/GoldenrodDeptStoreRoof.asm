@@ -93,120 +93,123 @@ PokeDollVendingMachine:
 	jumptext PokeDollVendingMachineText
 
 GoldenrodDeptStoreRoofPokefanFText:
-	text "Whew, I'm tired."
+	text "Uf, estic cansada."
 
-	para "I sometimes come"
-	line "up to the rooftop"
+	para "De vegades pujo"
+	line "al terrat a fer"
 
-	para "to take a break"
-	line "from shopping."
+	para "un descans de les"
+	line "compres."
 	done
 
 GoldenrodDeptStoreRoofFisherText:
-	text "Pardon? Who says"
-	line "an adult can't get"
-	cont "into this?"
+	text "Com? Qui diu que"
+	line "un adult no pot"
+	cont "gaudir d'això?"
 
-	para "I'm going to be"
-	line "back every day to"
-
-	para "collect all the"
-	line "dolls!"
+	para "Vindré cada dia a"
+	line "col·leccionar les"
+	cont "nines!"
 	done
 
 GoldenrodDeptStoreRoofTwinText:
-	text "They have bargain"
-	line "sales here every"
-	cont "so often."
+	text "Fan rebaixes aquí"
+	line "de tant en tant."
 	done
 
 GoldenrodDeptStoreRoofSuperNerdOhWowText:
-	text "Oh, wow!"
+	text "Oh, uau!"
 	done
 
 GoldenrodDeptStoreRoofSuperNerdQuitBotheringMeText:
-	text "Will you quit"
-	line "bothering me?"
+	text "Vols deixar de"
+	line "molestar-me?"
 	done
 
 GoldenrodDeptStoreRoofPokefanMText:
-	text "There's something"
-	line "I really want, but"
+	text "Hi ha una cosa"
+	line "que vull molt,"
 
-	para "I don't have the"
-	line "necessary cash…"
+	para "però no tinc prou"
+	line "diners…"
 
-	para "Maybe I'll sell"
-	line "off the BERRIES"
-	cont "I've collected…"
+	para "Potser vendré les"
+	line "BAIES que he"
+	cont "col·leccionat…"
 	done
 
 GoldenrodDeptStoreRoofTeacherText:
-	text "Oh, everything is"
-	line "so cheap!"
+	text "Oh, tot és tan"
+	line "barat!"
 
-	para "I bought so much,"
-	line "my PACK's crammed!"
+	para "He comprat tant"
+	line "que la MOTXILLA"
+	cont "és plena!"
 	done
 
 GoldenrodDeptStoreRoofBugCatcherText:
-	text "My #MON always"
-	line "get paralyzed or"
+	text "Els meus #MON"
+	line "sempre queden"
 
-	para "poisoned when the"
-	line "chips are down…"
+	para "paralitzats o"
+	line "enverinats quan"
+	cont "més em cal…"
 
-	para "So I came to buy"
-	line "some FULL HEAL."
+	para "He vingut a"
+	line "comprar CURA TOTAL"
 
-	para "I wonder if"
-	line "there's any left?"
+	para "Me'n quedarà"
+	line "alguna?"
 	done
 
 Binoculars1Text:
-	text "These binoculars"
-	line "let me see far"
+	text "Aquests prismàtics"
+	line "em deixen veure"
+	cont "molt lluny."
 
-	para "away. Maybe I can"
-	line "see my own house."
+	para "Potser puc veure"
+	line "casa meva."
 
-	para "Is it the one with"
-	line "the green roof?"
+	para "És la del terrat"
+	line "verd?"
 	done
 
 Binoculars2Text:
-	text "Hey! Some trainers"
-	line "are battling on"
-	cont "the road!"
+	text "Ei! Hi ha uns"
+	line "entrenadors que"
+	cont "lluiten al camí!"
 
-	para "A #MON fired a"
-	line "flurry of leaves!"
+	para "Un #MON ha"
+	line "disparat un munt"
+	cont "de fulles!"
 
-	para "That makes me feel"
-	line "like battling"
-	cont "right now!"
+	para "Això em fa ganes"
+	line "de lluitar ara"
+	cont "mateix!"
 	done
 
 Binoculars3Text:
-	text "A FISHER caught a"
-	line "lot of MAGIKARP…"
+	text "Un PESCADOR ha"
+	line "pescat molts"
+	cont "MAGIKARP…"
 
-	para "They're SPLASHing"
-	line "at the same time!"
+	para "Estan fent SPLASH"
+	line "tots alhora!"
 
-	para "Look at the water"
-	line "going everywhere!"
+	para "Mira com l'aigua"
+	line "esquitxa pertot!"
 	done
 
 PokeDollVendingMachineText:
-	text "A vending machine"
-	line "for #MON dolls?"
+	text "Una màquina"
+	line "expenedora de"
+	cont "nines de #MON?"
 
-	para "Insert money, then"
-	line "turn the crank…"
+	para "Posa diners i"
+	line "gira la maneta…"
 
-	para "But it's almost"
-	line "empty…"
+	para "Però està gairebé"
+	line "buida…"
 	done
 
 GoldenrodDeptStoreRoof_MapEvents:

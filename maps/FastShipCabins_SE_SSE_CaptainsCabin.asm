@@ -239,225 +239,229 @@ SSAquaGrandpaApproachesPlayerMovement:
 	step_end
 
 SSAquaCaptainExhaustingText:
-	text "Whew! Thanks for"
-	line "coming along."
+	text "Uf! Gràcies per"
+	line "acompanyar-me."
 
-	para "Keeping that lit-"
-	line "tle girl amused"
-	cont "was exhausting."
+	para "Entretenir"
+	line "aquella nena era"
+	cont "esgotador."
 	done
 
 SSAquaCaptainHowDoYouLikeText:
-	text "How do you like"
-	line "S.S.AQUA's ride?"
+	text "Què et sembla el"
+	line "viatge a l'AQUA?"
 
-	para "She practically"
-	line "skates across the"
-	cont "waves."
+	para "Gairebé patina"
+	line "sobre les ones."
 	done
 
 SSAquaCantFindGranddaughterText:
-	text "Oh, hello…"
+	text "Oh, hola…"
 
-	para "I still can't find"
-	line "my granddaughter."
+	para "Encara no trobo"
+	line "la meva néta."
 
-	para "If she's on the"
-	line "ship, that's OK."
+	para "Si és al vaixell,"
+	line "no passa res."
 
-	para "She's an energetic"
-	line "child, so she may"
+	para "És una nena molt"
+	line "activa, pot ser"
 
-	para "be bugging some-"
-	line "one. I'm worried…"
+	para "que molesti algú."
+	line "Estic preocupat…"
 	done
 
 SSAquaEntertainedGranddaughterText:
-	text "<PLAY_G>, was it?"
-	line "I heard you enter-"
-	cont "tained my grand-"
-	cont "daughter."
+	text "<PLAY_G>, oi?"
+	line "M'han dit que has"
+	cont "entretingut la"
+	cont "meva néta."
 
-	para "I want to thank"
-	line "you for that."
+	para "T'ho vull"
+	line "agrair."
 	done
 
 SSAquaGrandpaHaveThisText:
-	text "I know! I'd like"
-	line "you to have this!"
+	text "Ja ho sé! M'agra-"
+	line "daria donar-te"
+	cont "això!"
 	done
 
 SSAquaGrandpaTravellingText:
-	text "We're traveling"
-	line "around the world."
+	text "Estem viatjant"
+	line "pel món."
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
-	text "CAPTAIN, play with"
-	line "me, please?"
+	text "CAPITÀ, juga amb"
+	line "mi, si us plau!"
 
-	para "I'm bored! I want"
-	line "to play more!"
+	para "M'avorreixo! Vull"
+	line "jugar més!"
 	done
 
 SSAquaGranddaughterHasToFindGrandpaText:
-	text "Hi! Will you play"
-	line "with me?"
+	text "Hola! Vols jugar"
+	line "amb mi?"
 
 	para "…Oh!"
 
-	para "Grandpa's worried"
-	line "about me?"
+	para "L'avi està"
+	line "preocupat per mi?"
 
-	para "I have to go!"
+	para "He de marxar!"
 
-	para "I have to go find"
-	line "Grandpa!"
+	para "He d'anar a"
+	line "buscar l'avi!"
 	done
 
 SSAquaGranddaughterWasPlayingMText:
-	text "Grandpa, here I"
-	line "am! I was playing"
+	text "Avi, aquí estic!"
+	line "Estava jugant"
 
-	para "with the CAPTAIN"
-	line "and this guy!"
+	para "amb el CAPITÀ i"
+	line "amb aquest noi!"
 	done
 
 SSAquaGranddaughterWasPlayingFText:
-	text "Grandpa, here I"
-	line "am! I was playing"
+	text "Avi, aquí estic!"
+	line "Estava jugant"
 
-	para "with the CAPTAIN"
-	line "and this big girl!"
+	para "amb el CAPITÀ i"
+	line "amb aquesta noia!"
 	done
 
 SSAquaGranddaughterHadFunText:
-	text "I had lots of fun"
-	line "playing!"
+	text "M'ho he passat"
+	line "molt bé jugant!"
 	done
 
 PokefanmColinSeenText:
-	text "Hey, kid! Want to"
-	line "battle with me?"
+	text "Ei, nen! Vols"
+	line "lluitar amb mi?"
 	done
 
 PokefanmColinBeatenText:
-	text "You're strong!"
+	text "Ets molt fort!"
 	done
 
 PokefanmColinAfterBattleText:
-	text "You're traveling"
-	line "all alone?"
+	text "Viatges tot sol?"
 
-	para "Isn't your mom"
-	line "worried?"
+	para "La teva mare no"
+	line "està preocupada?"
 	done
 
 TwinsMegandpeg1SeenText:
-	text "You think I'm a"
-	line "baby?"
-	cont "That's not fair!"
+	text "Et penses que sóc"
+	line "una criatura?"
+	cont "No és just!"
 	done
 
 TwinsMegandpeg1BeatenText:
-	text "Oh! We lost!"
+	text "Oh! Hem perdut!"
 	done
 
 TwinsMegandpeg1AfterBattleText:
-	text "Baby is a rude"
-	line "name to call us"
-	cont "girls!"
+	text "Criatura és un"
+	line "nom molt groller"
+	cont "per a nosaltres!"
 	done
 
 TwinsMegandpeg2SeenText:
-	text "I'm not a baby!"
+	text "No sóc cap nena"
+	line "petita!"
 
-	para "That's not nice to"
-	line "say to a lady!"
+	para "No es diu això a"
+	line "una senyoreta!"
 	done
 
 TwinsMegandpeg2BeatenText:
-	text "Oh! We lost!"
+	text "Oh! Hem perdut!"
 	done
 
 TwinsMegandpeg2AfterBattleText:
-	text "Sometimes, kids"
-	line "are smarter than"
-	cont "grown-ups!"
+	text "De vegades, els"
+	line "nens són més"
+	cont "llestos que els"
+	cont "grans!"
 	done
 
 PsychicRodneySeenText:
-	text "Ssh! My brain is"
-	line "picking up radio"
-	cont "signals!"
+	text "Xst! El meu"
+	line "cervell capta"
+	cont "senyals de ràdio!"
 	done
 
 PsychicRodneyBeatenText:
-	text "…I hear some-"
-	line "thing!"
+	text "…Sento alguna"
+	line "cosa!"
 	done
 
 PsychicRodneyAfterBattleText:
-	text "I get it. You can"
-	line "hear JOHTO's radio"
-	cont "on the FAST SHIP."
+	text "Ja ho entenc. Pots"
+	line "sentir la ràdio"
+	cont "de JOHTO des del"
+	cont "VAIXELL RÀPID."
 	done
 
 PokefanmJeremySeenText:
-	text "What do you think?"
-	line "My #MON are"
-	cont "beautiful, yes?"
+	text "Què en penses?"
+	line "Els meus #MON"
+	cont "són bells, oi?"
 	done
 
 PokefanmJeremyBeatenText:
-	text "Oh, no! My beauti-"
-	line "ful #MON!"
+	text "Oh, no! Els meus"
+	line "bells #MON!"
 	done
 
 PokefanmJeremyAfterBattleText:
-	text "I must go to the"
-	line "#MON SALON and"
-	cont "fix them up nice!"
+	text "He d'anar al SALÓ"
+	line "#MON i posar-"
+	cont "los ben macos!"
 	done
 
 PokefanfGeorgiaSeenText:
-	text "I'm going to shop"
-	line "at the DEPT.STORE"
-	cont "and then…"
+	text "Aniré a comprar"
+	line "als GRANS"
+	cont "MAGATZEMS i…"
 	done
 
 PokefanfGeorgiaBeatenText:
-	text "What was I going"
-	line "to do?"
+	text "Què anava a fer?"
 	done
 
 PokefanfGeorgiaAfterBattleText:
-	text "Oh, yes! I have to"
-	line "get my #MON out"
-	cont "of DAY-CARE!"
+	text "Ah, sí! He de"
+	line "recollir els"
+	cont "#MON de la"
+	cont "GUARDERIA!"
 	done
 
 SupernerdShawnSeenText:
-	text "What kinds of #"
-	line "BALLS do you have"
-	cont "with you?"
+	text "Quins tipus de"
+	line "#BALLS tens"
+	cont "amb tu?"
 	done
 
 SupernerdShawnBeatenText:
-	text "Wait! Stop! Don't!"
-	line "Please!"
+	text "Espera! Para! No!"
+	line "Si us plau!"
 	done
 
 SupernerdShawnAfterBattleText:
-	text "You should use the"
-	line "right BALLS to fit"
-	cont "the situation."
+	text "Has de fer servir"
+	line "les BALLS"
+	cont "adequades per a"
+	cont "cada situació."
 	done
 
 SSAquaHasArrivedVermilionText:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "VERMILION CITY."
+	text "VAIXELL RÀPID"
+	line "S.S.AQUA ha"
+	cont "arribat a CIUTAT"
+	cont "VERMILION."
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

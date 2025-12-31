@@ -1,211 +1,214 @@
 ElmPhoneHealYourMonText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "Try not to overdo"
-	line "it."
+	para "No t'esforcis"
+	line "massa."
 
-	para "Be sure to heal"
-	line "your #MON if"
-	cont "they are hurt."
+	para "Cura els #MON"
+	line "si estan ferits."
 	done
 
 ElmPhoneSawMrPokemonText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "Did you meet MR."
-	line "#MON? Great!"
-	cont "Come back safely!"
+	para "Has vist el Sr."
+	line "#MON? Genial!"
+	cont "Torna amb compte!"
 	done
 
 ElmPhonePokemonStolenText:
-	text "<PLAY_G>? I'm very"
-	line "upset now."
+	text "<PLAY_G>? Estic"
+	line "molt disgustat."
 
-	para "We had a #MON"
-	line "stolen from here."
+	para "Ens han robat un"
+	line "#MON d'aquí."
 
-	para "How could anyone"
-	line "do that?"
+	para "Com pot algú fer"
+	line "una cosa així?"
 	done
 
 ElmPhoneCheckingTheEggText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "We're checking the"
-	line "EGG now. It does"
+	para "Ara estem mirant"
+	line "l'OU. Sembla que"
 
-	para "appear to be a"
-	line "#MON EGG."
+	para "és un OU de"
+	line "#MON."
 	done
 
 ElmPhoneAssistantText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "Did you see my"
-	line "assistant? He's at"
+	para "Has vist el meu"
+	line "ajudant? És al"
 
-	para "the #MON CENTER"
-	line "in VIOLET CITY."
+	para "CENTRE #MON de"
+	line "CIUTAT VIOLETA."
 	done
 
 ElmPhoneHowIsTheEggText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "How's the EGG? Has"
-	line "anything changed?"
+	para "Com va l'OU? Hi"
+	line "ha cap novetat?"
 
-	para "If anything hap-"
-	line "pens, please call."
+	para "Si passa res,"
+	line "truca'm, si us"
+	cont "plau."
 	done
 
 ElmPhoneEggHatchedText:
-	text "Hello, <PLAY_G>?"
-	line "How is the EGG?"
+	text "Hola, <PLAY_G>?"
+	line "Com va l'OU?"
 
-	para "What? It hatched?"
-	line "Wow! What kind of"
-	cont "#MON is it?"
+	para "Què? Ha"
+	line "eclosionat?"
+	cont "Uau! Quin #MON"
+	cont "és?"
 
-	para "Please come show"
-	line "me now!"
+	para "Vine a ensenyar-"
+	line "me'l ara!"
 	done
 
 ElmPhoneDiscoveredHatchTimeText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "I just made a new"
-	line "discovery."
+	para "Acabo de fer un"
+	line "nou descobriment."
 
-	para "The time it takes"
-	line "for an EGG to"
+	para "El temps que"
+	line "triga un OU a"
 
-	para "hatch depends on"
-	line "the #MON."
+	para "eclosionar depèn"
+	line "del #MON."
 	done
 
 ElmPhoneInvestigatingEggMovesText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "It's still a"
-	line "mystery what kinds"
+	para "Encara és un"
+	line "misteri quins"
 
-	para "of moves hatched"
-	line "#MON have."
+	para "moviments tenen"
+	line "els #MON"
+	cont "nascuts"
+	cont "d'OUS."
 
-	para "We're investigat-"
-	line "ing that now."
+	para "Ara ho estem"
+	line "investigant."
 	done
 
 ElmPhoneDiscoveredPokerusText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "I discovered an"
-	line "odd thing."
+	para "He descobert una"
+	line "cosa estranya."
 
-	para "Apparently there's"
-	line "something called"
+	para "Sembla que hi ha"
+	line "una cosa anomenada"
 
-	para "#RUS that in-"
-	line "fects #MON."
+	para "#RUS que"
+	line "infecta #MON."
 
-	para "Yes, it's like a"
-	line "virus, so it's"
-	cont "called #RUS."
+	para "Sí, és com un"
+	line "virus, per això"
+	cont "es diu #RUS."
 
-	para "It multiplies fast"
-	line "and infects other"
+	para "Es multiplica"
+	line "ràpid i infecta"
 
-	para "#MON too. But"
-	line "that's all."
+	para "altres #MON."
+	line "Però això és tot."
 
-	para "It doesn't seem to"
-	line "do anything, and"
+	para "No sembla que"
+	line "faci res, i"
 
-	para "it goes away over"
-	line "time."
+	para "desapareix amb"
+	line "el temps."
 
-	para "I guess it's"
-	line "nothing to worry"
-	cont "about. Bye!"
+	para "Suposo que no cal"
+	line "preocupar-se."
+	cont "Adéu!"
 	done
 
 ElmPhoneDisasterText:
-	text "H-hello? <PLAY_G>?"
-	line "It's a disaster!"
+	text "Ho-hola? <PLAY_G>?"
+	line "És un desastre!"
 
-	para "Uh, um, it's just"
+	para "Ui, um, és"
 	line "terrible!"
 
-	para "What should I do?"
-	line "It… Oh, no…"
+	para "Què faig?"
+	line "Ai, no…"
 
-	para "Please get back"
-	line "here now!"
+	para "Vine ara mateix,"
+	line "si us plau!"
 	done
 
 ElmPhoneEggAssistantText:
-	text "Hello, <PLAY_G>? We"
-	line "discovered some-"
+	text "Hola, <PLAY_G>? Hem"
+	line "descobert una cosa"
 
-	para "thing about the"
-	line "EGG!"
+	para "sobre l'OU!"
 
-	para "My assistant is at"
-	line "the #MON CENTER"
+	para "El meu ajudant és"
+	line "al CENTRE #MON"
 
-	para "in VIOLET CITY. "
-	line "Could you talk to"
-	cont "him?"
+	para "de CIUTAT VIOLETA."
+	line "Pots parlar amb"
+	cont "ell?"
 	done
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	text "<PLAY_G>, how are"
-	line "things going?"
+	text "<PLAY_G>, com et"
+	line "van les coses?"
 
-	para "I called because"
-	line "something weird is"
+	para "He trucat perquè"
+	line "passa una cosa"
 
-	para "happening with the"
-	line "radio broadcasts."
+	para "estranya amb les"
+	line "emissions de"
+	cont "ràdio."
 
-	para "They were talking"
-	line "about TEAM ROCKET."
+	para "Parlaven del"
+	line "TEAM ROCKET."
 
-	para "<PLAY_G>, do you"
-	line "know anything"
-	cont "about it?"
+	para "<PLAY_G>, en saps"
+	line "alguna cosa?"
 
-	para "Maybe TEAM ROCKET"
-	line "has returned. No,"
+	para "Potser el TEAM"
+	line "ROCKET ha tornat."
 
-	para "that just can't"
-	line "be true."
+	para "No, això no pot"
+	line "ser veritat."
 
-	para "Sorry to bug you."
-	line "Take care!"
+	para "Perdona la"
+	line "molèstia. Cuida't!"
 	done
 
 ElmPhoneGiftText:
-	text "Hello, <PLAY_G>?"
+	text "Hola, <PLAY_G>?"
 
-	para "I have something"
-	line "here for you."
+	para "Tinc una cosa"
+	line "per a tu."
 
-	para "Could you swing by"
-	line "my LAB?"
+	para "Pots passar pel"
+	line "meu LABORATORI?"
 
-	para "See you later!"
+	para "Fins després!"
 	done
 
 ElmPhoneGotAholdOfSomethingNeatText:
-	text "Hello, <PLAY_G>?"
-	line "How's it going?"
+	text "Hola, <PLAY_G>?"
+	line "Com va tot?"
 
-	para "I got ahold of"
-	line "something neat."
+	para "He aconseguit una"
+	line "cosa interessant."
 
-	para "Swing by my LAB"
-	line "and pick it up!"
+	para "Passa pel meu"
+	line "LABORATORI a"
+	cont "buscar-la!"
 
-	para "See you later!"
+	para "Fins després!"
 	done

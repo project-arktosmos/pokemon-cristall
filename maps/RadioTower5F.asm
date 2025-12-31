@@ -1,9 +1,9 @@
-	object_const_def
-	const RADIOTOWER5F_DIRECTOR
-	const RADIOTOWER5F_ROCKET
-	const RADIOTOWER5F_ROCKET_GIRL
-	const RADIOTOWER5F_ROCKER
-	const RADIOTOWER5F_POKE_BALL
+object_const_def
+const RADIOTOWER5F_DIRECTOR
+const RADIOTOWER5F_ROCKET
+const RADIOTOWER5F_ROCKET_GIRL
+const RADIOTOWER5F_ROCKER
+const RADIOTOWER5F_POKE_BALL
 
 RadioTower5F_MapScripts:
 	def_scene_scripts
@@ -191,231 +191,235 @@ RadioTower5FPlayerTwoStepsLeftMovement:
 	step_end
 
 FakeDirectorTextBefore1:
-	text "Y-you! You came to"
-	line "rescue me?"
+	text "T-tu! Has vingut"
+	line "a rescatar-me?"
 	done
 
 FakeDirectorTextBefore2:
-	text "Is that what you"
-	line "were expecting?"
+	text "És el que"
+	line "t'esperaves?"
 
-	para "Wrong!"
-	line "I'm an imposter!"
+	para "Doncs no!"
+	line "Sóc un impostor!"
 
-	para "I pretended to be"
-	line "the real thing to"
+	para "He fingit ser el"
+	line "DIRECTOR real per"
 
-	para "prepare for our"
-	line "takeover."
+	para "preparar la"
+	line "nostra conquesta."
 
-	para "Do you want to"
-	line "know where we hid"
-	cont "the real DIRECTOR?"
+	para "Vols saber on hem"
+	line "amagat el DIREC-"
+	cont "TOR de veritat?"
 
-	para "Sure, I'll tell"
-	line "you. But only if"
-	cont "you can beat me!"
+	para "T'ho diré. Però"
+	line "només si pots"
+	cont "guanyar-me!"
 	done
 
 FakeDirectorWinText:
-	text "OK, OK. I'll tell"
-	line "you where he is."
+	text "D'acord. Et diré"
+	line "on és."
 	done
 
 FakeDirectorTextAfter:
-	text "We stashed the"
-	line "real DIRECTOR in"
+	text "Hem amagat el"
+	line "DIRECTOR real al"
 
-	para "the UNDERGROUND"
-	line "WAREHOUSE."
+	para "MAGATZEM"
+	line "SUBTERRANI."
 
-	para "It's at the far"
-	line "end of the UNDER-"
-	cont "GROUND."
+	para "És al fons del"
+	line "PASSATGE"
+	cont "SUBTERRANI."
 
-	para "But I doubt you'll"
-	line "get that far."
+	para "Però dubto que"
+	line "hi arribis."
 	done
 
 Executivef1SeenText:
-	text "Remember me from"
-	line "the HIDEOUT in"
+	text "Em recordes de"
+	line "l'AMAGATALL de"
 	cont "MAHOGANY TOWN?"
 
-	para "I lost then, but I"
-	line "won't this time."
+	para "Vaig perdre,"
+	line "però ara no."
 	done
 
 Executivef1BeatenText:
-	text "This can't be"
-	line "happening!"
+	text "No pot ser!"
 
-	para "I fought hard, but"
-	line "I still lost…"
+	para "He lluitat fort,"
+	line "però he perdut…"
 	done
 
 Executivef1AfterBattleText:
-	text "<PLAYER>, isn't it?"
+	text "<PLAYER>, oi?"
 
-	para "A brat like you"
-	line "won't appreciate"
+	para "Un marrec com tu"
+	line "no pot apreciar"
 
-	para "the magnificence"
-	line "of TEAM ROCKET."
+	para "la magnificència"
+	line "del TEAM ROCKET."
 
-	para "That's too bad."
-	line "I really admire"
-	cont "your power."
+	para "Quina llàstima."
+	line "Admiro el teu"
+	cont "poder."
 	done
 
 RadioTower5FRocketBossBeforeText:
-	text "Oh? You managed to"
-	line "get this far?"
+	text "Oh? Has arribat"
+	line "fins aquí?"
 
-	para "You must be quite"
-	line "the trainer."
+	para "Has de ser un"
+	line "bon entrenador."
 
-	para "We intend to take"
-	line "over this RADIO"
+	para "Volem apoderar-"
+	line "nos d'aquesta"
 
-	para "STATION and an-"
-	line "nounce our come-"
-	cont "back."
+	para "TORRE DE RÀDIO i"
+	line "anunciar el"
+	cont "nostre retorn."
 
-	para "That should bring"
-	line "our boss GIOVANNI"
+	para "Això farà que"
+	line "el nostre cap,"
 
-	para "back from his solo"
-	line "training."
+	para "GIOVANNI, torni"
+	line "del seu viatge."
 
-	para "We are going to"
-	line "regain our former"
-	cont "glory."
+	para "Recuperarem"
+	line "la nostra antiga"
+	cont "glòria."
 
-	para "I won't allow you"
-	line "to interfere with"
-	cont "our plans."
+	para "No permetré que"
+	line "interfereixis en"
+	cont "els nostres plans."
 	done
 
 RadioTower5FRocketBossWinText:
-	text "No! Forgive me,"
+	text "No! Perdona'm,"
 	line "GIOVANNI!"
 	done
 
 RadioTower5FRocketBossAfterText:
-	text "How could this be?"
+	text "Com pot ser?"
 
-	para "Our dreams have"
-	line "come to naught."
+	para "Els nostres somnis"
+	line "s'han esvaït."
 
-	para "I wasn't up to the"
-	line "task after all."
+	para "No he estat a"
+	line "l'alçada."
 
-	para "Like GIOVANNI did"
-	line "before me, I will"
+	para "Com va fer"
+	line "GIOVANNI abans,"
 
-	para "disband TEAM"
-	line "ROCKET here today."
+	para "dissoldré el TEAM"
+	line "ROCKET avui."
 
-	para "Farewell."
+	para "Adéu."
 	done
 
 RadioTower5FDirectorThankYouText:
 	text "DIRECTOR: <PLAY_G>,"
-	line "thank you!"
+	line "gràcies!"
 
-	para "Your courageous"
-	line "actions have saved"
+	para "Les teves accions"
+	line "valentes han"
 
-	para "#MON nation-"
-	line "wide."
+	para "salvat els #MON"
+	line "de tot el país."
 
-	para "I know it's not"
-	line "much, but please"
-	cont "take this."
+	para "Sé que no és gaire"
+	line "però accepta"
+	cont "això, si us plau."
 	done
 
 RadioTower5FDirectorDescribeClearBellText:
-	text "There used to be a"
-	line "tower right here"
-	cont "in GOLDENROD CITY."
+	text "Abans hi havia una"
+	line "torre just aquí,"
 
-	para "But it was old and"
-	line "creaky."
+	para "a GOLDENROD CITY."
 
-	para "So we replaced it"
-	line "with our RADIO"
-	cont "TOWER."
+	para "Però era vella i"
+	line "cruixia."
 
-	para "We dug up that"
-	line "bell during"
-	cont "construction."
+	para "Així que la vam"
+	line "reemplaçar per la"
+	cont "TORRE DE RÀDIO."
 
-	para "I heard that all"
-	line "sorts of #MON"
+	para "Vam trobar aquesta"
+	line "campana durant la"
+	cont "construcció."
 
-	para "lived in GOLDENROD"
-	line "in the past."
+	para "He sentit que"
+	line "molts #MON"
 
-	para "Perhaps…"
+	para "vivien a GOLDENROD"
+	line "antigament."
 
-	para "That bell has some"
-	line "connection to the"
+	para "Potser…"
 
-	para "TIN TOWER in"
-	line "ECRUTEAK CITY…"
+	para "Aquesta campana"
+	line "té connexió amb"
+
+	para "la TORRE CAMPANA"
+	line "d'ECRUTEAK CITY…"
 
 	para "Ah!"
 
-	para "That reminds me…"
+	para "Això em recorda…"
 
-	para "I overheard TEAM"
-	line "ROCKET whispering."
+	para "Vaig sentir el"
+	line "TEAM ROCKET"
+	cont "xiuxiuejant."
 
-	para "Apparently, some-"
-	line "thing is going on"
-	cont "at the TIN TOWER."
+	para "Pel que sembla,"
+	line "passa alguna cosa"
 
-	para "I have no idea"
-	line "what is happening,"
+	para "a la TORRE"
+	line "CAMPANA."
 
-	para "but you might look"
-	line "into it."
+	para "No tinc ni idea"
+	line "de què passa,"
 
-	para "OK, I better go to"
-	line "my OFFICE."
+	para "però potser ho"
+	line "hauries de mirar."
+
+	para "Bé, millor que"
+	line "vagi al DESPATX."
 	done
 
 RadioTower5FDirectorText:
-	text "DIRECTOR: Hello,"
+	text "DIRECTOR: Hola,"
 	line "<PLAY_G>!"
 
-	para "You know, I love"
-	line "#MON."
+	para "Saps, m'encanten"
+	line "els #MON."
 
-	para "I built this RADIO"
-	line "TOWER so I could"
+	para "Vaig construir"
+	line "aquesta TORRE DE"
 
-	para "express my love"
-	line "of #MON."
+	para "RÀDIO per expresar"
+	line "el meu amor pels"
+	cont "#MON."
 
-	para "It would be nice"
-	line "if people enjoyed"
-	cont "our programs."
+	para "Estaria bé que"
+	line "la gent gaudís"
+	cont "dels programes."
 	done
 
 BenText:
-	text "BEN: Do you listen"
-	line "to our music?"
+	text "BEN: Escoltes"
+	line "la nostra música?"
 	done
 
 RadioTower5FDirectorsOfficeSignText:
-	text "5F DIRECTOR'S"
-	line "   OFFICE"
+	text "5a DESPATX DEL"
+	line "   DIRECTOR"
 	done
 
 RadioTower5FStudio1SignText:
-	text "5F STUDIO 1"
+	text "5a ESTUDI 1"
 	done
 
 RadioTower5F_MapEvents:

@@ -41,63 +41,67 @@ SproutTower1FStatue:
 	jumptext SproutTower1FStatueText
 
 SageChowSeenText:
-	text "We stand guard in"
-	line "this tower."
+	text "Som els guardians"
+	line "d'aquesta torre."
 
-	para "Here, we express"
-	line "our gratitude to"
-	cont "honor all #MON."
+	para "Aquí expressem la"
+	line "nostra gratitud i"
+	cont "honorem els"
+	cont "#MON."
 	done
 
 SageChowBeatenText:
-	text "Th-Thank you!"
+	text "G-Gràcies!"
 	done
 
 SageChowAfterBattleText:
-	text "All living beings"
-	line "coexist through"
-	cont "cooperation."
+	text "Tots els éssers"
+	line "vius coexistim"
+	cont "mitjançant ajuda."
 
-	para "We must always be"
-	line "thankful for this."
+	para "Hem d'estar sempre"
+	line "agraïts per això."
 	done
 
 SproutTower1FSage1Text:
-	text "Only if you reach"
-	line "the top will you"
-	cont "obtain an HM."
+	text "Només si arribes"
+	line "al cim obtindràs"
+	cont "una MO."
 	done
 
 SproutTower1FSage2Text:
-	text "SPROUT TOWER was"
-	line "built long ago"
+	text "La TORRE"
+	line "BELLSPROUT"
+	cont "es va construir"
 
-	para "as a place for"
-	line "#MON training."
+	para "fa molt de temps"
+	line "per entrenar"
+	cont "#MON."
 	done
 
 SproutTower1FGrannyText:
-	text "A BELLSPROUT over"
-	line "100 feet tall…"
+	text "Un BELLSPROUT de"
+	line "més de 30 metres…"
 
-	para "People say that it"
-	line "became the center"
-	cont "pillar here."
+	para "Diuen que es va"
+	line "convertir en el"
+	cont "pilar central."
 	done
 
 SproutTower1FTeacherText:
-	text "See the pillar"
-	line "shaking?"
+	text "Veus com tremola"
+	line "el pilar?"
 
-	para "People are train-"
-	line "ing upstairs."
+	para "Hi ha gent que"
+	line "entrena a dalt."
 	done
 
 SproutTower1FStatueText:
-	text "A #MON statue…"
+	text "Una estàtua"
+	line "#MON…"
 
-	para "It looks very"
-	line "distinguished."
+	para "Té un aspecte"
+	line "molt distingit."
 	done
 
 SproutTower1F_MapEvents:

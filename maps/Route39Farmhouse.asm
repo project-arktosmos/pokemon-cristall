@@ -94,102 +94,105 @@ FarmhouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 FarmerMText_SickCow:
-	text "My MILTANK ain't"
-	line "givin' me milk"
-	cont "n'more."
+	text "La meva MILTANK"
+	line "ja no em dóna"
+	cont "llet."
 
-	para "This here FARM's"
-	line "got famous milk."
+	para "La GRANJA és"
+	line "famosa per la"
+	cont "seva llet."
 
-	para "Most everyone"
-	line "wants a drink."
+	para "Tothom en vol"
+	line "tastar."
 
-	para "It'll give me lots"
-	line "o' milk if'n I"
+	para "Em farà molta"
+	line "llet si li dono"
 
-	para "feed it lots o'"
-	line "BERRIES, I reckon."
+	para "moltes BAIES,"
+	line "crec jo."
 	done
 
 FarmerMText_BuyMilk:
-	text "How'd you like my"
-	line "MOOMOO MILK?"
+	text "Vols LLET MUMUUU?"
 
-	para "It's my pride and"
-	line "joy, there."
+	para "N'estic molt"
+	line "orgullós."
 
-	para "Give it to #MON"
-	line "to restore HP!"
+	para "Dóna-la a un"
+	line "#MON per curar"
+	cont "els seus PS!"
 
-	para "I'll give it to ya"
-	line "fer just ¥{d:ROUTE39FARMHOUSE_MILK_PRICE}."
+	para "Te la deixo per"
+	line "només ¥{d:ROUTE39FARMHOUSE_MILK_PRICE}."
 	done
 
 FarmerMText_GotMilk:
-	text "Here ya go!"
-	line "Drink up'n enjoy!"
+	text "Aquí tens!"
+	line "Que l'aprofitis!"
 	done
 
 FarmerMText_NoMoney:
-	text "Sorry, there."
-	line "No cash, no sale!"
+	text "Ho sento."
+	line "Sense diners, res!"
 	done
 
 FarmerMText_NoRoom:
-	text "I reckon yer"
-	line "PACK's full."
+	text "Em sembla que la"
+	line "MOTXILLA és plena."
 	done
 
 FarmerMText_NoSale:
-	text "You don't want it?"
-	line "Come again, hear?"
+	text "No en vols?"
+	line "Torna quan"
+	cont "vulguis!"
 	done
 
 FarmerMText_Milking:
-	text "I best go do my"
-	line "milkin'."
+	text "Millor que vagi a"
+	line "munyir."
 	done
 
 FarmerFText_InTrouble:
-	text "Our milk even goes"
-	line "out to KANTO."
+	text "La nostra llet"
+	line "arriba fins a"
+	cont "KANTO."
 
-	para "So if our own"
-	line "MILTANK won't give"
+	para "Així que si la"
+	line "nostra MILTANK no"
 
-	para "us any milk, we're"
-	line "in trouble."
+	para "ens dóna llet,"
+	line "tenim un problema."
 	done
 
 FarmerFText_HealedMiltank:
-	text "You fixed our"
-	line "MILTANK, hon. Now"
+	text "Has curat la"
+	line "nostra MILTANK."
 
-	para "it gives MOOMOO"
-	line "MILK again."
+	para "Ara ja torna a"
+	line "donar LLET MUMUUU."
 
-	para "Here's somethin'"
-	line "fer your trouble."
+	para "Aquí tens una"
+	line "cosa per les"
+	cont "molèsties."
 	done
 
 Text_ReceivedTM13: ; unreferenced
-	text "<PLAYER> received"
-	line "TM13."
+	text "<PLAYER> ha rebut"
+	line "la MT13."
 	done
 
 FarmerFText_SnoreSpeech:
-	text "That there's"
-	line "SNORE."
+	text "Això és SNORE."
 
-	para "It's a rare move"
-	line "that only works"
+	para "És un moviment"
+	line "rar que només"
 
-	para "while the #MON"
-	line "is asleep."
+	para "funciona quan el"
+	line "#MON dorm."
 
-	para "You best think how"
-	line "you ought to use"
-	cont "it, hon."
+	para "Pensa bé com"
+	line "l'hauries de fer"
+	cont "servir."
 	done
 
 Route39Farmhouse_MapEvents:

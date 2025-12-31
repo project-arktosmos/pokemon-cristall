@@ -32,46 +32,47 @@ WardensHomeBookshelf:
 	jumpstd PictureBookshelfScript
 
 WardensGranddaughterText1:
-	text "My grandpa is the"
-	line "SAFARI ZONE WAR-"
-	cont "DEN."
+	text "El meu avi és el"
+	line "GUARDIÀ de la"
+	cont "ZONA SAFARI."
 
-	para "At least he was…"
+	para "O ho era…"
 
-	para "He decided to go"
-	line "on a vacation and"
+	para "Va decidir anar"
+	line "de vacances i"
 
-	para "took off overseas"
-	line "all by himself."
+	para "se'n va anar a"
+	line "l'estranger tot"
+	cont "sol."
 
-	para "He quit running"
-	line "SAFARI ZONE just"
-	cont "like that."
+	para "Va deixar la ZONA"
+	line "SAFARI sense més."
 	done
 
 WardensGranddaughterText2:
-	text "Many people were"
-	line "disappointed that"
+	text "Molta gent es va"
+	line "decebre quan la"
 
-	para "SAFARI ZONE closed"
-	line "down, but Grandpa"
-	cont "is so stubborn…"
+	para "ZONA SAFARI va"
+	line "tancar, però"
+	cont "l'avi és tan"
+	cont "tossut…"
 	done
 
 WardenPhotoText:
-	text "It's a photo of a"
-	line "grinning old man"
+	text "És una foto d'un"
+	line "home gran somrient"
 
-	para "who's surrounded"
-	line "by #MON."
+	para "envoltat de"
+	line "#MON."
 	done
 
 SafariZonePhotoText:
-	text "It's a photo of a"
-	line "huge grassy plain"
+	text "És una foto d'una"
+	line "gran plana herbosa"
 
-	para "with rare #MON"
-	line "frolicking in it."
+	para "amb #MON rars"
+	line "jugant-hi."
 	done
 
 SafariZoneWardensHome_MapEvents:

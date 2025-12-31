@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const LAVENDERMART_CLERK
 	const LAVENDERMART_POKEFAN_M
 	const LAVENDERMART_ROCKER
@@ -21,28 +21,30 @@ LavenderMartRockerScript:
 	jumptextfaceplayer LavenderMartRockerText
 
 LavenderMartPokefanMText:
-	text "REPEL is a neces-"
-	line "sity if you are"
+	text "El REPEL és im-"
+	line "prescindible si"
 
-	para "going to explore a"
-	line "cave."
+	para "vols explorar una"
+	line "cova."
 
-	para "Even though I like"
-	line "exploring, I still"
+	para "Tot i que m'agrada"
+	line "explorar, encara"
 
-	para "haven't made it to"
-	line "all the caves."
+	para "no he anat a totes"
+	line "les coves."
 	done
 
 LavenderMartRockerText:
-	text "I heard about a"
-	line "craftsman who"
+	text "He sentit parlar"
+	line "d'un artesà que"
 
-	para "makes custom BALLS"
-	line "in the JOHTO town"
+	para "fa BALLS persona-"
+	line "litzades al poble"
 
-	para "of AZALEA. I wish"
-	line "I had some."
+	para "d'AZALEA, a JOHTO."
+	line "M'agradaria tenir-"
+
+	para "ne algunes."
 	done
 
 LavenderMart_MapEvents:

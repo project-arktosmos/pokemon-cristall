@@ -104,113 +104,118 @@ MovementData_AideFinishesLeavingPokecenter:
 	step_end
 
 VioletPokecenterElmsAideFavorText:
-	text "<PLAY_G>, long"
-	line "time, no see."
+	text "<PLAY_G>, quant"
+	line "de temps!"
 
-	para "PROF.ELM asked me"
-	line "to find you."
+	para "El PROF.ELM m'ha"
+	line "enviat a trobar-"
+	cont "te."
 
-	para "He has another"
-	line "favor to ask."
+	para "Et vol demanar un"
+	line "altre favor."
 
-	para "Would you take the"
-	line "#MON EGG?"
+	para "Pots quedar-te"
+	line "l'OU de #MON?"
 	done
 
 VioletPokecenterElmsAideGiveEggText:
-	text "We discovered that"
-	line "a #MON will not"
+	text "Hem descobert que"
+	line "un #MON no"
 
-	para "hatch until it"
-	line "grows in the EGG."
+	para "eclodeix fins que"
+	line "no creix a l'OU."
 
-	para "It also has to be"
-	line "with other active"
-	cont "#MON to hatch."
+	para "A més, ha de ser"
+	line "amb altres #MON"
+	cont "actius."
 
-	para "<PLAY_G>, you're"
-	line "the only person"
-	cont "we can rely on."
+	para "<PLAY_G>, ets"
+	line "l'única persona"
+	cont "en qui confiem."
 
-	para "Please call PROF."
-	line "ELM when that EGG"
-	cont "hatches!"
+	para "Truca al PROF.ELM"
+	line "quan l'OU"
+	cont "eclosioni!"
 	done
 
 VioletCityElmsAideFullPartyText:
-	text "Oh, no. You can't"
-	line "carry any more"
-	cont "#MON with you."
+	text "Oh, no. No pots"
+	line "portar més #MON"
+	cont "amb tu."
 
-	para "I'll wait here"
-	line "while you make"
-	cont "room for the EGG."
+	para "Esperaré aquí"
+	line "mentre fas lloc"
+	cont "per a l'OU."
 	done
 
 VioletPokecenterElmsAideRefuseText:
-	text "B-but… PROF.ELM"
-	line "asked for you…"
+	text "P-però… El"
+	line "PROF.ELM t'ho ha"
+	cont "demanat a tu…"
 	done
 
 VioletPokecenterElmsAideAskEggText:
-	text "<PLAY_G>, will you"
-	line "take the EGG?"
+	text "<PLAY_G>, vols"
+	line "quedar-te l'OU?"
 	done
 
 VioletPokecenterFarawayLinkText: ; unreferenced
-	text "I've been thinking"
-	line "it'd be great to"
+	text "He pensat que"
+	line "estaria bé poder"
 
-	para "be able to link up"
-	line "and battle with my"
+	para "connectar i"
+	line "lluitar"
+	cont "amb els meus amics"
 
-	para "friends who live"
-	line "far away."
+	para "que viuen molt"
+	line "lluny."
 	done
 
 VioletPokecenterMobileAdapterText: ; unreferenced
-	text "I just battled a"
-	line "friend in CIANWOOD"
-	cont "over a link."
+	text "Acabo de lluitar"
+	line "amb un amic de"
+	cont "CIANWOOD per link."
 
-	para "If you connect a"
+	para "Si connectes un"
 	line "MOBILE ADAPTER,"
 
-	para "you can link with"
-	line "a friend far away."
+	para "pots enllaçar amb"
+	line "un amic llunyà."
 	done
 
 VioletPokecenter1FGameboyKidText:
-	text "A guy named BILL"
-	line "made the #MON"
-	cont "PC storage system."
+	text "Un noi anomenat"
+	line "BILL va crear el"
+	cont "sistema PC"
+	cont "#MON."
 	done
 
 VioletPokecenter1FGentlemanText:
-	text "It was around"
-	line "three years ago."
+	text "Va ser fa uns"
+	line "tres anys."
 
-	para "TEAM ROCKET was up"
-	line "to no good with"
-	cont "#MON."
+	para "El TEAM ROCKET"
+	line "feia malifetes"
+	cont "amb els #MON."
 
-	para "But justice pre-"
-	line "vailed--a young"
-	cont "kid broke 'em up."
+	para "Però la justícia"
+	line "va triomfar: un"
+	cont "nen els va aturar."
 	done
 
 VioletPokecenter1FYoungsterText:
-	text "#MON are smart."
-	line "They won't obey a"
+	text "Els #MON són"
+	line "intel·ligents. No"
 
-	para "trainer they don't"
-	line "respect."
+	para "obeeixen un"
+	line "entrenador que no"
+	cont "respecten."
 
-	para "Without the right"
-	line "GYM BADGES, they"
+	para "Sense les MEDALLES"
+	line "DE GIMNÀS, faran"
 
-	para "will just do as"
-	line "they please."
+	para "el que els vingui"
+	line "de gust."
 	done
 
 VioletPokecenter1F_MapEvents:

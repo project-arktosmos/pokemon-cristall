@@ -28,29 +28,29 @@ SilphCoOfficerScript:
 	end
 
 SilphCoReceptionistText:
-	text "Welcome. This is"
-	line "SILPH CO.'s HEAD"
-	cont "OFFICE BUILDING."
+	text "Benvingut. Això és"
+	line "l'edifici central"
+	cont "de SILPH CO."
 	done
 
 SilphCoOfficerText:
-	text "Only employees are"
-	line "permitted to go"
-	cont "upstairs."
+	text "Només els"
+	line "treballadors poden"
+	cont "pujar dalt."
 
-	para "But since you came"
-	line "such a long way,"
+	para "Però com que has"
+	line "vingut de lluny,"
 
-	para "have this neat"
-	line "little souvenir."
+	para "pren aquest petit"
+	line "record."
 	done
 
 SilphCoOfficerText_GotUpGrade:
-	text "It's SILPH CO.'s"
-	line "latest product."
+	text "És el producte més"
+	line "nou de SILPH CO."
 
-	para "It's not for sale"
-	line "anywhere yet."
+	para "Encara no es ven"
+	line "enlloc."
 	done
 
 SilphCo1F_MapEvents:

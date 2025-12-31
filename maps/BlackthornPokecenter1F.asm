@@ -22,29 +22,31 @@ BlackthornPokecenter1FCooltrainerMScript:
 	jumpstd HappinessCheckScript
 
 BlackthornPokecenter1FGentlemanText:
-	text "Deep inside far-"
-	line "off INDIGO PLATEAU"
+	text "Al cor de"
+	line "l'ALTIPLÀ"
+	cont "ÍNDIGO, molt lluny"
 
-	para "is the #MON"
-	line "LEAGUE."
+	para "d'aquí, hi ha la"
+	line "LLIGA #MON."
 
-	para "I hear the best"
-	line "trainers gather"
+	para "Diuen que els"
+	line "millors entrena-"
 
-	para "there from around"
-	line "the country."
+	para "dors s'hi reunei-"
+	line "xen de tot el món."
 	done
 
 BlackthornPokecenter1FTwinText:
-	text "There was this"
-	line "move I just had"
+	text "Hi havia un atac"
+	line "que volia ensenyar"
 
-	para "to teach my #-"
-	line "MON."
+	para "al meu #MON"
+	line "com fos."
 
-	para "So I got the MOVE"
-	line "DELETER to make it"
-	cont "forget an HM move."
+	para "Així que vaig fer"
+	line "que l'ELIMINAMOVI-"
+	cont "MENTS oblidés una"
+	cont "MO."
 	done
 
 BlackthornPokecenter1F_MapEvents:

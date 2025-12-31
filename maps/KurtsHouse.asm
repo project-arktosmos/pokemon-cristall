@@ -449,229 +449,242 @@ KurtsHouseKurtGoAroundPlayerThenExitHouseMovement:
 	step_end
 
 KurtsHouseKurtMakingBallsMustWaitText:
-	text "Hm? Who are you?"
+	text "Hm? Qui ets?"
 
-	para "<PLAYER>, eh? You"
-	line "want me to make"
-	cont "some BALLS?"
+	para "<PLAYER>, oi? Vols"
+	line "que et faci unes"
+	cont "BALLS?"
 
-	para "Sorry, but that'll"
-	line "have to wait."
+	para "Ho sento, però"
+	line "haurà d'esperar."
 
-	para "Do you know TEAM"
-	line "ROCKET? Ah, don't"
+	para "Coneixes l'EQUIP"
+	line "ROCKET? Bah, no"
 
-	para "worry. I'll tell"
-	line "you anyhow."
+	para "pateixis. T'ho"
+	line "explicaré"
+	cont "igualment."
 
-	para "TEAM ROCKET's an"
-	line "evil gang that"
+	para "L'EQUIP ROCKET és"
+	line "una banda malvada"
 
-	para "uses #MON for"
-	line "their dirty work."
+	para "que usa els"
+	line "#MON"
+	cont "per fer malifetes."
 
-	para "They're supposed"
-	line "to have disbanded"
-	cont "three years ago."
+	para "Suposadament es"
+	line "van dissoldre fa"
+	cont "tres anys."
 
-	para "Anyway, they're at"
-	line "the WELL, cutting"
+	para "Ara són al POU,"
+	line "tallant CUES de"
 
-	para "off SLOWPOKETAILS"
-	line "for sale!"
+	para "SLOWPOKE per"
+	line "vendre-les!"
 
-	para "So I'm going to"
-	line "go give them a"
-	cont "lesson in pain!"
+	para "Així que els"
+	line "donaré una bona"
+	cont "lliçó!"
 
-	para "Hang on, SLOWPOKE!"
-	line "Old KURT is on his"
-	cont "way!"
+	para "Aguanta, SLOWPOKE!"
+	line "En KURT ja arriba!"
 	done
 
 KurtsHouseKurtHonoredToMakeBallsText:
-	text "KURT: Hi, <PLAYER>!"
+	text "KURT: Hola,"
+	line "<PLAYER>!"
 
-	para "You handled your-"
-	line "self like a real"
-	cont "hero at the WELL."
+	para "Et vas comportar"
+	line "com un autèntic"
+	cont "heroi al POU."
 
-	para "I like your style!"
+	para "M'agrada el teu"
+	line "estil!"
 
-	para "I would be honored"
-	line "to make BALLS for"
+	para "Seria un honor"
+	line "fer BALLS per a"
 
-	para "a trainer like"
-	line "you."
+	para "un entrenador com"
+	line "tu."
 
-	para "This is all I have"
-	line "now, but take it."
+	para "Això és tot el"
+	line "que tinc ara,"
+	cont "però agafa-ho."
 	done
 
 KurtsHouseKurtBallsFromApricornsText:
-	text "KURT: I make BALLS"
-	line "from APRICORNS."
+	text "KURT: Faig BALLS"
+	line "amb BONGURI."
 
-	para "Collect them from"
-	line "trees and bring"
-	cont "'em to me."
+	para "Recull-ne dels"
+	line "arbres i porta-"
+	cont "me'ls."
 
-	para "I'll make BALLS"
-	line "out of them."
+	para "En faré BALLS."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
-	text "KURT: You have an"
-	line "APRICORN for me?"
+	text "KURT: Tens un"
+	line "BONGURI per a mi?"
 
-	para "Fine! I'll turn it"
-	line "into a BALL."
+	para "Molt bé! El"
+	line "convertiré en"
+	cont "una BALL."
 	done
 
 KurtsHouseKurtItWillTakeADayText:
-	text "KURT: It'll take a"
-	line "day to make you a"
+	text "KURT: Trigaré un"
+	line "dia a fer-te la"
+	cont "BALL."
 
-	para "BALL. Come back"
-	line "for it later."
+	para "Torna més tard a"
+	line "buscar-la."
 	done
 
 KurtsHouseKurtThatsALetdownText:
 	text "KURT: Oh…"
-	line "That's a letdown."
+	line "Quina decepció."
 	done
 
 KurtsHouseKurtDontBotherMeText:
-	text "KURT: I'm working!"
-	line "Don't bother me!"
+	text "KURT: Estic"
+	line "treballant! No em"
+	cont "molestis!"
 	done
 
 KurtsHouseKurtJustFinishedYourBallText:
 	text "KURT: Ah, <PLAYER>!"
-	line "I just finished"
-	cont "your BALL. Here!"
+	line "Acabo d'acabar la"
+	cont "teva BALL. Aquí!"
 	done
 
 KurtsHouseKurtTurnedOutGreatText:
-	text "KURT: That turned"
-	line "out great."
+	text "KURT: Ha quedat"
+	line "molt bé."
 
-	para "Try catching"
-	line "#MON with it."
+	para "Prova de capturar"
+	line "#MON amb ella."
 	done
 
 KurtsHouseKurtGranddaughterHelpingWorkFasterText:
-	text "KURT: Now that my"
-	line "granddaughter is"
+	text "KURT: Ara que la"
+	line "meva néta m'ajuda,"
 
-	para "helping me, I can"
-	line "work much faster."
+	para "puc treballar més"
+	line "ràpid."
 	done
 
 KurtsHouseKurtWhatIsThatText:
-	text "Wh-what is that?"
+	text "Q-què és això?"
 
-	para "I've never seen"
-	line "one before."
+	para "Mai n'havia vist"
+	line "cap com aquesta."
 
-	para "It looks a lot"
-	line "like a # BALL,"
+	para "S'assembla molt a"
+	line "una # BALL,"
 
-	para "but it appears to"
-	line "be something else."
+	para "però sembla que"
+	line "és una altra cosa."
 
-	para "Let me check it"
-	line "for you."
+	para "Deixa'm examinar-"
+	line "la."
 	done
 
 KurtsHouseKurtImCheckingItNowText:
-	text "I'm checking it"
-	line "now."
+	text "Ara l'estic"
+	line "examinant."
 	done
 
 KurtsHouseKurtAhHaISeeText:
-	text "Ah-ha! I see!"
-	line "So…"
+	text "Ah-ha! Ja ho veig!"
+	line "Així que…"
 	done
 
 KurtsHouseKurtThisBallStartedToShakeText:
 	text "<PLAYER>!"
 
-	para "This BALL started"
-	line "to shake while I"
-	cont "was checking it."
+	para "Aquesta BALL ha"
+	line "començat a"
+	cont "tremolar"
+	cont "mentre"
+	cont "l'examinava."
 
-	para "There must be"
-	line "something to this!"
+	para "Hi ha d'haver"
+	line "alguna cosa!"
 	done
 
 KurtsGranddaughterSlowpokeGoneText:
-	text "The SLOWPOKE are"
-	line "gone… Were they"
+	text "Els SLOWPOKE han"
+	line "desaparegut… Se'ls"
 
-	para "taken away by bad"
-	line "people?"
+	para "han endut la gent"
+	line "dolenta?"
 	done
 
 KurtsGranddaughterLonelyText:
-	text "Grandpa's gone…"
-	line "I'm so lonely…"
+	text "L'avi ha marxat…"
+	line "Em sento tan sola…"
 	done
 
 KurtsGranddaughterSlowpokeBackText:
-	text "The SLOWPOKE my"
-	line "dad gave me came"
+	text "El SLOWPOKE que"
+	line "em va donar el"
 
-	para "back! Its TAIL is"
-	line "growing back too!"
+	para "pare ha tornat!"
+	line "I la cua li torna"
+	cont "a créixer!"
 	done
 
 KurtsGranddaughterDadText:
-	text "Dad works at SILPH"
-	line "where he studies"
-	cont "# BALLS."
+	text "El pare treballa"
+	line "a SILPH, on"
 
-	para "I have to stay"
-	line "home with Grandpa"
-	cont "and SLOWPOKE."
+	para "estudia les"
+	line "# BALLS."
+
+	para "Jo m'he de quedar"
+	line "a casa amb l'avi"
+	cont "i el SLOWPOKE."
 	done
 
 KurtsGranddaughterHelpText:
-	text "I get to help"
-	line "Grandpa now!"
+	text "Ara puc ajudar"
+	line "l'avi!"
 
-	para "We'll make good"
-	line "BALLS for you, so"
-	cont "please wait!"
+	para "Et farem bones"
+	line "BALLS, així que"
+	cont "espera una mica!"
 	done
 
 KurtsGranddaughterFunText:
-	text "It's fun to make"
+	text "És divertit fer"
 	line "BALLS!"
 	done
 
 KurtsGranddaughterGSBallText:
-	text "Grandpa's checking"
-	line "a BALL right now."
+	text "L'avi està"
+	line "examinant una BALL"
+	cont "ara mateix."
 
-	para "So I'm waiting"
-	line "till he's done."
+	para "Així que estic"
+	line "esperant que"
+	cont "acabi."
 	done
 
 KurtsHouseSlowpokeText:
 	text "SLOWPOKE: …"
-	line "Yawn?"
+	line "Badall?"
 	done
 
 KurtsHouseOakPhotoText:
-	text "…A young PROF."
-	line "OAK?"
+	text "…Un PROF. OAK"
+	line "jove?"
 	done
 
 KurtsHouseCelebiStatueText:
-	text "It's a statue of"
-	line "the forest's pro-"
-	cont "tector."
+	text "És una estàtua"
+	line "del protector del"
+	cont "bosc."
 	done
 
 KurtsHouse_MapEvents:

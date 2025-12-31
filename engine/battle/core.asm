@@ -1654,9 +1654,9 @@ HandleScreens:
 	jp CopyName2
 
 .Your:
-	db "Your@"
+	db "El teu@"
 .Enemy:
-	db "Enemy@"
+	db "Enemic@"
 
 .LightScreenTick:
 	ld a, [de]
@@ -5706,7 +5706,7 @@ MoveInfoBox:
 	ret
 
 .Disabled:
-	db "Disabled!@"
+	db "Inhabilitat!@"
 .Type:
 	db "TYPE/@"
 
@@ -8425,11 +8425,11 @@ DisplayLinkBattleResult:
 	ret
 
 .YouWin:
-	db "YOU WIN@"
+	db "HAS GUANYAT@"
 .YouLose:
-	db "YOU LOSE@"
+	db "HAS PERDUT@"
 .Draw:
-	db "  DRAW@"
+	db " EMPAT@"
 
 .Mobile_InvalidBattle:
 	hlcoord 6, 8
@@ -8441,7 +8441,7 @@ DisplayLinkBattleResult:
 	ret
 
 .InvalidBattle:
-	db "INVALID BATTLE@"
+	db "COMBAT INVALID@"
 
 IsMobileBattle2:
 	ld a, [wLinkMode]
@@ -8593,11 +8593,11 @@ ReadAndPrintLinkBattleRecord:
 	db "  ---  <LF>"
 	db "         -    -    -@"
 .Record:
-	db "<PLAYER>'s RECORD@"
+	db "REGISTRE <PLAYER>@"
 .Result:
-	db "RESULT WIN LOSE DRAW@"
+	db "RESULTAT GUANY PERD EMPAT@"
 .Total:
-	db "TOTAL  WIN LOSE DRAW@"
+	db "TOTAL    GUANY PERD EMPAT@"
 
 BattleEnd_HandleRoamMons:
 	ld a, [wBattleType]

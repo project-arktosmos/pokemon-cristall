@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const PEWTERMART_CLERK
 	const PEWTERMART_YOUNGSTER
 	const PEWTERMART_SUPER_NERD
@@ -21,26 +21,27 @@ PewterMartSuperNerdScript:
 	jumptextfaceplayer PewterMartSuperNerdText
 
 PewterMartYoungsterText:
-	text "Hi! Check out my"
+	text "Ei! Mira el meu"
 	line "GYARADOS!"
 
-	para "I raised it from a"
-	line "MAGIKARP. I can't"
+	para "L'he criat des que"
+	line "era un MAGIKARP."
 
-	para "believe how strong"
-	line "it has become."
+	para "No em puc creure"
+	line "com s'ha fet de"
+	cont "fort."
 	done
 
 PewterMartSuperNerdText:
-	text "There once was a"
-	line "weird old man who"
-	cont "sold MAGIKARP."
+	text "Hi havia un vell"
+	line "estrany que venia"
+	cont "MAGIKARP."
 
-	para "He was saying the"
-	line "MAGIKARP from the"
+	para "Deia que els"
+	line "MAGIKARP del LLAC"
 
-	para "LAKE OF RAGE were"
-	line "excellent."
+	para "DE LA IRA eren"
+	line "excel·lents."
 	done
 
 PewterMart_MapEvents:

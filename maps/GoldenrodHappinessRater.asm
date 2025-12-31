@@ -70,68 +70,70 @@ HappinessRatersHouseRadio:
 	jumpstd Radio2Script
 
 GoldenrodHappinessRaterTeacherText:
-	text "If you treat your"
-	line "#MON nicely,"
+	text "Si tractes bé els"
+	line "teus #MON,"
 
-	para "they will love you"
-	line "in return."
+	para "t'estimaran a"
+	line "canvi."
 
-	para "Oh? Let me see"
-	line "your @"
+	para "Oh? Deixa'm veure"
+	line "el teu @"
 	text_ram wStringBuffer3
 	text "…"
 	done
 
 GoldenrodHappinessRatingText_LovesYouALot:
-	text "It looks really"
-	line "happy! It must"
-	cont "love you a lot."
+	text "Sembla molt feliç!"
+	line "T'ha d'estimar"
+	cont "moltíssim."
 	done
 
 GoldenrodHappinessRatingText_ReallyTrustsYou:
-	text "I get the feeling"
-	line "that it really"
-	cont "trusts you."
+	text "Tinc la sensació"
+	line "que confia molt"
+	cont "en tu."
 	done
 
 GoldenrodHappinessRatingText_SortOfHappy:
-	text "It's friendly to-"
-	line "ward you. It looks"
-	cont "sort of happy."
+	text "És amistós amb"
+	line "tu. Sembla força"
+	cont "content."
 	done
 
 GoldenrodHappinessRatingText_QuiteCute:
-	text "It's quite cute."
+	text "És força bufó."
 	done
 
 GoldenrodHappinessRatingText_NotUsedToYou:
-	text "You should treat"
-	line "it better. It's"
-	cont "not used to you."
+	text "Hauries de"
+	line "tractar-lo millor."
+	cont "No s'hi avesa."
 	done
 
 GoldenrodHappinessRatingText_LooksMean:
-	text "It doesn't seem to"
-	line "like you at all."
-	cont "It looks mean."
+	text "No sembla que li"
+	line "agradi gens."
+	cont "Fa mala cara."
 	done
 
 GoldenrodHappinessRaterPokefanMText:
-	text "I keep losing in"
-	line "battles, and my"
+	text "No paro de perdre"
+	line "batalles, i els"
 
-	para "#MON end up"
-	line "fainting…"
+	para "meus #MON"
+	line "s'esvaeixen…"
 
-	para "Maybe that's why"
-	line "my #MON don't"
-	cont "like me much…"
+	para "Potser per això"
+	line "els meus #MON"
+	cont "no m'estimen…"
 	done
 
 GoldenrodHappinessRaterTwinText:
-	text "When I use an item"
-	line "on my #MON, it"
-	cont "acts really glad!"
+	text "Quan uso un"
+	line "objecte amb el"
+
+	para "meu #MON, es"
+	line "posa molt content!"
 	done
 
 GoldenrodHappinessRater_MapEvents:

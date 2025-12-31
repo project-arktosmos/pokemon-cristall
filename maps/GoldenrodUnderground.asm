@@ -419,232 +419,237 @@ GoldenrodUndergroundHiddenAntidote:
 	hiddenitem ANTIDOTE, EVENT_GOLDENROD_UNDERGROUND_HIDDEN_ANTIDOTE
 
 SupernerdEricSeenText:
-	text "I got booted out"
-	line "of the GAME COR-"
-	cont "NER."
+	text "Em van fer fora"
+	line "del CASINO."
 
-	para "I was trying to"
-	line "cheat using my"
-	cont "#MON…"
+	para "Intentava fer"
+	line "trampes amb els"
+	cont "meus #MON…"
 	done
 
 SupernerdEricBeatenText:
-	text "…Grumble…"
+	text "…Grrr…"
 	done
 
 SupernerdEricAfterBattleText:
-	text "I guess I have to"
-	line "do things fair and"
-	cont "square…"
+	text "Suposo que haig"
+	line "de fer les coses"
+	cont "honestament…"
 	done
 
 SupernerdTeruSeenText:
-	text "Do you consider"
-	line "type alignments in"
-	cont "battle?"
+	text "Tens en compte"
+	line "els tipus en"
+	cont "combat?"
 
-	para "If you know your"
-	line "type advantages,"
+	para "Si coneixes els"
+	line "avantatges de"
+	cont "tipus,"
 
-	para "you'll do better"
-	line "in battle."
+	para "et defensaràs"
+	line "millor en combat."
 	done
 
 SupernerdTeruBeatenText:
-	text "Ow, ow, ow!"
+	text "Ai, ai, ai!"
 	done
 
 SupernerdTeruAfterBattleText:
-	text "I know my #MON"
-	line "type alignments."
+	text "Sé molt bé els"
+	line "tipus de #MON."
 
-	para "But I only use one"
-	line "type of #MON."
+	para "Però només faig"
+	line "servir un tipus"
+	cont "de #MON."
 	done
 
 PokemaniacIssacSeenText:
-	text "My #MON just"
-	line "got a haircut!"
+	text "El meu #MON"
+	line "acaba de tallar-"
+	cont "se el pèl!"
 
-	para "I'll show you how"
-	line "strong it is!"
+	para "Et mostraré com"
+	line "n'és de fort!"
 	done
 
 PokemaniacIssacBeatenText:
-	text "Aiyeeee!"
+	text "Aiii!"
 	done
 
 PokemaniacIssacAfterBattleText:
-	text "Your #MON will"
-	line "like you more if"
+	text "Els teus #MON"
+	line "t'estimaran més"
 
-	para "you give them"
-	line "haircuts."
+	para "si els talles"
+	line "el pèl."
 	done
 
 PokemaniacDonaldSeenText:
-	text "I think you have"
-	line "some rare #MON"
-	cont "with you."
+	text "Crec que portes"
+	line "alguns #MON"
+	cont "rars amb tu."
 
-	para "Let me see them!"
+	para "Deixa-me'ls veure!"
 	done
 
 PokemaniacDonaldBeatenText:
-	text "Gaah! I lost!"
-	line "That makes me mad!"
+	text "Argh! He perdut!"
+	line "Estic molt"
+	cont "enfadat!"
 	done
 
 PokemaniacDonaldAfterBattleText:
-	text "Are you making a"
-	line "#DEX? Here's a"
-	cont "hot tip."
+	text "Estàs fent una"
+	line "#DEX? Aquí va"
+	cont "un bon consell."
 
-	para "The HIKER on ROUTE"
-	line "33, ANTHONY, is a"
-	cont "good guy."
+	para "L'ALPINISTA de la"
+	line "RUTA 33, ANTHONY,"
+	cont "és un bon paio."
 
-	para "He'll phone you if"
-	line "he sees any rare"
-	cont "#MON."
+	para "Et trucarà si veu"
+	line "cap #MON rar."
 	done
 
 GoldenrodUndergroundTheDoorsLockedText:
-	text "The door's locked…"
+	text "La porta està"
+	line "tancada amb clau…"
 	done
 
 GoldenrodUndergroundTheDoorIsOpenText:
-	text "The door is open."
+	text "La porta és"
+	line "oberta."
 	done
 
 GoldenrodUndergroundBasementKeyOpenedDoorText:
-	text "The BASEMENT KEY"
-	line "opened the door."
+	text "La CLAU SOTERRANI"
+	line "ha obert la porta."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
-	text "Welcome!"
+	text "Benvingut!"
 
-	para "I run the #MON"
-	line "SALON!"
+	para "Porto el SALÓ de"
+	line "#MON!"
 
-	para "I'm the older and"
-	line "better of the two"
-	cont "HAIRCUT BROTHERS."
+	para "Sóc el gran i el"
+	line "millor dels dos"
+	cont "GERMANS"
+	cont "PERRUQUERS."
 
-	para "I can make your"
-	line "#MON beautiful"
-	cont "for just ¥500."
+	para "Puc fer bonic el"
+	line "teu #MON per"
+	cont "només ¥500."
 
-	para "Would you like me"
-	line "to do that?"
+	para "Vols que ho faci?"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAskWhichMonText:
-	text "Which #MON"
-	line "should I work on?"
+	text "Quin #MON"
+	line "he de pentinar?"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherWatchItBecomeBeautifulText:
-	text "OK! Watch it"
-	line "become beautiful!"
+	text "D'acord! Mira com"
+	line "es torna bonic!"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAllDoneText:
-	text "There! All done!"
+	text "Ja està! Fet!"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherThatsAShameText:
-	text "Is that right?"
-	line "That's a shame!"
+	text "Ah, sí?"
+	line "Quina llàstima!"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherYoullNeedMoreMoneyText:
-	text "You'll need more"
-	line "money than that."
+	text "Necessites més"
+	line "diners."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOneHaircutADayText:
-	text "I do only one"
-	line "haircut a day. I'm"
-	cont "done for today."
+	text "Només faig un"
+	line "tall de pèl al"
+	cont "dia. Ja he acabat."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
-	text "Welcome to the"
-	line "#MON SALON!"
+	text "Benvingut al SALÓ"
+	line "de #MON!"
 
-	para "I'm the younger"
-	line "and less expen-"
-	cont "sive of the two"
-	cont "HAIRCUT BROTHERS."
+	para "Sóc el petit i"
+	line "el més econòmic"
+	cont "dels dos GERMANS"
+	cont "PERRUQUERS."
 
-	para "I'll spiff up your"
-	line "#MON for just"
-	cont "¥300."
+	para "Deixaré el teu"
+	line "#MON genial"
+	cont "per només ¥300."
 
-	para "So? How about it?"
+	para "Què? Què en dius?"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAskWhichMonText:
-	text "OK, which #MON"
-	line "should I do?"
+	text "D'acord, a quin"
+	line "#MON li toca?"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherIllMakeItLookCoolText:
-	text "OK! I'll make it"
-	line "look cool!"
+	text "D'acord! El faré"
+	line "quedar genial!"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAllDoneText:
-	text "There we go!"
-	line "All done!"
+	text "Ja hi som!"
+	line "Tot fet!"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherHowDisappointingText:
-	text "No? "
-	line "How disappointing!"
+	text "No?"
+	line "Quina decepció!"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherShortOnFundsText:
-	text "You're a little"
-	line "short on funds."
+	text "Et falten diners."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherOneHaircutADayText:
-	text "I can do only one"
-	line "haircut a day."
+	text "Només puc fer un"
+	line "tall de pèl al"
+	cont "dia."
 
-	para "Sorry, but I'm all"
-	line "done for today."
+	para "Disculpa, però ja"
+	line "he acabat per"
+	cont "avui."
 	done
 
 HaircutBrosText_SlightlyHappier:
 	text_ram wStringBuffer3
-	text " looks a"
-	line "little happier."
+	text " sembla"
+	line "una mica més"
+	cont "feliç."
 	done
 
 HaircutBrosText_Happier:
 	text_ram wStringBuffer3
-	text " looks"
-	line "happy."
+	text " sembla"
+	line "content."
 	done
 
 HaircutBrosText_MuchHappier:
 	text_ram wStringBuffer3
-	text " looks"
-	line "delighted!"
+	text " sembla"
+	line "encantat!"
 	done
 
 GoldenrodUndergroundWeAreNotOpenTodayText:
-	text "We're not open"
-	line "today."
+	text "Avui no obrim."
 	done
 
 GoldenrodUndergroundNoEntryText:
-	text "NO ENTRY BEYOND"
-	line "THIS POINT"
+	text "PROHIBIT EL PAS"
+	line "A PARTIR D'AQUÍ"
 	done
 
 GoldenrodUnderground_MapEvents:

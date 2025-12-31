@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const BLACKTHORNMART_CLERK
 	const BLACKTHORNMART_COOLTRAINER_M
 	const BLACKTHORNMART_BLACK_BELT
@@ -21,27 +21,27 @@ BlackthornMartBlackBeltScript:
 	jumptextfaceplayer BlackthornMartBlackBeltText
 
 BlackthornMartCooltrainerMText:
-	text "You can't buy MAX"
-	line "REVIVE, but it"
+	text "No pots comprar"
+	line "MAX REVIVE, però"
 
-	para "fully restores a"
-	line "fainted #MON."
+	para "revifa totalment"
+	line "un #MON K.O."
 
-	para "Beware--it won't"
-	line "restore PP, the"
+	para "Alerta: no"
+	line "restaura els PP,"
 
-	para "POWER POINTS"
-	line "needed for moves."
+	para "els POWER POINTS"
+	line "per als atacs."
 	done
 
 BlackthornMartBlackBeltText:
-	text "MAX REPEL keeps"
-	line "weak #MON away"
-	cont "from you."
+	text "MAX REPEL manté"
+	line "els #MON febles"
+	cont "lluny de tu."
 
-	para "It's the longest"
-	line "lasting of the"
-	cont "REPEL sprays."
+	para "És el de més"
+	line "durada dels"
+	cont "sprais REPEL."
 	done
 
 BlackthornMart_MapEvents:

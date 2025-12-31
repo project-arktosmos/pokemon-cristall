@@ -13,22 +13,22 @@ CeladonMansionRoofGraffiti:
 	jumptext CeladonMansionRoofGraffitiText
 
 CeladonMansionRoofFisherText:
-	text "High places--I do"
-	line "love them so!"
+	text "Els llocs alts…"
+	line "M'encanten!"
 
-	para "I'd say the only"
-	line "thing that loves"
+	para "Diria que l'única"
+	line "cosa que estima"
 
-	para "heights as much as"
-	line "me is smoke!"
+	para "les altures tant"
+	line "com jo és el fum!"
 	done
 
 CeladonMansionRoofGraffitiText:
-	text "There's graffiti"
-	line "on the wall…"
+	text "Hi ha un grafiti"
+	line "a la paret…"
 
-	para "<PLAYER> added a"
-	line "moustache!"
+	para "<PLAYER> hi ha"
+	line "afegit un bigoti!"
 	done
 
 CeladonMansionRoof_MapEvents:

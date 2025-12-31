@@ -79,55 +79,58 @@ KarensRoom_EnterMovement:
 	step_end
 
 KarenScript_KarenBeforeText:
-	text "I am KAREN of the"
-	line "ELITE FOUR."
+	text "Sóc KAREN, de"
+	line "l'ALTA CÚPULA."
 
-	para "You're <PLAYER>?"
-	line "How amusing."
+	para "Tu ets <PLAYER>?"
+	line "Que divertit."
 
-	para "I love dark-type"
-	line "#MON."
+	para "M'encanten els"
+	line "#MON de tipus"
+	cont "fosc."
 
-	para "I find their wild,"
-	line "tough image to be"
+	para "Trobo que la seva"
+	line "imatge salvatge i"
 
-	para "so appealing. And"
-	line "they're so strong."
+	para "dura és molt"
+	line "atractiva. I són"
+	cont "molt forts."
 
-	para "Think you can take"
-	line "them? Just try to"
-	cont "entertain me."
+	para "Creus que pots"
+	line "vèncer-los? Prova"
+	cont "d'entretenir-me."
 
-	para "Let's go."
+	para "Som-hi."
 	done
 
 KarenScript_KarenBeatenText:
-	text "Well, aren't you"
-	line "good. I like that"
-	cont "in a trainer."
+	text "Vaja, ets molt"
+	line "bo. Això m'agrada"
+	cont "en un entrenador."
 	done
 
 KarenScript_KarenDefeatText:
-	text "Strong #MON."
+	text "#MON forts."
 
-	para "Weak #MON."
+	para "#MON febles."
 
-	para "That is only the"
-	line "selfish perception"
-	cont "of people."
+	para "Això és només la"
+	line "percepció egoista"
+	cont "de la gent."
 
-	para "Truly skilled"
-	line "trainers should"
+	para "Els entrenadors"
+	line "hàbils haurien"
 
-	para "try to win with"
-	line "their favorites."
+	para "de guanyar amb"
+	line "els seus"
+	cont "preferits."
 
-	para "I like your style."
-	line "You understand"
-	cont "what's important."
+	para "M'agrada el teu"
+	line "estil. Entens el"
+	cont "que és important."
 
-	para "Go on--the CHAM-"
-	line "PION is waiting."
+	para "Endavant, el"
+	line "CAMPIÓ t'espera."
 	done
 
 KarensRoom_MapEvents:

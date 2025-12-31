@@ -86,131 +86,131 @@ ViridianCityMartSign:
 	jumpstd MartSignScript
 
 ViridianCityCoffeeGrampsQuestionText:
-	text "Hey, kid! I just"
-	line "had a double shot"
+	text "Ep, nen! Acabo de"
+	line "prendre un cafè"
 
-	para "of espresso, and"
-	line "I am wired!"
+	para "doble i estic"
+	line "molt animat!"
 
-	para "I need to talk to"
-	line "someone, so you'll"
-	cont "have to do!"
+	para "Necessito parlar"
+	line "amb algú, així que"
+	cont "tu serviràs!"
 
-	para "I might not look"
-	line "like much now, but"
+	para "Potser ara no ho"
+	line "sembla, però jo"
 
-	para "I was an expert at"
-	line "catching #MON."
+	para "era un expert en"
+	line "capturar #MON."
 
-	para "Do you believe me?"
+	para "Em creus?"
 	done
 
 ViridianCityCoffeeGrampsBelievedText:
-	text "Good, good. Yes, I"
-	line "was something out"
+	text "Bé, bé. Sí, jo era"
+	line "fora del normal,"
 
-	para "of the ordinary,"
-	line "let me tell you!"
+	para "deixa'm que t'ho"
+	line "digui!"
 	done
 
 ViridianCityCoffeeGrampsDoubtedText:
-	text "What? You little"
-	line "whelp!"
+	text "Què? Maleït"
+	line "brivall!"
 
-	para "If I were just a"
-	line "bit younger, I'd"
+	para "Si fos una mica"
+	line "més jove, et"
 
-	para "show you a thing"
-	line "or two. Humph!"
+	para "faria veure una"
+	line "cosa o dues. Bah!"
 	done
 
 ViridianCityGrampsNearGymText:
-	text "This GYM didn't"
-	line "have a LEADER"
-	cont "until recently."
+	text "Aquest GIMNÀS no"
+	line "tenia LÍDER fins"
+	cont "fa poc."
 
-	para "A young man from"
-	line "PALLET became the"
+	para "Un jove de PALLET"
+	line "es va convertir"
 
-	para "LEADER, but he's"
-	line "often away."
+	para "en el LÍDER, però"
+	line "sovint no hi és."
 	done
 
 ViridianCityGrampsNearGymBlueReturnedText:
-	text "Are you going to"
-	line "battle the LEADER?"
+	text "Lluites contra el"
+	line "LÍDER?"
 
-	para "Good luck to you."
-	line "You'll need it."
+	para "Bona sort."
+	line "La necessitaràs."
 	done
 
 ViridianCityDreamEaterFisherText:
-	text "Yawn!"
+	text "Badall!"
 
-	para "I must have dozed"
-	line "off in the sun."
+	para "Dec haver-me"
+	line "adormit al sol."
 
-	para "…I had this dream"
-	line "about a DROWZEE"
+	para "…He somiat que un"
+	line "DROWZEE es menjava"
 
-	para "eating my dream."
-	line "Weird, huh?"
+	para "el meu somni."
+	line "Estrany, oi?"
 
-	para "Huh?"
-	line "What's this?"
+	para "Eh?"
+	line "Què és això?"
 
-	para "Where did this TM"
-	line "come from?"
+	para "D'on ha sortit"
+	line "aquesta MT?"
 
-	para "This is spooky!"
-	line "Here, you can have"
-	cont "this TM."
+	para "Això fa por!"
+	line "Té, pots quedar-te"
+	cont "aquesta MT."
 	done
 
 ViridianCityDreamEaterFisherGotDreamEaterText:
-	text "TM42 contains"
+	text "La MT42 conté"
 	line "DREAM EATER…"
 
 	para "…Zzzzz…"
 	done
 
 ViridianCityYoungsterText:
-	text "I heard that there"
-	line "are many items on"
+	text "He sentit que hi"
+	line "ha molts objectes"
 
-	para "the ground in"
-	line "VIRIDIAN FOREST."
+	para "a terra al BOSC"
+	line "VIRIDIAN."
 	done
 
 ViridianCitySignText:
-	text "VIRIDIAN CITY"
+	text "CIUTAT VIRIDIAN"
 
-	para "The Eternally"
-	line "Green Paradise"
+	para "El Paradís"
+	line "Eternament Verd"
 	done
 
 ViridianGymSignText:
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
-	cont "LEADER: …"
+	text "CIUTAT VIRIDIAN"
+	line "GIMNÀS #MON"
+	cont "LÍDER: …"
 
-	para "The rest of the"
-	line "text is illegible…"
+	para "La resta del text"
+	line "és il·legible…"
 	done
 
 ViridianCityWelcomeSignText:
-	text "WELCOME TO"
-	line "VIRIDIAN CITY,"
+	text "BENVINGUT A"
+	line "CIUTAT VIRIDIAN,"
 
-	para "THE GATEWAY TO"
-	line "INDIGO PLATEAU"
+	para "LA PORTA A"
+	line "L'ALTIPLÀ ÍNDIC"
 	done
 
 TrainerHouseSignText:
-	text "TRAINER HOUSE"
+	text "CASA D'ENTRENADORS"
 
-	para "The Club for Top"
-	line "Trainer Battles"
+	para "El Club de Lluites"
+	line "dels Millors"
 	done
 
 ViridianCity_MapEvents:

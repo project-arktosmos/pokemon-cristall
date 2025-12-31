@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const LAKEOFRAGEHIDDENPOWERHOUSE_FISHER
 
 LakeOfRageHiddenPowerHouse_MapScripts:
@@ -31,38 +31,38 @@ HiddenPowerHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 HiddenPowerGuyText1:
-	text "…You have strayed"
-	line "far…"
+	text "…T'has allunyat"
+	line "molt…"
 
-	para "Here I have medi-"
-	line "tated. Inside me,"
+	para "He meditat aquí."
+	line "Dins meu, un nou"
 
-	para "a new power has"
-	line "been awakened."
+	para "poder s'ha"
+	line "despertat."
 
-	para "Let me share my"
-	line "power with your"
+	para "Deixa'm compartir"
+	line "el meu poder amb"
 
-	para "#MON."
-	line "Take this, child."
+	para "els teus #MON."
+	line "Pren això, nen."
 	done
 
 HiddenPowerGuyText2:
-	text "Do you see it? It"
-	line "is HIDDEN POWER!"
+	text "Ho veus? És"
+	line "HIDDEN POWER!"
 
-	para "It draws out the"
-	line "power of #MON"
-	cont "for attacking."
+	para "Extreu el poder"
+	line "dels #MON"
+	cont "per atacar."
 
-	para "Remember this: its"
-	line "type and power de-"
-	cont "pend on the #-"
-	cont "MON using it."
+	para "Recorda: el tipus"
+	line "i la força depenen"
+	cont "del #MON que"
+	cont "l'usa."
 	done
 
 HiddenPowerGuyText3:
-	text "I am meditating…"
+	text "Estic meditant…"
 	done
 
 LakeOfRageHiddenPowerHouse_MapEvents:

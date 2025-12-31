@@ -1,72 +1,72 @@
 DanaAskNumber1Text:
-	text "You're really good"
-	line "at #MON!"
+	text "Ets molt bo amb"
+	line "els #MON!"
 
-	para "Boys give me items"
-	line "after battles, but"
+	para "Els nois em donen"
+	line "coses després de"
 
-	para "sometimes they"
-	line "give me too much."
+	para "combatre, però a"
+	line "vegades em donen"
+	cont "massa."
 
-	para "Next time, I can"
-	line "share some if you"
+	para "El proper cop, te"
+	line "les puc compartir."
 
-	para "want. Let me get"
-	line "your phone number."
+	para "Dóna'm el teu"
+	line "número de telèfon."
 	done
 
 DanaAskNumber2Text:
-	text "I'll share my"
-	line "gifts with you."
+	text "Compartiré els"
+	line "regals amb tu."
 
-	para "Let me get your"
-	line "phone number."
+	para "Dóna'm el teu"
+	line "número de telèfon."
 	done
 
 DanaNumberAcceptedText:
-	text "Next time a boy"
-	line "gives me something"
+	text "El proper cop que"
+	line "un noi em doni"
 
-	para "after a battle,"
-	line "I'll share some!"
+	para "alguna cosa,"
+	line "la compartiré!"
 
-	para "Does that make me"
-	line "bad?"
+	para "Això em fa mala"
+	line "persona?"
 	done
 
 DanaNumberDeclinedText:
-	text "Aww, you don't"
-	line "want anything?"
+	text "Oh, no vols res?"
 
-	para "But it's all for"
-	line "free…"
+	para "Però és tot"
+	line "gratis…"
 	done
 
 DanaPhoneFullText:
-	text "But your phone's"
-	line "out of memory!"
+	text "El teu telèfon"
+	line "és ple!"
 	done
 
 DanaRematchText:
-	text "You're really"
-	line "late!"
+	text "Arribes molt"
+	line "tard!"
 
-	para "I'm eager to get"
-	line "going!"
+	para "Tinc moltes ganes"
+	line "de començar!"
 	done
 
 DanaGiftText:
-	text "Hi! Are you here"
-	line "for your gift?"
+	text "Ei! Has vingut a"
+	line "buscar el regal?"
 
-	para "This should really"
-	line "make your day!"
+	para "Segur que et farà"
+	line "molt feliç!"
 	done
 
 DanaPackFullText:
-	text "Where are you"
-	line "going to put this?"
+	text "On ho posaràs?"
 
-	para "I'll keep it, so"
-	line "come get it later!"
+	para "Me'l quedo, vine"
+	line "a buscar-lo més"
+	cont "tard!"
 	done

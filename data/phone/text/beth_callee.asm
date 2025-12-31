@@ -1,79 +1,75 @@
 BethAnswerPhoneText:
-	text "Hello, this is"
-	line "@"
+	text "Hola, soc la @"
 	text_ram wStringBuffer3
 	text "."
 
 	para "Oh, <PLAY_G>."
-	line "Good morning."
+	line "Bon dia."
 
 	para ""
 	done
 
 BethAnswerPhoneDayText:
-	text "Hello, this is"
-	line "@"
+	text "Hola, soc la @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Oh. Hi, <PLAY_G>."
+	para "Oh. Hola, <PLAY_G>."
 	done
 
 BethAnswerPhoneNiteText:
-	text "Hello, this is"
-	line "@"
+	text "Hola, soc la @"
 	text_ram wStringBuffer3
 	text "."
 
 	para "Oh, <PLAY_G>."
-	line "Good evening."
+	line "Bona nit."
 	done
 
 BethGreetText:
-	text "Good morning,"
+	text "Bon dia,"
 	line "<PLAY_G>!"
 
-	para "This is @"
+	para "Soc la @"
 	text_ram wStringBuffer3
 	text "."
-	line "Were you sleeping?"
+	line "Dormies?"
 	done
 
 BethGreetDayText:
-	text "<PLAY_G>, hi!"
-	line "This is @"
+	text "<PLAY_G>, hola!"
+	line "Soc la @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "Do you have some"
-	line "time?"
+	para "Tens una estona?"
 	done
 
 BethGreetNiteText:
-	text "Hi, <PLAY_G>."
-	line "Good evening."
+	text "Hola, <PLAY_G>."
+	line "Bona nit."
 
-	para "This is @"
+	para "Soc la @"
 	text_ram wStringBuffer3
 	text "."
 
-	para "I hope you were"
-	line "awake."
+	para "Espero que"
+	line "estiguis"
+	cont "despert."
 	done
 
 BethGenericText:
-	text "Are you the kind"
-	line "of person who goes"
+	text "Ets dels qui van"
+	line "sovint als CENTRES"
 
-	para "to #MON CENTERS"
-	line "often?"
+	para "#MON?"
 
-	para "I go every day."
-	line "Watching out for"
+	para "Jo hi vaig cada"
+	line "dia. Vigilar la"
 
-	para "the health of your"
-	line "#MON is a basic"
+	para "salut dels teus"
+	line "#MON és bàsic"
 
-	para "part of being a"
-	line "#MON trainer."
+	para "per a tot"
+	line "entrenador."
 	done

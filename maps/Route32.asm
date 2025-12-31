@@ -523,203 +523,203 @@ Movement_Route32CooltrainerMReset2:
 	step_end
 
 Route32CooltrainerMText_WhatsTheHurry:
-	text "Wait up!"
-	line "What's the hurry?"
+	text "Espera!"
+	line "On vas tan ràpid?"
 	done
 
 Route32CooltrainerMText_AideIsWaiting:
-	text "<PLAYER>, right?"
-	line "Some guy wearing"
+	text "<PLAYER>, oi?"
+	line "Un home amb"
 
-	para "glasses was look-"
-	line "ing for you."
+	para "ulleres et"
+	line "buscava."
 
-	para "See for yourself."
-	line "He's waiting for"
+	para "Comprova-ho tu."
+	line "T'espera al"
 
-	para "you at the #MON"
-	line "CENTER."
+	para "CENTRE #MON."
 	done
 
 Route32CooltrainerMText_UnusedSproutTower:
-	text "Have you gone to"
-	line "SPROUT TOWER?"
+	text "Has anat a la"
+	line "TORRE LLUERNA?"
 
-	para "If you ever visit"
-	line "VIOLET CITY, "
+	para "Si visites CIUTAT"
+	line "VIOLETA,"
 
-	para "they'll expect you"
-	line "to train there."
+	para "esperaran que"
+	line "hi entrenaris."
 
-	para "That's basic for"
-	line "trainers. Go to"
-	cont "SPROUT TOWER!"
+	para "És bàsic per als"
+	line "entrenadors. Ves"
+	cont "a TORRE LLUERNA!"
 	done
 
 Route32CooltrainerMText_VioletGym:
-	text "Have you gone to"
-	line "the #MON GYM?"
+	text "Has anat al"
+	line "GIMNÀS #MON?"
 
-	para "You can test your"
-	line "#MON and your-"
-	cont "self there."
+	para "Pots posar a"
+	line "prova els teus"
+	cont "#MON i a tu."
 
-	para "It's a rite of"
-	line "passage for all"
-	cont "trainers!"
+	para "És un ritu de"
+	line "pas per a tots"
+	cont "els entrenadors!"
 	done
 
 Route32CooltrainerMText_HaveThisSeed:
-	text "You have some good"
-	line "#MON there."
+	text "Tens uns #MON"
+	line "molt bons."
 
-	para "It must be from"
-	line "the training you"
+	para "Deu ser per"
+	line "l'entrenament"
 
-	para "gave them around"
-	line "VIOLET CITY."
+	para "que els has donat"
+	line "a CIUTAT VIOLETA."
 
-	para "The training at"
-	line "the GYM must have"
+	para "L'entrenament al"
+	line "GIMNÀS deu haver"
 
-	para "been especially"
-	line "helpful."
+	para "estat molt útil."
 
-	para "As a souvenir of"
-	line "VIOLET CITY, take"
-	cont "this."
+	para "Com a record de"
+	line "CIUTAT VIOLETA,"
+	cont "pren això."
 
-	para "It increases the"
-	line "power of grass-"
-	cont "type moves."
+	para "Augmenta la força"
+	line "dels moviments de"
+	cont "tipus planta."
 	done
 
 Route32CooltrainerMText_ExperiencesShouldBeUseful:
-	text "Your experiences"
-	line "in VIOLET CITY"
+	text "Les experiències"
+	line "a CIUTAT VIOLETA"
 
-	para "should be useful"
-	line "for your journey."
+	para "et seran útils"
+	line "pel teu viatge."
 	done
 
 Text_MillionDollarSlowpokeTail:
-	text "How would you like"
-	line "to have this"
+	text "Vols tenir aquesta"
+	line "saborosa i"
 
-	para "tasty, nutritious"
-	line "SLOWPOKETAIL?"
+	para "nutritiva CUA DE"
+	line "SLOWPOKE?"
 
-	para "For you right now,"
-	line "just ¥1,000,000!"
+	para "Ara mateix per a"
+	line "tu, 1.000.000 ¥!"
 
-	para "You'll want this!"
+	para "La voldràs!"
 	done
 
 Text_ThoughtKidsWereLoaded:
-	text "Tch! I thought"
-	line "kids these days"
-	cont "were loaded…"
+	text "Ecs! Pensava que"
+	line "els nens d'avui"
+	cont "anaven carregats…"
 	done
 
 Text_RefusedToBuySlowpokeTail:
-	text "You don't want it?"
-	line "Then scram. Shoo!"
+	text "No la vols?"
+	line "Doncs fora! Xo!"
 	done
 
 FisherJustinSeenText:
-	text "Whoa!"
+	text "Ep!"
 
-	para "You made me lose"
-	line "that fish!"
+	para "M'has fet perdre"
+	line "aquell peix!"
 	done
 
 FisherJustinBeatenText:
-	text "Sploosh!"
+	text "Xof!"
 	done
 
 FisherJustinAfterText:
-	text "Calm, collected…"
-	line "The essence of"
+	text "Calma, serenitat…"
+	line "L'essència de la"
 
-	para "fishing and #-"
-	line "MON is the same."
+	para "pesca i els"
+	line "#MON"
+	cont "és la mateixa."
 	done
 
 FisherRalph1SeenText:
-	text "I'm really good at"
-	line "both fishing and"
+	text "Sóc molt bo tant"
+	line "en pesca com en"
 	cont "#MON."
 
-	para "I'm not about to"
-	line "lose to any kid!"
+	para "No penso perdre"
+	line "contra cap nen!"
 	done
 
 FisherRalph1BeatenText:
-	text "Tch! I tried to"
-	line "rush things…"
+	text "Ecs! He intentat"
+	line "anar massa ràpid…"
 	done
 
 FisherRalphAfterText:
-	text "Fishing is a life-"
-	line "long passion."
+	text "La pesca és una"
+	line "passió de tota"
+	cont "la vida."
 
-	para "#MON are life-"
-	line "long friends!"
+	para "Els #MON són"
+	line "amics per sempre!"
 	done
 
 FisherRalphSwarmText:
-	text "One, two, three…"
-	line "Muahahaha, what a"
+	text "Un, dos, tres…"
+	line "Muahahaha, quina"
 
-	para "great haul!"
-	line "I'm done! Go ahead"
+	para "bona pesca!"
+	line "Ja he acabat!"
 
-	para "and catch as many"
-	line "as you can, kid!"
+	para "Atrapa'n tots els"
+	line "que puguis, nen!"
 	done
 
 Route32UnusedFisher1SeenText: ; unreferenced
-	text "I keep catching"
-	line "the same #MON…"
+	text "Sempre atrapo el"
+	line "mateix #MON…"
 
-	para "Maybe a battle"
-	line "will turn things"
-	cont "around for me."
+	para "Potser un combat"
+	line "em canviarà la"
+	cont "sort."
 	done
 
 Route32UnusedFisher1BeatenText: ; unreferenced
-	text "Nothing ever goes"
-	line "right for me now…"
+	text "Res no em surt bé"
+	line "ara mateix…"
 	done
 
 Route32UnusedFisher1AfterText: ; unreferenced
-	text "How come the guy"
-	line "next to me catches"
-	cont "good #MON?"
+	text "Com és que el noi"
+	line "del costat atrapa"
+	cont "bons #MON?"
 	done
 
 Route32UnusedFisher2SeenText: ; unreferenced
-	text "Heh, I'm on a roll"
-	line "today. How about a"
-	cont "battle, kid?"
+	text "Avui tinc ratxa."
+	line "Què tal un combat,"
+	cont "nen?"
 	done
 
 Route32UnusedFisher2BeatenText: ; unreferenced
-	text "Oof. I wasn't"
-	line "lucky that time."
+	text "Uf. Aquesta vegada"
+	line "no he tingut sort."
 	done
 
 Route32UnusedFisher2AfterText: ; unreferenced
-	text "You have to have a"
-	line "good ROD if you"
+	text "Has de tenir una"
+	line "bona CANYA si"
 
-	para "want to catch good"
+	para "vols atrapar bons"
 	line "#MON."
 	done
 
 FisherHenrySeenText:
-	text "My #MON?"
-	line "Freshly caught!"
+	text "Els meus #MON?"
+	line "Recent pescats!"
 	done
 
 FisherHenryBeatenText:
@@ -727,197 +727,203 @@ FisherHenryBeatenText:
 	done
 
 FisherHenryAfterText:
-	text "Freshly caught"
-	line "#MON are no"
+	text "Els #MON recent"
+	line "pescats no són"
 
-	para "match for properly"
-	line "raised ones."
+	para "rivals per als"
+	line "ben entrenats."
 	done
 
 YoungsterAlbertSeenText:
-	text "I haven't seen you"
-	line "around before."
+	text "No t'he vist mai"
+	line "per aquí."
 
-	para "So you think you"
-	line "are pretty tough?"
+	para "Et penses que ets"
+	line "molt dur?"
 	done
 
 YoungsterAlbertBeatenText:
-	text "You're strong!"
+	text "Ets fort!"
 	done
 
 YoungsterAlbertAfterText:
-	text "I'm going to try"
-	line "to be the best"
-	cont "with my favorites."
+	text "Intentaré ser el"
+	line "millor amb els"
+	cont "meus preferits."
 
-	para "I'm not using the"
-	line "same tough #MON"
-	cont "as everyone else."
+	para "No faré servir"
+	line "els mateixos"
+	cont "#MON"
+	cont "forts que tothom."
 	done
 
 YoungsterGordonSeenText:
-	text "I found some good"
-	line "#MON in the"
-	cont "grass!"
+	text "He trobat uns"
+	line "bons #MON a"
+	cont "l'herba!"
 
-	para "I think they'll do"
-	line "it for me!"
+	para "Crec que em"
+	line "serviran!"
 	done
 
 YoungsterGordonBeatenText:
-	text "Darn. I thought I"
-	line "could win."
+	text "Llàstima. Pensava"
+	line "que podia guanyar."
 	done
 
 YoungsterGordonAfterText:
-	text "The grass is full"
-	line "of clingy things."
+	text "L'herba és plena"
+	line "de coses enganxo-"
+	cont "ses."
 	done
 
 CamperRolandSeenText:
-	text "That glance…"
-	line "It's intriguing."
+	text "Aquesta mirada…"
+	line "És intrigant."
 	done
 
 CamperRolandBeatenText:
-	text "Hmmm. This is"
-	line "disappointing."
+	text "Hmmm. Això és"
+	line "decebedor."
 	done
 
 CamperRolandAfterText:
-	text "If you don't want"
-	line "to battle, just"
-	cont "avoid eye contact."
+	text "Si no vols"
+	line "combatre, evita"
+	cont "el contacte"
+	cont "visual."
 	done
 
 PicnickerLiz1SeenText:
-	text "Uh-huh. Yeah, and"
-	line "you know…"
+	text "Sí, sí. I ja"
+	line "saps…"
 
-	para "Pardon? Battle?"
-	line "I'm on the phone."
+	para "Perdona? Combat?"
+	line "Estic al telèfon."
 
-	para "Oh, all right. But"
-	line "make it fast."
+	para "Bé, d'acord. Però"
+	line "fes-ho ràpid."
 	done
 
 PicnickerLiz1BeatenText:
-	text "Oh! I've got to"
-	line "relieve my anger!"
+	text "Oh! He de desfogar"
+	line "la meva ràbia!"
 	done
 
 PicnickerLiz1AfterText:
-	text "I was having a"
-	line "nice chat too."
+	text "Estava tenint una"
+	line "bona xerrada."
 	done
 
 BirdKeeperPeterSeenText:
-	text "That BADGE! It's"
-	line "from VIOLET CITY!"
+	text "Aquesta INSÍGNIA!"
+	line "És de C. VIOLETA!"
 
-	para "You beat FALKNER?"
+	para "Has guanyat en"
+	line "FALKNER?"
 	done
 
 BirdKeeperPeterBeatenText:
-	text "I know what my"
-	line "weaknesses are."
+	text "Sé quines són"
+	line "les meves"
+	cont "febleses."
 	done
 
 BirdKeeperPeterAfterText:
-	text "I should train"
-	line "again at the GYM"
-	cont "in VIOLET CITY."
+	text "Hauria d'entrenar"
+	line "de nou al GIMNÀS"
+	cont "de C. VIOLETA."
 	done
 
 Route32UnusedText: ; unreferenced
-	text "The fishermen"
-	line "yelled at me for"
-	cont "bugging them…"
+	text "Els pescadors"
+	line "m'han cridat per"
+	cont "molestar-los…"
 	done
 
 Text_RoarIntro:
-	text "WROOOOAR!"
-	line "PEOPLE RUN WHEN I"
+	text "GRUUUUU!"
+	line "LA GENT FUIG QUAN"
 
-	para "ROAR! BUT YOU"
-	line "CAME LOOKING!"
+	para "BRAMO! PERÒ TU"
+	line "HAS VINGUT!"
 
-	para "THAT PLEASES ME!"
-	line "NOW TAKE THIS!"
+	para "AIXÒ EM COMPLAU!"
+	line "ARA PREN AIXÒ!"
 	done
 
 Text_RoarOutro:
-	text "WROOOAR!"
-	line "IT'S ROAR!"
+	text "GRUUUUU!"
+	line "ÉS ROAR!"
 
-	para "EVEN #MON RUN"
-	line "FROM A GOOD ROAR!"
+	para "FINS ELS #MON"
+	line "FUGEN D'UN BRAMUL!"
 	done
 
 MeetFriedaText:
-	text "FRIEDA: Yahoo!"
-	line "It's Friday!"
+	text "FRIEDA: Visca!"
+	line "És divendres!"
 
-	para "I'm FRIEDA of"
-	line "Friday!"
+	para "Sóc la FRIEDA"
+	line "del divendres!"
 
-	para "Nice to meet you!"
+	para "Encantat de"
+	line "conèixer-te!"
 	done
 
 FriedaGivesGiftText:
-	text "Here's a POISON"
-	line "BARB for you!"
+	text "Aquí tens una PUA"
+	line "VERINOSA per a tu!"
 	done
 
 FriedaGaveGiftText:
-	text "FRIEDA: Give it to"
-	line "a #MON that has"
-	cont "poison-type moves."
+	text "FRIEDA: Dóna-la a"
+	line "un #MON amb"
+	cont "moviments verí."
 
 	para "Oh!"
 
-	para "It's wicked!"
+	para "És genial!"
 
-	para "You'll be shocked"
-	line "how good it makes"
-	cont "poison moves!"
+	para "Et sorprendrà com"
+	line "millora els"
+	cont "atacs de verí!"
 	done
 
 FriedaFridayText:
-	text "FRIEDA: Hiya! What"
-	line "day do you like?"
+	text "FRIEDA: Ei! Quin"
+	line "dia t'agrada?"
 
-	para "I love Friday. No"
-	line "doubt about it!"
+	para "M'encanta el"
+	line "divendres. Segur!"
 
-	para "Don't you think"
-	line "it's great too?"
+	para "No trobes que"
+	line "és genial?"
 	done
 
 FriedaNotFridayText:
-	text "FRIEDA: Isn't it"
-	line "Friday today?"
+	text "FRIEDA: Avui no"
+	line "és divendres?"
 
-	para "It's so boring"
-	line "when it's not!"
+	para "És tan avorrit"
+	line "quan no ho és!"
 	done
 
 Route32SignText:
-	text "ROUTE 32"
+	text "RUTA 32"
 
-	para "VIOLET CITY -"
-	line "AZALEA TOWN"
+	para "CIUTAT VIOLETA -"
+	line "POBLE AZALEA"
 	done
 
 Route32RuinsSignText:
-	text "RUINS OF ALPH"
-	line "EAST ENTRANCE"
+	text "RUÏNES D'ALPH"
+	line "ENTRADA EST"
 	done
 
 Route32UnionCaveSignText:
-	text "UNION CAVE"
-	line "AHEAD"
+	text "COVA UNIÓ"
+	line "ENDAVANT"
 	done
 
 Route32_MapEvents:

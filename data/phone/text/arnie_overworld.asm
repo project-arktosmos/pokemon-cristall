@@ -1,59 +1,59 @@
 ArnieAskNumber1Text:
-	text "Do you get the"
-	line "feeling that there"
+	text "No tens la"
+	line "sensació que ara"
 
-	para "are more rare"
-	line "#MON around?"
+	para "hi ha més #MON"
+	line "rars per aquí?"
 
-	para "I'm positive there"
-	line "are, so I look all"
-	cont "the time."
+	para "Estic convençut"
+	line "que sí, així que"
+	cont "sempre en busco."
 
-	para "If I find one, I"
-	line "want to share the"
+	para "Si en trobo un,"
+	line "vull compartir la"
 
-	para "good news with"
-	line "everyone I know."
+	para "bona nova amb"
+	line "tots els coneguts."
 
-	para "I know! Give me"
-	line "your phone number."
+	para "Ja ho sé! Dona'm"
+	line "el teu telèfon."
 	done
 
 ArnieAskNumber2Text:
-	text "I want to let"
-	line "people know if I"
-	cont "see rare #MON."
+	text "Vull avisar la"
+	line "gent si veig"
+	cont "#MON rars."
 
-	para "Please give me"
-	line "your phone number!"
+	para "Si us plau,"
+	line "dona'm el número!"
 	done
 
 ArnieNumberAcceptedText:
-	text "If I spot any"
-	line "awesome #MON,"
+	text "Si veig algun"
+	line "#MON increïble,"
 
-	para "I'll be sure to"
-	line "give you a call!"
+	para "segur que et"
+	line "trucaré!"
 	done
 
 ArnieNumberDeclinedText:
-	text "Aww! I want to"
-	line "tell someone about"
-	cont "my discoveries!"
+	text "Oh! Vull explicar"
+	line "a algú els meus"
+	cont "descobriments!"
 	done
 
 ArniePhoneFullText:
-	text "There's no space"
-	line "for my number."
+	text "No hi ha espai"
+	line "pel meu número."
 
-	para "If you make room,"
-	line "register me!"
+	para "Si en fas, afegeix"
+	line "el meu número!"
 	done
 
 ArnieRematchText:
-	text "It's my turn to"
-	line "win now!"
+	text "Ara em toca"
+	line "guanyar a mi!"
 
-	para "I've turned over a"
-	line "new leaf!"
+	para "He canviat del"
+	line "tot!"
 	done

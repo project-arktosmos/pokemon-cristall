@@ -148,215 +148,223 @@ AzaleaGymStatue:
 	jumpstd GymStatue2Script
 
 BugsyText_INeverLose:
-	text "I'm BUGSY!"
-	line "I never lose when"
+	text "Sóc en BUGSY!"
+	line "Mai no perdo quan"
 
-	para "it comes to bug"
-	line "#MON."
+	para "es tracta de #-"
+	line "MON insecte."
 
-	para "My research is"
-	line "going to make me"
+	para "La meva recerca"
+	line "em convertirà en"
 
-	para "the authority on"
-	line "bug #MON!"
+	para "l'autoritat dels"
+	line "#MON insecte!"
 
-	para "Let me demonstrate"
-	line "what I've learned"
-	cont "from my studies."
+	para "Deixa'm mostrar-te"
+	line "què he après dels"
+	cont "meus estudis."
 	done
 
 BugsyText_ResearchIncomplete:
-	text "Whoa, amazing!"
-	line "You're an expert"
-	cont "on #MON!"
+	text "Uau, increïble!"
+	line "Ets un expert en"
+	cont "#MON!"
 
-	para "My research isn't"
-	line "complete yet."
+	para "La meva recerca"
+	line "no és completa."
 
-	para "OK, you win. Take"
-	line "this BADGE."
+	para "D'acord, guanyes."
+	line "Pren la MEDALLA."
 	done
 
 Text_ReceivedHiveBadge:
-	text "<PLAYER> received"
-	line "HIVEBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLARUSC."
 	done
 
 BugsyText_HiveBadgeSpeech:
-	text "Do you know the"
-	line "benefits of HIVE-"
-	cont "BADGE?"
+	text "Coneixes els"
+	line "beneficis de la"
+	cont "MEDALLARUSC?"
 
-	para "If you have it,"
-	line "#MON up to L30"
+	para "Si la tens, els"
+	line "#MON fins a"
 
-	para "will obey you,"
-	line "even traded ones."
+	para "N30 t'obeiran,"
+	line "fins i tot els"
+	cont "intercanviats."
 
-	para "#MON that know"
-	line "CUT will be able"
+	para "Els #MON que"
+	line "saben CUT podran"
 
-	para "to use it outside"
-	line "of battle too."
+	para "usar-lo fora de"
+	line "combat també."
 
-	para "Here, I also want"
-	line "you to have this."
+	para "Mira, també vull"
+	line "que tinguis això."
 	done
 
 BugsyText_FuryCutterSpeech:
-	text "TM49 contains"
+	text "La MT49 conté"
 	line "FURY CUTTER."
 
-	para "If you don't miss,"
-	line "it gets stronger"
-	cont "every turn."
+	para "Si no falles, es"
+	line "fa més fort a"
+	cont "cada torn."
 
-	para "The longer your"
-	line "battle goes, the"
-	cont "better it gets."
+	para "Com més dura la"
+	line "batalla, millor"
+	cont "es torna."
 
-	para "Isn't that great?"
-	line "I discovered it!"
+	para "No és genial?"
+	line "Jo el vaig trobar!"
 	done
 
 BugsyText_BugMonsAreDeep:
-	text "Bug #MON are"
-	line "deep. There are"
+	text "Els #MON"
+	line "insecte són molt"
 
-	para "many mysteries to"
-	line "be explored."
+	para "complexos. Hi ha"
+	line "molts misteris."
 
-	para "Study your favor-"
-	line "ites thoroughly."
+	para "Estudia bé els"
+	line "teus preferits."
 	done
 
 BugCatcherBennySeenText:
-	text "Bug #MON evolve"
-	line "young. So they get"
+	text "Els #MON"
+	line "insecte evolucio-"
 
-	para "stronger that much"
-	line "faster."
+	para "nen joves. Així es"
+	line "fan forts abans."
 	done
 
 BugCatcherBennyBeatenText:
-	text "Just evolving"
-	line "isn't enough!"
+	text "Evolucionar no"
+	line "n'hi ha prou!"
 	done
 
 BugCatcherBennyAfterBattleText:
-	text "#MON become"
-	line "stronger if they"
-	cont "evolve. Really!"
+	text "Els #MON es fan"
+	line "més forts si"
+	cont "evolucionen. Sí!"
 	done
 
 BugCatcherAlSeenText:
-	text "Bug #MON are"
-	line "cool and tough!"
+	text "Els #MON"
+	line "insecte són"
 
-	para "I'll prove it to"
-	line "you!"
+	para "genials i forts!"
+	line "T'ho provaré!"
 	done
 
 BugCatcherAlBeatenText:
-	text "You proved how"
-	line "tough you are…"
+	text "Has provat que"
+	line "ets fort…"
 	done
 
 BugCatcherAlAfterBattleText:
-	text "They're so cool,"
-	line "but most girls"
+	text "Són tan genials,"
+	line "però a la majoria"
 
-	para "don't like bug"
-	line "#MON."
+	para "de noies no els"
+	line "agraden."
 
-	para "I don't know why…"
+	para "No sé per què…"
 	done
 
 BugCatcherJoshSeenText:
-	text "You saved all the"
-	line "SLOWPOKE? Whew,"
-	cont "you're mighty!"
+	text "Has salvat tots"
+	line "els SLOWPOKE?"
 
-	para "But my grown-up"
-	line "#MON are pretty"
-	cont "tough too!"
+	para "Caram, ets fort!"
+	line "Però els meus"
+	cont "#-"
+
+	para "MON adults també"
+	line "són durs!"
 	done
 
 BugCatcherJoshBeatenText:
-	text "Urrgggh!"
+	text "Arrrgh!"
 	done
 
 BugCatcherJoshAfterBattleText:
-	text "I guess I should"
-	line "teach them better"
-	cont "moves…"
+	text "Suposo que els"
+	line "hauria d'ensenyar"
+	cont "millors moviments…"
 	done
 
 TwinsAmyandmay1SeenText:
-	text "AMY: Hi! Are you"
-	line "challenging the"
-	cont "LEADER? No way!"
+	text "AMY: Hola! Vols"
+	line "desafiar el LÍDER?"
+	cont "De cap manera!"
 	done
 
 TwinsAmyandmay1BeatenText:
-	text "AMY & MAY: Oh,"
-	line "double goodness!"
+	text "AMY i MAY: Oh,"
+	line "doble decepció!"
 	done
 
 TwinsAmyandmay1AfterBattleText:
-	text "AMY: You're"
-	line "really strong!"
+	text "AMY: Ets molt"
+	line "fort!"
 	done
 
 TwinsAmyandmay2SeenText:
-	text "MAY: You want to"
-	line "see the LEADER?"
-	cont "We come first!"
+	text "MAY: Vols veure"
+	line "el LÍDER? Primer"
+	cont "nosaltres!"
 	done
 
 TwinsAmyandmay2BeatenText:
-	text "AMY & MAY: Oh,"
-	line "double goodness!"
+	text "AMY i MAY: Oh,"
+	line "doble decepció!"
 	done
 
 TwinsAmyandmay2AfterBattleText:
-	text "MAY: Our bug #-"
-	line "MON lost! Oh, what"
-	cont "a shame."
+	text "MAY: Els nostres"
+	line "#MON insecte"
+
+	para "han perdut! Quina"
+	line "llàstima."
 	done
 
 AzaleaGymGuideText:
-	text "Yo, challenger!"
+	text "Ei, aspirant!"
 
-	para "BUGSY's young, but"
-	line "his knowledge of"
+	para "En BUGSY és jove,"
+	line "però el seu"
 
-	para "bug #MON is for"
-	line "real."
+	para "coneixement dels"
+	line "#MON insecte"
+	cont "és autèntic."
 
-	para "It's going to be"
-	line "tough without my"
-	cont "advice."
+	para "Serà difícil"
+	line "sense el meu"
+	cont "consell."
 
-	para "Let's see… Bug"
-	line "#MON don't like"
-	cont "fire."
+	para "A veure… als #-"
+	line "MON insecte no"
+	cont "els agrada el foc."
 
-	para "Flying-type moves"
-	line "are super-effec-"
-	cont "tive too."
+	para "Els moviments de"
+	line "tipus volador"
+	cont "també són"
+	cont "eficaços."
 	done
 
 AzaleaGymGuideWinText:
-	text "Well done! That"
-	line "was a great clash"
+	text "Ben fet! Ha estat"
+	line "un gran combat"
 
-	para "of talented young"
-	line "trainers."
+	para "entre entrenadors"
+	line "joves amb talent."
 
-	para "With people like"
-	line "you, the future of"
-	cont "#MON is bright!"
+	para "Amb gent com tu,"
+	line "el futur dels"
+	cont "#MON és"
+	cont "brillant!"
 	done
 
 AzaleaGym_MapEvents:

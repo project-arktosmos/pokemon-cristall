@@ -223,216 +223,213 @@ Route35NationalParkGatePlayerEnterParkMovement:
 	step_end
 
 Route35NationalParkGateOfficer1AskToParticipateText:
-	text "Today's @"
+	text "Avui és @"
 	text_ram wStringBuffer3
 	text "."
-	line "That means the"
+	line "Això vol dir que"
 
-	para "Bug-Catching Con-"
-	line "test is on today."
+	para "hi ha el Concurs"
+	line "de Caça d'Insectes"
 
-	para "The rules are sim-"
-	line "ple."
+	para "Les normes són"
+	line "senzilles."
 
-	para "Using one of your"
-	line "#MON, catch a"
+	para "Amb un dels teus"
+	line "#MON, captura"
 
-	para "bug #MON to be"
-	line "judged."
+	para "un #MON insecte"
+	line "per ser jutjat."
 
-	para "Would you like to"
-	line "give it a try?"
+	para "T'agradaria"
+	line "provar-ho?"
 	done
 
 Route35NationalParkGateOfficer1GiveParkBallsText:
-	text "Here are the PARK"
-	line "BALLS for the"
-	cont "Contest."
+	text "Aquí tens les"
+	line "PARK BALLS pel"
+	cont "Concurs."
 	done
 
 Route35NationalParkGatePlayerReceivedParkBallsText:
-	text "<PLAYER> received"
+	text "<PLAYER> ha rebut"
 	line "{d:BUG_CONTEST_BALLS} PARK BALLS."
 	done
 
 Route35NationalParkGateOfficer1ExplainsRulesText:
-	text "The person who"
-	line "gets the strong-"
-	cont "est bug #MON"
-	cont "is the winner."
+	text "La persona que"
+	line "atrapi l'insecte"
+	cont "#MON més fort"
+	cont "és el guanyador."
 
-	para "You have {d:BUG_CONTEST_MINUTES}"
-	line "minutes."
+	para "Tens {d:BUG_CONTEST_MINUTES}"
+	line "minuts."
 
-	para "If you run out of"
-	line "PARK BALLS, you're"
-	cont "done."
+	para "Si et quedes sense"
+	line "PARK BALLS, s'ha"
+	cont "acabat."
 
-	para "You can keep the"
-	line "last #MON you"
-	cont "catch as your own."
+	para "Pots quedar-te"
+	line "l'últim #MON"
+	cont "que atrapis."
 
-	para "Go out and catch"
-	line "the strongest bug"
+	para "Surt i atrapa"
+	line "l'insecte #MON"
 
-	para "#MON you can"
-	line "find!"
+	para "més fort que"
+	line "puguis trobar!"
 	done
 
 Route35NationalParkGateOfficer1AskToUseFirstMonText:
-	text "Uh-oh…"
+	text "Oh…"
 
-	para "You have more than"
-	line "one #MON."
+	para "Tens més d'un"
+	line "#MON."
 
-	para "You'll have to use"
+	para "Hauràs d'usar"
 	line "@"
 	text_ram wStringBuffer3
-	text ", the"
+	text ", el"
 
-	para "first #MON in"
-	line "your party."
+	para "primer #MON del"
+	line "teu equip."
 
-	para "Is that OK with"
-	line "you?"
+	para "Et sembla bé?"
 	done
 
 Route35NationalParkGateOfficer1WellHoldYourMonText:
-	text "Fine, we'll hold"
-	line "your other #MON"
-	cont "while you compete."
+	text "Bé, guardarem els"
+	line "altres #MON"
+	cont "mentre competeixis"
 	done
 
 Route35NationalParkGatePlayersMonLeftWithHelperText:
-	text "<PLAYER>'s #MON"
-	line "were left with the"
-	cont "CONTEST HELPER."
+	text "Els #MON de"
+	line "<PLAYER> es queden"
+	cont "amb l'AJUDANT."
 	done
 
 Route35NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Please choose the"
-	line "#MON to be used"
+	text "Tria el #MON"
+	line "que vulguis usar"
 
-	para "in the Contest,"
-	line "then come see me."
+	para "al Concurs, i"
+	line "després vine a mi."
 	done
 
 Route35NationalParkGateOfficer1TakePartInFutureText:
-	text "OK. We hope you'll"
-	line "take part in the"
-	cont "future."
+	text "D'acord. Esperem"
+	line "que hi participis"
+	cont "en el futur."
 	done
 
 Route35NationalParkGateOfficer1FirstMonCantBattleText:
-	text "Uh-oh…"
-	line "The first #MON"
+	text "Oh…"
+	line "El primer #MON"
 
-	para "in your party"
-	line "can't battle."
+	para "del teu equip"
+	line "no pot lluitar."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Canvia'l pel"
+	line "#MON que"
 
-	para "you want to use,"
-	line "then come see me."
+	para "vulguis usar, i"
+	line "després vine a mi."
 	done
 
 Route35NationalParkGateOfficer1MakeRoomText:
-	text "Uh-oh…"
-	line "Both your party"
+	text "Oh…"
+	line "El teu equip i"
 
-	para "and your PC BOX"
-	line "are full."
+	para "la teva CAIXA PC"
+	line "són plens."
 
-	para "You have no room"
-	line "to put the bug"
-	cont "#MON you catch."
+	para "No tens lloc per"
+	line "posar l'insecte"
+	cont "#MON capturat."
 
-	para "Please make room"
-	line "in your party or"
+	para "Fes lloc a l'equip"
+	line "o a la CAIXA PC,"
 
-	para "your PC BOX, then"
-	line "come see me."
+	para "i després vine"
+	line "a veure'm."
 	done
 
 Route35NationalParkGateOfficer1EggAsFirstMonText:
-	text "Uh-oh…"
-	line "You have an EGG as"
+	text "Oh…"
+	line "Tens un OU com"
 
-	para "the first #MON"
-	line "in your party."
+	para "a primer #MON"
+	line "del teu equip."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Canvia'l pel"
+	line "#MON que"
 
-	para "you want to use,"
-	line "then come see me."
+	para "vulguis usar, i"
+	line "després vine a mi."
 	done
 
 Route35NationalParkGateOfficer1WantToFinishText:
-	text "You still have @"
+	text "Encara tens @"
 	text_ram wStringBuffer3
 	text_start
-	line "minute(s) left."
+	line "minut(s)."
 
-	para "Do you want to"
-	line "finish now?"
+	para "Vols acabar ara?"
 	done
 
 Route35NationalParkGateOfficer1WaitAtNorthGateText:
-	text "OK. Please wait at"
-	line "the North Gate for"
+	text "Bé. Espera a la"
+	line "Porta Nord per"
 
-	para "the announcement"
-	line "of the winners."
+	para "l'anunci dels"
+	line "guanyadors."
 	done
 
 Route35NationalParkGateOfficer1OkGoFinishText:
-	text "OK. Please get"
-	line "back outside and"
-	cont "finish up."
+	text "Bé. Torna a fora"
+	line "i acaba."
 	done
 
 Route35NationalParkGateOfficer1ContestIsOverText:
-	text "Today's Contest is"
-	line "over. We hope you"
+	text "El Concurs d'avui"
+	line "s'ha acabat."
 
-	para "will participate"
-	line "in the future."
+	para "Esperem que hi"
+	line "participis aviat."
 	done
 
 Route35NationalParkGateOfficer1WeHoldContestsText:
-	text "We hold Contests"
-	line "regularly in the"
+	text "Fem Concursos"
+	line "regularment al"
 
-	para "PARK. You should"
-	line "give it a shot."
+	para "PARC. Hauries de"
+	line "provar-ho."
 	done
 
 Route35NationalParkGateYoungsterText:
-	text "When is the next"
-	line "Bug-Catching Con-"
-	cont "test going to be?"
+	text "Quan serà el"
+	line "proper Concurs de"
+	cont "Caça d'Insectes?"
 	done
 
 BugCatchingContestExplanationText:
-	text "The Bug-Catching"
-	line "Contest is held on"
+	text "El Concurs de Caça"
+	line "d'Insectes es fa"
 
-	para "Tuesday, Thursday"
-	line "and Saturday."
+	para "dimarts, dijous"
+	line "i dissabte."
 
-	para "Not only do you"
-	line "earn a prize just"
+	para "No només guanyes"
+	line "un premi per"
 
-	para "for participating,"
-	line "you also get to"
+	para "participar, també"
+	line "et quedes amb"
 
-	para "keep the bug"
-	line "#MON you may"
+	para "l'insecte #MON"
+	line "que tinguis al"
 
-	para "have at the end of"
-	line "the contest."
+	para "final del"
+	line "concurs."
 	done
 
 Route35NationalParkGate_MapEvents:

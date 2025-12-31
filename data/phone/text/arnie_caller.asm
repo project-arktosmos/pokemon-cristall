@@ -1,106 +1,104 @@
 ArnieMonIsSoCuteText:
-	text "I'm always with my"
-	line "@"
+	text "Sempre soc amb el"
+	line "meu @"
 	text_ram wStringBuffer4
 	text "!"
 
-	para "It's so cute!"
-	line "I just love it!"
+	para "És tan bonic!"
+	line "M'encanta!"
 	done
 
 ArnieDefeatedMonText:
-	text "Changing the topic"
-	line "here, I saw this"
+	text "Canviant de tema,"
+	line "vaig veure un"
 
 	para "@"
 	text_ram wStringBuffer4
-	text " for the"
-	line "first time."
+	text " per"
+	line "primera vegada."
 
-	para "It was easy to"
-	line "beat, actually."
+	para "Va ser fàcil de"
+	line "vèncer, la"
+	cont "veritat."
 	done
 
 ArnieLostAMonText:
-	text "I was wondering,"
-	line "do you happen to"
-	cont "have @"
+	text "Em preguntava si"
+	line "tens cap"
+	cont "@"
 	text_ram wStringBuffer4
-	text "?"
+	text "."
 
-	para "I can't seem to"
-	line "catch one. What is"
+	para "No aconsegueixo"
+	line "capturar-ne cap."
 
-	para "its weakness, I"
-	line "wonder."
+	para "Quin deu ser el"
+	line "seu punt feble?"
 	done
 
 ArnieBattleRematchText:
-	text "Hey, let's battle"
-	line "our #MON!"
+	text "Ei, lluitem amb"
+	line "els #MON!"
 
-	para "I won't lose to"
-	line "you battling or in"
+	para "No et guanyaré ni"
+	line "en combat ni al"
 
-	para "the Bug-Catching"
-	line "Contest!"
+	para "Concurs de Captura"
+	line "de Bestioles!"
 
-	para "I'll be here on"
+	para "Seré a la"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 ArnieHangUpText:
-	text "Let's talk again,"
-	line "huh?"
+	text "Ja tornarem a"
+	line "parlar, oi?"
 	done
 
 ArnieSwarmText:
-	text "Boy, am I glad I"
-	line "caught you!"
+	text "Que content que"
+	line "t'he trobat!"
 
-	para "A whole bunch of"
-	line "@"
+	para "Ha aparegut un"
+	line "munt de @"
 	text_ram wStringBuffer4
-	text " have"
+	text ""
 
-	para "appeared around"
+	para "a la vora de"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 
-	para "You have to see"
-	line "this!"
+	para "Ho has de veure!"
 	done
 
 ArnieHaventSeenRareMonText:
-	text "I haven't had any"
-	line "luck seeing rare"
-	cont "#MON lately…"
+	text "No he tingut sort"
+	line "veient #MON"
+	cont "rars últimament…"
 
-	para "But I know they're"
-	line "out there!"
+	para "Però sé que n'hi"
+	line "ha per aquí!"
 	done
 
 ArnieReminderText:
-	text "Hey, where are you"
-	line "now?"
+	text "Ei, on ets ara?"
 
-	para "Let's battle. I'll"
-	line "be waiting for you"
-	cont "on @"
+	para "Lluitem! T'espero"
+	line "a la"
+	cont "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 ArnieHurryText:
-	text "Hello? Are you"
-	line "coming or what?"
+	text "Hola? Véns o què?"
 
-	para "You're missing out"
-	line "on seeing YANMA!"
+	para "Et perds l'ocasió"
+	line "de veure YANMA!"
 
-	para "Get down to ROUTE"
-	line "35 right now!"
+	para "Vine a la RUTA 35"
+	line "ara mateix!"
 	done

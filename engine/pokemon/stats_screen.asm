@@ -706,20 +706,20 @@ LoadPinkPage:
 	ret
 
 .Status_Type:
-	db   "STATUS/"
-	next "TYPE/@"
+	db   "ESTAT/"
+	next "TIPUS/@"
 
 .OK_str:
-	db "OK @"
+	db "BÉ @"
 
 .ExpPointStr:
-	db "EXP POINTS@"
+	db "PUNTS EXP@"
 
 .LevelUpStr:
-	db "LEVEL UP@"
+	db "PUJAR NIV.@"
 
 .ToStr:
-	db "TO@"
+	db "A@"
 
 .PkrsStr:
 	db "#RUS@"
@@ -1058,31 +1058,29 @@ endc
 	ret
 
 EggString:
-	db "EGG@"
+	db "OU@"
 
 FiveQMarkString:
 	db "?????@"
 
 EggSoonString:
-	db   "It's making sounds"
-	next "inside. It's going"
-	next "to hatch soon!@"
+	db   "Fa sorolls a dins."
+	next "Eclosionarà aviat!@"
 
 EggCloseString:
-	db   "It moves around"
-	next "inside sometimes."
-	next "It must be close"
-	next "to hatching.@"
+	db   "A vegades es mou"
+	next "a dins. Deu estar"
+	next "a punt d'ecloure.@"
 
 EggMoreTimeString:
-	db   "Wonder what's"
-	next "inside? It needs"
-	next "more time, though.@"
+	db   "Què hi deu haver"
+	next "a dins? Encara"
+	next "necessita temps.@"
 
 EggALotMoreTimeString:
-	db   "This EGG needs a"
-	next "lot more time to"
-	next "hatch.@"
+	db   "Aquest OU"
+	next "necessita molt més"
+	next "temps per ecloure.@"
 
 StatsScreen_AnimateEgg:
 	call StatsScreen_GetAnimationParam

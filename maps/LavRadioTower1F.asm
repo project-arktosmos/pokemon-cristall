@@ -76,147 +76,160 @@ LavRadioTower1FReferenceLibrary: ; unreferenced
 	jumptext LavRadioTower1FReferenceLibraryText
 
 LavRadioTower1FReceptionistText:
-	text "Welcome!"
-	line "Feel free to look"
+	text "Benvingut!"
+	line "Pots fer un cop"
 
-	para "around anywhere on"
-	line "this floor."
+	para "d'ull per aquesta"
+	line "planta."
 	done
 
 LavRadioTower1FOfficerText:
-	text "Sorry, but you can"
-	line "only tour the"
-	cont "ground floor."
+	text "Perdona, però"
+	line "només es pot"
+	cont "visitar la planta"
+	cont "baixa."
 
-	para "Ever since JOHTO's"
-	line "RADIO TOWER was"
+	para "Des que la TORRE"
+	line "RÀDIO de JOHTO va"
 
-	para "taken over by a"
-	line "criminal gang, we"
+	para "ser ocupada per"
+	line "una banda de"
 
-	para "have had to step"
-	line "up our security."
+	para "criminals, hem"
+	line "hagut de reforçar"
+	cont "la seguretat."
 	done
 
 LavRadioTower1FSuperNerd1Text:
-	text "Many people are"
-	line "hard at work here"
+	text "Molta gent"
+	line "treballa"
+	cont "dur aquí a la"
+	cont "TORRE"
+	cont "RÀDIO."
 
-	para "in the RADIO"
-	line "TOWER."
+	para "Deuen estar fent"
+	line "tot el possible"
 
-	para "They must be doing"
-	line "their best to put"
-	cont "on good shows."
+	para "per oferir bons"
+	line "programes."
 	done
 
 LavRadioTower1FGentlemanText:
 	text "Oh, no, no, no!"
 
-	para "We've been off the"
-	line "air ever since the"
+	para "Hem deixat d'eme-"
+	line "tre des que la"
 
-	para "POWER PLANT shut"
-	line "down."
+	para "CENTRAL ELÈCTRICA"
+	line "va tancar."
 
-	para "All my efforts to"
-	line "start this station"
+	para "Tots els meus"
+	line "esforços per obrir"
 
-	para "would be wasted if"
-	line "I can't broadcast."
+	para "aquesta emissora"
+	line "serien en va si no"
+	cont "puc emetre."
 
-	para "I'll be ruined!"
+	para "Estic perdut!"
 	done
 
 LavRadioTower1FGentlemanText_ReturnedMachinePart:
-	text "Ah! So you're the"
-	line "<PLAY_G> who solved"
+	text "Ah! Tu ets <PLAY_G>"
+	line "que va resoldre el"
 
-	para "the POWER PLANT's"
-	line "problem?"
+	para "problema de la"
+	line "CENTRAL ELÈCTRICA?"
 
-	para "Thanks to you, I"
-	line "never lost my job."
+	para "Gràcies a tu, no"
+	line "vaig perdre la"
+	cont "feina."
 
-	para "I tell you, you're"
-	line "a real lifesaver!"
+	para "T'ho dic, m'has"
+	line "salvat la vida!"
 
-	para "Please take this"
-	line "as my thanks."
+	para "Pren això com a"
+	line "mostra del meu"
+	cont "agraïment."
 	done
 
 LavRadioTower1FGentlemanText_GotExpnCard:
-	text "With that thing,"
-	line "you can tune into"
+	text "Amb això, pots"
+	line "sintonitzar els"
 
-	para "the radio programs"
-	line "here in KANTO."
+	para "programes de ràdio"
+	line "d'aquí a KANTO."
 
 	para "Gahahahaha!"
 	done
 
 LavRadioTower1FSuperNerd2Text:
-	text "Hey there!"
+	text "Ei, hola!"
 
-	para "I am the super"
-	line "MUSIC DIRECTOR!"
+	para "Sóc el super"
+	line "DIRECTOR MUSICAL!"
 
-	para "Huh? Your #GEAR"
-	line "can't tune into my"
+	para "Eh? El teu"
+	line "#GEAR"
+	cont "no pot sintonitzar"
 
-	para "music programs."
-	line "How unfortunate!"
+	para "els meus programes"
+	line "musicals."
+	cont "Quina llàstima!"
 
-	para "If you get an EXPN"
-	line "CARD upgrade, you"
+	para "Si aconsegueixes"
+	line "una EXPN CARD,"
 
-	para "can tune in. You'd"
-	line "better get one!"
+	para "podràs escoltar-"
+	line "los. Aconsegueix-"
+	cont "ne una!"
 	done
 
 LavRadioTower1FSuperNerd2Text_GotExpnCard:
-	text "Hey there!"
+	text "Ei, hola!"
 
-	para "I am the super"
-	line "MUSIC DIRECTOR!"
+	para "Sóc el super"
+	line "DIRECTOR MUSICAL!"
 
-	para "I'm responsible"
-	line "for the gorgeous"
+	para "Sóc el responsable"
+	line "de les"
+	cont "fantàstiques"
 
-	para "melodies that go"
-	line "out over the air."
+	para "melodies que"
+	line "surten"
+	cont "per les ones."
 
-	para "Don't be square."
-	line "Grab your music"
-	cont "off the air!"
+	para "No siguis avorrit."
+	line "Escolta música"
+	cont "per la ràdio!"
 	done
 
 LavRadioTower1FDirectoryText:
-	text "1F RECEPTION"
-	line "2F SALES"
+	text "1F RECEPCIÓ"
+	line "2F VENDES"
 
-	para "3F PERSONNEL"
-	line "4F PRODUCTION"
+	para "3F PERSONAL"
+	line "4F PRODUCCIÓ"
 
-	para "5F DIRECTOR'S"
-	line "   OFFICE"
+	para "5F DESPATX DEL"
+	line "   DIRECTOR"
 	done
 
 LavRadioTower1FPokeFluteSignText:
-	text "Perk Up #MON"
-	line "with Mellow Sounds"
+	text "Anima els #MON"
+	line "amb els Sons Suaus"
 
-	para "of the # FLUTE"
-	line "on CHANNEL 20"
+	para "de la # FLAUTA"
+	line "al CANAL 20"
 	done
 
 LavRadioTower1FReferenceLibraryText:
-	text "Wow! A full rack"
-	line "of #MON CDs and"
-	cont "videos."
+	text "Uau! Un prestatge"
+	line "ple de CDs i"
+	cont "vídeos"
+	cont "de #MON."
 
-	para "This must be the"
-	line "reference library."
+	para "Això deu ser la"
+	line "mediateca."
 	done
 
 LavRadioTower1F_MapEvents:

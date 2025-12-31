@@ -74,7 +74,7 @@ CeladonGameCornerFisherScript:
 	end
 
 .coinname
-	db "COIN@"
+	db "MONEDA@"
 
 .NoCoinCase:
 	writetext CeladonGameCornerFisherNoCoinCaseText
@@ -147,177 +147,178 @@ CeladonGameCornerUnusedMovementData: ; unreferenced
 	step_end
 
 CeladonGameCornerReceptionistText:
-	text "Welcome!"
+	text "Benvingut!"
 
-	para "You may exchange"
-	line "your coins for"
+	para "Pots canviar les"
+	line "teves monedes per"
 
-	para "fabulous prizes"
-	line "next door."
+	para "premis fabulosos"
+	line "al costat."
 	done
 
 CeladonGameCornerPokefanMText:
-	text "The slot machines"
-	line "are all state of"
-	cont "the art."
+	text "Les escurabutxa-"
+	line "ques són d'última"
+	cont "generació."
 	done
 
 CeladonGameCornerTeacherText:
 if DEF(_CRYSTAL_AU)
-	text "The weather"
-	line "outside is very"
-	cont "nice."
+	text "El temps a fora"
+	line "és molt agradable."
 	done
 else
-	text "It's this machine"
-	line "I want."
+	text "Vull aquesta"
+	line "màquina."
 
-	para "It cleaned me out"
-	line "yesterday, so it"
+	para "Ahir em va deixar"
+	line "sense res, així"
 
-	para "should pay out"
-	line "today."
+	para "que avui hauria"
+	line "de pagar."
 	done
 endc
 
 CeladonGameCornerFishingGuruText:
 if DEF(_CRYSTAL_AU)
-	text "This machine looks"
-	line "the same as the"
-	cont "others."
+	text "Aquesta màquina"
+	line "sembla igual que"
+	cont "les altres."
 	done
 else
-	text "I think this slot"
-	line "machine will pay"
-	cont "out…"
+	text "Crec que aquesta"
+	line "escurabutxaques"
+	cont "pagarà…"
 
-	para "The odds vary"
-	line "among machines."
+	para "Les probabilitats"
+	line "varien segons la"
+	cont "màquina."
 	done
 endc
 
 CeladonGameCornerFisherText1:
 if DEF(_CRYSTAL_AU)
-	text "Whoa!"
+	text "Uau!"
 
-	para "What? You want to"
-	line "play this machine?"
+	para "Què? Vols jugar"
+	line "a aquesta màquina?"
 
-	para "Here, take my"
-	line "coins."
+	para "Té, agafa les"
+	line "meves monedes."
 	done
 else
 	text "Gahahaha!"
 
-	para "The coins just"
-	line "keep popping out!"
+	para "Les monedes no"
+	line "paren de sortir!"
 
-	para "Hm? What, kid? You"
-	line "want to play?"
+	para "Hm? Què, nano?"
+	line "Vols jugar?"
 
-	para "I'll share my luck"
-	line "with you!"
+	para "Compartiré la"
+	line "sort amb tu!"
 	done
 endc
 
 CeladonGameCornerFisherText2:
 	text "Gahahaha!"
 
-	para "It makes me feel"
-	line "good to do nice"
+	para "Em fa sentir bé"
+	line "fer coses bones"
 
-	para "things for other"
-	line "people!"
+	para "per altres"
+	line "persones!"
 	done
 
 CeladonGameCornerFisherNoCoinCaseText:
-	text "Hey, you don't"
-	line "have a COIN CASE."
+	text "Ei, no tens un"
+	line "MONEDER."
 
-	para "How am I supposed"
-	line "to give you any"
-	cont "coins, kid?"
+	para "Com se suposa que"
+	line "t'he de donar"
+	cont "monedes, nano?"
 	done
 
 CeladonGameCornerFisherFullCoinCaseText:
 if DEF(_CRYSTAL_AU)
-	text "Your COIN CASE is"
-	line "full."
+	text "El teu MONEDER"
+	line "és ple."
 	done
 else
-	text "Hey, your COIN"
-	line "CASE is full, kid."
+	text "Ei, el teu"
+	line "MONEDER és ple."
 
-	para "You must be riding"
-	line "a winning streak"
-	cont "too."
+	para "Deus estar en una"
+	line "bona ratxa tu"
+	cont "també."
 	done
 endc
 
 CeladonGymGuideText:
-	text "Hey! CHAMP in"
-	line "making!"
+	text "Ei! Futur CAMPIÓ!"
 
-	para "Are you playing"
+	para "Tu també jugues"
 if DEF(_CRYSTAL_AU)
-	line "too?"
+	line "aquí?"
 else
-	line "the slots too?"
+	cont "a les màquines?"
 endc
 
-	para "I'm trying to get"
-	line "enough coins for a"
-	cont "prize #MON."
+	para "Intento aconseguir"
+	line "prou monedes per"
+	cont "un # de premi."
 
-	para "But I don't have"
-	line "enough coins yet…"
+	para "Però encara no en"
+	line "tinc prou…"
 	done
 
 CeladonGameCornerGrampsText:
 if DEF(_CRYSTAL_AU)
-	text "Is there any"
-	line "difference between"
-	cont "these lines?"
+	text "Hi ha alguna"
+	line "diferència entre"
+	cont "aquestes línies?"
 	done
 else
-	text "Hmmm… The odds are"
-	line "surely better for"
+	text "Hmmm… Segur que"
+	line "les probabilitats"
 
-	para "PIKACHU's line,"
-	line "but… What to do?"
+	para "són millors per"
+	line "la línia de"
+	cont "PIKACHU, però…"
 	done
 endc
 
 CeladonGameCornerPoster1Text:
-	text "Hey!"
+	text "Ei!"
 
-	para "Underneath this"
-	line "poster…"
+	para "Sota aquest"
+	line "pòster…"
 
-	para "There's nothing!"
+	para "No hi ha res!"
 	done
 
 CeladonGameCornerPoster2Text:
-	text "Hey!"
+	text "Ei!"
 
-	para "Underneath this"
-	line "poster…"
+	para "Sota aquest"
+	line "pòster…"
 
-	para "There's nothing!"
+	para "No hi ha res!"
 	done
 
 CeladonGameCornerLighterText:
-	text "There's a lighter"
-	line "here."
+	text "Hi ha un encenedor"
+	line "aquí."
 	done
 
 CeladonGameCornerSodaCanText:
-	text "A can of soda…"
+	text "Una llauna de"
+	line "refresc…"
 
-	para "Someone must be"
-	line "coming back…"
+	para "Algú deu estar a"
+	line "punt de tornar…"
 
-	para "Huh? It's empty!"
+	para "Eh? És buida!"
 	done
 
 CeladonGameCorner_MapEvents:

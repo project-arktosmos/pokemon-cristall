@@ -1,6 +1,6 @@
-	object_const_def
-	const BILLSOLDERSISTERSHOUSE_POKEFAN_F
-	const BILLSOLDERSISTERSHOUSE_YOUNGSTER
+object_const_def
+const BILLSOLDERSISTERSHOUSE_POKEFAN_F
+const BILLSOLDERSISTERSHOUSE_YOUNGSTER
 
 BillsOlderSistersHouse_MapScripts:
 	def_scene_scripts
@@ -14,15 +14,16 @@ BillsOlderSistersHouseYoungsterScript:
 	jumptextfaceplayer BillsOlderSistersHouseYoungsterText
 
 BillsOlderSisterText:
-	text "My grandpa is at "
-	line "my brother BILL's"
-	cont "on CERULEAN CAPE."
+	text "El meu avi és a"
+	line "casa del meu germà"
+	cont "BILL, al CAP AZUR."
 	done
 
 BillsOlderSistersHouseYoungsterText:
-	text "I saw these weird,"
-	line "slow #MON on"
-	cont "CYCLING ROAD."
+	text "Vaig veure uns"
+	line "#MON estranys i"
+	cont "lents a la RUTA"
+	cont "CICLISTA."
 	done
 
 BillsOlderSistersHouse_MapEvents:

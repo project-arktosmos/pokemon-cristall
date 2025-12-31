@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CIANWOODLUGIASPEECHHOUSE_TEACHER
 	const CIANWOODLUGIASPEECHHOUSE_LASS
 	const CIANWOODLUGIASPEECHHOUSE_TWIN
@@ -21,42 +21,43 @@ CianwoodLugiaSpeechHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 CianwoodLugiaSpeechHouseTeacherText:
-	text "You came from"
-	line "OLIVINE?"
+	text "Has vingut des"
+	line "d'OLIVINE?"
 
-	para "Do you remember"
-	line "the four islands"
-	cont "along the way?"
+	para "Recordes les"
+	line "quatre illes que"
+	cont "hi ha pel camí?"
 
-	para "I heard that a "
-	line "mythical sea crea-"
-	cont "ture is hiding in"
-	cont "them."
+	para "He sentit que una"
+	line "criatura marina"
+	cont "mítica s'amaga"
+	cont "allà."
 	done
 
 CianwoodLugiaSpeechHouseLassText:
-	text "I heard that you"
-	line "can only see it if"
+	text "He sentit que"
+	line "només la pots"
 
-	para "you have a SILVER"
-	line "WING."
+	para "veure si tens una"
+	line "ALA PLATEJADA."
 
-	para "It must have the"
-	line "same scent as the"
-	cont "creature."
+	para "Deu tenir la"
+	line "mateixa olor que"
+	cont "la criatura."
 	done
 
 CianwoodLugiaSpeechHouseTwinText:
-	text "I've heard that"
-	line "the whirlpools"
+	text "He sentit que els"
+	line "remolins al"
 
-	para "around the islands"
-	line "are caused by the"
-	cont "sea creature."
+	para "voltant de les"
+	line "illes els causa"
+	cont "la criatura."
 
-	para "You might need a"
-	line "special move to"
-	cont "get past them."
+	para "Potser necessites"
+	line "un moviment"
+	cont "especial per"
+	cont "travessar-los."
 	done
 
 CianwoodLugiaSpeechHouse_MapEvents:

@@ -10,26 +10,22 @@ Route7LockedDoor:
 	jumptext Route7LockedDoorText
 
 Route7UndergroundPathSignText:
-	text "What's this flyer?"
+	text "Què és això?"
 
-	para "… Uncouth trainers"
-	line "have been holding"
+	para "… Entrenadors han"
+	line "fet combats al"
+	cont "CAMÍ SUBTERRANI."
 
-	para "battles in the"
-	line "UNDERGROUND PATH."
+	para "Per les queixes"
+	line "dels veïns, el"
+	cont "CAMÍ SUBTERRANI"
+	cont "s'ha tancat."
 
-	para "Because of rising"
-	line "complaints by lo-"
-	cont "cal residents, the"
-	cont "UNDERGROUND PATH"
-	cont "has been sealed"
-	cont "indefinitely."
-
-	para "CELADON POLICE"
+	para "POLICIA CELADON"
 	done
 
 Route7LockedDoorText:
-	text "It's locked…"
+	text "Està tancat…"
 	done
 
 Route7_MapEvents:

@@ -1,6 +1,6 @@
 WiltonAnswerPhoneText:
-	text "Hello, you have"
-	line "reached @"
+	text "Hola, ha trucat a"
+	line "en @"
 	text_ram wStringBuffer3
 	text "…"
 
@@ -8,57 +8,56 @@ WiltonAnswerPhoneText:
 	done
 
 WiltonAnswerPhoneDayText:
-	text "Hello, you have"
-	line "reached @"
+	text "Hola, ha trucat a"
+	line "en @"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Ah, <PLAY_G>, is"
-	line "it?"
+	para "Ah, <PLAY_G>,"
+	line "ets tu?"
 	done
 
 WiltonAnswerPhoneNiteText:
-	text "Hello, you have"
-	line "reached @"
+	text "Hola, ha trucat a"
+	line "en @"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Ah, if it isn't"
+	para "Ah, però si ets"
 	line "<PLAY_G>."
 	done
 
 WiltonGreetText:
-	text "Ah, it's @"
+	text "Ah, soc en @"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Have you got a"
-	line "moment?"
+	para "Tens un moment?"
 	done
 
 WiltonGreetDayText:
-	text "Ah, it's @"
+	text "Ah, soc en @"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Can you talk now?"
+	para "Pots parlar ara?"
 	done
 
 WiltonGreetNiteText:
-	text "Ah, it's @"
+	text "Ah, soc en @"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Sorry for calling"
-	line "so late."
+	para "Perdona per trucar"
+	line "tan tard."
 	done
 
 WiltonGenericText:
-	text "Have your #MON"
-	line "grown any?"
+	text "Han crescut els"
+	line "teus #MON?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wStringBuffer4
-	text " has"
-	line "grown quite a bit."
+	text " ha"
+	line "crescut molt."
 	done

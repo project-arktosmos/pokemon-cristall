@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const MOUNTMOON_RIVAL
 
 MountMoon_MapScripts:
@@ -88,74 +88,73 @@ MountMoonRivalMovementAfter:
 MountMoonRivalTextBefore:
 	text "<……> <……> <……>"
 
-	para "It's been a while,"
+	para "Quant de temps,"
 	line "<PLAYER>."
 
-	para "…Since I lost to"
-	line "you, I thought"
+	para "…Des que em vas"
+	line "guanyar, he pensat"
 
-	para "about what I was"
-	line "lacking with my"
-	cont "#MON…"
+	para "què em faltava amb"
+	line "els meus #MON…"
 
-	para "And we came up"
-	line "with an answer."
+	para "I hem trobat"
+	line "una resposta."
 
-	para "<PLAYER>, now we'll"
-	line "show you!"
+	para "<PLAYER>, ara"
+	line "t'ho demostrarem!"
 	done
 
 MountMoonRivalTextWin:
 	text "<……> <……> <……>"
 
-	para "I thought I raised"
-	line "my #MON to be"
+	para "Creia que havia"
+	line "entrenat els meus"
 
-	para "the best they"
-	line "could be…"
+	para "#MON perquè"
+	line "fossin els millors"
 
-	para "…But it still "
-	line "wasn't enough…"
+	para "…Però encara no"
+	line "n'hi ha prou…"
 	done
 
 MountMoonRivalTextAfter:
 	text "<……> <……> <……>"
 
-	para "…You won, fair"
-	line "and square."
+	para "…Has guanyat,"
+	line "justament."
 
-	para "I admit it. But"
-	line "this isn't the"
-	cont "end."
+	para "Ho admeto. Però"
+	line "això no és el"
+	cont "final."
 
-	para "I'm going to be"
-	line "the greatest #-"
-	cont "MON trainer ever."
+	para "Seré l'entrenador"
+	line "de #MON més"
+	cont "gran de tots."
 
-	para "Because these guys"
-	line "are behind me."
+	para "Perquè aquests"
+	line "em donen suport."
 
-	para "…Listen, <PLAYER>."
+	para "…Escolta, <PLAYER>."
 
-	para "One of these days"
-	line "I'm going to prove"
+	para "Algun dia"
+	line "demostraré el bo"
 
-	para "how good I am by"
-	line "beating you."
+	para "que sóc quan"
+	line "et guanyi."
 	done
 
 MountMoonRivalTextLoss:
 	text "<……> <……> <……>"
 
-	para "I've repaid my"
-	line "debt to you."
+	para "T'he tornat"
+	line "el deute."
 
-	para "With my #MON,"
-	line "I'm going to beat"
+	para "Amb els meus"
+	line "#MON, guanyaré"
 
-	para "the CHAMPION and"
-	line "become the world's"
-	cont "greatest trainer."
+	para "el CAMPIÓ i seré"
+	line "l'entrenador més"
+	cont "gran del món."
 	done
 
 MountMoon_MapEvents:

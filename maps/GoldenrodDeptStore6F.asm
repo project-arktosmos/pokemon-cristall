@@ -79,10 +79,10 @@ GoldenrodVendingMachine:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "FRESH WATER  ¥{d:GOLDENRODDEPTSTORE6F_FRESH_WATER_PRICE}@"
-	db "SODA POP     ¥{d:GOLDENRODDEPTSTORE6F_SODA_POP_PRICE}@"
-	db "LEMONADE     ¥{d:GOLDENRODDEPTSTORE6F_LEMONADE_PRICE}@"
-	db "CANCEL@"
+	db "AIGUA FRESCA ¥{d:GOLDENRODDEPTSTORE6F_FRESH_WATER_PRICE}@"
+	db "REFRESC      ¥{d:GOLDENRODDEPTSTORE6F_SODA_POP_PRICE}@"
+	db "LLIMONADA    ¥{d:GOLDENRODDEPTSTORE6F_LEMONADE_PRICE}@"
+	db "CANCEL·LAR@"
 
 GoldenrodDeptStore6FLassScript:
 	jumptextfaceplayer GoldenrodDeptStore6FLassText
@@ -97,56 +97,59 @@ GoldenrodDeptStore6FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodVendingText:
-	text "A vending machine!"
-	line "Here's the menu."
+	text "Una màquina"
+	line "expenedora!"
+	cont "Vet aquí el menú."
 	done
 
 GoldenrodClangText:
-	text "Clang! A can of"
-	line "@"
+	text "Clang! Una llauna"
+	line "de @"
 	text_ram wStringBuffer3
 	text_start
-	cont "popped out!"
+	cont "ha sortit!"
 	done
 
 GoldenrodVendingNoMoneyText:
-	text "Oops, not enough"
-	line "money."
+	text "No tens prou"
+	line "diners."
 	done
 
 GoldenrodVendingNoSpaceText:
-	text "There's no more"
-	line "room for stuff."
+	text "No hi ha més lloc"
+	line "per a res més."
 	done
 
 GoldenrodDeptStore6FLassText:
-	text "Do you listen to"
-	line "LUCKY CHANNEL?"
+	text "Escoltes el CANAL"
+	line "DE LA SORT?"
 
-	para "If you want to"
-	line "win, trade #MON"
+	para "Si vols guanyar,"
+	line "intercanvia"
+	cont "#MON"
 
-	para "with as many peo-"
-	line "ple as possible to"
+	para "amb tanta gent"
+	line "com puguis per"
 
-	para "get different ID"
-	line "numbers."
+	para "obtenir números"
+	line "d'ID diferents."
 	done
 
 GoldenrodDeptStore6FSuperNerdText:
-	text "If you're tired,"
-	line "try the vending"
-	cont "machine's drinks."
+	text "Si estàs cansat,"
+	line "prova les begudes"
+	cont "de la màquina."
 
-	para "Your #MON will"
-	line "love them too."
+	para "Als teus #MON"
+	line "també els"
+	cont "encantaran."
 	done
 
 GoldenrodDeptStore6FDirectoryText:
-	text "Take a Break from"
-	line "Shopping!"
+	text "Fes un descans"
+	line "de les compres!"
 
-	para "6F TRANQUIL SQUARE"
+	para "6F PLAÇA TRANQUIL"
 	done
 
 GoldenrodDeptStore6F_MapEvents:

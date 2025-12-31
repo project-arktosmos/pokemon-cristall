@@ -1,10 +1,10 @@
-	object_const_def
-	const POKEMONFANCLUB_CHAIRMAN
-	const POKEMONFANCLUB_RECEPTIONIST
-	const POKEMONFANCLUB_CLEFAIRY_GUY
-	const POKEMONFANCLUB_TEACHER
-	const POKEMONFANCLUB_FAIRY
-	const POKEMONFANCLUB_ODDISH
+object_const_def
+const POKEMONFANCLUB_CHAIRMAN
+const POKEMONFANCLUB_RECEPTIONIST
+const POKEMONFANCLUB_CLEFAIRY_GUY
+const POKEMONFANCLUB_TEACHER
+const POKEMONFANCLUB_FAIRY
+const POKEMONFANCLUB_ODDISH
 
 PokemonFanClub_MapScripts:
 	def_scene_scripts
@@ -119,164 +119,169 @@ PokemonFanClubBraggingSign:
 	jumptext PokemonFanClubBraggingSignText
 
 PokemonFanClubChairmanDidYouVisitToHearAboutMyMonText:
-	text "I'm the CHAIRMAN"
-	line "of the #MON FAN"
-	cont "CLUB."
+	text "Sóc el PRESIDENT"
+	line "del CLUB de FANS"
+	cont "de #MON."
 
-	para "I've raised over"
+	para "He criat més de"
 	line "150 #MON."
 
-	para "I'm very fussy"
-	line "when it comes to"
+	para "Sóc molt exigent"
+	line "quan es tracta de"
 	cont "#MON."
 
-	para "Did you visit just"
-	line "to hear about my"
-	cont "#MON?"
+	para "Has vingut només"
+	line "per sentir parlar"
+	cont "dels meus #MON?"
 	done
 
 PokemonFanClubChairmanRapidashText:
-	text "Good!"
-	line "Then listen up!"
+	text "Bé!"
+	line "Doncs escolta!"
 
-	para "So… my favorite"
-	line "RAPIDASH…"
+	para "Bé… el meu"
+	line "RAPIDASH favorit…"
 
-	para "It… cute… lovely…"
-	line "smart… unbearably…"
-	cont "plus… amazing… oh…"
-	cont "you think so?…"
-	cont "Too much… wild…"
-	cont "beautiful… kindly…"
-	cont "love it!"
+	para "És… bonic… dolç…"
+	line "llest… increïble…"
+	cont "a més… genial…"
+	cont "no trobes?…"
+	cont "Massa… salvatge…"
+	cont "preciós… amable…"
+	cont "l'estimo!"
 
-	para "Hug it… when…"
-	line "sleeping… warm and"
-	cont "cuddly… Oh, and…"
-	cont "spectacular…"
-	cont "ravishing… simply"
-	cont "divine…"
-	cont "Oops! Look at the"
-	cont "time! I've kept"
-	cont "you too long!"
+	para "L'abraço… quan…"
+	line "dorm… càlid i"
+	cont "tendre… Ah, i…"
+	cont "espectacular…"
+	cont "fascinant…"
+	cont "diví…"
+	cont "Vaja! Mira quina"
+	cont "hora és! T'he"
+	cont "entretingut massa!"
 	done
 
 PokemonFanClubChairmanIWantYouToHaveThisText:
-	text "Thanks for hearing"
-	line "me out. I want you"
-	cont "to have this!"
+	text "Gràcies per"
+	line "escoltar-me. Vull"
+	cont "donar-te això!"
 	done
 
 PokemonFanClubChairmanItsARareCandyText:
-	text "It's a RARE CANDY"
-	line "that makes #MON"
-	cont "stronger."
+	text "És un CARAMEL RAR"
+	line "que fa més forts"
+	cont "els #MON."
 
-	para "I prefer making my"
-	line "#MON stronger"
+	para "Prefereixo fer"
+	line "els meus #MON"
 
-	para "by battling, so"
-	line "you can have it."
+	para "més forts en"
+	line "combat, així que"
+	cont "te'l pots quedar."
 	done
 
 PokemonFanClubChairmanMoreTalesToTellText:
-	text "Hello, <PLAY_G>!"
+	text "Hola, <PLAY_G>!"
 
-	para "Did you come see"
-	line "me about my #-"
-	cont "MON again?"
+	para "Has vingut a"
+	line "veure'm pels meus"
+	cont "#MON?"
 
-	para "No? Oh… I had more"
-	line "tales to tell…"
+	para "No? Ah… Tenia més"
+	line "coses a explicar…"
 	done
 
 PokemonFanClubChairmanHowDisappointingText:
-	text "How disappointing…"
+	text "Quina decepció…"
 
-	para "Come back if you"
-	line "want to listen."
+	para "Torna si vols"
+	line "escoltar."
 	done
 
 PokemonFanClubReceptionistText:
-	text "Our CHAIRMAN is"
-	line "very vocal when it"
-	cont "comes to #MON…"
+	text "El nostre"
+	line "PRESIDENT és molt"
+	cont "parlador quan es"
+	cont "tracta de #MON…"
 	done
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
-	text "I love the way"
-	line "CLEFAIRY waggles"
+	text "M'encanta com"
+	line "CLEFAIRY mou el"
 
-	para "its finger when"
-	line "it's trying to use"
+	para "dit quan intenta"
+	line "fer servir"
 
 	para "METRONOME."
-	line "It's so adorable!"
+	line "És tan adorable!"
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "I love CLEFAIRY,"
-	line "but I could never"
+	text "M'encanta"
+	line "CLEFAIRY, però no"
 
-	para "catch one. So I'm"
-	line "making do with a"
+	para "n'he pogut atrapar"
+	line "cap. Així que em"
 
-	para "# DOLL that I"
-	line "found."
+	para "conformo amb una"
+	line "NINA # trobada."
 	done
 
 PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
-	text "Oh, I see now. The"
-	line "girl who lost this"
+	text "Ah, ja ho entenc."
+	line "La noia que va"
 
-	para "# DOLL is sad…"
+	para "perdre la NINA"
+	line "#"
+	cont "està trista…"
 
-	para "OK. Could you take"
-	line "this # DOLL"
+	para "D'acord. Podries"
+	line "portar aquesta"
 
-	para "back to that poor"
-	line "little girl?"
+	para "NINA # a la"
+	line "pobra noia?"
 
-	para "I'll befriend a"
-	line "real CLEFAIRY on"
+	para "Algun dia faré"
+	line "amistat amb un"
 
-	para "my own one day."
-	line "No worries!"
+	para "CLEFAIRY de bo."
+	line "No pateixis!"
 	done
 
 PokemonFanClubPlayerReceivedDollText:
-	text "<PLAYER> received"
-	line "# DOLL."
+	text "<PLAYER> ha rebut"
+	line "la NINA #."
 	done
 
 PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
-	text "You watch. I'm"
-	line "going to get a"
+	text "Ja ho veuràs."
+	line "Aconseguiré un"
 
-	para "real CLEFAIRY as"
-	line "my friend."
+	para "CLEFAIRY de"
+	line "veritat"
+	cont "com a amic."
 	done
 
 PokemonFanClubClefairyGuyPackIsJammedFullText:
-	text "Your PACK is"
-	line "jammed full."
+	text "La teva MOTXILLA"
+	line "és ben plena."
 	done
 
 PokemonFanClubTeacherText:
-	text "Look at my darling"
-	line "BAYLEEF!"
+	text "Mira el meu"
+	line "estimat BAYLEEF!"
 
-	para "The leaf on its"
-	line "head is so cute!"
+	para "La fulla del seu"
+	line "cap és tan mona!"
 	done
 
 PokemonFanClubClefairyDollText:
-	text "It's a CLEFAIRY!"
-	line "Huh?"
+	text "És un CLEFAIRY!"
+	line "Eh?"
 
-	para "Oh, right. It's a"
-	line "CLEFAIRY #"
-	cont "DOLL."
+	para "Ah, és clar. És"
+	line "una NINA #"
+	cont "CLEFAIRY."
 	done
 
 PokemonFanClubBayleefText:
@@ -284,14 +289,14 @@ PokemonFanClubBayleefText:
 	done
 
 PokemonFanClubListenSignText:
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers."
+	text "Escoltem amb"
+	line "educació els"
+	cont "altres entrenadors"
 	done
 
 PokemonFanClubBraggingSignText:
-	text "If someone brags,"
-	line "brag right back!"
+	text "Si algú presumeix,"
+	line "presumeix tu més!"
 	done
 
 PokemonFanClub_MapEvents:

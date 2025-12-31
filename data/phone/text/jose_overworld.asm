@@ -1,73 +1,74 @@
 JoseAskNumber1Text:
-	text "If my @"
+	text "Si el meu @"
 	text_ram wStringBuffer4
 	text_start
-	line "sees anything"
+	line "veu alguna cosa"
 
-	para "pretty, it goes"
-	line "and gets it."
+	para "bonica, va a"
+	line "buscar-la."
 
-	para "Do you like pretty"
-	line "things?"
+	para "T'agraden les"
+	line "coses boniques?"
 
-	para "I could share if"
-	line "it gets some more."
+	para "Podria compartir"
+	line "si en troba més."
 
-	para "What's your phone"
-	line "number? I'll call."
+	para "Quin és el teu"
+	line "telèfon? Trucaré."
 
-	para "Don't expect a"
-	line "whole lot, OK?"
+	para "No esperis grans"
+	line "coses, d'acord?"
 	done
 
 JoseAskNumber2Text:
-	text "Do you like pretty"
-	line "things?"
+	text "T'agraden les"
+	line "coses boniques?"
 
-	para "I could share if"
-	line "FARFETCH'D goes"
-	cont "and gets more."
+	para "Podria compartir"
+	line "si el FARFETCH'D"
+	cont "en troba més."
 
-	para "What's your phone"
-	line "number? I'll call."
+	para "Quin és el teu"
+	line "telèfon? Trucaré."
 	done
 
 JoseNumberAcceptedText:
-	text "I'll call you as"
-	line "soon as I get"
-	cont "something pretty."
+	text "Et trucaré quan"
+	line "tingui alguna"
+	cont "cosa bonica."
 	done
 
 JoseNumberDeclinedText:
-	text "You sure? Well,"
-	line "tell me if you"
-	cont "change your mind."
+	text "Segur? Bé,"
+	line "digues-m'ho si"
+	cont "canvies d'opinió."
 	done
 
 JosePhoneFullText:
-	text "Huh? Your phone"
-	line "list is full."
+	text "Eh? La teva"
+	line "llista és plena."
 	done
 
 JoseRematchText:
-	text "Tweet! Tweeeet!"
+	text "Piu! Piuuuuu!"
 
-	para "Kept me waiting!"
-	line "Go, FARFETCH'D!"
+	para "M'has fet esperar!"
+	line "Endavant,"
+	cont "FARFETCH'D!"
 	done
 
 JoseGiftText:
-	text "Kept me waiting!"
-	line "Look, this is it!"
+	text "M'has fet esperar!"
+	line "Mira, és això!"
 
-	para "See? Isn't it some"
-	line "kind of pretty?"
+	para "Veus? No és una"
+	line "cosa bonica?"
 	done
 
 JosePackFullText:
-	text "Huh? You don't"
-	line "have anywhere to"
+	text "Eh? No tens lloc"
+	line "per posar-ho."
 
-	para "put this. Better"
-	line "come back for it."
+	para "Millor torna a"
+	line "buscar-ho."
 	done

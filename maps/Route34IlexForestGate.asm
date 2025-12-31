@@ -88,32 +88,32 @@ Route34IlexForestGateTeacherReturnsMovement:
 	step_end
 
 Route34IlexForestGateTeacherText:
-	text "Oh, honey. You're"
-	line "making a #DEX?"
+	text "Ei, bonic. Fas"
+	line "una #DEX?"
 
-	para "It must be hard if"
-	line "#MON won't"
+	para "Deu ser difícil"
+	line "si els #MON no"
 
-	para "appear. Try using"
-	line "this TM."
+	para "apareixen. Prova"
+	line "aquesta MT."
 	done
 
 Route34IlexForestGateTeacher_GotSweetScent:
-	text "It's SWEET SCENT."
+	text "És SWEET SCENT."
 
-	para "Use it wherever"
-	line "#MON appear."
+	para "Usa-la on surtin"
+	line "els #MON."
 
-	para "#MON will be"
-	line "enticed by it."
+	para "Els #MON seran"
+	line "atrets per ella."
 	done
 
 Route34IlexForestGateTeacher_ForestIsRestless:
-	text "Something's wrong"
-	line "in ILEX FOREST…"
+	text "Alguna cosa no va"
+	line "bé al BOSC ILEX…"
 
-	para "You should stay"
-	line "away right now."
+	para "Ara mateix no"
+	line "t'hi acostis."
 	done
 
 Route34IlexForestGateButterfreeText:
@@ -121,17 +121,17 @@ Route34IlexForestGateButterfreeText:
 	done
 
 Route34IlexForestGateLassText:
-	text "Did you see the"
-	line "shrine honoring"
-	cont "the protector?"
+	text "Has vist el"
+	line "santuari dedicat"
+	cont "al protector?"
 
-	para "It watches over"
-	line "the FOREST from"
-	cont "across time."
+	para "Vetlla pel BOSC"
+	line "des de l'altre"
+	cont "costat del temps."
 
-	para "I think that it"
-	line "must be a grass-"
-	cont "type #MON."
+	para "Jo crec que deu"
+	line "ser un #MON de"
+	cont "tipus planta."
 	done
 
 Route34IlexForestGate_MapEvents:

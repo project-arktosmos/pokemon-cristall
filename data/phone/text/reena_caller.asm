@@ -1,88 +1,92 @@
 ReenaMonsIsAPerfectMatchText:
-	text "Listen, dear…"
+	text "Escolta, bonic…"
 
-	para "Do you recall my"
+	para "Recordes el meu"
 	line "@"
 	text_ram wStringBuffer4
 	text "?"
 
-	para "Yes, exactly. That"
-	line "lovely @"
+	para "Sí, exacte. Aquell"
+	line "encantador @"
 	text_ram wStringBuffer4
 	text "."
 
-	para "Wouldn't you agree"
-	line "it's a perfect"
-	cont "match for me?"
+	para "No creus que"
+	line "m'escau a la"
+	cont "perfecció?"
 	done
 
 ReenaDefeatedMonText:
-	text "Have I ever faced"
-	line "a wild @"
+	text "Mai m'he enfrontat"
+	line "a un @"
 	text_ram wStringBuffer4
-	text "?"
+	text ""
 
-	para "You need to ask?"
+	para "salvatge?"
+	line "Ho has de"
+	cont "preguntar?"
 
 	para "@"
 	text_ram wStringBuffer4
-	text " I've"
-	line "beaten on numerous"
-	cont "occasions!"
+	text " n'he"
+	line "derrotat moltes"
+	cont "vegades!"
 	done
 
 ReenaLostAMonText:
-	text "Have I ever failed"
-	line "to catch a wild"
-	cont "#MON?"
+	text "Que si mai he"
+	line "fallat en capturar"
+	cont "un #MON"
+	cont "salvatge?"
 
-	para "You need to ask?"
+	para "Ho has de"
+	line "preguntar?"
 
-	para "I would never fail"
-	line "to catch a wild"
+	para "Jo mai fallaria en"
+	line "capturar un"
 
 	para "@"
 	text_ram wStringBuffer4
 	text "…"
-	line "Oh! Never mind!"
+	line "Oh! Res, deixa-ho!"
 	done
 
 ReenaBattleRematchText:
-	text "We are going to"
-	line "battle!"
+	text "Lluitarem!"
 
-	para "The place shall be"
+	para "El lloc serà"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 
-	para "Don't make me"
-	line "wait! Got it?"
+	para "No em facis"
+	line "esperar! Entès?"
 	done
 
 ReenaHangUpText:
-	text "Fine, you may go."
+	text "D'acord, pots"
+	line "anar."
 	done
 
 ReenaForwardText:
-	text "Don't be too proud"
-	line "just because you"
+	text "No et creguis"
+	line "gaire"
+	cont "només perquè em"
 
-	para "happened to beat"
-	line "me… "
+	para "vas guanyar…"
 
-	para "It was a fluke!"
+	para "Va ser un cop de"
+	line "sort!"
 	done
 
 ReenaHurryText:
-	text "What are you"
-	line "doing?"
+	text "Què fas?"
 
-	para "I told you that"
-	line "the place was"
+	para "Et vaig dir que"
+	line "el lloc era"
 
 	para "@"
 	text_ram wStringBuffer5
 	text "!"
-	line "Don't try to run!"
+	line "No intentis fugir!"
 	done

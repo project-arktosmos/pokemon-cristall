@@ -40,89 +40,89 @@ CinnabarIslandBlueTeleport:
 	step_end
 
 CinnabarIslandBlueText:
-	text "Who are you?"
+	text "Qui ets tu?"
 
-	para "Well, it's plain"
-	line "to see that you're"
-	cont "a trainer…"
+	para "Bé, és clar que"
+	line "ets un entrenador…"
 
-	para "My name's BLUE."
+	para "Em dic BLUE."
 
-	para "I was once the"
-	line "CHAMPION, although"
+	para "Vaig ser el CAMPIÓ"
+	line "una vegada, encara"
 
-	para "it was for only a"
-	line "short time…"
+	para "que només va ser"
+	line "per poc temps…"
 
-	para "That meddling RED"
-	line "did me in…"
+	para "Aquell RED tan"
+	line "molest em va"
+	cont "derrotar…"
 
-	para "Anyway, what do"
-	line "you want? You want"
+	para "En fi, què vols?"
+	line "Vols desafiar-me"
 
-	para "to challenge me or"
-	line "something?"
+	para "o alguna cosa"
+	line "així?"
 
-	para "…I hate to say"
-	line "it, but I'm not in"
+	para "…Em sap greu dir-"
+	line "ho, però ara no"
 
-	para "the mood for a"
-	line "battle now."
+	para "estic d'humor per"
+	line "a un combat."
 
-	para "Take a good look"
-	line "around you…"
+	para "Mira bé al teu"
+	line "voltant…"
 
-	para "A volcano erupts,"
-	line "and just like"
+	para "Un volcà erupciona"
+	line "i, així com així,"
 
-	para "that, a whole town"
-	line "disappears."
+	para "tot un poble"
+	line "desapareix."
 
-	para "We can go on win-"
-	line "ning and losing in"
+	para "Podem continuar"
+	line "guanyant i perdent"
 
-	para "#MON. But if"
-	line "nature so much as"
+	para "amb #MON. Però"
+	line "si la natura fa"
 
-	para "twitches, we can"
-	line "lose in a second."
+	para "un sol gest, podem"
+	line "perdre-ho tot."
 
 	para "…"
 
-	para "That's the way it"
-	line "is…"
+	para "Així són les"
+	line "coses…"
 
-	para "But, anyway, I'm"
-	line "still a trainer."
+	para "Però, de totes"
+	line "maneres, encara"
+	cont "sóc un entrenador."
 
-	para "If I see a strong"
-	line "opponent, it makes"
-	cont "me want to battle."
+	para "Si veig un rival"
+	line "fort, em vénen"
+	cont "ganes de lluitar."
 
-	para "If you want to"
-	line "battle me, come to"
-	cont "the VIRIDIAN GYM."
+	para "Si vols combatre"
+	line "amb mi, vine al"
+	cont "GIMNÀS VIRIDIAN."
 
-	para "I'll take you on"
-	line "then."
+	para "Allà t'enfrontaré."
 	done
 
 CinnabarIslandGymSignText:
-	text "There's a notice"
-	line "here…"
+	text "Hi ha un avís"
+	line "aquí…"
 
-	para "CINNABAR GYM has"
-	line "relocated to SEA-"
-	cont "FOAM ISLANDS."
+	para "El GIMNÀS CINNABAR"
+	line "s'ha traslladat a"
+	cont "LES ILLES SEAFOAM."
 
 	para "BLAINE"
 	done
 
 CinnabarIslandSignText:
-	text "CINNABAR ISLAND"
+	text "ILLA CINNABAR"
 
-	para "The Fiery Town of"
-	line "Burning Desire"
+	para "La Ciutat Ardent"
+	line "del Desig Cremant"
 	done
 
 CinnabarIsland_MapEvents:

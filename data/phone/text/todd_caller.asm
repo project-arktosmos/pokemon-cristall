@@ -1,117 +1,116 @@
 ToddLooksCuteLikeMeText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "looking more and"
+	text ""
+	line "s'assembla cada"
 
-	para "more like me. It's"
-	line "getting cuter!"
+	para "cop més a mi."
+	line "És més bonic!"
 	done
 
 ToddDefeatedMonText:
-	text "And, you know?"
+	text "I saps què?"
 
-	para "Now we can KO"
+	para "Ara podem vèncer"
 	line "@"
 	text_ram wStringBuffer4
-	text " easily."
+	text " fàcilment."
 
-	para "I should challenge"
-	line "the GOLDENROD GYM."
+	para "Hauria de desafiar"
+	line "el GIMNÀS GOLDROD."
 	done
 
 ToddLostAMonText:
-	text "And, you know?"
-	line "We just failed to"
+	text "I saps què?"
+	line "Hem perdut contra"
 
-	para "beat @"
+	para "@"
 	text_ram wStringBuffer4
-	text " by"
-	line "a tiny margin."
+	text " per"
+	line "ben poc."
 
-	para "I'm guessing my"
-	line "#MON's levels"
+	para "Suposo que els"
+	line "nivells dels meus"
 
-	para "aren't high enough"
-	line "yet…"
+	para "#MON encara no"
+	line "són prou alts…"
 	done
 
 ToddBattleRematchText:
-	text "You must be a lot"
-	line "better now, huh?"
+	text "Deus ser molt"
+	line "millor ara, oi?"
 
-	para "How about showing"
-	line "me your technique"
+	para "Què tal si em"
+	line "mostres la teva"
 
-	para "in a real battle"
-	line "with me?"
+	para "tècnica en un"
+	line "combat real?"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 ToddHangUpText:
-	text "See you later!"
+	text "Fins després!"
 	done
 
 ToddDepartmentStoreBargainSaleText:
-	text "This is it--the"
-	line "one we've all been"
-	cont "waiting for!"
+	text "Això és el que"
+	line "esperàvem!"
+	cont ""
 
-	para "GOLDENROD DEPT."
-	line "STORE's bargain"
-	cont "sale is on now!"
+	para "Les rebaixes dels"
+	line "G. GOLDROD han"
+	cont "començat!"
 
-	para "Want it cheap?"
-	line "Want it lots?"
+	para "Vols preus baixos?"
+	line "En vols molts?"
 
-	para "Don't miss this"
-	line "GOLDENROD chance!"
+	para "No et perdis"
+	line "aquesta ocasió!"
 
-	para "Huh? I sound like"
-	line "a huckster?"
+	para "Eh? Semblo un"
+	line "venedor?"
 
-	para "Well, yeah. I was"
-	line "mimicking them…"
+	para "Bé, sí. Els"
+	line "estava imitant…"
 
-	para "Anyway, you've got"
-	line "to get there as"
-	cont "soon as you can!"
+	para "En fi, ves-hi tan"
+	line "aviat com puguis!"
 	done
 
 ToddSavingUpForBargainSaleText:
-	text "I'm saving up for"
-	line "the next bargain"
+	text "Estic estalviant"
+	line "per a les properes"
 
-	para "sale. When's the"
-	line "next one?"
+	para "rebaixes. Quan"
+	line "seran?"
 	done
 
 ToddLookingForwardToBattleText:
-	text "Where are you?"
+	text "On ets?"
 
-	para "Let's have our"
-	line "battle soon!"
+	para "Fem el combat"
+	line "aviat!"
 
-	para "I'll be waiting on"
+	para "T'esperaré a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 ToddHaveYouGoneToDepartmentStoreText:
-	text "Haven't you gone"
-	line "to GOLDENROD DEPT."
+	text "No has anat als"
+	line "G. GOLDROD?"
 
-	para "STORE? I've scoped"
-	line "it out already!"
+	para "Jo ja m'ho he"
+	line "mirat tot!"
 
-	para "They had some real"
-	line "bargains."
+	para "Tenien ofertes"
+	line "molt bones."
 
-	para "You should get"
-	line "there quickly."
+	para "Hauries d'anar-hi"
+	line "ràpidament."
 	done

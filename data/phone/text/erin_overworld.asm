@@ -1,63 +1,65 @@
 ErinAskNumber1Text:
-	text "It really made me"
-	line "angry to lose."
+	text "M'ha fet molta"
+	line "ràbia perdre."
 
-	para "I'll have to train"
-	line "much harder…"
+	para "Hauré d'entrenar"
+	line "molt més…"
 
-	para "Here's my number."
-	line "I'm ERIN--don't"
+	para "Aquí tens el meu"
+	line "número. Soc"
 
-	para "forget! Want to"
-	line "battle me again?"
+	para "l'ERIN, no ho"
+	line "oblidis! Vols"
+	cont "tornar a lluitar?"
 	done
 
 ErinAskNumber2Text:
-	text "I want to battle"
-	line "with you again."
+	text "Vull tornar a"
+	line "lluitar amb tu."
 
-	para "Do you want to"
-	line "exchange numbers?"
+	para "Vols que ens"
+	line "donem els números?"
 	done
 
 ErinNumberAcceptedText:
-	text "I'll remember to"
-	line "call when I want"
-	cont "to battle again!"
+	text "Trucaré quan"
+	line "vulgui tornar"
+	cont "a lluitar!"
 	done
 
 ErinNumberDeclinedText:
-	text "Oh… I'm sad…"
-	line "If you do want to"
+	text "Oh… Estic trista…"
+	line "Si vols lluitar,"
 
-	para "battle, come see"
-	line "ERIN--that's me!"
+	para "vine a veure"
+	line "l'ERIN, soc jo!"
 	done
 
 ErinPhoneFullText:
-	text "Oh no. Your phone"
-	line "is all filled up."
+	text "Oh no. El teu"
+	line "telèfon és ple."
 	done
 
 ErinRematchText:
-	text "Yay! I waited!"
-	line "Let's start now!"
+	text "Bé! T'he esperat!"
+	line "Comencem ara!"
 	done
 
 ErinPackFullText:
-	text "That's too bad!"
-	line "You have no room…"
+	text "Quina llàstima!"
+	line "No tens espai…"
 
-	para "I'll give it to"
-	line "you another time."
+	para "T'ho donaré un"
+	line "altre dia."
 	done
 
 ErinRematchGiftText:
-	text "Aww… I lost again!"
+	text "Oh… He tornat a"
+	line "perdre!"
 
-	para "I wonder how many"
-	line "times that is…"
+	para "Em pregunto"
+	line "quantes vegades…"
 
-	para "Thanks for coming!"
-	line "Here's a present!"
+	para "Gràcies per"
+	line "venir! Un regal!"
 	done

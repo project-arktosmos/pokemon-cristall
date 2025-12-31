@@ -136,159 +136,164 @@ DanceTheaterFancyPanel:
 	jumptext DanceTheaterFancyPanelText
 
 KimonoGirlNaokoSeenText:
-	text "You have lovely"
-	line "#MON. May I see"
-	cont "them in battle?"
+	text "Tens uns #MON"
+	line "preciosos. Puc"
+	cont "veure'ls lluitar?"
 	done
 
 KimonoGirlNaokoBeatenText:
-	text "Oh, you are very"
-	line "strong."
+	text "Oh, ets molt"
+	line "fort."
 	done
 
 KimonoGirlNaokoAfterBattleText:
-	text "I enjoyed that"
-	line "bout. I would like"
-	cont "to see you again."
+	text "He gaudit del"
+	line "combat. M'agra-"
+	cont "daria veure't més."
 	done
 
 KimonoGirlSayoSeenText:
-	text "I always dance"
-	line "with my #MON."
+	text "Sempre ballo amb"
+	line "els meus #MON."
 
-	para "Of course, I also"
-	line "train them."
+	para "És clar, també"
+	line "els entreno."
 	done
 
 KimonoGirlSayoBeatenText:
-	text "Oh, so close!"
-	line "I almost had you."
+	text "Oh, per poc!"
+	line "Quasi t'he guanyat"
 	done
 
 KimonoGirlSayoAfterBattleText:
-	text "Rhythm is impor-"
-	line "tant for both"
+	text "El ritme és impor-"
+	line "tant tant per al"
 
-	para "dancing and #-"
-	line "MON."
+	para "ball com pels"
+	line "#MON."
 	done
 
 KimonoGirlZukiSeenText:
-	text "Isn't my barrette"
-	line "pretty?"
+	text "No és bonica la"
+	line "meva agulla?"
 
-	para "Oh. A #MON"
-	line "battle?"
+	para "Oh. Un combat"
+	line "#MON?"
 	done
 
 KimonoGirlZukiBeatenText:
-	text "I don't have any"
-	line "#MON left…"
+	text "No em queden més"
+	line "#MON…"
 	done
 
 KimonoGirlZukiAfterBattleText:
-	text "I put a different"
-	line "flower in my bar-"
-	cont "rette every month."
+	text "Poso una flor"
+	line "diferent a la me-"
+	cont "va agulla cada mes"
 	done
 
 KimonoGirlKuniSeenText:
-	text "Oh, you're a cute"
-	line "trainer. Would you"
-	cont "like to battle?"
+	text "Oh, ets un entre-"
+	line "nador molt maco."
+	cont "Vols lluitar?"
 	done
 
 KimonoGirlKuniBeatenText:
-	text "You're stronger"
-	line "than you look."
+	text "Ets més fort del"
+	line "que sembles."
 	done
 
 KimonoGirlKuniAfterBattleText:
-	text "I trained a lot,"
-	line "so I thought I was"
+	text "He entrenat molt,"
+	line "així que pensava"
 
-	para "a capable trainer."
-	line "I guess I'm not."
+	para "que era capaç."
+	line "Veig que no."
 	done
 
 KimonoGirlMikiSeenText:
-	text "Do you like my"
-	line "dancing? I'm good"
-	cont "at #MON too."
+	text "T'agrada com"
+	line "ballo? També sóc"
+	cont "bona amb #MON."
 	done
 
 KimonoGirlMikiBeatenText:
-	text "Ooh, you're good"
-	line "at #MON too."
+	text "Uau, tu també ets"
+	line "bo amb #MON."
 	done
 
 KimonoGirlMikiAfterBattleText:
-	text "I can keep dancing"
-	line "because there are"
+	text "Puc seguir ballant"
+	line "perquè hi ha gent"
 
-	para "people who enjoy"
-	line "what I do."
+	para "que gaudeix del"
+	line "que faig."
 
-	para "My #MON keep my"
-	line "spirits up too."
+	para "Els meus #MON"
+	line "també m'animen."
 	done
 
 SurfGuyNeverLeftAScratchText:
-	text "Not only are the"
-	line "KIMONO GIRLS great"
+	text "Les NOIES QUIMONO"
+	line "no només ballen"
 
-	para "dancers, they're"
-	line "also skilled at"
-	cont "#MON."
+	para "bé, també són"
+	line "molt bones amb"
+	cont "els #MON."
 
-	para "I always challenge"
-	line "them, but I've"
+	para "Sempre les repte,"
+	line "però no els he"
 
-	para "never even left a"
-	line "scratch…"
+	para "fet ni un"
+	line "rasguny…"
 	done
 
 SurfGuyLadGiftText:
-	text "Lad! If you can"
-	line "defeat all the"
+	text "Noi! Si pots"
+	line "derrotar totes"
 
-	para "KIMONO GIRLS, I'll"
-	line "give you a gift."
+	para "les NOIES QUIMONO,"
+	line "et faré un regal."
 	done
 
 SurfGuyLassieGiftText:
-	text "Lassie, if you can"
-	line "defeat all the"
+	text "Noia! Si pots"
+	line "derrotar totes"
 
-	para "KIMONO GIRLS, I'll"
-	line "give you a gift."
+	para "les NOIES QUIMONO,"
+	line "et faré un regal."
 	done
 
 SurfGuyLikeADanceText:
-	text "The way you bat-"
-	line "tled, it was like"
-	cont "watching a dance."
+	text "La manera com has"
+	line "lluitat, era com"
+	cont "veure un ball."
 
-	para "It was a rare"
-	line "treat to see!"
+	para "Ha estat tot un"
+	line "plaer de veure!"
 
-	para "I want you to have"
-	line "this. Don't worry"
-	cont "--take it!"
+	para "Vull que tinguis"
+	line "això. No pateixis,"
+	cont "agafa-ho!"
 	done
 
 SurfGuySurfExplanationText:
-	text "That's SURF."
+	text "Això és SURF."
 
-	para "It's a move that"
-	line "lets #MON swim"
-	cont "across water."
+	para "És un moviment"
+	line "que deixa als"
+
+	para "#MON nedar per"
+	line "l'aigua."
 	done
 
 SurfGuyElegantKimonoGirlsText:
-	text "I wish my #MON"
-	line "were as elegant as"
-	cont "the KIMONO GIRLS…"
+	text "M'agradaria que"
+	line "els meus #MON"
+
+	para "fossin tan ele-"
+	line "gants com les"
+	cont "NOIES QUIMONO…"
 	done
 
 RhydonText:
@@ -297,42 +302,43 @@ RhydonText:
 	done
 
 DanceTheaterCooltrainerMText:
-	text "That man's always"
-	line "with his RHYDON."
+	text "Aquell home sempre"
+	line "va amb el RHYDON."
 
-	para "Says he wants a"
-	line "#MON that can"
-	cont "SURF and dance."
+	para "Diu que vol un"
+	line "#MON que pugui"
+	cont "fer SURF i ballar."
 
-	para "Is he trying to"
-	line "make a synchro-"
-	cont "nized swimming"
-	cont "#MON?"
+	para "Està intentant"
+	line "fer un #MON de"
+	cont "natació sincro-"
+	cont "nitzada?"
 	done
 
 DanceTheaterGrannyText:
-	text "The KIMONO GIRLS"
-	line "are so beautiful…"
+	text "Les NOIES QUIMONO"
+	line "són tan boniques…"
 
-	para "But they have to"
-	line "go through rigor-"
-	cont "ous training."
+	para "Però han de passar"
+	line "per un entrena-"
+	cont "ment rigorós."
 
-	para "And they have to"
-	line "learn to follow"
+	para "I han d'aprendre"
+	line "a seguir les"
 
-	para "customs before ap-"
-	line "pearing in public."
+	para "tradicions abans"
+	line "de sortir en"
+	cont "públic."
 
-	para "But if you love"
-	line "something, any-"
-	cont "thing is possible."
+	para "Però si estimes"
+	line "alguna cosa, tot"
+	cont "és possible."
 	done
 
 DanceTheaterFancyPanelText:
-	text "It's a fancy panel"
-	line "that's decorated"
-	cont "with flowers."
+	text "És un plafó ele-"
+	line "gant decorat amb"
+	cont "flors."
 	done
 
 DanceTheater_MapEvents:

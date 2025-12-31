@@ -39,44 +39,44 @@ GoodRodHouseBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 OfferGoodRodText:
-	text "OLIVINE is on the"
-	line "sea!"
+	text "OLIVINE és al"
+	line "costat del mar!"
 
-	para "And if it's on the"
-	line "sea, there are"
-	cont "bound to be fish!"
+	para "I si és al mar,"
+	line "hi ha d'haver"
+	cont "peixos!"
 
-	para "I've fished here"
-	line "for 30 years."
+	para "Porto 30 anys"
+	line "pescant aquí."
 
-	para "Would you like to"
-	line "face the sea and"
-	cont "fish?"
+	para "T'agradaria mirar"
+	line "el mar i pescar?"
 	done
 
 GiveGoodRodText:
 	text "Ah, hahah!"
-	line "We have ourselves"
-	cont "a new angler!"
+	line "Tenim un nou"
+	cont "pescador!"
 	done
 
 GaveGoodRodText:
-	text "Fish aren't found"
-	line "in the sea alone."
+	text "Els peixos no són"
+	line "només al mar."
 
-	para "They go wherever"
-	line "there is water."
+	para "Van allà on hi"
+	line "hagi aigua."
 	done
 
 DontWantGoodRodText:
-	text "Whaaat? You don't"
-	line "like to fish!?"
-	cont "Incomprehensible!"
+	text "Què?! No t'agrada"
+	line "pescar!?"
+	cont "Incomprensible!"
 	done
 
 HaveGoodRodText:
-	text "How are things?"
-	line "Land the big one?"
+	text "Com va tot?"
+	line "Has pescat un bon"
+	cont "peix?"
 	done
 
 OlivineGoodRodHouse_MapEvents:

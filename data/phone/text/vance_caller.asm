@@ -1,64 +1,64 @@
 VanceMonHasBecomeTougherText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "become tougher."
+	text_start
+	line "s'ha fet més fort."
 
-	para "We've achieved"
-	line "liftoff!"
+	para "Hem enlairat"
+	line "el vol!"
 	done
 
 VanceDefeatedMonText:
-	text "We can easily beat"
+	text "Podem batre"
 	line "@"
 	text_ram wStringBuffer4
-	text "!"
+	text " fàcil!"
 
-	para "…Huh? You too?"
-	line "Isn't that great?"
+	para "…Eh? Tu també?"
+	line "No és genial?"
 	done
 
 VanceLostAMonText:
-	text "But get this, a"
-	line "wild @"
+	text "Però mira, un"
+	line "@"
 	text_ram wStringBuffer4
-	text_start
-	para "just barely eluded"
-	line "us."
+	text " salvatge"
+	para "se'ns ha escapolit"
+	line "per poc."
 
-	para "I wanted to FLY"
-	line "after it…"
+	para "Volia VOLAR"
+	line "per seguir-lo…"
 	done
 
 VanceBattleRematchText:
-	text "Right now, I'm on"
+	text "Ara mateix sóc a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "You know, where I"
-	line "first met you?"
+	para "Saps on, oi? On"
+	line "ens vam conèixer."
 
-	para "Want to battle?"
-	line "I'll wait here."
+	para "Vols combatre?"
+	line "T'esperaré aquí."
 	done
 
 VanceHangUpText:
-	text "OK, bye for now!"
+	text "Bé, fins ara!"
 	done
 
 VanceLookingForwardText:
-	text "I'll be looking"
-	line "forward to our"
-	cont "next battle!"
+	text "Espero amb ganes"
+	line "el nostre proper"
+	cont "combat!"
 	done
 
 VanceHurryHurryText:
-	text "Oh, <PLAY_G>!"
-	line "Hurry, hurry!"
+	text "Ei, <PLAY_G>!"
+	line "Corre, corre!"
 
 	para "@"
 	text_ram wStringBuffer5
 	text "!"
-	line "FLY over now!"
+	line "VOLA fins aquí!"
 	done

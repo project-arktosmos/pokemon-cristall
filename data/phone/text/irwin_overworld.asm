@@ -1,53 +1,55 @@
 IrwinAskNumber1Text:
-	text "You're the best"
-	line "I've ever battled!"
+	text "Ets el millor"
+	line "contra qui he"
+	cont "combatut!"
 
-	para "Huh? You're the"
-	line "one who saved all"
-	cont "the SLOWPOKE?"
+	para "Eh? Ets qui ha"
+	line "salvat tots els"
+	cont "SLOWPOKE?"
 
-	para "Well, no wonder I"
-	line "couldn't beat you!"
+	para "Doncs no és"
+	line "estrany que no"
+	cont "t'hagi pogut"
+	cont "guanyar!"
 
-	para "Would it be OK to"
-	line "get your number?"
+	para "Em pots donar"
+	line "el teu número?"
 
-	para "I don't want to"
-	line "miss anything you"
-	cont "do from now on!"
+	para "No vull perdre'm"
+	line "res del que facis"
+	cont "a partir d'ara!"
 	done
 
 IrwinAskNumber2Text:
-	text "You will tell me"
-	line "your phone number?"
+	text "Em donaràs el teu"
+	line "número de telèfon?"
 	done
 
 IrwinNumberAcceptedText:
-	text "Wow! Gee, thanks!"
-	line "Now I can call you"
+	text "Uau! Moltes"
+	line "gràcies! Ara et"
 
-	para "anytime, whether"
-	line "anything's up or"
+	para "puc trucar sempre,"
+	line "passi el que"
 
-	para "not. You know,"
-	line "just to chat!"
+	para "passi. Ja saps,"
+	line "per xerrar!"
 	done
 
 IrwinNumberDeclinedText:
-	text "Oh, but…"
-	line "I'm not dangerous!"
+	text "Oh, però…"
+	line "No sóc perillós!"
 
-	para "I just want to"
-	line "call and chat"
+	para "Només vull trucar"
+	line "i xerrar"
 
-	para "about everything"
-	line "and nothing!"
+	para "de tot i de res!"
 	done
 
 IrwinPhoneFullText:
-	text "Your phone list is"
-	line "already full…"
+	text "La teva llista de"
+	line "telèfon és plena…"
 
-	para "You must be really"
+	para "Deus ser molt"
 	line "popular…"
 	done

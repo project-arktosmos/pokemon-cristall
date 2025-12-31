@@ -83,75 +83,77 @@ FlowerShopRadio: ; unreferenced
 	jumpstd Radio2Script
 
 GoldenrodFlowerShopTeacherMySisterWentToSeeWigglyTreeRoute36Text:
-	text "Have you seen that"
-	line "wiggly tree that's"
+	text "Has vist l'arbre"
+	line "trontollant que"
 
-	para "growing on ROUTE"
+	para "creix a la RUTA"
 	line "36?"
 
-	para "My little sister"
-	line "got all excited"
+	para "La meva germana"
+	line "petita es va"
 
-	para "and went to see"
-	line "it…"
+	para "emocionar i va"
+	line "anar a veure'l…"
 
-	para "I'm worried… Isn't"
-	line "it dangerous?"
+	para "Estic preocupada…"
+	line "No és perillós?"
 	done
 
 GoldenrodFlowerShopTeacherAskWantToBorrowWaterBottleText:
-	text "Do you want to"
-	line "borrow the water"
+	text "Tu també vols que"
+	line "et deixi"
 
-	para "bottle too?"
-	line "I don't want you"
+	para "l'ampolla d'aigua?"
+	line "No vull que facis"
 
-	para "doing anything"
-	line "dangerous with it."
+	para "res perillós"
+	line "amb ella."
 	done
 
 GoldenrodFlowerShopTeacherHeresTheSquirtbottleText:
-	text "Oh, you're better"
-	line "than WHITNEY…"
+	text "Oh, ets millor"
+	line "que la BLANCA…"
 
-	para "You'll be OK,"
-	line "then. Here's the"
-	cont "SQUIRTBOTTLE!"
+	para "Llavors, no hi"
+	line "haurà problema."
+	cont "Vet aquí el"
+	cont "RUIXADOR!"
 	done
 
 GoldenrodFlowerShopTeacherDontDoAnythingDangerousText:
-	text "Don't do anything"
-	line "too dangerous!"
+	text "No facis res"
+	line "massa perillós!"
 	done
 
 GoldenrodFlowerShopTeacherLalalaHavePlentyOfWaterText:
 	text "Lalala lalalala."
-	line "Have plenty of"
-	cont "water, my lovely!"
+	line "Beu molta aigua,"
+	cont "bonica meva!"
 	done
 
 GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
-	text "When I told my sis"
-	line "about the jiggly"
+	text "Quan li vaig dir a"
+	line "la meva germana"
 
-	para "tree, she told me"
-	line "it's dangerous."
+	para "el de l'arbre, em"
+	line "va dir que és"
+	cont "perillós."
 
-	para "If I beat WHITNEY,"
-	line "I wonder if she'll"
+	para "Si guanyo a la"
+	line "BLANCA, potser em"
 
-	para "lend me her water"
-	line "bottle…"
+	para "deixarà la seva"
+	line "ampolla d'aigua…"
 	done
 
 GoldenrodFlowerShopFloriaYouBeatWhitneyText:
-	text "Wow, you beat"
-	line "WHITNEY? Cool!"
+	text "Uau, has guanyat"
+	line "la BLANCA? Genial!"
 	done
 
 GoldenrodFlowerShopFloriaItReallyWasAMonText:
-	text "So it really was a"
-	line "#MON!"
+	text "Així que realment"
+	line "era un #MON!"
 	done
 
 GoldenrodFlowerShop_MapEvents:

@@ -1,529 +1,538 @@
 BuenaPhoneMorningAnswerText:
-	text "Hi, this is BUENA…"
+	text "Hola, sóc BUENA…"
 
-	para "Oh! Good morning,"
+	para "Oh! Bon dia,"
 	line "<PLAY_G>!"
 
-	para "I'm kind of foggy"
-	line "in the morning…"
+	para "Al matí estic una"
+	line "mica esmaperduda…"
 	done
 
 BuenaPhoneDayAnswerText:
-	text "Hi, this is BUENA…"
-	line "Oh! Hi, <PLAY_G>!"
+	text "Hola, sóc BUENA…"
+	line "Oh! Hola, <PLAY_G>!"
 
-	para "Do you tune into"
-	line "BUENA's show?"
+	para "Escoltes el meu"
+	line "programa de ràdio?"
 	done
 
 BuenaPhoneMidnightAnswerText:
-	text "This is BUENA."
-	line "I can't come to"
+	text "Sóc BUENA."
+	line "Ara no puc"
 
-	para "the phone right"
-	line "now."
+	para "posar-me al"
+	line "telèfon."
 
-	para "If you want to"
-	line "chat, tune into"
+	para "Si vols parlar,"
+	line "sintonitza el"
 
-	para "BUENA's PASSWORD"
-	line "on the radio and"
+	para "programa SANTO I"
+	line "SENYA de BUENA"
 
-	para "give me a call"
-	line "after midnight!"
+	para "i truca'm després"
+	line "de mitjanit!"
 	done
 
 BuenaPhoneNiteAnswerText:
-	text "Hi, this is BUENA…"
-	line "Oh! Hi, <PLAY_G>!"
+	text "Hola, sóc BUENA…"
+	line "Oh! Hola, <PLAY_G>!"
 
-	para "I just got off"
-	line "work. "
+	para "Acabo de sortir"
+	line "de la feina."
 
-	para "Let me tell you,"
-	line "I'm exhausted!"
+	para "T'ho dic jo,"
+	line "estic esgotada!"
 	done
 
 BuenaPhoneMorningText:
 	text "<PLAY_G>!"
-	line "Hi, it's BUENA!"
+	line "Hola, sóc BUENA!"
 
-	para "I got up early, so"
-	line "I decided to call!"
+	para "M'he llevat d'hora"
+	line "i he decidit"
+	cont "trucar-te!"
 	done
 
 BuenaPhoneDayText:
 	text "<PLAY_G>!"
-	line "Hi, it's BUENA!"
+	line "Hola, sóc BUENA!"
 
-	para "I needed someone"
-	line "to chat with!"
+	para "Necessitava algú"
+	line "per xerrar!"
 	done
 
 BuenaPhoneMidnightText:
 	text "<PLAY_G>!"
-	line "Hi, it's BUENA!"
+	line "Hola, sóc BUENA!"
 
-	para "I'm just on my"
-	line "break."
+	para "Ara tinc una"
+	line "estona de descans."
 	done
 
 BuenaPhoneNiteText:
 	text "<PLAY_G>!"
-	line "Hi, it's BUENA!"
+	line "Hola, sóc BUENA!"
 
-	para "I couldn't sleep,"
-	line "so I called you."
+	para "No podia dormir,"
+	line "així que t'he"
+	cont "trucat."
 	done
 
 BuenaPhoneRocketText:
-	text "Oh. Hi, <PLAY_G>!"
+	text "Oh. Hola, <PLAY_G>!"
 
-	para "You are how?"
+	para "Com ets estar?"
 
-	para "Aiyee! This isn't"
-	line "the time for me to"
+	para "Ai! Ara no és"
+	line "moment per fer"
 
-	para "be cracking silly"
-	line "gag greetings!"
+	para "bromes amb les"
+	line "salutacions!"
 
-	para "The RADIO TOWER is"
-	line "in deep trouble!"
+	para "La TORRE RÀDIO té"
+	line "un greu problema!"
 
-	para "<PLAY_G>, you'd"
-	line "better be careful!"
+	para "<PLAY_G>, vés amb"
+	line "molt de compte!"
 	done
 
 BuenaPhoneWentOutWithBenText:
-	text "The other day, I"
-	line "went out to eat"
+	text "L'altre dia vaig"
+	line "sortir a sopar"
 
-	para "with DJ BEN!"
-	line "Isn't it great?"
+	para "amb el DJ BEN!"
+	line "No és genial?"
 
-	para "Not only that, he"
-	line "said the music on"
+	para "I no només això,"
+	line "va dir que la"
 
-	para "my program is"
-	line "cool!"
+	para "música del meu"
+	line "programa és guai!"
 
-	para "Oh, wow! Like,"
-	line "what should I do?"
+	para "Ui! I ara"
+	line "què faig?"
 
-	para "…Oops, I have to"
-	line "get ready for my"
+	para "…Oi! M'he de"
+	line "preparar pel"
 
-	para "show! I'll catch"
-	line "you later!"
+	para "programa! Ja ens"
+	line "veurem!"
 	done
 
 BuenaPhoneReceptionistText:
-	text "You know the"
-	line "receptionist at"
-	cont "the RADIO TOWER?"
+	text "Coneixes la"
+	line "recepcionista de"
+	cont "la TORRE RÀDIO?"
 
-	para "'Welcome,' is all"
-	line "she ever says."
+	para "'Benvingut', és"
+	line "l'únic que diu."
 
-	para "But she's really"
-	line "the chattiest"
+	para "Però és la"
+	line "persona més"
 
-	para "person at the"
-	line "RADIO TOWER."
+	para "xerraire de la"
+	line "TORRE RÀDIO."
 
-	para "So she must be"
-	line "holding back."
+	para "Deu ser que es"
+	line "conté molt."
 
-	para "Isn't that fun to"
-	line "know?"
+	para "No és curiós"
+	line "saber-ho?"
 
-	para "Catch you later!"
+	para "Fins aviat!"
 	done
 
 BuenaPhoneLuckyNumberShowText:
-	text "Tell me, <PLAY_G>."
-	line "Have you ever won"
+	text "Digues, <PLAY_G>."
+	line "Has guanyat mai"
 
-	para "a prize on the"
-	line "LUCKY NUMBER SHOW?"
+	para "un premi al"
+	line "SORTEIG"
+	cont "DE LA SORT?"
 
-	para "REED moans that"
-	line "he's never won, so"
+	para "En REED es queixa"
+	line "que no guanya mai,"
 
-	para "he vows to keep"
-	line "the show on the"
-	cont "air till he does."
+	para "i ha jurat que el"
+	line "programa seguirà"
+	cont "fins que guanyi."
 
-	para "Let's chat again!"
+	para "Tornem a xerrar!"
 	done
 
 BuenaPhoneStressedFromWorkText:
-	text "You know, last"
-	line "night…"
+	text "Saps, ahir"
+	line "a la nit…"
 
-	para "I was so stressed"
-	line "out from work, I"
+	para "Estava tan"
+	line "estressada de la"
 
-	para "ate a ton of junk"
-	line "food!"
+	para "feina que em vaig"
+	line "empatar de menjar!"
 
-	para "MARY and I have"
-	line "this deal about"
-	cont "losing weight…"
+	para "La MARY i jo tenim"
+	line "un pacte per"
+	cont "aprimar-nos…"
 
-	para "This won't do…"
+	para "Això no pot ser…"
 
-	para "Huh? What's the"
-	line "weight?"
+	para "Eh? Que quant"
+	line "peso?"
 
-	para "This has to be a"
-	line "total secret!"
+	para "Això és un secret"
+	line "total!"
 
-	para "MARY weighs…"
+	para "La MARY pesa…"
 
-	para "Aiyee! M-MARY!"
+	para "Ai! M-MARY!"
 
-	para "Uh… Um… I… Sorry,"
-	line "wrong number!"
+	para "Eh… Em… Jo… Perdó,"
+	line "m'he equivocat!"
 	done
 
 BuenaPhoneProfessorOakText:
-	text "Yesterday, PROF."
-	line "OAK was in the"
+	text "Ahir el PROF."
+	line "OAK era a l'estudi"
 
-	para "studio to tape his"
-	line "show."
+	para "per gravar el seu"
+	line "programa."
 
-	para "So I went over and"
-	line "introduced myself."
+	para "Així que em vaig"
+	line "presentar."
 
-	para "Get this--he tunes"
-	line "in to my program!"
+	para "I resulta que"
+	line "escolta el meu"
+	cont "programa!"
 
-	para "Oh! Here comes"
-	line "PROF.OAK again!"
+	para "Oh! Aquí torna"
+	line "el PROF.OAK!"
 
-	para "I'm going to chat"
-	line "him up again!"
+	para "Li tornaré a fer"
+	line "la xerrada!"
 
-	para "Catch you later!"
+	para "Fins aviat!"
 	done
 
 BuenaPhoneGotAColdText:
-	text "…Cough, cough!"
+	text "…Tos, tos!"
 
-	para "Uhm sorry uh got"
-	line "uh code dite now."
+	para "Perdoda, és que"
+	line "tic un refredat."
 
-	para "Buh uma pro so uh"
-	line "hav to cover id ub"
+	para "Però sóc una pro"
+	line "i he de dissimu-"
 
-	para "so no un notice"
-	line "while uhm on air."
+	para "lar perquè ningú"
+	line "s'adodi a l'aire."
 
-	para "Uh fidz muh voice"
-	line "now."
+	para "Ara prepararé"
+	line "la veu."
 
-	para "I'll catch you on"
-	line "the fly. This has"
-	cont "been BUENA!"
+	para "Ja parlarem! Això"
+	line "ha estat BUENA!"
 	done
 
 BuenaPhoneRadioCardQuestionsText:
-	text "Hey, <PLAY_G>."
-	line "You won that RADIO"
+	text "Ei, <PLAY_G>."
+	line "Vas guanyar la"
 
-	para "CARD by beating"
-	line "the quiz at the"
+	para "TARGETA RÀDIO"
+	line "superant el qüiz"
 
-	para "reception desk,"
-	line "didn't you?"
+	para "de la recepció,"
+	line "oi?"
 
-	para "Guess what? I made"
-	line "up the questions!"
+	para "I saps què? Jo"
+	line "vaig fer les"
+	cont "preguntes!"
 
-	para "…Were they too"
-	line "easy for you?"
+	para "…Et van semblar"
+	line "massa fàcils?"
 
-	para "Well, let's chat"
-	line "again!"
+	para "Bé, tornem a"
+	line "xerrar!"
 	done
 
 BuenaPhonePikachuFanClubText:
-	text "I'm elated that"
-	line "more people are"
+	text "M'alegra que més"
+	line "gent participi al"
 
-	para "taking part in my"
-	line "PASSWORD show."
+	para "programa SANTO I"
+	line "SENYA."
 
-	para "But when PIKACHU"
-	line "was the password,"
+	para "Però quan PIKACHU"
+	line "era el santo i"
+	cont "senya…"
 
-	para "it was uh… whew…"
-	line "overwhelming."
+	para "uf… va ser"
+	line "aclaparador."
 
-	para "FAN CLUB people"
-	line "came in out in"
+	para "Van venir fans"
+	line "del CLUB en massa,"
 
-	para "droves, shouting"
-	line "'PIKACHU!' over"
+	para "cridant 'PIKACHU!'"
+	line "sense parar. Eren"
 
-	para "and over. I mean,"
-	line "they were loud."
+	para "molt sorollosos."
 
-	para "Anyone tuning in"
-	line "around then must"
+	para "Qui sintonitzés"
+	line "llavors devia"
 
-	para "have been shocked"
-	line "by the racket!"
+	para "quedar xocat pel"
+	line "rebombori!"
 
-	para "Anyway, back to"
-	line "work for me!"
+	para "Bé, torno a la"
+	line "feina!"
 
-	para "Let's chat again!"
+	para "Tornem a xerrar!"
 	done
 
 BuenaPhoneRadioTowerDirectorText:
-	text "Guess what?"
-	line "The RADIO TOWER's"
+	text "Saps què?"
+	line "El DIRECTOR de"
 
-	para "DIRECTOR is a big"
-	line "fan of TV!"
+	para "la TORRE RÀDIO"
+	line "és fan de la TV!"
 
-	para "A while ago, a"
-	line "fashion show on TV"
+	para "Fa temps, un"
+	line "programa de moda"
 
-	para "said that black"
-	line "suits were in."
+	para "va dir que els"
+	line "vestits negres"
 
-	para "Now all he wears"
-	line "are black suits."
+	para "eren tendència."
+	line "Ara només porta"
+	cont "vestits negres."
 
-	para "But it's a secret"
-	line "that our DIRECTOR"
+	para "Però és secret"
+	line "que el DIRECTOR"
 
-	para "is a TV fan, so if"
-	line "you see him, don't"
+	para "és fan de la TV,"
+	line "així que si el"
 
-	para "you dare mention"
-	line "it!"
+	para "veus, no ho"
+	line "diguis!"
 
-	para "Oh! The DIRECTOR"
-	line "will be here soon!"
+	para "Oh! El DIRECTOR"
+	line "arribarà aviat!"
 
-	para "Later! Tune into"
-	line "my show!"
+	para "Fins després!"
+	line "Escolta el meu"
+	cont "programa!"
 	done
 
 BuenaPhoneWhenDoYouRelaxText:
-	text "<PLAY_G>, tell me."
+	text "<PLAY_G>, digues."
 
-	para "When do you relax"
-	line "the most?"
+	para "Quan et relaxes"
+	line "més?"
 
-	para "For me, it has to"
-	line "be in the studio"
+	para "Jo, sens dubte,"
+	line "és a l'estudi"
 
-	para "right after my"
-	line "show, enjoying a"
+	para "just després del"
+	line "programa, prenent"
 
-	para "nice cup of tea."
-	line "It's so pleasant"
+	para "un bon te."
+	line "És tan agradable"
 
-	para "that it gradually"
-	line "makes me drowsy…"
+	para "que em va fent"
+	line "son…"
 
 	para "<……> <……> <……>"
 
 	para "<……> <……> <……>Zzz"
 
-	para "Oops, I drifted"
-	line "off just thinking"
+	para "Ui, m'he quedat"
+	line "adormida només de"
 
-	para "about it! How, uh…"
-	line "embarrassing!"
+	para "pensar-hi! Quina"
+	line "vergonya!"
 
-	para "Please forget this"
-	line "happened! Later!"
+	para "Oblida't d'això!"
+	line "Fins després!"
 	done
 
 BuenaPhoneStarterPokemonText:
-	text "<PLAY_G>, what was"
-	line "the first #MON"
-	cont "you ever caught?"
+	text "<PLAY_G>, quin va"
+	line "ser el primer"
+	cont "#MON que vas"
+	cont "atrapar?"
 
-	para "…Oh, really?"
+	para "…Ah, sí?"
 
-	para "I've seen lots of"
-	line "#MON around,"
+	para "He vist molts"
+	line "#MON per aquí,"
 
-	para "but I've never"
-	line "caught one."
+	para "però mai n'he"
+	line "atrapat cap."
 
-	para "I should give it a"
-	line "try sometime."
+	para "Hauria de provar"
+	line "algun dia."
 
-	para "Did you know that"
-	line "the first #MON"
+	para "Sabies que el"
+	line "primer #MON que"
 
-	para "MARY caught was a"
-	line "DROWZEE?"
+	para "va atrapar la"
+	line "MARY va ser"
+	cont "un DROWZEE?"
 
-	para "Isn't that so out"
-	line "of character?"
+	para "No és estrany"
+	line "per a ella?"
 
-	para "But MARY's DROWZEE"
-	line "kept making her"
+	para "Però el DROWZEE"
+	line "de la MARY li"
 
-	para "fall asleep on the"
-	line "job, so she traded"
+	para "feia agafar son"
+	line "a la feina, així"
 
-	para "with a fan for a"
-	line "MEOWTH."
+	para "que el va canviar"
+	line "amb un fan per"
+	cont "un MEOWTH."
 
-	para "Let's chat about"
-	line "#MON again!"
+	para "Tornem a parlar"
+	line "de #MON!"
 
-	para "Bye-bye!"
+	para "Adéu!"
 	done
 
 BuenaPhoneCompanyVacationText:
-	text "Guess what? All of"
-	line "us from the RADIO"
+	text "Saps què? Tots"
+	line "els de la TORRE"
 
-	para "TOWER are going on"
-	line "a company vacation"
+	para "RÀDIO anem de"
+	line "vacances d'empresa"
 
-	para "to the RADIO TOWER"
-	line "in LAVENDER."
+	para "a la TORRE RÀDIO"
+	line "de LAVENDER."
 
-	para "We're wasting our"
-	line "vacation on a trip"
+	para "Fem servir les"
+	line "vacances per anar"
 
-	para "to another RADIO"
-	line "TOWER?"
+	para "a una altra TORRE"
+	line "RÀDIO?"
 
-	para "I'd much rather go"
-	line "to the beach!"
+	para "Preferiria anar"
+	line "a la platja!"
 
-	para "<PLAY_G>, I hope"
-	line "you have enough"
+	para "<PLAY_G>, espero"
+	line "que et diverteixis"
 
-	para "fun for both of us"
-	line "on your journey!"
+	para "per tots dos en"
+	line "el teu viatge!"
 
-	para "Bye-bye!"
+	para "Adéu!"
 	done
 
 BuenaPhoneBenAndFernText:
-	text "Did you know…?"
+	text "Ho sabies…?"
 
-	para "BEN and FERN talk"
-	line "on the phone for"
+	para "En BEN i la FERN"
+	line "parlen per telèfon"
 
-	para "hours about what"
-	line "#MON music they"
+	para "durant hores sobre"
+	line "quina música de"
 
-	para "should play on"
-	line "different days of"
-	cont "the week."
+	para "#MON haurien de"
+	line "posar cada dia de"
+	cont "la setmana."
 
-	para "One time, FERN's"
-	line "rapping style kind"
+	para "Un cop, l'estil"
+	line "de rap de la FERN"
 
-	para "of rubbed off on"
-	line "BEN weirdly."
+	para "se li va encomanar"
+	line "a en BEN."
 
-	para "So we ended up"
-	line "enduring BEN's"
+	para "Així que vam haver"
+	line "d'aguantar en BEN"
 
-	para "silly, chilly, a"
-	line "willy-nilly jive-"
-	cont "talking shtick for"
-	cont "a while."
+	para "parlant amb argot"
+	line "estrany durant una"
+	cont "bona temporada."
 
-	para "Let's chat again!"
+	para "Tornem a xerrar!"
 	done
 
 BuenaPhoneGoingShoppingText:
-	text "I'm going shopping"
-	line "with MARY and LILY"
-	cont "soon."
+	text "Aniré de compres"
+	line "amb la MARY i la"
+	cont "LILY aviat."
 
-	para "It'll be great if"
-	line "GOLDENROD DEPT."
+	para "Seria genial si"
+	line "els GRANS"
 
-	para "STORE has a sale"
-	line "on when we go…"
+	para "MAGATZEMS de"
+	line "GOLDERNROD tenen"
+	cont "rebaixes…"
 
-	para "<PLAY_G>, maybe we"
-	line "can hook up too!"
+	para "<PLAY_G>, potser"
+	line "ens podem trobar!"
 
-	para "Catch you later!"
+	para "Fins aviat!"
 	done
 
 BuenaPhoneFavoriteSlotMachineAnswerText:
-	text "I'm thinking of"
-	line "going to the GAME"
+	text "Penso anar al"
+	line "CASINO demà."
 
-	para "CORNER tomorrow."
-	line "It's been a while."
+	para "Feia temps que"
+	line "no hi anava."
 
 if DEF(_CRYSTAL_AU)
-	para "Some machines pays"
-	line "out a lot."
+	para "Hi ha màquines"
+	line "que paguen molt."
 else
-	para "You see, I have my"
-	line "favorite machine…"
+	para "Tinc la meva"
+	line "màquina preferida…"
 
-	para "It pays out a lot,"
-	line "I kid you not!"
+	para "Paga molt bé,"
+	line "t'ho dic jo!"
 endc
 
-	para "Huh? Nuh-uh, it's"
-	line "my secret!"
+	para "Eh? Ni pensar-ho,"
+	line "és el meu secret!"
 
-	para "You have to find"
-	line "it yourself!"
+	para "L'has de trobar"
+	line "tu!"
 
-	para "Catch you later!"
+	para "Fins aviat!"
 	done
 
 BuenaPhonePokegearAnswerText:
-	text "Hey, <PLAY_G>. You"
-	line "use your #GEAR"
+	text "Ei, <PLAY_G>."
+	line "Fas servir el"
 
-	para "to listen to the"
-	line "radio, right?"
+	para "#GEAR per"
+	line "escoltar la ràdio?"
 
-	para "I heard that you"
-	line "can even display"
+	para "He sentit que"
+	line "també pots veure"
 
-	para "town maps with"
-	line "#GEAR."
+	para "mapes de ciutats"
+	line "amb el #GEAR."
 
-	para "I have a bad sense"
-	line "of direction, so"
+	para "Tinc mal sentit"
+	line "de l'orientació,"
 
-	para "#GEAR would be"
-	line "handy…"
+	para "així que el"
+	line "#GEAR em seria"
+	cont "molt útil…"
 
-	para "Anyway, thanks for"
-	line "calling! Later!"
+	para "Gràcies per"
+	line "trucar! Adéu!"
 	done
 
 BuenaPhoneCoopedUpInRadioTowerAnswerText:
-	text "Is it sunny"
-	line "outside today?"
+	text "Fa sol avui?"
 
-	para "When you're cooped"
-	line "up in the RADIO"
+	para "Quan estàs tancada"
+	line "a la TORRE RÀDIO"
 
-	para "TOWER as much as I"
-	line "am, you lose touch"
+	para "tant com jo,"
+	line "perds el contacte"
 
-	para "with the outside."
-	line "It can be boring."
+	para "amb l'exterior."
+	line "Pot ser avorrit."
 
-	para "Please call again!"
+	para "Torna a trucar!"
 	done

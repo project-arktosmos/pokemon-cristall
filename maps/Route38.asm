@@ -321,153 +321,152 @@ Route38FruitTree:
 	fruittree FRUITTREE_ROUTE_38
 
 BirdKeeperTobySeenText:
-	text "Fly high into the"
-	line "sky, my beloved"
-	cont "bird #MON!"
+	text "Voleu alt pel cel,"
+	line "els meus estimats"
+	cont "# ocell!"
 	done
 
 BirdKeeperTobyBeatenText:
-	text "I feel like just"
-	line "flying away now."
+	text "Tinc ganes de"
+	line "sortir volant."
 	done
 
 BirdKeeperTobyAfterBattleText:
-	text "I plan to train in"
-	line "CIANWOOD CITY to"
+	text "Vull entrenar a"
+	line "CIUTAT CIANWOOD"
 
-	para "teach my #MON"
-	line "how to FLY."
+	para "per ensenyar els"
+	line "meus # a volar."
 	done
 
 SchoolboyChad1SeenText:
-	text "Let me try some-"
-	line "thing I learned"
-	cont "today."
+	text "Deixa'm provar el"
+	line "que he après"
+	cont "avui."
 	done
 
 SchoolboyChad1BeatenText:
-	text "I didn't study"
-	line "enough, I guess."
+	text "No he estudiat"
+	line "prou, suposo."
 	done
 
 SchoolboyChadSoManyTestsText:
-	text "I have to take so"
-	line "many tests, I"
+	text "Tinc tants"
+	line "exàmens que no"
 
-	para "don't have much"
-	line "time for #MON."
+	para "tinc gaire temps"
+	line "per als #MON."
 
-	para "So when I do get"
-	line "to play, I really"
-	cont "concentrate."
+	para "Quan puc jugar,"
+	line "em concentro"
+	cont "molt."
 	done
 
 LassDana1SeenText:
-	text "You seem to be"
-	line "good at #MON."
+	text "Sembla que ets bo"
+	line "amb els #MON."
 
-	para "If you are, how"
-	line "about giving me"
-	cont "some advice?"
+	para "Si ho ets, em"
+	line "podries donar"
+	cont "algun consell?"
 	done
 
 LassDana1BeatenText:
-	text "I see. So you can"
-	line "battle that way."
+	text "Ja veig. Així que"
+	line "es pot lluitar."
 	done
 
 LassDanaMoomooMilkText:
-	text "I know something"
-	line "good!"
+	text "Sé una cosa bona!"
 
-	para "MOOMOO FARM's milk"
-	line "is famous for its"
-	cont "flavor."
+	para "La llet de GRANJA"
+	line "MUUMUU és famosa"
+	cont "pel seu gust."
 	done
 
 BeautyValerieSeenText:
-	text "Hi! Aren't you a"
-	line "cute trainer!"
+	text "Hola! Ets un"
+	line "entrenador mono!"
 
-	para "May I see your"
-	line "#MON?"
+	para "Puc veure els"
+	line "teus #MON?"
 	done
 
 BeautyValerieBeatenText:
-	text "I'm glad I got to"
-	line "see your #MON!"
+	text "M'alegro d'haver"
+	line "vist els teus"
+	cont "#!"
 	done
 
 BeautyValerieAfterBattleText:
-	text "When I see #-"
-	line "MON, it seems to"
-	cont "soothe my nerves."
+	text "Quan veig #MON,"
+	line "em relaxen els"
+	cont "nervis."
 	done
 
 SailorHarrySeenText:
-	text "I've been over-"
-	line "seas, so I know"
+	text "He viatjat per"
+	line "tot el món, així"
 
-	para "about all sorts of"
-	line "#MON!"
+	para "que conec molts"
+	line "tipus de #MON!"
 	done
 
 SailorHarryBeatenText:
-	text "Your skill is"
-	line "world class!"
+	text "La teva habilitat"
+	line "és de nivell alt!"
 	done
 
 SailorHarryAfterBattleText:
-	text "All kinds of peo-"
-	line "ple around the"
+	text "Tota mena de gent"
+	line "d'arreu del món"
 
-	para "world live happily"
-	line "with #MON."
+	para "viu feliçment amb"
+	line "els #MON."
 	done
 
 BeautyOliviaSeenText:
-	text "Don't you think my"
-	line "#MON and I are"
-	cont "beautiful?"
+	text "No trobes que els"
+	line "meus # i jo som"
+	cont "belles?"
 	done
 
 BeautyOliviaBeatenText:
-	text "We drink MOOMOO"
-	line "MILK every day."
+	text "Bevem LLET MUUMUU"
+	line "cada dia."
 	done
 
 BeautyOliviaAfterBattleText:
-	text "MOOMOO MILK is"
-	line "good for beauty"
+	text "La LLET MUUMUU és"
+	line "bona per bellesa"
 
-	para "and health, but"
-	line "inconveniently,"
+	para "i salut, però"
+	line "malauradament,"
 
-	para "they only sell a"
-	line "bottle at a time."
+	para "només en venen"
+	line "una ampolla."
 	done
 
 Route38SignText:
-	text "ROUTE 38"
+	text "RUTA 38"
 
-	para "OLIVINE CITY -"
-	line "ECRUTEAK CITY"
+	para "CIUTAT OLIVINE -"
+	line "CIUTAT ECRUTEAK"
 	done
 
 Route38TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "If a #MON is"
-	line "trying to evolve,"
-	cont "you can stop it."
+	para "Si un #MON vol"
+	line "evolucionar, pots"
+	cont "aturar-lo."
 
-	para "Press the B But-"
-	line "ton during evolu-"
-	cont "tion."
+	para "Prem el botó B"
+	line "durant l'evolució."
 
-	para "That startles the"
-	line "#MON and stops"
-	cont "its evolution."
+	para "Això espanta el"
+	line "#MON i atura"
+	cont "l'evolució."
 	done
 
 Route38_MapEvents:

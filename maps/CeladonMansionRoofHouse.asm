@@ -34,84 +34,87 @@ CeladonMansionRoofHousePharmacistScript:
 	end
 
 CeladonMansionRoofHousePharmacistIntroText:
-	text "Let me recount a"
-	line "terrifying tale…"
+	text "Deixa'm explicar"
+	line "un conte de por…"
 	done
 
 CeladonMansionRoofHousePharmacistNotNightText:
-	text "Then again, it's"
-	line "not as scary while"
+	text "Bé, però no fa"
+	line "tanta por mentre"
 
-	para "it's still light"
-	line "outside."
+	para "encara hi ha llum"
+	line "a fora."
 
-	para "Come back after"
-	line "sunset, OK?"
+	para "Torna després de"
+	line "la posta, d'acord?"
 	done
 
 CeladonMansionRoofHousePharmacistStoryText:
-	text "Once upon a time,"
-	line "there was a little"
+	text "Vet aquí que una"
+	line "vegada, hi havia"
 
-	para "boy who was given"
-	line "a new BICYCLE…"
+	para "un nen a qui van"
+	line "regalar una BICI…"
 
-	para "He wanted to try"
-	line "it right away…"
+	para "Volia provar-la"
+	line "de seguida…"
 
-	para "He was having so"
-	line "much fun that he"
+	para "S'ho passava tan"
+	line "bé que no es va"
 
-	para "didn't notice the"
-	line "sun had set…"
+	para "adonar que el sol"
+	line "s'havia post…"
 
-	para "While riding home"
-	line "in the pitch-black"
+	para "Mentre tornava a"
+	line "casa en la foscor"
 
-	para "night, the bike"
-	line "suddenly slowed!"
+	para "de la nit, la bici"
+	line "va frenar de cop!"
 
-	para "The pedals became"
-	line "heavy!"
+	para "Els pedals es van"
+	line "fer pesants!"
 
-	para "When he stopped"
-	line "pedaling, the bike"
+	para "Quan va deixar de"
+	line "pedalar, la bici"
 
-	para "began slipping"
-	line "backwards!"
+	para "va començar a anar"
+	line "enrere!"
 
-	para "It was as if the"
-	line "bike were cursed"
+	para "Era com si la bici"
+	line "estigués malëida"
 
-	para "and trying to drag"
-	line "him into oblivion!"
-
-	para "…"
+	para "i volgués arrosse-"
+	line "gar-lo a l'oblit!"
 
 	para "…"
 
-	para "SHRIEEEEK!"
+	para "…"
 
-	para "The boy had been"
-	line "riding uphill on"
-	cont "CYCLING ROAD!"
+	para "AAAAHHH!"
+
+	para "El nen havia anat"
+	line "costa amunt per la"
+	cont "RUTA CICLISTA!"
 
 	para "…"
-	line "Ba-dum ba-dum!"
+	line "Bum-bum, bum-bum!"
 
-	para "For listening so"
-	line "patiently, you may"
-	cont "take this--TM03!"
+	para "Per escoltar amb"
+	line "tanta paciència,"
+
+	para "et regalo això:"
+	line "la MT03!"
 	done
 
 CeladonMansionRoofHousePharmacistCurseText:
-	text "TM03 is CURSE."
+	text "La MT03 conté"
+	line "CURSE."
 
-	para "It's a terrifying"
-	line "move that slowly"
+	para "És un moviment"
+	line "terrorífic que"
 
-	para "whittles down the"
-	line "victim's HP."
+	para "va reduint els PS"
+	line "de la víctima."
 	done
 
 CeladonMansionRoofHouse_MapEvents:

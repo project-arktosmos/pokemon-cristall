@@ -1,65 +1,67 @@
 TiffanyMonIsAdorableText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text "'s"
-	line "adorable, don't"
+	text " és"
+	line "adorable, no"
 
-	para "you think so?"
-	line "I always sleep"
+	para "trobes? Sempre"
+	line "dormo amb ell: és"
 
-	para "with it--it's so"
-	line "fluffy and warm!"
+	para "tan suau i"
+	line "calentó!"
 	done
 
 TiffanyDefeatedMonText:
-	text "Oh, and we had to"
-	line "battle a wild"
+	text "Ah, i vam haver de"
+	line "lluitar contra un"
 
 	para "@"
 	text_ram wStringBuffer4
-	text " a while"
-	line "ago…"
+	text " salvatge"
+	line "fa un temps…"
 
-	para "My CLEFAIRY came"
-	line "close to fainting!"
+	para "El meu CLEFAIRY va"
+	line "estar a punt de"
+	cont "desmaiar-se!"
 
-	para "Isn't that awful?"
+	para "No és horrible?"
 
-	para "I hate those nasty"
+	para "Odio aquests"
 	line "@"
 	text_ram wStringBuffer4
-	text "!"
+	text " dolents!"
 	done
 
 TiffanyLostAMonText:
-	text "Oh, and we had to"
-	line "battle a wild"
+	text "Ah, i vam haver de"
+	line "lluitar contra un"
 
 	para "@"
 	text_ram wStringBuffer4
-	text " a while"
-	line "ago…"
+	text " salvatge"
+	line "fa un temps…"
 
-	para "My CLEFAIRY got"
-	line "frightened, so we"
+	para "El meu CLEFAIRY es"
+	line "va espantar, així"
 
-	para "ran away as fast"
-	line "as we could!"
+	para "que vam fugir tan"
+	line "ràpid com vam"
+	cont "poder!"
 
-	para "I just can't help"
-	line "feeling protective"
-	cont "of my CLEFAIRY."
+	para "No puc evitar"
+	line "protegir el meu"
+	cont "CLEFAIRY."
 	done
 
 TiffanyBattleRematchText:
-	text "I know this might"
-	line "surprise you, but"
+	text "Sé que pot semblar"
+	line "estrany, però"
 
-	para "would you like to"
-	line "battle?"
+	para "voldries"
+	line "combatre?"
 
-	para "I'll be waiting"
-	line "with CLEFAIRY on"
+	para "T'esperaré amb el"
+	line "CLEFAIRY a"
 	cont "@"
 	text_ram wStringBuffer5
 	text "."
@@ -69,69 +71,71 @@ TiffanyItsAwfulText:
 	text_ram wStringBuffer4
 	text "!"
 
-	para "It's awful."
-	line "My CLEFAIRY…"
+	para "És horrible."
+	line "El meu CLEFAIRY…"
 
-	para "Huh? <PLAY_G>?"
+	para "Eh? <PLAY_G>?"
 
-	para "Oh, sorry! I was"
-	line "in a hurry, and I…"
+	para "Perdona! Tenia"
+	line "pressa, i jo…"
 
-	para "I have to go!"
-	line "Bye-bye!"
+	para "Me n'he d'anar!"
+	line "Adéu!"
 	done
 
 TiffanyHangUpText:
-	text "Bye-bye!"
+	text "Adéu!"
 	done
 
 TiffanyFoundItemText:
-	text "I bought some PINK"
-	line "BOWS at GOLDENROD"
+	text "He comprat uns"
+	line "LLAÇOS ROSES als"
 
-	para "DEPT.STORE for my"
-	line "CLEFAIRY."
+	para "G. CIALS TRIGOLD"
+	line "per al CLEFAIRY."
 
-	para "I got too many, so"
-	line "I'll give you one!"
+	para "En tinc de més,"
+	line "així que te'n"
+	cont "donaré un!"
 
-	para "Come collect it on"
-	line "@"
+	para "Vine a recollir-lo"
+	line "a @"
 	text_ram wStringBuffer5
 	text "."
 	done
 
 TiffanyNoItemText:
-	text "I love dressing up"
-	line "my CLEFAIRY!"
+	text "M'encanta vestir"
+	line "el meu CLEFAIRY!"
 	done
 
 TiffanyAsleepText:
-	text "What's wrong?"
-	line "Can't you visit?"
+	text "Què passa?"
+	line "No pots venir?"
 
-	para "CLEFAIRY got tired"
-	line "and fell asleep."
+	para "El CLEFAIRY es va"
+	line "cansar i es va"
+	cont "adormir."
 
-	para "I'm not sure if I"
-	line "can wake it up…"
+	para "No sé si el podré"
+	line "despertar…"
 
-	para "Please hurry to"
-	line "@"
+	para "Afanya't a arribar"
+	line "a @"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 TiffanyHurryText:
-	text "What's wrong?"
-	line "Can't you visit?"
+	text "Què passa?"
+	line "No pots venir?"
 
-	para "I'm sure this will"
-	line "look good on your"
+	para "Segur que això li"
+	line "quedarà bé al teu"
 	cont "CLEFAIRY."
 
-	para "Please hurry to"
-	line "@"
+	para "Afanya't a arribar"
+	line "a @"
 	text_ram wStringBuffer5
 	text "!"
 	done

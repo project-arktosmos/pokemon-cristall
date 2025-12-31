@@ -51,66 +51,68 @@ TrainerPokefanmTrevor:
 	end
 
 PokefanmCarterSeenText:
-	text "Let me tell you,"
-	line "I had a hard time"
+	text "Deixa'm dir-te que"
+	line "em va costar molt"
 
-	para "catching my prized"
-	line "#MON."
+	para "atrapar el meu"
+	line "#MON preferit."
 	done
 
 PokefanmCarterBeatenText:
-	text "Awaaah!"
+	text "Aaah!"
 	done
 
 PokefanmCarterAfterBattleText:
 	text "SQUIRTLE, CHARMAN-"
-	line "DER and BULBASAUR…"
+	line "DER i BULBASAUR…"
 
-	para "I think that's a"
-	line "well-balanced mix."
+	para "Crec que és una"
+	line "barreja"
+	cont "equilibrada"
 	done
 
 BirdKeeperRoySeenText:
-	text "My dream is to fly"
-	line "with my beloved"
-	cont "bird #MON."
+	text "El meu somni és"
+	line "volar amb el meu"
+	cont "#MON ocell."
 	done
 
 BirdKeeperRoyBeatenText:
-	text "I can dream, but I"
-	line "can't ever fly…"
+	text "Puc somiar, però"
+	line "mai podré volar…"
 	done
 
 BirdKeeperRoyAfterBattleText:
-	text "You have #MON"
-	line "that know the HM"
+	text "Tens #MON que"
+	line "saben el moviment"
 
-	para "move FLY, don't"
-	line "you? I envy you."
+	para "MO FLY, oi?"
+	line "Et tinc enveja."
 	done
 
 PokefanmTrevorSeenText:
-	text "Hi. Did you know…?"
+	text "Ei. Ho sabies…?"
 
-	para "#MON get more"
-	line "friendly if you"
+	para "Els #MON es"
+	line "tornen més amables"
 
-	para "train them in a"
-	line "place that they"
-	cont "remember."
+	para "si els entrenes en"
+	line "un lloc que"
+	cont "recorden."
 	done
 
 PokefanmTrevorBeatenText:
-	text "Where did I meet"
-	line "this PSYDUCK?"
+	text "On vaig conèixer"
+	line "aquest PSYDUCK?"
 	done
 
 PokefanmTrevorAfterBattleText:
-	text "If only there were"
-	line "an easy way to"
+	text "Si hi hagués una"
+	line "manera fàcil de"
 
-	para "identify where I"
-	line "got my #MON…"
+	para "saber on vaig"
+	line "obtenir el"
+	cont "#MON…"
 	done
 
 Route14_MapEvents:

@@ -85,8 +85,8 @@ Route15PPUp:
 	itemball PP_UP
 
 TeacherColetteSeenText:
-	text "Have you forgotten"
-	line "anything?"
+	text "T'has oblidat"
+	line "alguna cosa?"
 	done
 
 TeacherColetteBeatenText:
@@ -94,109 +94,110 @@ TeacherColetteBeatenText:
 	done
 
 TeacherColetteAfterBattleText:
-	text "Before I became a"
-	line "teacher, I used to"
+	text "Abans de ser"
+	line "mestra, m'oblidava"
 
-	para "forget a lot of"
-	line "things."
+	para "de moltes coses."
 	done
 
 TeacherHillarySeenText:
-	text "On sunny days, I"
-	line "think that the"
+	text "Els dies de sol,"
+	line "crec que els nens"
 
-	para "kids would rather"
-	line "be playing in the"
+	para "preferirien jugar"
+	line "al pati que"
 
-	para "schoolyard than"
-	line "studying in class."
+	para "estudiar a"
+	line "classe."
 	done
 
 TeacherHillaryBeatenText:
-	text "I didn't want to"
-	line "lose…"
+	text "No volia perdre…"
 	done
 
 TeacherHillaryAfterBattleText:
-	text "Studying is impor-"
-	line "tant, but exercise"
-	cont "is just as vital."
+	text "Estudiar és"
+	line "important, però"
+
+	para "l'exercici també"
+	line "és vital."
 	done
 
 SchoolboyKippSeenText:
-	text "Hang on. I have to"
-	line "phone my mom."
+	text "Espera. He de"
+	line "trucar a la mare."
 	done
 
 SchoolboyKippBeatenText:
-	text "Sorry, Mom!"
-	line "I was beaten!"
+	text "Perdona, mare!"
+	line "M'han guanyat!"
 	done
 
 SchoolboyKippAfterBattleText:
-	text "My mom worries so"
-	line "much about me, I"
+	text "La meva mare es"
+	line "preocupa tant per"
 
-	para "have to phone her"
-	line "all the time."
+	para "mi que l'he de"
+	line "trucar sempre."
 	done
 
 SchoolboyTommySeenText:
-	text "Let's battle."
-	line "I won't lose!"
+	text "Lluitem!"
+	line "No perdré!"
 	done
 
 SchoolboyTommyBeatenText:
-	text "I forgot to do my"
-	line "homework!"
+	text "He oblidat fer els"
+	line "deures!"
 	done
 
 SchoolboyTommyAfterBattleText:
-	text "Sayonara! I just"
-	line "learned that in my"
-	cont "Japanese class."
+	text "Sayonara! Ho acabo"
+	line "d'aprendre a la"
+	cont "classe de japonès."
 	done
 
 SchoolboyJohnnySeenText:
-	text "We're on a field"
-	line "trip to LAVENDER"
+	text "Fem una excursió a"
+	line "la TORRE RÀDIO de"
 
-	para "RADIO TOWER for"
-	line "social studies."
+	para "LAVENDER per a"
+	line "ciències socials."
 	done
 
 SchoolboyJohnnyBeatenText:
-	text "You're wickedly"
-	line "tough!"
+	text "Ets molt dur!"
 	done
 
 SchoolboyJohnnyAfterBattleText:
-	text "I'm tired of walk-"
-	line "ing. I need to"
-	cont "take a break."
+	text "Estic cansat de"
+	line "caminar. Necessito"
+	cont "fer un descans."
 	done
 
 SchoolboyBillySeenText:
-	text "My favorite class"
-	line "is gym!"
+	text "La meva classe"
+	line "preferida és"
+	cont "gimnàstica!"
 	done
 
 SchoolboyBillyBeatenText:
 	text "Oh, no!"
-	line "How could I lose?"
+	line "Com he pogut"
+	cont "perdre?"
 	done
 
 SchoolboyBillyAfterBattleText:
-	text "If #MON were a"
-	line "subject at school,"
-	cont "I'd be the best!"
+	text "Si els #MON"
+	line "fossin assignatura"
+	cont "seria el millor!"
 	done
 
 Route15SignText:
-	text "ROUTE 15"
+	text "RUTA 15"
 
-	para "FUCHSIA CITY -"
-	line "LAVENDER TOWN"
+	para "CIUTAT FUCHSIA -"
+	line "POBLE LAVENDER"
 	done
 
 Route15_MapEvents:

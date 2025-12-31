@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const MRPOKEMONSHOUSE_GENTLEMAN
 	const MRPOKEMONSHOUSE_OAK
 
@@ -171,203 +171,215 @@ MrPokemonsHouse_OakExits:
 	step_end
 
 MrPokemonIntroText1:
-	text "Hello, hello! You"
-	line "must be <PLAY_G>."
+	text "Hola, hola! Tu"
+	line "deus ser <PLAY_G>."
 
-	para "PROF.ELM said that"
-	line "you would visit."
+	para "El PROF.ELM em va"
+	line "dir que vindries."
 	done
 
 MrPokemonIntroText2:
-	text "This is what I"
-	line "want PROF.ELM to"
-	cont "examine."
+	text "Això és el que"
+	line "vull que el"
+	cont "PROF.ELM examini."
 	done
 
 MrPokemonsHouse_GotEggText:
-	text "<PLAYER> received"
-	line "MYSTERY EGG."
+	text "<PLAYER> ha rebut"
+	line "l'OU MISTERIÓS."
 	done
 
 MrPokemonIntroText3:
-	text "I know a couple"
-	line "who run a #MON"
-	cont "DAY-CARE service."
+	text "Conec una parella"
+	line "que tenen una"
+	cont "GUARDERIA #MON."
 
-	para "They gave me that"
-	line "EGG."
+	para "Em van donar"
+	line "aquest OU."
 
-	para "I was intrigued,"
-	line "so I sent mail to"
+	para "Em va intrigar,"
+	line "així que vaig"
+	cont "escriure al"
 	cont "PROF.ELM."
 
-	para "For #MON evolu-"
-	line "tion, PROF.ELM is"
-	cont "the authority."
+	para "Pel que fa a"
+	line "l'evolució dels"
+	cont "#MON, el"
+	cont "PROF.ELM n'és"
+	cont "l'autoritat."
 	done
 
 MrPokemonIntroText4:
-	text "Even PROF.OAK here"
-	line "recognizes that."
+	text "Fins i tot el"
+	line "PROF.OAK ho"
+	cont "reconeix."
 	done
 
 MrPokemonIntroText5:
-	text "If my assumption"
-	line "is correct, PROF."
-	cont "ELM will know it."
+	text "Si la meva"
+	line "suposició és"
+	cont "correcta, el"
+	cont "PROF.ELM ho sabrà."
 	done
 
 MrPokemonsHouse_MrPokemonHealText:
-	text "You are returning"
-	line "to PROF.ELM?"
+	text "Tornes amb el"
+	line "PROF.ELM?"
 
-	para "Here. Your #MON"
-	line "should have some"
-	cont "rest."
+	para "Té. Els teus"
+	line "#MON haurien de"
+	cont "descansar."
 	done
 
 MrPokemonText_ImDependingOnYou:
-	text "I'm depending on"
-	line "you!"
+	text "Confio en tu!"
 	done
 
 MrPokemonText_AlwaysNewDiscoveries:
-	text "Life is delight-"
-	line "ful! Always, new"
+	text "La vida és"
+	line "meravellosa!"
 
-	para "discoveries to be"
-	line "made!"
+	para "Sempre hi ha nous"
+	line "descobriments!"
 	done
 
 MrPokemonsHouse_OakText1:
-	text "OAK: Aha! So"
-	line "you're <PLAY_G>!"
+	text "OAK: Ah! Així que"
+	line "tu ets <PLAY_G>!"
 
-	para "I'm OAK! A #MON"
-	line "researcher."
+	para "Sóc l'OAK! Un"
+	line "investigador de"
+	cont "#MON."
 
-	para "I was just visit-"
-	line "ing my old friend"
-	cont "MR.#MON."
+	para "Estava visitant"
+	line "el meu vell amic,"
+	cont "el SR.#MON."
 
-	para "I heard you were"
-	line "running an errand"
+	para "M'han dit que"
+	line "feies un encàrrec"
 
-	para "for PROF.ELM, so I"
-	line "waited here."
+	para "per al PROF.ELM,"
+	line "i t'he esperat."
 
-	para "Oh! What's this?"
-	line "A rare #MON!"
+	para "Oh! Què és això?"
+	line "Un #MON rar!"
 
-	para "Let's see…"
+	para "A veure…"
 
-	para "Hm, I see!"
+	para "Hm, ja veig!"
 
-	para "I understand why"
-	line "PROF.ELM gave you"
+	para "Entenc per què"
+	line "el PROF.ELM et va"
 
-	para "a #MON for this"
-	line "errand."
+	para "donar un #MON"
+	line "per a l'encàrrec."
 
-	para "To researchers"
-	line "like PROF.ELM and"
+	para "Per investigadors"
+	line "com el PROF.ELM i"
 
-	para "I, #MON are our"
-	line "friends."
+	para "jo, els #MON"
+	line "són els amics."
 
-	para "He saw that you"
-	line "would treat your"
+	para "Va veure que"
+	line "cuidaries el teu"
 
-	para "#MON with love"
-	line "and care."
+	para "#MON amb amor"
+	line "i dedicació."
 
 	para "…Ah!"
 
-	para "You seem to be"
-	line "dependable."
+	para "Sembla que ets"
+	line "de fiar."
 
-	para "How would you like"
-	line "to help me out?"
+	para "Voldries ajudar-"
+	line "me?"
 
-	para "See? This is the"
-	line "latest version of"
-	cont "#DEX."
+	para "Mira! Aquesta és"
+	line "la darrera versió"
+	cont "de la #DEX."
 
-	para "It automatically"
-	line "records data on"
+	para "Registra les"
+	line "dades dels #MON"
 
-	para "#MON you've"
-	line "seen or caught."
+	para "que has vist o"
+	line "capturat."
 
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	para "És una enciclop-"
+	line "èdia d'alta"
+	cont "tecnologia!"
 	done
 
 MrPokemonsHouse_GetDexText:
-	text "<PLAYER> received"
-	line "#DEX!"
+	text "<PLAYER> ha rebut"
+	line "la #DEX!"
 	done
 
 MrPokemonsHouse_OakText2:
-	text "Go meet many kinds"
-	line "of #MON and"
+	text "Troba moltes"
+	line "menes de #MON i"
 
-	para "complete that"
+	para "completa la"
 	line "#DEX!"
 
-	para "But I've stayed"
-	line "too long."
+	para "Però m'he quedat"
+	line "massa estona."
 
-	para "I have to get to"
-	line "GOLDENROD for my"
-	cont "usual radio show."
+	para "He d'anar a"
+	line "GOLDENROD per al"
+	cont "meu programa de"
+	cont "ràdio habitual."
 
-	para "<PLAY_G>, I'm"
-	line "counting on you!"
+	para "<PLAY_G>, confio"
+	line "en tu!"
 	done
 
 MrPokemonText_GimmeTheScale:
-	text "Hm? That SCALE!"
-	line "What's that?"
-	cont "A red GYARADOS?"
+	text "Hm? Aquesta ESCATA"
+	line "Què és això?"
+	cont "Un GYARADOS roig?"
 
-	para "That's rare! "
-	line "I, I want it…"
+	para "Això és rar!"
+	line "Jo, la vull…"
 
-	para "<PLAY_G>, would you"
-	line "care to trade it?"
+	para "<PLAY_G>, la"
+	line "voldries bescanvi-"
+	cont "ar?"
 
-	para "I can offer this"
-	line "EXP.SHARE I got"
-	cont "from PROF.OAK."
+	para "Jo et puc oferir"
+	line "aquest REPARTEXP"
+	cont "que em va donar"
+	cont "el PROF.OAK."
 	done
 
 MrPokemonText_Disappointed:
-	text "That's disappoint-"
-	line "ing. That happens"
-	cont "to be very rare."
+	text "Quina llàstima."
+	line "Resulta que és"
+	cont "molt rara."
 	done
 
 MrPokemonsHouse_ForeignMagazinesText:
-	text "It's packed with"
-	line "foreign magazines."
+	text "Està ple de"
+	line "revistes"
+	cont "estrangeres."
 
-	para "Can't even read"
-	line "their titles…"
+	para "Ni tan sols puc"
+	line "llegir els"
+	cont "títols…"
 	done
 
 MrPokemonsHouse_BrokenComputerText:
-	text "It's a big com-"
-	line "puter. Hmm. It's"
-	cont "broken."
+	text "És un ordinador"
+	line "gran. Hm. Està"
+	cont "espatllat."
 	done
 
 MrPokemonsHouse_StrangeCoinsText:
-	text "A whole pile of"
-	line "strange coins!"
+	text "Una pila de"
+	line "monedes"
+	cont "estranyes!"
 
-	para "Maybe they're from"
-	line "another country…"
+	para "Potser són d'un"
+	line "altre país…"
 	done
 
 MrPokemonsHouse_MapEvents:

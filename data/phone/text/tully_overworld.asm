@@ -1,73 +1,73 @@
 TullyAskNumber1Text:
-	text "Hey, you're trying"
-	line "to be the ultimate"
+	text "Ei, tu també vols"
+	line "ser l'entrenador"
 
-	para "trainer too? Then"
-	line "we're comrades!"
+	para "definitiu? Doncs"
+	line "som companys!"
 
-	para "If I find any more"
-	line "items by the"
+	para "Si trobo més"
+	line "objectes a la"
 
-	para "water, I'll give"
-	line "you some."
+	para "vora de l'aigua,"
+	line "te'n donaré."
 
-	para "Just give me your"
-	line "phone number."
+	para "Només dona'm el"
+	line "teu número."
 	done
 
 TullyAskNumber2Text:
-	text "If I find any more"
-	line "items by the"
+	text "Si trobo més"
+	line "objectes a la"
 
-	para "water, I'll give"
-	line "you some."
+	para "vora de l'aigua,"
+	line "te'n donaré."
 
-	para "Just give me your"
-	line "phone number."
+	para "Només dona'm el"
+	line "teu número."
 	done
 
 TullyNumberAcceptedText:
-	text "You'll be hearing"
-	line "from me if I find"
-	cont "something good."
+	text "Et trucaré si"
+	line "trobo alguna cosa"
+	cont "bona."
 	done
 
 TullyNumberDeclinedText:
-	text "Is that so? Then"
-	line "I'll just have to"
-	cont "use them myself."
+	text "Ah, sí? Doncs els"
+	line "hauré de fer"
+	cont "servir jo."
 	done
 
 TullyPhoneFullText:
-	text "Your phone list is"
-	line "all filled up."
+	text "La teva llista de"
+	line "telèfon és plena."
 
-	para "Come back if you"
-	line "make room for me."
+	para "Torna si em fas"
+	line "un lloc."
 	done
 
 TullyRematchText:
-	text "I've been doing"
-	line "more than just"
+	text "He fet més coses"
+	line "que pescar des de"
 
-	para "fishing since we"
-	line "last met."
+	para "l'última vegada"
+	line "que ens vam veure."
 
-	para "You're in for a"
-	line "big surprise!"
+	para "Et portaràs una"
+	line "gran sorpresa!"
 	done
 
 TullyGiftText:
-	text "Hey, there you"
-	line "are!"
+	text "Ei, aquí ets!"
 
-	para "Here's a gift, as"
-	line "promised!"
+	para "Aquí tens un"
+	line "regal, com vaig"
+	cont "prometre!"
 	done
 
 TullyPackFullText:
-	text "Your PACK's full?"
+	text "La MOTXILLA plena?"
 
-	para "Come back later--"
-	line "that'll do it."
+	para "Torna més tard i"
+	line "ja està."
 	done

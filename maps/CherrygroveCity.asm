@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CHERRYGROVECITY_GRAMPS
 	const CHERRYGROVECITY_RIVAL
 	const CHERRYGROVECITY_TEACHER
@@ -90,7 +90,7 @@ CherrygroveCityGuideGent:
 	end
 
 .mapcardname
-	db "MAP CARD@"
+	db "TARG. MAPA@"
 
 .No:
 	writetext GuideGentNoText
@@ -334,214 +334,218 @@ CherrygroveCity_RivalExitsStageLeft:
 	step_end
 
 GuideGentIntroText:
-	text "You're a rookie"
-	line "trainer, aren't"
-	cont "you? I can tell!"
+	text "Ets un entrenador"
+	line "novell, oi? Es"
+	cont "nota!"
 
-	para "That's OK! Every-"
-	line "one is a rookie"
-	cont "at some point!"
+	para "No passa res!"
+	line "Tothom ha de"
+	cont "començar!"
 
-	para "If you'd like, I"
-	line "can teach you a"
-	cont "few things."
+	para "Si vols, et puc"
+	line "ensenyar algunes"
+	cont "coses."
 	done
 
 GuideGentTourText1:
-	text "OK, then!"
-	line "Follow me!"
+	text "D'acord, doncs!"
+	line "Segueix-me!"
 	done
 
 GuideGentPokecenterText:
-	text "This is a #MON"
-	line "CENTER. They heal"
+	text "Això és un CENTRE"
+	line "#. Aquí curen"
 
-	para "your #MON in no"
-	line "time at all."
+	para "els teus # en"
+	line "un tres i no res."
 
-	para "You'll be relying"
-	line "on them a lot, so"
+	para "En depens molt,"
+	line "així que més val"
 
-	para "you better learn"
-	line "about them."
+	para "que els"
+	line "coneguis bé."
 	done
 
 GuideGentMartText:
-	text "This is a #MON"
-	line "MART."
+	text "Això és una"
+	line "BOTIGA #."
 
-	para "They sell BALLS"
-	line "for catching wild"
+	para "Hi venen BALLS"
+	line "per atrapar #"
 
-	para "#MON and other"
-	line "useful items."
+	para "salvatges i altres"
+	line "objectes útils."
 	done
 
 GuideGentRoute30Text:
-	text "ROUTE 30 is out"
-	line "this way."
+	text "La RUTA 30 és"
+	line "per aquí."
 
-	para "Trainers will be"
-	line "battling their"
+	para "Els entrenadors"
+	line "hi lluiten amb"
 
-	para "prized #MON"
-	line "there."
+	para "els seus millors"
+	line "#."
 	done
 
 GuideGentSeaText:
-	text "This is the sea,"
-	line "as you can see."
+	text "Això és el mar,"
+	line "com pots veure."
 
-	para "Some #MON are"
-	line "found only in"
-	cont "water."
+	para "Alguns # només"
+	line "es troben a"
+	cont "l'aigua."
 	done
 
 GuideGentGiftText:
-	text "Here…"
+	text "Mira…"
 
-	para "It's my house!"
-	line "Thanks for your"
-	cont "company."
+	para "Aquesta és casa"
+	line "meva! Gràcies per"
+	cont "acompanyar-me."
 
-	para "Let me give you a"
-	line "small gift."
+	para "Deixa'm fer-te un"
+	line "petit regal."
 	done
 
 GotMapCardText:
-	text "<PLAYER>'s #GEAR"
-	line "now has a MAP!"
+	text "El #GEAR d'en"
+	line "<PLAYER> ara té"
+	cont "un MAPA!"
 	done
 
 GuideGentPokegearText:
-	text "#GEAR becomes"
-	line "more useful as you"
-	cont "add CARDS."
+	text "El #GEAR és més"
+	line "útil com més"
+	cont "TARGETES tinguis."
 
-	para "I wish you luck on"
-	line "your journey!"
+	para "Et desitjo sort"
+	line "en el teu viatge!"
 	done
 
 GuideGentNoText:
-	text "Oh… It's something"
-	line "I enjoy doing…"
+	text "Oh… M'agrada fer"
+	line "això…"
 
-	para "Fine. Come see me"
-	line "when you like."
+	para "D'acord. Vine a"
+	line "veure'm quan"
+	cont "vulguis."
 	done
 
 CherrygroveRivalText_Seen:
 	text "<……> <……> <……>"
 
-	para "You got a #MON"
-	line "at the LAB."
+	para "Has aconseguit un"
+	line "# al LAB."
 
-	para "What a waste."
-	line "A wimp like you."
+	para "Quin malbarata-"
+	line "ment. Amb un"
+	cont "fluixot com tu."
 
 	para "<……> <……> <……>"
 
-	para "Don't you get what"
-	line "I'm saying?"
+	para "No entens el que"
+	line "et dic?"
 
-	para "Well, I too, have"
-	line "a good #MON."
+	para "Bé, jo també tinc"
+	line "un bon #."
 
-	para "I'll show you"
-	line "what I mean!"
+	para "T'ensenyaré què"
+	line "vull dir!"
 	done
 
 RivalCherrygroveWinText:
-	text "Humph. Are you"
-	line "happy you won?"
+	text "Bah. Estàs content"
+	line "d'haver guanyat?"
 	done
 
 CherrygroveRivalText_YouLost:
 	text "<……> <……> <……>"
 
-	para "My name's ???."
+	para "Em dic ???."
 
-	para "I'm going to be"
-	line "the world's great-"
-	cont "est #MON"
-	cont "trainer."
+	para "Seré el millor"
+	line "entrenador de #"
+	cont "del món."
 	done
 
 RivalCherrygroveLossText:
-	text "Humph. That was a"
-	line "waste of time."
+	text "Bah. Ha estat una"
+	line "pèrdua de temps."
 	done
 
 CherrygroveRivalText_YouWon:
 	text "<……> <……> <……>"
 
-	para "My name's ???."
+	para "Em dic ???."
 
-	para "I'm going to be"
-	line "the world's great-"
-	cont "est #MON"
-	cont "trainer."
+	para "Seré el millor"
+	line "entrenador de #"
+	cont "del món."
 	done
 
 CherrygroveTeacherText_NoMapCard:
-	text "Did you talk to"
-	line "the old man by the"
-	cont "#MON CENTER?"
+	text "Has parlat amb el"
+	line "vellet que hi ha"
+	cont "al CENTRE #?"
 
-	para "He'll put a MAP of"
-	line "JOHTO on your"
+	para "Et posarà un MAPA"
+	line "de JOHTO al teu"
 	cont "#GEAR."
 	done
 
 CherrygroveTeacherText_HaveMapCard:
-	text "When you're with"
-	line "#MON, going"
-	cont "anywhere is fun."
+	text "Quan vas amb #,"
+	line "anar a qualsevol"
+	cont "lloc és divertit."
 	done
 
 CherrygroveYoungsterText_NoPokedex:
-	text "MR.#MON's house"
-	line "is still farther"
-	cont "up ahead."
+	text "La casa d'en"
+	line "SR.# és més"
+	cont "amunt."
 	done
 
 CherrygroveYoungsterText_HavePokedex:
-	text "I battled the"
-	line "trainers on the"
-	cont "road."
+	text "He lluitat amb"
+	line "els entrenadors"
+	cont "del camí."
 
-	para "My #MON lost."
-	line "They're a mess! I"
+	para "Els meus # han"
+	line "perdut. Estan"
 
-	para "must take them to"
-	line "a #MON CENTER."
+	para "fatal! Els he de"
+	line "dur a un CENTRE"
+	cont "#."
 	done
 
 MysticWaterGuyTextBefore:
-	text "A #MON I caught"
-	line "had an item."
+	text "Un # que vaig"
+	line "atrapar duia un"
+	cont "objecte."
 
-	para "I think it's"
-	line "MYSTIC WATER."
+	para "Crec que és una"
+	line "AIGUA MÍSTICA."
 
-	para "I don't need it,"
-	line "so do you want it?"
+	para "No el necessito."
+	line "El vols?"
 	done
 
 MysticWaterGuyTextAfter:
-	text "Back to fishing"
-	line "for me, then."
+	text "Doncs torno a"
+	line "pescar."
 	done
 
 CherrygroveCitySignText:
-	text "CHERRYGROVE CITY"
+	text "CIUTAT CIRERER"
 
-	para "The City of Cute,"
-	line "Fragrant Flowers"
+	para "La Ciutat de les"
+	line "Flors Boniques i"
+	cont "Oloroses"
 	done
 
 GuideGentsHouseSignText:
-	text "GUIDE GENT'S HOUSE"
+	text "CASA DEL GUIA"
 	done
 
 CherrygroveCity_MapEvents:

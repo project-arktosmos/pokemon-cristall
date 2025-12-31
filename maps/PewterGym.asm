@@ -74,136 +74,137 @@ PewterGymStatue:
 	jumpstd GymStatue2Script
 
 BrockIntroText:
-	text "BROCK: Wow, it's"
-	line "not often that we"
+	text "BROCK: Vaja, no és"
+	line "gaire sovint que"
 
-	para "get a challenger"
-	line "from JOHTO."
+	para "rebem un aspirant"
+	line "de JOHTO."
 
-	para "I'm BROCK, the"
-	line "PEWTER GYM LEADER."
+	para "Soc BROCK, el"
+	line "LÍDER del GIMNÀS"
+	cont "de PEWTER."
 
-	para "I'm an expert on"
-	line "rock-type #MON."
+	para "Soc un expert en"
+	line "#MON de roca."
 
-	para "My #MON are im-"
-	line "pervious to most"
+	para "Els meus #MON"
+	line "són immunes a la"
 
-	para "physical attacks."
-	line "You'll have a hard"
+	para "majoria d'atacs"
+	line "físics."
 
-	para "time inflicting"
-	line "any damage."
+	para "Et costarà molt"
+	line "fer-los mal."
 
-	para "Come on!"
+	para "Som-hi!"
 	done
 
 BrockWinLossText:
-	text "BROCK: Your #-"
-	line "MON's powerful at-"
-	cont "tacks overcame my"
-	cont "rock-hard defense…"
+	text "BROCK: Els atacs"
+	line "poderosos dels"
+	cont "teus #MON han"
+	cont "superat la meva"
+	cont "defensa de roca…"
 
-	para "You're stronger"
-	line "than I expected…"
+	para "Ets més fort del"
+	line "que m'esperava…"
 
-	para "Go ahead--take"
-	line "this BADGE."
+	para "Endavant, pren"
+	line "aquesta MEDALLA."
 	done
 
 ReceivedBoulderBadgeText:
-	text "<PLAYER> received"
-	line "BOULDERBADGE."
+	text "<PLAYER> ha rebut"
+	line "la MEDALLA ROCA."
 	done
 
 BrockBoulderBadgeText:
 	text "BROCK: <PLAY_G>,"
-	line "thanks. I enjoyed"
+	line "gràcies. M'ha"
 
-	para "battling you, even"
-	line "though I am a bit"
-	cont "upset."
+	para "agradat lluitar"
+	line "amb tu, encara que"
+	cont "estic disgustat."
 
-	para "That BOULDERBADGE"
-	line "will make your"
+	para "La MEDALLA ROCA"
+	line "farà els teus"
 
-	para "#MON even more"
-	line "powerful."
+	para "#MON encara més"
+	line "poderosos."
 	done
 
 BrockFightDoneText:
-	text "BROCK: The world"
-	line "is huge. There are"
+	text "BROCK: El món és"
+	line "enorme. Encara hi"
 
-	para "still many strong"
-	line "trainers like you."
+	para "ha molts entrena-"
+	line "dors forts com tu."
 
-	para "Just wait and see."
-	line "I'm going to be-"
-	cont "come a lot strong-"
-	cont "er too."
+	para "Ja ho veuràs."
+	line "Jo també em faré"
+	cont "molt més fort."
 	done
 
 CamperJerrySeenText:
-	text "The trainers of"
-	line "this GYM use rock-"
-	cont "type #MON."
+	text "Els entrenadors"
+	line "d'aquest GIMNÀS"
+	cont "usen #MON roca."
 
-	para "The rock-type has"
-	line "high DEFENSE."
+	para "El tipus roca té"
+	line "una DEFENSA alta."
 
-	para "Battles could end"
-	line "up going a long"
+	para "Les batalles"
+	line "poden durar molt."
 
-	para "time. Are you"
-	line "ready for this?"
+	para "Estàs preparat"
+	line "per a això?"
 	done
 
 CamperJerryBeatenText:
-	text "I have to win"
-	line "these battles…"
+	text "He de guanyar"
+	line "aquestes lluites…"
 	done
 
 CamperJerryAfterBattleText:
-	text "Hey, you! Trainer"
-	line "from JOHTO! BROCK"
+	text "Ei, tu! Entrena-"
+	line "dor de JOHTO!"
 
-	para "is tough. He'll"
-	line "punish you if you"
+	para "BROCK és dur. Et"
+	line "castigarà si no"
 
-	para "don't take him"
-	line "seriously."
+	para "te'l prens de"
+	line "debò."
 	done
 
 PewterGymGuideText:
-	text "Yo! CHAMP in"
-	line "making! You're"
+	text "Ei! Futur CAMPIÓ!"
+	line "Vas molt bé."
 
-	para "really rocking."
-	line "Are you battling"
+	para "Estàs lluitant"
+	line "contra els LÍDERS"
 
-	para "the GYM LEADERS of"
+	para "DE GIMNÀS de"
 	line "KANTO?"
 
-	para "They're strong and"
-	line "dedicated people,"
+	para "Són gent forta i"
+	line "dedicada, igual"
 
-	para "just like JOHTO's"
-	line "GYM LEADERS."
+	para "que els LÍDERS de"
+	line "JOHTO."
 	done
 
 PewterGymGuideWinText:
-	text "Yo! CHAMP in"
-	line "making! That GYM"
+	text "Ei! Futur CAMPIÓ!"
+	line "Aquest GIMNÀS no"
 
-	para "didn't give you"
-	line "much trouble."
+	para "t'ha donat gaires"
+	line "problemes."
 
-	para "The way you took"
-	line "charge was really"
+	para "La manera com has"
+	line "pres el control"
 
-	para "inspiring. I mean"
-	line "that seriously."
+	para "ha estat molt"
+	line "inspiradora."
 	done
 
 PewterGym_MapEvents:

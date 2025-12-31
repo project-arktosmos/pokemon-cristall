@@ -102,32 +102,32 @@ PrintPage2:
 
 GBPrinterStrings: ; used only for BANK(GBPrinterStrings)
 GBPrinterString_Null: db "@"
-GBPrinterString_CheckingLink: next " CHECKING LINK...@"
-GBPrinterString_Transmitting: next "  TRANSMITTING...@"
-GBPrinterString_Printing: next "    PRINTING...@"
+GBPrinterString_CheckingLink: next " VERIFICANT...@"
+GBPrinterString_Transmitting: next "  TRANSMETENT...@"
+GBPrinterString_Printing: next "   IMPRIMINT...@"
 GBPrinterString_PrinterError1:
-	db   " Printer Error 1"
+	db   " Error impressora"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Mira el manual de"
+	next "la impressora."
 	db   "@"
 GBPrinterString_PrinterError2:
-	db   " Printer Error 2"
+	db   " Error impressora"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Mira el manual de"
+	next "la impressora."
 	db   "@"
 GBPrinterString_PrinterError3:
-	db   " Printer Error 3"
+	db   " Error impressora"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Mira el manual de"
+	next "la impressora."
 	db   "@"
 GBPrinterString_PrinterError4:
-	db   " Printer Error 4"
+	db   " Error impressora"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Mira el manual de"
+	next "la impressora."
 	db   "@"
 
 PrintPartyMonPage1:

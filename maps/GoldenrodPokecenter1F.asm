@@ -151,655 +151,654 @@ GoldenrodPokeCenter1FLinkReceptionistWalkToStairsFromRightDoorwayTileMovement:
 	step_end
 
 GoldenrodPokecomCenterWelcomeToTradeCornerText: ; unreferenced
-	text "Hello! Welcome to"
-	line "#COM CENTER"
-	cont "TRADE CORNER."
+	text "Hola! Benvingut al"
+	line "RACÓ D'INTERCANVI"
+	cont "del #COM"
+	cont "CENTER."
 
-	para "You can trade"
-	line "#MON with other"
-	cont "people far away."
+	para "Pots intercanviar"
+	line "# amb gent"
+	cont "de molt lluny."
 	done
 
 GoldenrodPokecomCenterWeMustHoldYourMonText: ; unreferenced
-	text "To make a trade,"
-	line "we must hold your"
-	cont "#MON."
+	text "Per intercanviar,"
+	line "hem de guardar el"
+	cont "teu #."
 
-	para "Would you like to"
-	line "trade?"
+	para "Vols fer un"
+	line "intercanvi?"
 	done
 
 GoldenrodPokecomCenterWhatMonDoYouWantText: ; unreferenced
-	text "What kind of"
-	line "#MON do you"
-	cont "want in return?"
+	text "Quin tipus de"
+	line "# vols a"
+	cont "canvi?"
 	done
 
 GoldenrodPokecomCenterWeWillTradeYourMonForMonText: ; unreferenced
-	text "Fine. We will try"
-	line "to trade your"
+	text "D'acord. Mirarem"
+	line "d'intercanviar el"
 
 	para "@"
 	text_ram wStringBuffer3
-	text " for"
+	text " per"
 	line "@"
 	text_ram wStringBuffer4
 	text "."
 
-	para "We'll have to hold"
-	line "your #MON"
-	cont "during the trade."
+	para "Haurem de guardar"
+	line "el teu # durant"
+	cont "l'intercanvi."
 
-	para "Please wait while"
-	line "we prepare the"
-	cont "room for it."
+	para "Espera mentre"
+	line "preparem la sala."
 	done
 
 GoldenrodPokecomCenterWeWillTradeYourMonForNewText: ; unreferenced
-	text "Fine. We will try"
-	line "to trade your"
+	text "D'acord. Mirarem"
+	line "d'intercanviar el"
 
 	para "@"
 	text_ram wStringBuffer3
-	text " for a"
-	line "#MON that you"
-	cont "have never seen."
+	text " per un"
+	line "# que no"
+	cont "hagis vist mai."
 
-	para "We'll have to hold"
-	line "your #MON"
-	cont "during the trade."
+	para "Haurem de guardar"
+	line "el teu # durant"
+	cont "l'intercanvi."
 
-	para "Please wait while"
-	line "we prepare the"
-	cont "room for it."
+	para "Espera mentre"
+	line "preparem la sala."
 	done
 
 GoldenrodPokecomCenterYourMonHasBeenReceivedText: ; unreferenced
-	text "Your trade #MON"
-	line "has been received."
+	text "Hem rebut el teu"
+	line "# per canviar."
 
-	para "It will take time"
-	line "to find a trade"
+	para "Trigarà una mica"
+	line "a trobar algú per"
 
-	para "partner. Please"
-	line "come back later."
+	para "intercanviar."
+	line "Torna més tard."
 	done
 
 GoldenrodPokecomCenterYouHaveOnlyOneMonText: ; unreferenced
-	text "Oh? You have only"
-	line "one #MON in"
-	cont "your party. "
+	text "Oh? Només tens un"
+	line "# a l'equip."
 
-	para "Please come back"
-	line "once you've in-"
-	cont "creased the size"
-	cont "of your party."
+	para "Torna quan tinguis"
+	line "més # a"
+	cont "l'equip."
 	done
 
 GoldenrodPokecomCenterWeHopeToSeeYouAgainText: ; unreferenced
-	text "We hope to see you"
-	line "again."
+	text "Esperem veure't"
+	line "aviat."
 	done
 
 GoldenrodPokecomCenterCommunicationErrorText: ; unreferenced
-	text "Communication"
-	line "error…"
+	text "Error de"
+	line "comunicació…"
 	done
 
 GoldenrodPokecomCenterCantAcceptLastMonText: ; unreferenced
-	text "If we accept that"
-	line "#MON, what will"
-	cont "you battle with?"
+	text "Si acceptem aquest"
+	line "#, amb què"
+	cont "lluitaràs?"
 	done
 
 GoldenrodPokecomCenterCantAcceptEggText: ; unreferenced
-	text "Sorry. We can't"
-	line "accept an EGG."
+	text "Ho sento. No podem"
+	line "acceptar un OU."
 	done
 
 GoldenrodPokecomCenterCantAcceptAbnormalMonText: ; unreferenced
-	text "Sorry, but your"
-	line "#MON appears to"
+	text "Ho sento, però el"
+	line "teu # sembla"
 
-	para "be abnormal. We"
-	line "can't accept it."
+	para "anormal. No el"
+	line "podem acceptar."
 	done
 
 GoldenrodPokecomCenterAlreadyHoldingMonText: ; unreferenced
-	text "Oh? Aren't we"
-	line "already holding a"
-	cont "#MON of yours?"
+	text "Oh? No estem ja"
+	line "guardant un #"
+	cont "teu?"
 	done
 
 GoldenrodPokecomCenterCheckingTheRoomsText: ; unreferenced
-	text "We'll check the"
-	line "rooms."
+	text "Revisarem les"
+	line "sales."
 
-	para "Please wait."
+	para "Espera, si us"
+	line "plau."
 	done
 
 GoldenrodPokecomCenterTradePartnerHasBeenFoundText: ; unreferenced
-	text "Thank you for your"
-	line "patience."
+	text "Gràcies per la"
+	line "paciència."
 
-	para "A trade partner"
-	line "has been found."
+	para "Hem trobat algú"
+	line "per intercanviar."
 	done
 
 GoldenrodPokecomCenterItsYourNewPartnerText: ; unreferenced
-	text "It's your new"
-	line "partner."
+	text "Aquí tens el teu"
+	line "nou company."
 
-	para "Please take care"
-	line "of it with love."
+	para "Cuida'l bé i amb"
+	line "molt d'amor."
 
-	para "We hope to see you"
-	line "again."
+	para "Esperem veure't"
+	line "aviat."
 	done
 
 GoldenrodPokecomCenterYourPartyIsFullText: ; unreferenced
-	text "Uh-oh. Your party"
-	line "is already full."
+	text "Oh! El teu equip"
+	line "ja és ple."
 
-	para "Please come back"
-	line "when you have room"
-	cont "in your party."
+	para "Torna quan tinguis"
+	line "espai a l'equip."
 	done
 
 GoldenrodPokecomCenterNoTradePartnerFoundText: ; unreferenced
-	text "It's unfortunate,"
-	line "but no one has"
+	text "Malauradament,"
+	line "ningú no s'ha"
 
-	para "come forward as a"
-	line "trade partner."
+	para "ofert per fer"
+	line "l'intercanvi."
 
-	para "Would you like"
-	line "your #MON back?"
+	para "Vols recuperar"
+	line "el teu #?"
 	done
 
 GoldenrodPokecomCenterReturnedYourMonText: ; unreferenced
-	text "We have returned"
-	line "your #MON."
+	text "T'hem tornat el"
+	line "teu #."
 	done
 
 GoldenrodPokecomCenterYourMonIsLonelyText: ; unreferenced
-	text "It's unfortunate,"
-	line "but no one has"
+	text "Malauradament,"
+	line "ningú no s'ha"
 
-	para "come forward as a"
-	line "trade partner."
+	para "ofert per fer"
+	line "l'intercanvi."
 
-	para "We've held your"
-	line "#MON for a long"
+	para "Fa molt que"
+	line "guardem el teu"
 
-	para "time. As a result,"
-	line "it is very lonely."
+	para "#. Per això,"
+	line "se sent molt sol."
 
-	para "Sorry, but we must"
-	line "return it to you."
+	para "Ho sento, però"
+	line "te l'hem de"
+	cont "tornar."
 	done
 
 GoldenrodPokecenter1FWeHopeToSeeYouAgainText_2: ; unreferenced
-	text "We hope to see you"
-	line "again."
+	text "Esperem veure't"
+	line "aviat."
 	done
 
 GoldenrodPokecomCenterContinueToHoldYourMonText: ; unreferenced
-	text "Fine. We will"
-	line "continue to hold"
-	cont "your #MON."
+	text "D'acord. Seguirem"
+	line "guardant el teu"
+	cont "#."
 	done
 
 GoldenrodPokecomCenterRecentlyLeftYourMonText: ; unreferenced
-	text "Oh? You left your"
-	line "#MON with us"
-	cont "only recently."
+	text "Oh? Has deixat el"
+	line "teu # fa poc."
 
-	para "Please come back"
-	line "later."
+	para "Torna més tard,"
+	line "si us plau."
 	done
 
 GoldenrodPokecomCenterSaveBeforeTradeCornerText: ; unreferenced
-	text "We'll SAVE before"
-	line "connecting to the"
-	cont "CENTER."
+	text "DESAREM abans de"
+	line "connectar al"
+	cont "CENTRE."
 	done
 
 GoldenrodPokecomCenterWhichMonToTradeText: ; unreferenced
-	text "Which #MON do"
-	line "you want to trade?"
+	text "Quin # vols"
+	line "intercanviar?"
 	done
 
 GoldenrodPokecomCenterTradeCanceledText: ; unreferenced
-	text "Sorry, but we must"
-	line "cancel the trade."
+	text "Ho sento, però hem"
+	line "de cancel·lar"
+	cont "l'intercanvi."
 	done
 
 GoldenrodPokecomCenterEggTicketText: ; unreferenced
 	text "Oh!"
 
-	para "I see you have an"
-	line "EGG TICKET!"
+	para "Veig que tens un"
+	line "TIQUET D'OU!"
 
-	para "It's a coupon that"
-	line "special people can"
+	para "És un cupó que"
+	line "certes persones"
 
-	para "redeem for a"
-	line "special #MON!"
+	para "poden canviar per"
+	line "un # especial!"
 	done
 
 GoldenrodPokecomCenterOddEggBriefingText: ; unreferenced
-	text "Let me give you a"
-	line "quick briefing."
+	text "Deixa'm explicar-"
+	line "t'ho breument."
 
-	para "Trades held at the"
-	line "TRADE CORNER are"
+	para "Els intercanvis"
+	line "del RACÓ es fan"
 
-	para "between two"
-	line "trainers who don't"
+	para "entre entrenadors"
+	line "que no coneixen"
 
-	para "know each other's"
-	line "identity."
+	para "la identitat de"
+	line "l'altre."
 
-	para "As a result, it"
-	line "may take time."
+	para "Per això, pot"
+	line "trigar una mica."
 
-	para "However, an ODD"
-	line "EGG is available"
-	cont "just for you."
+	para "Però tens un OU"
+	line "ESTRANY disponible"
+	cont "només per a tu."
 
-	para "It will be sent to"
-	line "you right away."
+	para "Te l'enviarem"
+	line "de seguida."
 
-	para "Please choose one"
-	line "of the rooms in"
+	para "Tria una de les"
+	line "sales del CENTRE."
 
-	para "the CENTER."
-	line "An ODD EGG will be"
-
-	para "sent from the"
-	line "chosen room."
+	para "L'OU ESTRANY"
+	line "s'enviarà des de"
+	cont "la sala triada."
 	done
 
 GoldenrodPokecomCenterPleaseWaitAMomentText: ; unreferenced
-	text "Please wait a"
-	line "moment."
+	text "Espera un moment,"
+	line "si us plau."
 	done
 
 GoldenrodPokecomCenterHereIsYourOddEggText: ; unreferenced
-	text "Thank you for"
-	line "waiting."
+	text "Gràcies per"
+	line "esperar."
 
-	para "We received your"
-	line "ODD EGG."
+	para "Hem rebut el teu"
+	line "OU ESTRANY."
 
-	para "Here it is!"
+	para "Aquí el tens!"
 
-	para "Please raise it"
-	line "with loving care."
+	para "Cuida'l amb molt"
+	line "d'amor."
 	done
 
 GoldenrodPokecomCenterNoEggTicketServiceText: ; unreferenced
-	text "I'm awfully sorry."
+	text "Ho sento molt."
 
-	para "The EGG TICKET"
-	line "exchange service"
-	cont "isn't running now."
+	para "El servei de"
+	line "TIQUET D'OU no"
+	cont "funciona ara."
 	done
 
 GoldenrodPokecomCenterNewsMachineText: ; unreferenced
-	text "It's a #MON"
-	line "NEWS MACHINE."
+	text "És una MÀQUINA"
+	line "DE NOTÍCIES #."
 	done
 
 GoldenrodPokecomCenterWhatToDoText: ; unreferenced
-	text "What would you"
-	line "like to do?"
+	text "Què vols fer?"
 	done
 
 GoldenrodPokecomCenterNewsMachineExplanationText: ; unreferenced
-	text "#MON NEWS is"
-	line "news compiled from"
+	text "Les NOTÍCIES #"
+	line "són notícies dels"
 
-	para "the SAVE files of"
-	line "#MON trainers."
+	para "fitxers DESATS"
+	line "d'entrenadors"
+	cont "#."
 
-	para "When reading the"
-	line "NEWS, your SAVE"
+	para "En llegir les"
+	line "NOTÍCIES, el teu"
 
-	para "file may be sent"
-	line "out."
+	para "fitxer DESAT es"
+	line "pot enviar."
 
-	para "The SAVE file data"
-	line "will contain your"
+	para "Les dades del"
+	line "fitxer DESAT"
 
-	para "adventure log and"
-	line "mobile profile."
+	para "contindran el teu"
+	line "registre i perfil."
 
-	para "Your phone number"
-	line "will not be sent."
+	para "El teu número de"
+	line "telèfon no"
+	cont "s'enviarà."
 
-	para "The contents of"
-	line "the NEWS will vary"
+	para "El contingut de"
+	line "les NOTÍCIES"
 
-	para "depending on the"
-	line "SAVE files sent by"
+	para "variarà segons"
+	line "els fitxers DESATS"
 
-	para "you and the other"
-	line "#MON trainers."
+	para "enviats per tu i"
+	line "altres"
+	cont "entrenadors."
 
-	para "You might even be"
-	line "in the NEWS!"
+	para "Fins i tot podries"
+	line "sortir-hi tu!"
 	done
 
 GoldenrodPokecomCenterWouldYouLikeTheNewsText: ; unreferenced
-	text "Would you like to"
-	line "get the NEWS?"
+	text "Vols rebre les"
+	line "NOTÍCIES?"
 	done
 
 GoldenrodPokecomCenterReadingTheLatestNewsText: ; unreferenced
-	text "Reading the latest"
-	line "NEWS… Please wait."
+	text "Llegint les"
+	line "últimes NOTÍCIES…"
+	cont "Espera, si us"
+	cont "plau."
 	done
 
 GoldenrodPokecomCenterNoOldNewsText: ; unreferenced
-	text "There is no old"
-	line "NEWS…"
+	text "No hi ha NOTÍCIES"
+	line "antigues…"
 	done
 
 GoldenrodPokecomCenterCorruptedNewsDataText: ; unreferenced
-	text "The NEWS data is"
-	line "corrupted."
+	text "Les dades de les"
+	line "NOTÍCIES estan"
+	cont "malmeses."
 
-	para "Please download"
-	line "the NEWS again."
+	para "Torna a baixar"
+	line "les NOTÍCIES."
 	done
 
 GoldenrodPokecomCenterMakingPreparationsText: ; unreferenced
-	text "We're making"
-	line "preparations."
+	text "Estem fent"
+	line "preparatius."
 
-	para "Please come back"
-	line "later."
+	para "Torna més tard,"
+	line "si us plau."
 	done
 
 GoldenrodPokecomCenterSaveBeforeNewsMachineText: ; unreferenced
-	text "We will SAVE your"
-	line "progress before"
+	text "DESAREM el progrés"
+	line "abans d'iniciar"
 
-	para "starting the NEWS"
-	line "MACHINE."
+	para "la MÀQUINA DE"
+	line "NOTÍCIES."
 	done
 
 GoldenrodPokecomCenterPerson1Text: ; unreferenced
-	text "Whoa, this #MON"
-	line "CENTER is huge."
+	text "Uau, aquest CENTRE"
+	line "# és enorme."
 
-	para "They just built"
-	line "this place. They"
+	para "L'acaben de"
+	line "construir. Hi han"
 
-	para "installed lots of"
-	line "new machines too."
+	para "instal·lat moltes"
+	line "màquines noves."
 	done
 
 GoldenrodPokecomCenterPerson2Text: ; unreferenced
-	text "I thought up a fun"
-	line "new thing for the"
-	cont "TRADE CORNER!"
+	text "He tingut una idea"
+	line "divertida per al"
+	cont "RACÓ D'INTERCANVI!"
 
-	para "I make a PIDGEY"
-	line "hold MAIL, then"
+	para "Faig que un Pidgey"
+	line "porti una CARTA,"
 
-	para "put it up for"
-	line "trade for another"
-	cont "one!"
+	para "i l'ofereixo a"
+	line "canvi d'un altre!"
 
-	para "If everyone did"
-	line "that, MAIL could"
+	para "Si tothom ho fes,"
+	line "es podrien"
 
-	para "be traded with all"
-	line "sorts of people!"
+	para "intercanviar"
+	line "CARTES"
+	cont "amb molta gent!"
 
-	para "I call it PIDGEY"
-	line "MAIL!"
+	para "Ho anomeno CARTA"
+	line "PIDGEY!"
 
-	para "If it becomes"
-	line "popular, I might"
-
-	para "make lots of new"
-	line "friends!"
+	para "Si es fa popular,"
+	line "potser faré molts"
+	cont "amics nous!"
 	done
 
 GoldenrodPokecomCenterPerson3Text: ; unreferenced
-	text "They said you can"
-	line "trade #MON with"
+	text "Diuen que aquí"
+	line "pots intercanviar"
 
-	para "total strangers up"
-	line "here."
+	para "# amb gent"
+	line "desconeguda."
 
-	para "But they're still"
-	line "adjusting things."
+	para "Però encara estan"
+	line "ajustant coses."
 	done
 
 GoldenrodPokecomCenterPerson4Text: ; unreferenced
-	text "Some girl I don't"
-	line "know sent me her"
+	text "Una noia que no"
+	line "conec m'ha enviat"
 
-	para "HOPPIP."
-	line "You should trade"
+	para "el seu Hoppip."
+	line "Hauries de canviar"
 
-	para "for a #MON that"
-	line "you want."
+	para "per un # que"
+	line "vulguis."
 	done
 
 GoldenrodPokecomCenterPerson5Text: ; unreferenced
-	text "I received a"
-	line "female HOPPIP, but"
-	cont "its named STANLEY!"
+	text "He rebut un Hoppip"
+	line "femella que es diu"
+	cont "ESTANISLAU!"
 
-	para "That's my dad's"
-	line "name!"
+	para "És el nom del"
+	line "meu pare!"
 	done
 
 GoldenrodPokecomCenterPerson6Text: ; unreferenced
-	text "What is the NEWS"
-	line "MACHINE?"
+	text "Què és la MÀQUINA"
+	line "DE NOTÍCIES?"
 
-	para "Does it get news"
-	line "from a wider area"
-	cont "than the radio?"
+	para "Rep notícies d'una"
+	line "zona més àmplia"
+	cont "que la ràdio?"
 	done
 
 GoldenrodPokecomCenterPerson7Text: ; unreferenced
-	text "The #COM CENTER"
-	line "will link with all"
+	text "El #COM CENTER"
+	line "s'enllaçarà amb"
 
-	para "#MON CENTERS in"
-	line "a wireless net."
+	para "tots els CENTRES"
+	line "# sense fil."
 
-	para "That must mean"
-	line "I'll be able to"
+	para "Això vol dir que"
+	line "podré connectar"
 
-	para "link with all"
-	line "sorts of people."
+	para "amb tot tipus de"
+	line "gent."
 	done
 
 GoldenrodPokecomCenterPerson8Text: ; unreferenced
-	text "The machines here"
-	line "can't be used yet."
+	text "Les màquines aquí"
+	line "encara no es poden"
+	cont "fer servir."
 
-	para "Still, it's nice"
-	line "coming to a trendy"
+	para "Tot i així, és"
+	line "genial venir a un"
 
-	para "place before other"
-	line "people."
+	para "lloc modern abans"
+	line "que la resta."
 	done
 
 GoldenrodPokecomCenterPerson9Text: ; unreferenced
-	text "My friend was in"
-	line "the NEWS a while"
+	text "Un amic meu va"
+	line "sortir a les"
 
-	para "back. I was really"
-	line "surprised!"
+	para "NOTÍCIES fa poc."
+	line "Em va sorprendre!"
 	done
 
 GoldenrodPokecomCenterPerson10Text: ; unreferenced
-	text "I get anxious if I"
-	line "don't check out"
-	cont "the latest NEWS!"
+	text "Em poso nerviós si"
+	line "no miro les"
+	cont "últimes NOTÍCIES!"
 	done
 
 GoldenrodPokecomCenterPerson11Text: ; unreferenced
-	text "If I get in the"
-	line "NEWS and become"
+	text "Si surto a les"
+	line "NOTÍCIES i em faig"
 
-	para "famous, I bet I'll"
-	line "be adored."
+	para "famós, segur que"
+	line "m'admiraran."
 
-	para "I wonder how I"
-	line "could get in the"
-	cont "NEWS?"
+	para "Com podria sortir"
+	line "a les NOTÍCIES?"
 	done
 
 GoldenrodPokecenter1FGameboyKidText:
-	text "The COLOSSEUM"
-	line "upstairs is for"
-	cont "link battles."
+	text "El COLISEU de"
+	line "dalt és per a"
+	cont "combats per cable."
 
-	para "Battle records are"
-	line "posted on the"
+	para "Els resultats dels"
+	line "combats es pengen"
 
-	para "wall, so I can't"
-	line "afford to lose."
+	para "a la paret, així"
+	line "que no puc perdre."
 	done
 
 GoldenrodPokecomCenterPerson12Text: ; unreferenced
-	text "I came over here"
-	line "when I got word"
+	text "He vingut en"
+	line "sentir que el"
 
-	para "that GOLDENROD's"
-	line "#MON CENTER has"
+	para "CENTRE # de"
+	line "POKEMON GROC té"
 
-	para "new machines that"
-	line "no one's ever seen"
-	cont "before."
+	para "màquines noves que"
+	line "ningú ha vist mai."
 
-	para "But it looks like"
-	line "they're still busy"
+	para "Però sembla que"
+	line "encara estan"
 
-	para "with all their"
-	line "preparations…"
+	para "ocupats amb els"
+	line "preparatius…"
 	done
 
 GoldenrodPokecomCenterPerson13Text: ; unreferenced
-	text "Just seeing all"
-	line "these new things"
+	text "Només veure totes"
+	line "aquestes coses"
 
-	para "here makes me feel"
-	line "younger!"
+	para "noves em fa sentir"
+	line "més jove!"
 	done
 
 GoldenrodPokecenter1FLassText:
-	text "A higher level"
-	line "#MON doesn't"
-	cont "always win."
+	text "Un # de nivell"
+	line "alt no sempre"
+	cont "guanya."
 
-	para "After all, it may"
-	line "have a type dis-"
-	cont "advantage."
+	para "Al cap i a la fi,"
+	line "pot tenir un tipus"
+	cont "en desavantatge."
 
-	para "I don't think"
-	line "there is a single"
-
-	para "#MON that is"
-	line "the toughest."
+	para "No crec que hi"
+	line "hagi cap # que"
+	cont "sigui el més fort."
 	done
 
 GoldenrodPokeCenter1FLinkReceptionistPleaseAcceptGSBallText:
-	text "<PLAYER>, isn't it?"
+	text "Ets <PLAYER>, oi?"
 
-	para "Congratulations!"
+	para "Enhorabona!"
 
-	para "As a special deal,"
-	line "a GS BALL has been"
-	cont "sent just for you!"
+	para "Com a oferta"
+	line "especial, t'hem"
+	cont "enviat una GS"
+	cont "BALL!"
 
-	para "Please accept it!"
+	para "Accepta-la, si us"
+	line "plau!"
 	done
 
 GoldenrodPokeCenter1FLinkReceptionistPleaseDoComeAgainText:
-	text "Please do come"
-	line "again!"
+	text "Torna quan"
+	line "vulguis!"
 	done
 
 GoldenrodPokecomCenterSignText: ; unreferenced
 	text "#COM CENTER"
-	line "1F INFORMATION"
+	line "PLANTA 1 INFO"
 
-	para "Left:"
-	line "ADMINISTRATION"
+	para "Esquerra:"
+	line "ADMINISTRACIÓ"
 
-	para "Center:"
-	line "TRADE CORNER"
+	para "Centre:"
+	line "RACÓ D'INTERCANVI"
 
-	para "Right:"
-	line "#MON NEWS"
+	para "Dreta:"
+	line "NOTÍCIES #"
 	done
 
 GoldenrodPokecomCenterNewsMachineNotYetText: ; unreferenced
-	text "It's a #MON"
-	line "NEWS MACHINE!"
+	text "És una MÀQUINA"
+	line "DE NOTÍCIES #!"
 
-	para "It's not in"
-	line "operation yet…"
+	para "Encara no està"
+	line "en funcionament…"
 	done
 
 GoldenrodPokecenter1FPokefanFDoYouHaveEonMailText:
-	text "Oh my, your pack"
-	line "looks so heavy!"
+	text "Mare meva, la teva"
+	line "motxilla pesa"
+	cont "molt!"
 
-	para "Oh! Do you happen"
-	line "to have something"
-	cont "named EON MAIL?"
+	para "Oh! Per casualitat"
+	line "tens una CARTA"
+	cont "AURORA?"
 
-	para "My daughter is"
-	line "after one."
+	para "La meva filla en"
+	line "vol una."
 
-	para "You can part with"
-	line "one, can't you?"
+	para "Me'n pots donar"
+	line "una, oi?"
 	done
 
 GoldenrodPokecenter1FAskGiveAwayAnEonMailText:
-	text "Give away an EON"
-	line "MAIL?"
+	text "Donar una CARTA"
+	line "AURORA?"
 	done
 
 GoldenrodPokecenter1FPokefanFThisIsForYouText:
-	text "Oh, that's great!"
-	line "Thank you, honey!"
+	text "Oh, fantàstic!"
+	line "Gràcies, bonica!"
 
-	para "Here, this is for"
-	line "you in return!"
+	para "Té, això és per a"
+	line "tu a canvi!"
 	done
 
 GoldenrodPokecenter1FPokefanFDaughterWillBeDelightedText:
-	text "My daughter will"
-	line "be delighted!"
+	text "La meva filla"
+	line "s'alegrarà molt!"
 	done
 
 GoldenrodPokecenter1FPokefanFTooBadText:
-	text "Oh? You don't have"
-	line "one? Too bad."
+	text "Oh? No en tens?"
+	line "Quina llàstima."
 	done
 
 GoldenrodPokecenter1FPokefanFAnotherTimeThenText:
-	text "Oh… Well, another"
-	line "time, then."
+	text "Oh… Doncs serà"
+	line "un altre cop."
 	done
 
 GoldenrodPokecenter1FPlayerGaveAwayTheEonMailText:
-	text "<PLAYER> gave away"
-	line "the EON MAIL."
+	text "<PLAYER> ha donat"
+	line "la CARTA AURORA."
 	done
 
 GoldenrodPokecenter1F_MapEvents:

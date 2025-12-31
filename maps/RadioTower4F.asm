@@ -104,44 +104,45 @@ RadioTower4FStudio2Sign:
 	jumptext RadioTower4FStudio2SignText
 
 RadioTower4FFisherText:
-	text "I listened to the"
-	line "radio while I was"
-	cont "at the RUINS."
+	text "Escoltava la ràdio"
+	line "mentre era a les"
+	cont "RUÏNES."
 
-	para "I heard a strange"
-	line "broadcast there."
+	para "Hi vaig sentir una"
+	line "emissió estranya."
 	done
 
 RadioTower4FDJMaryText:
-	text "MARY: Why? Why do"
-	line "I have to suffer"
-	cont "through this?"
+	text "MARY: Per què? Per"
+	line "què he de patir"
+	cont "tot això?"
 
-	para "MEOWTH, help me!"
+	para "MEOWTH, ajuda'm!"
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
-	text "MARY: Oh! You're"
-	line "my little savior!"
+	text "MARY: Oh! Ets el"
+	line "meu petit"
+	cont "salvador!"
 
-	para "Will you take this"
-	line "as my thanks?"
+	para "Acceptes això com"
+	line "a agraïment?"
 	done
 
 RadioTower4FDJMaryText_GivePinkBow:
-	text "MARY: It's just"
-	line "right for #MON"
+	text "MARY: És perfecte"
+	line "per a # que"
 
-	para "that know normal-"
-	line "type moves."
+	para "sàpiguen moviments"
+	line "de tipus normal."
 	done
 
 RadioTower4FDJMaryText_After:
-	text "MARY: Please tune"
-	line "into me on PROF."
+	text "MARY: Escolta'm a"
+	line "l'espai del PROF."
 
-	para "OAK'S #MON TALK"
-	line "show."
+	para "OAK sobre #MON,"
+	line "si us plau."
 	done
 
 RadioTowerMeowthText:
@@ -149,98 +150,98 @@ RadioTowerMeowthText:
 	done
 
 GruntM10SeenText:
-	text "You plan to rescue"
-	line "the DIRECTOR?"
+	text "Vols rescatar el"
+	line "DIRECTOR?"
 
-	para "That won't be pos-"
-	line "sible because I'm"
-	cont "going to beat you!"
+	para "No serà possible"
+	line "perquè et"
+	cont "derrotaré!"
 	done
 
 GruntM10BeatenText:
-	text "No! Unbelievable!"
+	text "No! Increïble!"
 	done
 
 GruntM10AfterBattleText:
-	text "I don't believe"
-	line "it! I was beaten!"
+	text "No m'ho crec!"
+	line "M'han derrotat!"
 	done
 
 Executivem2SeenText:
-	text "Stop! I'm known as"
-	line "the TEAM ROCKET"
-	cont "fortress!"
+	text "Para! Soc conegut"
+	line "com la fortalesa"
+	cont "del TEAM ROCKET!"
 
-	para "You're not taking"
-	line "another step!"
+	para "No faràs ni un"
+	line "pas més!"
 	done
 
 Executivem2BeatenText:
-	text "The fortress came"
-	line "down!"
+	text "La fortalesa ha"
+	line "caigut!"
 	done
 
 Executivem2AfterBattleText:
-	text "You've earned my"
-	line "respect, so here's"
-	cont "some advice."
+	text "T'has guanyat el"
+	line "meu respecte, així"
+	cont "que un consell."
 
-	para "It's not too late."
-	line "You can still turn"
-	cont "back."
+	para "No és tard. Encara"
+	line "pots tornar"
+	cont "enrere."
 	done
 
 GruntF4SeenText:
-	text "Don't I think"
-	line "#MON are cute?"
+	text "Que si trobo els"
+	line "# bonics?"
 
-	para "I'll think my"
-	line "#MON are cute--"
+	para "Trobaré els meus"
+	line "# bonics…"
 
-	para "after they beat"
-	line "yours!"
+	para "quan hagin"
+	line "derrotat els teus!"
 	done
 
 GruntF4BeatenText:
-	text "Oh, no! They're so"
-	line "useless!"
+	text "Oh, no! Són tan"
+	line "inútils!"
 	done
 
 GruntF4AfterBattleText:
-	text "I love my"
-	line "beautiful self!"
+	text "M'estimo a mi"
+	line "mateixa!"
 
-	para "Who cares about"
-	line "#MON?"
+	para "Què m'importen"
+	line "els #MON?"
 	done
 
 ScientistRichSeenText:
-	text "Most excellent."
+	text "Excel·lent."
 
-	para "This RADIO TOWER"
-	line "will fulfill our"
-	cont "grand design."
+	para "Aquesta TORRE DE"
+	line "RÀDIO complirà el"
+	cont "nostre gran pla."
 	done
 
 ScientistRichBeatenText:
 	text "Hmmm…"
 
-	para "All grand plans"
-	line "come with snags."
+	para "Els grans plans"
+	line "tenen obstacles."
 	done
 
 ScientistRichAfterBattleText:
-	text "Do you honestly"
-	line "believe you can"
-	cont "stop TEAM ROCKET?"
+	text "De veritat creus"
+	line "que pots aturar"
+	cont "el TEAM ROCKET?"
 	done
 
 RadioTower4FProductionSignText:
-	text "4F PRODUCTION"
+	text "4F PRODUCCIÓ"
 	done
 
 RadioTower4FStudio2SignText:
-	text "4F STUDIO 2"
+	text "4F ESTUDI 2"
 	done
 
 RadioTower4F_MapEvents:

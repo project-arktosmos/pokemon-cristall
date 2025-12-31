@@ -42,26 +42,29 @@ CelebrityHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 CelebrityText1:
-	text "Oh, dear."
-	line "You've found me."
+	text "Ai, mare."
+	line "M'has trobat."
 
-	para "Please don't tell"
-	line "anyone about me."
+	para "Si us plau, no"
+	line "diguis a ningú"
+	cont "on sóc."
 
-	para "I'll give you this"
-	line "for keeping my"
-	cont "secret. Please?"
+	para "Et donaré això"
+	line "per guardar el"
+	cont "secret. Si us"
+	cont "plau?"
 	done
 
 CelebrityText2:
-	text "It's tough being a"
-	line "top celebrity."
+	text "És dur ser una"
+	line "gran celebritat."
 
-	para "Everywhere I go,"
-	line "people chase me."
+	para "Allà on vaig, la"
+	line "gent em"
+	cont "persegueix."
 
-	para "I just want to be"
-	line "left alone…"
+	para "Només vull que em"
+	line "deixin en pau…"
 	done
 
 CelebritysFearowText:

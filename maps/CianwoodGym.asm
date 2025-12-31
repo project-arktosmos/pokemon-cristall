@@ -148,134 +148,138 @@ CianwoodGymMovement_ChuckChucksBoulder:
 	step_end
 
 ChuckIntroText1:
-	text "WAHAHAH!"
+	text "UAHAHA!"
 
-	para "So you've come"
-	line "this far!"
+	para "Així que has"
+	line "arribat tan lluny!"
 
-	para "Let me tell you,"
-	line "I'm tough!"
+	para "Deixa'm dir-te"
+	line "que sóc dur!"
 
-	para "My #MON will"
-	line "crush stones and"
-	cont "shatter bones!"
+	para "Els meus #MON"
+	line "esmicolen pedres"
+	cont "i trenquen ossos!"
 
-	para "Watch this!"
+	para "Mira això!"
 	done
 
 ChuckIntroText2:
-	text "CHUCK: Urggh!"
+	text "CHAZ: Urggh!"
 	line "…"
 
 	para "Oooarrgh!"
 	done
 
 ChuckIntroText3:
-	text "There! Scared now,"
-	line "are you?"
+	text "Ja està! Tens por"
+	line "ara, oi?"
 
-	para "What?"
-	line "It has nothing to"
+	para "Què?"
+	line "No té res a veure"
 
-	para "do with #MON?"
-	line "That's true!"
+	para "amb els #MON?"
+	line "És veritat!"
 
-	para "Come on. We shall"
-	line "do battle!"
+	para "Au, va. Lluitem!"
 	done
 
 ChuckLossText:
-	text "Wha? Huh?"
-	line "I lost?"
+	text "Què? Eh?"
+	line "He perdut?"
 
-	para "How about that!"
-	line "You're worthy of"
-	cont "STORMBADGE!"
+	para "Mira tu!"
+	line "Et mereixes la"
+	cont "MEDALLA TEMPESTA!"
 	done
 
 GetStormBadgeText:
-	text "<PLAYER> received"
-	line "STORMBADGE."
+	text "<PLAYER> ha rebut"
+	line "la M. TEMPESTA."
 	done
 
 ChuckExplainBadgeText:
-	text "STORMBADGE makes"
-	line "all #MON up to"
+	text "La M. TEMPESTA fa"
+	line "que tots els"
 
-	para "L70 obey, even"
-	line "traded ones."
+	para "#MON fins a"
+	line "N70 t'obeeixen,"
 
-	para "It also lets your"
-	line "#MON use FLY"
+	para "fins i tot els"
+	line "intercanviats."
 
-	para "when you're not in"
-	line "a battle."
+	para "També permet que"
+	line "els teus #MON"
 
-	para "Here, take this"
-	line "too!"
+	para "usin VOL fora de"
+	line "combat."
+
+	para "Pren això"
+	line "també!"
 	done
 
 ChuckExplainTMText:
-	text "That is DYNAMIC-"
+	text "Això és DYNAMIC-"
 	line "PUNCH."
 
-	para "It doesn't always"
-	line "hit, but when it"
+	para "No sempre encerta,"
+	line "però quan ho fa,"
 
-	para "does, it causes"
-	line "confusion!"
+	para "causa confusió!"
 	done
 
 ChuckAfterText:
-	text "WAHAHAH! I enjoyed"
-	line "battling you!"
+	text "UAHAHA! M'ha"
+	line "agradat lluitar"
+	cont "contra tu!"
 
-	para "But a loss is a"
-	line "loss!"
+	para "Però una derrota"
+	line "és una derrota!"
 
-	para "From now on, I'm"
-	line "going to train 24"
-	cont "hours a day!"
+	para "A partir d'ara,"
+	line "entrenaré 24"
+	cont "hores al dia!"
 	done
 
 BlackbeltYoshiSeenText:
-	text "My #MON and I"
-	line "are bound togeth-"
-	cont "er by friendship."
+	text "Els meus #MON i"
+	line "jo estem units"
+	cont "per l'amistat."
 
-	para "Our bond will"
-	line "never be broken!"
+	para "El nostre vincle"
+	line "mai es trencarà!"
 	done
 
 BlackbeltYoshiBeatenText:
-	text "This isn't real!"
+	text "No pot ser!"
 	done
 
 BlackbeltYoshiAfterText:
-	text "You seem to have a"
-	line "strong bond with"
-	cont "your #MON too!"
+	text "Sembla que també"
+	line "tens un vincle"
+	cont "fort amb els teus"
+	cont "#MON!"
 	done
 
 BlackbeltLaoSeenText:
-	text "We martial artists"
-	line "fear nothing!"
+	text "Els artistes"
+	line "marcials no tenim"
+	cont "por de res!"
 	done
 
 BlackbeltLaoBeatenText:
-	text "That's shocking!"
+	text "Quina sorpresa!"
 	done
 
 BlackbeltLaoAfterText:
-	text "Fighting #MON"
-	line "are afraid of psy-"
-	cont "chics…"
+	text "Els #MON de"
+	line "lluita tenen por"
+	cont "dels psíquics…"
 	done
 
 BlackbeltNobSeenText:
-	text "Words are useless."
-	line "Let your fists do"
-	cont "the talking!"
+	text "Les paraules són"
+	line "inútils. Deixa"
+	cont "parlar els punys!"
 	done
 
 BlackbeltNobBeatenText:
@@ -283,24 +287,25 @@ BlackbeltNobBeatenText:
 	done
 
 BlackbeltNobAfterText:
-	text "I lost! "
-	line "I'm speechless!"
+	text "He perdut!"
+	line "Em quedo mut!"
 	done
 
 BlackbeltLungSeenText:
-	text "My raging fists"
-	line "will shatter your"
+	text "Els meus punys"
+	line "furiosos destros-"
+	cont "saran els teus"
 	cont "#MON!"
 	done
 
 BlackbeltLungBeatenText:
-	text "I got shattered!"
+	text "M'han destrossat!"
 	done
 
 BlackbeltLungAfterText:
-	text "My #MON lost…"
-	line "My… my pride is"
-	cont "shattered…"
+	text "He perdut…"
+	line "El… el meu orgull"
+	cont "està destrossat…"
 	done
 
 CianwoodGym_MapEvents:

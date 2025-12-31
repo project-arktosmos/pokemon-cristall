@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const ECRUTEAKLUGIASPEECHHOUSE_GRAMPS
 	const ECRUTEAKLUGIASPEECHHOUSE_YOUNGSTER
 
@@ -17,29 +17,30 @@ LugiaSpeechHouseRadio:
 	jumpstd Radio2Script
 
 EcruteakLugiaSpeechHouseGrampsText:
-	text "This happened when"
-	line "I was young."
+	text "Això va passar"
+	line "quan era jove."
 
-	para "The sky suddenly"
-	line "turned black. A"
+	para "El cel es va"
+	line "tornar negre de"
 
-	para "giant flying #-"
-	line "MON was blocking"
-	cont "out the sun."
+	para "sobte. Un #MON"
+	line "volador gegant"
+	cont "tapava el sol."
 
-	para "I wonder what that"
-	line "#MON was? "
+	para "Quin #MON"
+	line "devia ser?"
 
-	para "It was like a bird"
-	line "and a dragon."
+	para "Semblava un ocell"
+	line "i un drac alhora."
 	done
 
 EcruteakLugiaSpeechHouseYoungsterText:
-	text "Is there really a"
-	line "#MON that big?"
+	text "De debò existeix"
+	line "un #MON tan"
+	cont "gran?"
 
-	para "If it exists, it"
-	line "must be powerful."
+	para "Si existeix, deu"
+	line "ser molt poderós."
 	done
 
 EcruteakLugiaSpeechHouse_MapEvents:

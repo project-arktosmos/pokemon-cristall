@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const CHERRYGROVEGYMSPEECHHOUSE_POKEFAN_M
 	const CHERRYGROVEGYMSPEECHHOUSE_BUG_CATCHER
 
@@ -17,29 +17,29 @@ CherrygroveGymSpeechHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 CherrygroveGymSpeechHousePokefanMText:
-	text "You're trying to"
-	line "see how good you"
+	text "Vols veure si ets"
+	line "un bon entrenador"
+	cont "de #MON?"
 
-	para "are as a #MON"
-	line "trainer?"
+	para "Hauries de visitar"
+	line "els GIMNASOS de"
 
-	para "You better visit"
-	line "the #MON GYMS"
-
-	para "all over JOHTO and"
-	line "collect BADGES."
+	para "#MON de tot"
+	line "JOHTO i aconseguir"
+	cont "MEDALLES."
 	done
 
 CherrygroveGymSpeechHouseBugCatcherText:
-	text "When I get older,"
-	line "I'm going to be a"
-	cont "GYM LEADER!"
+	text "Quan sigui gran,"
+	line "seré LÍDER DE"
+	cont "GIMNÀS!"
 
-	para "I make my #MON"
-	line "battle with my"
+	para "Faig lluitar els"
+	line "meus #MON amb"
 
-	para "friend's to make"
-	line "them tougher!"
+	para "els del meu amic"
+	line "per fer-los més"
+	cont "forts!"
 	done
 
 CherrygroveGymSpeechHouse_MapEvents:

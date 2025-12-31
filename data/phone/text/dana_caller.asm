@@ -1,109 +1,110 @@
 DanaTakingPhotosText:
-	text "My @"
+	text "El meu @"
 	text_ram wStringBuffer4
-	text " is"
-	line "getting prettier!"
+	text ""
+	line "és cada cop més"
+	cont "bonic!"
 
-	para "I've been taking"
-	line "photos galore!"
+	para "Li he fet un"
+	line "munt de fotos!"
 	done
 
 DanaDefeatedMonText:
-	text "It took only an"
-	line "instant to KO a"
-	cont "wild @"
+	text "Només ha calgut un"
+	line "instant per tombar"
+	cont "un @"
 	text_ram wStringBuffer4
-	text "."
+	text ""
+	cont "salvatge."
 
-	para "It must be because"
-	line "you gave me some"
+	para "Deu ser pels"
+	line "consells que em"
 
-	para "battling tips last"
-	line "time."
+	para "vas donar l'últim"
+	line "cop."
 	done
 
 DanaLostAMonText:
-	text "You know what?"
-	line "A wild @"
+	text "Saps què?"
+	line "Un @"
 	text_ram wStringBuffer4
 	text_start
-	para "got away from me"
-	line "again."
+	para "salvatge m'ha"
+	line "tornat a escapar."
 
-	para "It was so close!"
-	line "Really, just a"
+	para "Ha estat tan a"
+	line "prop! De veritat,"
 
-	para "little bit more,"
-	line "and I would've…"
+	para "una mica més i"
+	line "l'hauria…"
 	done
 
 DanaBattleRematchText:
-	text "Right now, I'm on"
+	text "Ara mateix soc a"
 	line "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "If you're close"
-	line "by, let's battle!"
+	para "Si ets a prop,"
+	line "lluitem!"
 
-	para "I'll be waiting"
-	line "for you!"
+	para "T'esperaré!"
 	done
 
 DanaHangUpText:
-	text "See you!"
+	text "Fins aviat!"
 	done
 
 DanaFoundItemText:
-	text "You know what?"
-	line "I got a good gift!"
+	text "Saps què?"
+	line "Tinc un bon regal!"
 
-	para "As I promised,"
-	line "it's yours!"
+	para "Com vaig prometre,"
+	line "és teu!"
 
-	para "I'm sure you'd"
-	line "like it. Come get"
+	para "Segur que"
+	line "t'agradarà. Vine"
 
-	para "it! I'm waiting on"
+	para "a buscar-lo! Soc a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 DanaCanYouWaitABitLongerText:
-	text "Oh! You wanted a"
-	line "gift, right?"
+	text "Oh! Volies un"
+	line "regal, oi?"
 
-	para "I got one, but I"
-	line "want to keep this."
+	para "En tinc un, però"
+	line "me'l vull quedar."
 
-	para "Can you wait a bit"
-	line "longer?"
+	para "Pots esperar una"
+	line "mica més?"
 	done
 
 DanaReminderText:
-	text "Hi! You haven't"
-	line "forgotten about"
+	text "Ei! No has"
+	line "oblidat la teva"
 
-	para "your promise to"
-	line "battle me?"
+	para "promesa de lluitar"
+	line "amb mi, oi?"
 
-	para "I'm waiting on"
+	para "T'espero a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 DanaComePickUpText:
-	text "Hello?"
+	text "Hola?"
 
-	para "If you don't come"
-	line "get your present"
+	para "Si no véns a"
+	line "buscar el regal"
 
-	para "soon, I'll give it"
-	line "to someone else."
+	para "aviat, el donaré"
+	line "a algú altre."
 
-	para "I'm waiting on"
+	para "T'espero a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"

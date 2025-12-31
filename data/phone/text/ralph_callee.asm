@@ -1,59 +1,59 @@
 RalphAnswerPhoneText:
-	text "Yes? Ah, <PLAY_G>."
+	text "Sí? Ah, <PLAY_G>."
 
-	para "You're courteous"
-	line "enough to state"
+	para "Ets prou educat"
+	line "per dir el teu"
 
-	para "your name when you"
-	line "call on the phone."
+	para "nom quan truques"
+	line "per telèfon."
 	done
 
 RalphAnswerPhoneDayText:
-	text "Yes? Ah, <PLAY_G>."
+	text "Sí? Ah, <PLAY_G>."
 
-	para "You're courteous"
-	line "enough to state"
+	para "Ets prou educat"
+	line "per dir el teu"
 
-	para "your name when you"
-	line "call on the phone."
+	para "nom quan truques"
+	line "per telèfon."
 	done
 
 RalphAnswerPhoneNiteText:
-	text "Yes? Ah, <PLAY_G>."
+	text "Sí? Ah, <PLAY_G>."
 
-	para "You're courteous"
-	line "enough to state"
+	para "Ets prou educat"
+	line "per dir el teu"
 
-	para "your name when you"
-	line "call on the phone."
+	para "nom quan truques"
+	line "per telèfon."
 	done
 
 RalphGreetText:
-	text "Hiya, it's Uncle"
+	text "Ei, sóc l'oncle"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 RalphGreetDayText:
-	text "Hiya, it's Uncle"
+	text "Ei, sóc l'oncle"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 RalphGreetNiteText:
-	text "Hiya, it's Uncle"
+	text "Ei, sóc l'oncle"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 RalphGenericText:
-	text "Are you taking"
-	line "good care of your"
+	text "Cuides bé els"
+	line "teus #MON?"
 
-	para "#MON? You have"
-	line "to be good to your"
-	cont "partners!"
+	para "Has de ser bo"
+	line "amb els teus"
+	cont "companys!"
 	done

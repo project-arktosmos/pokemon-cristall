@@ -79,179 +79,184 @@ OaksLabPC:
 
 OakWelcomeKantoText:
 	text "OAK: Ah, <PLAY_G>!"
-	line "It's good of you"
+	line "Molt bé que hagis"
 
-	para "to come all this"
-	line "way to KANTO."
+	para "vingut fins aquí,"
+	line "a KANTO."
 
-	para "What do you think"
-	line "of the trainers"
+	para "Què en penses,"
+	line "dels entrenadors"
 
-	para "out here?"
-	line "Pretty tough, huh?"
+	para "d'aquí?"
+	line "Són durs, oi?"
 	done
 
 OakLabDexCheckText:
-	text "How is your #-"
-	line "DEX coming?"
+	text "Com va la teva"
+	line "#DEX?"
 
-	para "Let's see…"
+	para "A veure…"
 	done
 
 OakLabGoodbyeText:
-	text "If you're in the"
-	line "area, I hope you"
-	cont "come visit again."
+	text "Si ets per aquí,"
+	line "espero que tornis"
+	cont "a visitar-me."
 	done
 
 OakOpenMtSilverText:
-	text "OAK: Wow! That's"
-	line "excellent!"
+	text "OAK: Uau!"
+	line "Fantàstic!"
 
-	para "You collected the"
-	line "BADGES of GYMS in"
-	cont "KANTO. Well done!"
+	para "Has aconseguit"
+	line "les MEDALLES dels"
+	cont "GIMNASOS de KANTO."
 
-	para "I was right in my"
-	line "assessment of you."
+	para "Ben fet!"
 
-	para "Tell you what,"
-	line "<PLAY_G>. I'll make"
+	para "Tenia raó amb"
+	line "el que pensava"
+	cont "de tu."
 
-	para "arrangements so"
-	line "that you can go to"
-	cont "MT.SILVER."
+	para "Faré una cosa,"
+	line "<PLAY_G>. Faré els"
 
-	para "MT.SILVER is a big"
-	line "mountain that is"
+	para "preparatius per"
+	line "a què puguis anar"
+	cont "al MT.PLATA."
 
-	para "home to many wild"
-	line "#MON."
+	para "El MT.PLATA és"
+	line "una gran muntanya"
 
-	para "It's too dangerous"
-	line "for your average"
+	para "on viuen molts"
+	line "#MON salvatges."
 
-	para "trainer, so it's"
-	line "off limits. But"
+	para "És massa perillós"
+	line "per a un entrena-"
 
-	para "we can make an"
-	line "exception in your"
-	cont "case, <PLAY_G>."
+	para "dor normal, i per"
+	line "això no s'hi pot"
 
-	para "Go up to INDIGO"
-	line "PLATEAU. You can"
+	para "anar. Però farem"
+	line "una excepció amb"
+	cont "tu, <PLAY_G>."
 
-	para "reach MT.SILVER"
-	line "from there."
+	para "Ves a la MESETA"
+	line "ANYIL. Des d'allà"
+
+	para "pots arribar al"
+	line "MT.PLATA."
 	done
 
 OakNoKantoBadgesText:
-	text "OAK: Hmm? You're"
-	line "not collecting"
-	cont "KANTO GYM BADGES?"
+	text "OAK: Hmm? No estàs"
+	line "col·leccionant les"
+	cont "MEDALLES de KANTO?"
 
-	para "The GYM LEADERS in"
-	line "KANTO are as tough"
+	para "Els LÍDERS dels"
+	line "GIMNASOS de KANTO"
 
-	para "as any you battled"
-	line "in JOHTO."
+	para "són tan durs com"
+	line "els de JOHTO."
 
-	para "I recommend that"
-	line "you challenge"
-	cont "them."
+	para "Et recomano que"
+	line "els desafiïs."
 	done
 
 OakYesKantoBadgesText:
-	text "OAK: Ah, you're"
-	line "collecting KANTO"
-	cont "GYM BADGES."
+	text "OAK: Ah, estàs"
+	line "col·leccionant les"
+	cont "MEDALLES de KANTO."
 
-	para "I imagine that"
-	line "it's hard, but the"
+	para "M'imagino que"
+	line "és difícil, però"
 
-	para "experience is sure"
-	line "to help you."
+	para "l'experiència"
+	line "t'ajudarà segur."
 
-	para "Come see me when"
-	line "you get them all."
+	para "Vine a veure'm"
+	line "quan les tinguis"
+	cont "totes."
 
-	para "I'll have a gift"
-	line "for you."
+	para "Tindré un regal"
+	line "per a tu."
 
-	para "Keep trying hard,"
-	line "<PLAY_G>!"
+	para "Continua esfor-"
+	line "çant-te, <PLAY_G>!"
 	done
 
 OaksAssistant1Text:
-	text "The PROF's #MON"
-	line "TALK radio program"
+	text "El programa de"
+	line "ràdio #MON"
+	cont "PARLA"
 
-	para "isn't aired here"
-	line "in KANTO."
+	para "del PROF. no"
+	line "s'emet a KANTO."
 
-	para "It's a shame--I'd"
-	line "like to hear it."
+	para "Quina llàstima!"
+	line "M'agradaria"
+	cont "oir-lo."
 	done
 
 OaksAssistant2Text:
-	text "Thanks to your"
-	line "work on the #-"
-	cont "DEX, the PROF's"
+	text "Gràcies a la teva"
+	line "feina amb la #-"
+	cont "DEX, la recerca"
 
-	para "research is coming"
-	line "along great."
+	para "del PROF. va molt"
+	line "bé."
 	done
 
 OaksAssistant3Text:
-	text "Don't tell anyone,"
-	line "but PROF.OAK'S"
+	text "No ho diguis a"
+	line "ningú, però el"
 
-	para "#MON TALK isn't"
-	line "a live broadcast."
+	para "#MON PARLA del"
+	line "PROF.OAK no és"
+	cont "en directe."
 	done
 
 OaksLabPoster1Text:
-	text "Press START to"
-	line "open the MENU."
+	text "Prem START per"
+	line "obrir el MENÚ."
 	done
 
 OaksLabPoster2Text:
-	text "The SAVE option is"
-	line "on the MENU."
+	text "L'opció DESAR és"
+	line "al MENÚ."
 
-	para "Use it in a timely"
-	line "manner."
+	para "Fes-la servir"
+	line "quan calgui."
 	done
 
 OaksLabTrashcanText:
-	text "There's nothing in"
-	line "here…"
+	text "No hi ha res"
+	line "aquí dins…"
 	done
 
 OaksLabPCText:
-	text "There's an e-mail"
-	line "message on the PC."
+	text "Hi ha un correu"
+	line "electrònic al PC."
 
 	para "…"
 
-	para "PROF.OAK, how is"
-	line "your research"
-	cont "coming along?"
+	para "PROF.OAK, com va"
+	line "la teva recerca?"
 
-	para "I'm still plugging"
-	line "away."
+	para "Jo encara hi"
+	line "treballo."
 
-	para "I heard rumors"
-	line "that <PLAY_G> is"
+	para "He sentit rumors"
+	line "que <PLAY_G> està"
 
-	para "getting quite a"
-	line "reputation."
+	para "guanyant força"
+	line "reputació."
 
-	para "I'm delighted to"
-	line "hear that."
+	para "M'alegro molt"
+	line "de saber-ho."
 
-	para "ELM in NEW BARK"
-	line "TOWN 8-)"
+	para "ELM de POBLE"
+	line "ALBA 8-)"
 	done
 
 OaksLab_MapEvents:

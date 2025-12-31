@@ -57,77 +57,77 @@ Route3MtMoonSquareSign:
 	jumptext Route3MtMoonSquareSignText
 
 FirebreatherOtisSeenText:
-	text "Ah! The weather's"
-	line "as fine as ever."
+	text "Ah! El temps és"
+	line "tan bo com sempre."
 	done
 
 FirebreatherOtisBeatenText:
-	text "It's sunny, but"
-	line "I'm all wet…"
+	text "Fa sol, però"
+	line "estic ben mullat…"
 	done
 
 FirebreatherOtisAfterBattleText:
-	text "When it rains,"
-	line "it's hard to get"
-	cont "ignition…"
+	text "Quan plou,"
+	line "és difícil"
+	cont "encendre el foc…"
 	done
 
 YoungsterWarrenSeenText:
-	text "Hmmm… I don't know"
-	line "what to do…"
+	text "Hmmm… No sé"
+	line "què fer…"
 	done
 
 YoungsterWarrenBeatenText:
-	text "I knew I'd lose…"
+	text "Sabia que perdria…"
 	done
 
 YoungsterWarrenAfterBattleText:
-	text "You looked strong."
+	text "Semblaves fort."
 
-	para "I was afraid to"
-	line "take you on…"
+	para "Tenia por"
+	line "d'enfrontar-te…"
 	done
 
 YoungsterJimmySeenText:
-	text "I can run like the"
-	line "wind!"
+	text "Puc córrer com"
+	line "el vent!"
 	done
 
 YoungsterJimmyBeatenText:
-	text "Blown away!"
+	text "M'has escomès!"
 	done
 
 YoungsterJimmyAfterBattleText:
-	text "I wear shorts the"
-	line "whole year round."
+	text "Porto pantalons"
+	line "curts tot l'any."
 
-	para "That's my fashion"
-	line "policy."
+	para "Aquesta és la meva"
+	line "política de moda."
 	done
 
 FirebreatherBurtSeenText:
-	text "Step right up and"
-	line "take a look!"
+	text "Acosteu-vos i"
+	line "mireu bé!"
 	done
 
 FirebreatherBurtBeatenText:
-	text "Yow! That's hot!"
+	text "Ui! Això crema!"
 	done
 
 FirebreatherBurtAfterBattleText:
-	text "The greatest fire-"
-	line "breather in KANTO,"
-	cont "that's me."
+	text "El millor"
+	line "tragafocs de"
+	cont "KANTO, sóc jo."
 
-	para "But not the best"
-	line "trainer…"
+	para "Però no el millor"
+	line "entrenador…"
 	done
 
 Route3MtMoonSquareSignText:
-	text "MT.MOON SQUARE"
+	text "PLAÇA MT.MOON"
 
-	para "Just go up the"
-	line "stairs."
+	para "Simplement puja"
+	line "les escales."
 	done
 
 Route3_MapEvents:

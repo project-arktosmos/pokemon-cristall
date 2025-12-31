@@ -32,31 +32,31 @@ DarkCaveBlackthornEntranceTMSnore:
 	itemball TM_SNORE
 
 DarkCaveBlackthornEntrancePharmacistText1:
-	text "Whoa! You startled"
-	line "me there!"
+	text "Ui! M'has fet un"
+	line "bon ensurt!"
 
-	para "I had my BLACK-"
-	line "GLASSES on, so I"
+	para "Duia les ULLERES"
+	line "NEGRES posades i"
 
-	para "didn't notice you"
-	line "at all."
+	para "no t'he vist gens"
+	line "ni mica."
 
-	para "What am I doing"
-	line "here?"
+	para "Què faig aquí?"
 
-	para "Hey, don't you"
-	line "worry about it."
+	para "Ei, no te'n"
+	line "preocupis."
 
-	para "I'll give you a"
-	line "pair of BLACK-"
-	cont "GLASSES, so forget"
-	cont "you saw me, OK?"
+	para "Et donaré unes"
+	line "ULLERES NEGRES."
+	cont "Oblida que m'has"
+	cont "vist, d'acord?"
 	done
 
 DarkCaveBlackthornEntrancePharmacistText2:
-	text "BLACKGLASSES ups"
-	line "the power of dark-"
-	cont "type moves."
+	text "Les ULLERES NEGRES"
+	line "augmenten el poder"
+	cont "dels atacs de"
+	cont "tipus fosc."
 	done
 
 DarkCaveBlackthornEntrance_MapEvents:

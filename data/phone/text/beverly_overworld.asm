@@ -1,60 +1,61 @@
 BeverlyAskNumber1Text:
-	text "Your MARILL is so"
-	line "cute and adorable!"
+	text "El teu MARILL és"
+	line "tan bufó i maco!"
 
-	para "You love #MON"
-	line "just like I do!"
+	para "T'agraden els"
+	line "#MON com a mi!"
 
-	para "Want to trade"
-	line "phone numbers?"
+	para "Vols intercanviar"
+	line "números de telèf.?"
 
-	para "Let's chat! It'll"
-	line "be so much fun!"
+	para "Xarrarem! Serà"
+	line "molt divertit!"
 	done
 
 BeverlyAskNumber2Text:
-	text "Your MARILL is so"
-	line "cute and adorable!"
+	text "El teu MARILL és"
+	line "tan bufó i maco!"
 
-	para "We should chat, it"
-	line "will be fun."
+	para "Hauríem de xerrar,"
+	line "serà divertit."
 
-	para "Can I have your"
-	line "phone number?"
+	para "Em pots donar el"
+	line "teu núm. de tel.?"
 	done
 
 BeverlyNumberAcceptedText:
-	text "To be honest, I"
-	line "want a MARILL."
+	text "Sincerament, vull"
+	line "un MARILL."
 
-	para "But I make do with"
-	line "my cute SNUBBULL."
+	para "Però faig el que"
+	line "puc amb el meu"
+	cont "bufó SNUBBULL."
 	done
 
 BeverlyNumberDeclinedText:
-	text "Oh… That's"
-	line "disappointing…"
+	text "Oh… Quina"
+	line "llàstima…"
 
-	para "Goodbye, MARILL…"
+	para "Adeu, MARILL…"
 	done
 
 BeverlyPhoneFullText:
-	text "Oh? Your phone's"
-	line "memory is full."
+	text "Oh? El teu telèfon"
+	line "és ple."
 	done
 
 BeverlyGiftText:
 	text "Oh? <PLAYER>? "
-	line "I waited here for"
+	line "T'esperava aquí."
 
-	para "you. I brought you"
-	line "a little gift."
+	para "T'he portat un"
+	line "petit regal."
 	done
 
 BeverlyPackFullText:
 	text "Oh?"
-	line "You have no room."
+	line "No tens espai."
 
-	para "Please come back"
-	line "for it later."
+	para "Torna més tard a"
+	line "buscar-ho."
 	done

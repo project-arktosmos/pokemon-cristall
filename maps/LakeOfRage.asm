@@ -243,71 +243,70 @@ LakeOfRageLanceTeleportIntoSkyMovement:
 	step_end
 
 LakeOfRageLanceForcedToEvolveText:
-	text "This lake is full"
-	line "of GYARADOS but"
-	cont "nothing else…"
+	text "Aquest llac és"
+	line "ple de GYARADOS i"
+	cont "res més…"
 
-	para "So the MAGIKARP"
-	line "are being forced"
-	cont "to evolve…"
+	para "Així que forcen"
+	line "els MAGIKARP a"
+	cont "evolucionar…"
 	done
 
 LakeOfRageLanceIntroText:
-	text "Did you come here"
-	line "because of the"
-	cont "rumors?"
+	text "Has vingut pels"
+	line "rumors?"
 
-	para "You're <PLAYER>?"
-	line "I'm LANCE, a"
-	cont "trainer like you."
+	para "Ets <PLAYER>?"
+	line "Soc en LANCE, un"
+	cont "entrenador com tu."
 
-	para "I heard some ru-"
-	line "mors, so I came to"
-	cont "investigate…"
+	para "He sentit rumors"
+	line "i he vingut a"
+	cont "investigar…"
 
-	para "I saw the way you"
-	line "battled earlier,"
+	para "He vist com"
+	line "lluitaves abans,"
 	cont "<PLAY_G>."
 
-	para "I can tell that"
-	line "you're a trainer"
+	para "Veig que ets un"
+	line "entrenador amb"
 
-	para "with considerable"
-	line "skill."
+	para "habilitat"
+	line "considerable."
 
-	para "If you don't mind,"
-	line "could you help me"
-	cont "investigate?"
+	para "Si no et fa res,"
+	line "em podries ajudar"
+	cont "a investigar?"
 	done
 
 LakeOfRageLanceRadioSignalText:
-	text "LANCE: Excellent!"
+	text "LANCE: Excel·lent!"
 
-	para "It seems that the"
-	line "LAKE's MAGIKARP"
+	para "Sembla que els"
+	line "MAGIKARP del llac"
 
-	para "are being forced"
-	line "to evolve."
+	para "estan sent forçats"
+	line "a evolucionar."
 
-	para "A mysterious radio"
-	line "broadcast coming"
+	para "Una emissió de"
+	line "ràdio misteriosa"
 
-	para "from MAHOGANY is"
-	line "the cause."
+	para "de CAOBA n'és"
+	line "la causa."
 
-	para "I'll be waiting"
-	line "for you, <PLAY_G>."
+	para "T'esperaré,"
+	line "<PLAY_G>."
 	done
 
 LakeOfRageLanceRefusedText:
-	text "Oh… Well, if you"
-	line "change your mind,"
-	cont "please help me."
+	text "Oh… Bé, si canvies"
+	line "d'opinió, si us"
+	cont "plau ajuda'm."
 	done
 
 LakeOfRageLanceAskHelpText:
-	text "LANCE: Hm? Are you"
-	line "going to help me?"
+	text "LANCE: Hm? Em"
+	line "vols ajudar?"
 	done
 
 LakeOfRageGyaradosCryText:
@@ -315,180 +314,179 @@ LakeOfRageGyaradosCryText:
 	done
 
 LakeOfRageGotRedScaleText:
-	text "<PLAYER> obtained a"
-	line "RED SCALE."
+	text "<PLAYER> ha"
+	line "obtingut"
+	cont "una ESCATA ROJA."
 	done
 
 LakeOfRageGrampsText:
-	text "The GYARADOS are"
-	line "angry!"
+	text "Els GYARADOS estan"
+	line "enfadats!"
 
-	para "It's a bad omen!"
+	para "És un mal presagi!"
 	done
 
 LakeOfRageGrampsText_ClearedRocketHideout:
-	text "Hahah! The MAGI-"
-	line "KARP are biting!"
+	text "Hahah! Els MAGI-"
+	line "KARP piquen!"
 	done
 
 LakeOfRageSuperNerdText:
-	text "I heard this lake"
-	line "was made by ram-"
-	cont "paging GYARADOS."
+	text "He sentit que"
+	line "GYARADOS furiosos"
+	cont "van fer el llac."
 
-	para "I wonder if there"
-	line "is any connection"
+	para "Em pregunto si té"
+	line "relació amb la"
 
-	para "to their mass out-"
-	line "break now?"
+	para "seva aparició"
+	line "massiva actual?"
 	done
 
 LakeOfRageCooltrainerFText:
-	text "Did my eyes de-"
-	line "ceive me? I saw a"
+	text "M'han enganyat"
+	line "els ulls? He vist"
 
-	para "red GYARADOS in"
-	line "the LAKE…"
+	para "un GYARADOS roig"
+	line "al llac…"
 
-	para "But I thought"
-	line "GYARADOS were"
-	cont "usually blue?"
+	para "Però els GYARADOS"
+	line "no eren blaus?"
 	done
 
 FisherAndreSeenText:
-	text "Let me battle with"
-	line "the #MON I just"
-	cont "caught!"
+	text "Lluita amb els"
+	line "# que acabo de"
+	cont "pescar!"
 	done
 
 FisherAndreBeatenText:
-	text "I might be an ex-"
-	line "pert angler, but"
+	text "Potser soc un bon"
+	line "pescador, però com"
 
-	para "I stink as a #-"
-	line "MON trainer…"
+	para "a entrenador de"
+	line "#"
+	cont "no valc res…"
 	done
 
 FisherAndreAfterBattleText:
-	text "I won't lose as an"
-	line "angler! I catch"
-	cont "#MON all day."
+	text "Com a pescador no"
+	line "perdré! Pesco #"
+	cont "tot el dia."
 	done
 
 FisherRaymondSeenText:
-	text "No matter what I"
-	line "do, all I catch"
+	text "Faci el que faci,"
+	line "només pesco els"
 
-	para "are the same #-"
-	line "MON…"
+	para "mateixos #…"
 	done
 
 FisherRaymondBeatenText:
-	text "My line's all"
-	line "tangled up…"
+	text "El meu fil s'ha"
+	line "embolicat…"
 	done
 
 FisherRaymondAfterBattleText:
-	text "Why can't I catch"
-	line "any good #MON?"
+	text "Per què no pesco"
+	line "# bons?"
 	done
 
 CooltrainermAaronSeenText:
-	text "If a trainer spots"
-	line "another trainer,"
+	text "Si un entrenador"
+	line "en veu un altre,"
 
-	para "he has to make a"
-	line "challenge."
+	para "l'ha de desafiar."
 
-	para "That is our"
-	line "destiny."
+	para "És el nostre"
+	line "destí."
 	done
 
 CooltrainermAaronBeatenText:
-	text "Whew…"
-	line "Good battle."
+	text "Uf…"
+	line "Bon combat."
 	done
 
 CooltrainermAaronAfterBattleText:
-	text "#MON and their"
-	line "trainer become"
+	text "Els # i el seu"
+	line "entrenador es fan"
 
-	para "powerful through"
-	line "constant battling."
+	para "forts lluitant"
+	line "constantment."
 	done
 
 CooltrainerfLoisSeenText:
-	text "What happened to"
-	line "the red GYARADOS?"
+	text "Què ha passat amb"
+	line "el GYARADOS roig?"
 
-	para "It's gone?"
+	para "Ha marxat?"
 
-	para "Oh, darn. I came"
-	line "here for nothing?"
+	para "Vaja. He vingut"
+	line "per res?"
 
-	para "I know--let's"
-	line "battle!"
+	para "Ja ho sé,"
+	line "lluitem!"
 	done
 
 CooltrainerfLoisBeatenText:
-	text "Good going!"
+	text "Ben fet!"
 	done
 
 CooltrainerfLoisAfterBattleText:
-	text "Come to think of"
-	line "it, I've seen a"
-	cont "pink BUTTERFREE."
+	text "Ara que hi penso,"
+	line "he vist un"
+	cont "BUTTERFREE rosa."
 	done
 
 MeetWesleyText:
-	text "WESLEY: Well, how"
-	line "do you do?"
+	text "WESLEY: Bé, com"
+	line "estàs?"
 
-	para "Seeing as how it's"
-	line "Wednesday today,"
+	para "Com que avui és"
+	line "dimecres,"
 
-	para "I'm WESLEY of"
-	line "Wednesday."
+	para "soc en WESLEY del"
+	line "dimecres."
 	done
 
 WesleyGivesGiftText:
-	text "Pleased to meet"
-	line "you. Please take a"
-	cont "souvenir."
+	text "Encantat de"
+	line "conèixer-te. Pren"
+	cont "un record."
 	done
 
 WesleyGaveGiftText:
-	text "WESLEY: BLACKBELT"
-	line "beefs up the power"
-	cont "of fighting moves."
+	text "WESLEY: El CINTURÓ"
+	line "augmenta la força"
+	cont "dels atacs lluita."
 	done
 
 WesleyWednesdayText:
-	text "WESLEY: Since you"
-	line "found me, you must"
+	text "WESLEY: Com que"
+	line "m'has trobat, deus"
 
-	para "have met my broth-"
-	line "ers and sisters."
+	para "haver conegut els"
+	line "meus germans."
 
-	para "Or did you just"
-	line "get lucky?"
+	para "O has tingut"
+	line "sort?"
 	done
 
 WesleyNotWednesdayText:
-	text "WESLEY: Today's"
-	line "not Wednesday."
-	cont "That's too bad."
+	text "WESLEY: Avui no és"
+	line "dimecres."
+	cont "Quina llàstima."
 	done
 
 LakeOfRageSignText:
-	text "LAKE OF RAGE,"
-	line "also known as"
-	cont "GYARADOS LAKE."
+	text "LLAC DE LA IRA,"
+	line "també conegut com"
+	cont "LLAC GYARADOS."
 	done
 
 FishingGurusHouseSignText:
-	text "FISHING GURU'S"
-	line "HOUSE"
+	text "CASA DEL GURU"
+	line "PESCADOR"
 	done
 
 LakeOfRage_MapEvents:

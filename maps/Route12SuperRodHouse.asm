@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const ROUTE12SUPERRODHOUSE_FISHING_GURU
 
 Route12SuperRodHouse_MapScripts:
@@ -36,44 +36,43 @@ SuperRodHouseBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 OfferSuperRodText:
-	text "I'm the FISHING"
-	line "GURU's younger"
-	cont "brother."
+	text "Sóc el germà petit"
+	line "del GURU DE LA"
+	cont "PESCA."
 
-	para "I can see that you"
-	line "like fishing."
+	para "Veig que t'agrada"
+	line "pescar."
 
-	para "There's no doubt"
-	line "in my mind at all!"
+	para "No en tinc cap"
+	line "dubte!"
 
-	para "So? I know I'm"
-	line "right."
+	para "Oi que tinc raó?"
 	done
 
 GiveSuperRodText:
-	text "Yes, yes. Just as"
-	line "I thought!"
+	text "Sí, sí. Tal com"
+	line "pensava!"
 
-	para "Here, fishing fan!"
-	line "Take this--it's a"
-	cont "SUPER ROD."
+	para "Té, aficionat a"
+	line "la pesca! Pren"
+	cont "la SUPERCANYA."
 	done
 
 GaveSuperRodText:
-	text "Try your hand at"
-	line "fishing wherever"
-	cont "there is water."
+	text "Prova de pescar"
+	line "allà on hi hagi"
+	cont "aigua."
 
-	para "Remember--you can"
-	line "catch different"
+	para "Recorda: pots"
+	line "capturar #MON"
 
-	para "#MON using"
-	line "different RODS."
+	para "diferents segons"
+	line "la CANYA usada."
 	done
 
 DontWantSuperRodText:
-	text "Huh? My own eyes"
-	line "deceived me?"
+	text "Eh? Els meus ulls"
+	line "m'han enganyat?"
 	done
 
 Route12SuperRodHouse_MapEvents:

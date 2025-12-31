@@ -91,169 +91,175 @@ EcruteakCityHiddenHyperPotion:
 UnusedMissingDaughterText: ; unreferenced
 	text "Oh, no. Oh, no…"
 
-	para "My daughter is"
-	line "missing."
+	para "La meva filla ha"
+	line "desaparegut."
 
-	para "No… She couldn't"
-	line "have gone to the"
-	cont "BURNED TOWER."
+	para "No… No pot haver"
+	line "anat a la TORRE"
+	cont "CREMADA."
 
-	para "I told her not to"
-	line "go near it…"
+	para "Li vaig dir que"
+	line "no s'hi acostés…"
 
-	para "People seem to"
-	line "disappear there…"
+	para "Sembla que la gent"
+	line "hi desapareix…"
 
-	para "Oh, what should I"
-	line "do…?"
+	para "Què hauria de"
+	line "fer…?"
 	done
 
 EcruteakCityGramps1Text:
-	text "ECRUTEAK used to"
-	line "have two towers:"
+	text "ECRUTEAK abans"
+	line "tenia dues torres:"
 
-	para "one each in the"
-	line "east and west."
+	para "una a l'est i una"
+	line "a l'oest."
 	done
 
 EcruteakCityGramps2Text:
-	text "Ah, child."
-	line "Have you learned"
+	text "Ah, criatura."
+	line "Has après a ballar"
 
-	para "to dance like the"
-	line "KIMONO GIRLS?"
+	para "com les NOIES DEL"
+	line "QUIMONO?"
 
-	para "If you go to their"
-	line "DANCE THEATER, an"
+	para "Si vas al seu"
+	line "TEATRE DE DANSA,"
 
-	para "odd old man will"
-	line "give you something"
-	cont "nice, I hear."
+	para "un vell estrany et"
+	line "donarà alguna cosa"
+	cont "bonica, diuen."
 	done
 
 EcruteakCityLass1Text:
-	text "I'm going to prac-"
-	line "tice at the DANCE"
+	text "Vaig a practicar"
+	line "al TEATRE DE"
 
-	para "THEATER. Care to"
-	line "join me?"
+	para "DANSA. Vols venir"
+	line "amb mi?"
 	done
 
 EcruteakCityLass2Text:
-	text "The tower that"
-	line "used to be here…"
+	text "La torre que hi"
+	line "havia aquí…"
 
-	para "My grandma told me"
-	line "it used to be much"
-	cont "taller."
+	para "La meva àvia em va"
+	line "dir que abans era"
+	cont "molt més alta."
 	done
 
 EcruteakCityLass2Text_ReleasedBeasts:
-	text "Three big #MON"
-	line "ran off in differ-"
-	cont "ent directions."
-	cont "What were they?"
+	text "Tres grans #MON"
+	line "van fugir en"
+	cont "direccions"
+	cont "diferents."
+	cont "Què eren?"
 	done
 
 EcruteakCityFisherText:
-	text "I heard a rumor"
-	line "about OLIVINE"
-	cont "LIGHTHOUSE."
+	text "He sentit un rumor"
+	line "sobre el FAR"
+	cont "D'OLIVINE."
 
-	para "The #MON that"
-	line "serves as the"
+	para "El #MON que"
+	line "serveix de far"
 
-	para "beacon fell ill."
-	line "Sounds like they"
-	cont "are in trouble."
+	para "ha emmalaltit."
+	line "Sembla que tenen"
+	cont "problemes."
 	done
 
 EcruteakCityFisherText_JasmineReturned:
-	text "The #MON at"
-	line "OLIVINE LIGHTHOUSE"
-	cont "has been cured."
+	text "El #MON del FAR"
+	line "D'OLIVINE s'ha"
+	cont "curat."
 
-	para "Boats can safely"
-	line "sail out to sea at"
-	cont "night again."
+	para "Els vaixells"
+	line "poden navegar"
+	cont "de nit una altra"
+	cont "vegada."
 	done
 
 EcruteakCityYoungsterText:
-	text "I hear #MON are"
-	line "rampaging at the"
+	text "He sentit que els"
+	line "#MON estan"
 
-	para "LAKE OF RAGE. I'd"
-	line "like to see that."
+	para "descontrolats al"
+	line "LLAC DE LA IRA."
+	cont "M'agradaria veure."
 	done
 
 EcruteakCityGramps3Text:
-	text "In the distant"
-	line "past…"
+	text "En un passat"
+	line "llunyà…"
 
-	para "This tower burned"
-	line "in a fire. Three"
+	para "Aquesta torre es"
+	line "va cremar. Tres"
 
-	para "nameless #MON"
-	line "perished in it."
+	para "#MON sense nom"
+	line "hi van morir."
 
-	para "A rainbow-colored"
-	line "#MON descended"
+	para "Un #MON de"
+	line "colors de l'arc"
 
-	para "from the sky and"
-	line "resurrected them…"
+	para "de Sant Martí va"
+	line "baixar del cel i"
+	cont "els va ressuscitar"
 
-	para "It's a legend that"
-	line "has been passed"
+	para "És una llegenda"
+	line "transmesa pels"
 
-	para "down by ECRUTEAK"
-	line "GYM LEADERS."
+	para "LÍDERS DE GIMNÀS"
+	line "D'ECRUTEAK."
 
-	para "Me?"
+	para "Jo?"
 
-	para "I was a trainer"
-	line "way back when."
+	para "Vaig ser"
+	line "entrenador"
+	cont "fa molt de temps."
 	cont "Hohoho!"
 	done
 
 EcruteakCitySignText:
-	text "ECRUTEAK CITY"
-	line "A Historical City"
+	text "CIUTAT D'ECRUTEAK"
+	line "Ciutat Històrica"
 
-	para "Where the Past"
-	line "Meets the Present"
+	para "On el Passat"
+	line "Troba el Present"
 	done
 
 TinTowerSignText:
-	text "TIN TOWER"
+	text "TORRE D'ESTANY"
 
-	para "A legendary #-"
-	line "MON is said to"
-	cont "roost here."
+	para "Diuen que un #-"
+	line "MON llegendari"
+	cont "s'hi refugia."
 	done
 
 EcruteakGymSignText:
-	text "ECRUTEAK CITY"
-	line "#MON GYM"
-	cont "LEADER: MORTY"
+	text "CIUTAT D'ECRUTEAK"
+	line "GIMNÀS #MON"
+	cont "LÍDER: MORTY"
 
-	para "The Mystic Seer of"
-	line "the Future"
+	para "El Vident Místic"
+	line "del Futur"
 	done
 
 EcruteakDanceTheaterSignText:
-	text "ECRUTEAK DANCE"
-	line "THEATER"
+	text "TEATRE DE DANSA"
+	line "D'ECRUTEAK"
 	done
 
 BurnedTowerSignText:
-	text "BURNED TOWER"
+	text "TORRE CREMADA"
 
-	para "It was destroyed"
-	line "by a mysterious"
-	cont "fire."
+	para "Va ser destruïda"
+	line "per un foc"
+	cont "misteriós."
 
-	para "Please stay away,"
-	line "as it is unsafe."
+	para "Si us plau, no us"
+	line "acosteu, és"
+	cont "perillós."
 	done
 
 EcruteakCity_MapEvents:

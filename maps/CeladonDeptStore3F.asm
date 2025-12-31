@@ -48,48 +48,52 @@ CeladonDeptStore3FDirectory:
 	jumptext CeladonDeptStore3FDirectoryText
 
 CeladonDeptStore3FYoungsterText:
-	text "I can't decide"
-	line "which #MON I"
+	text "No sé a quin"
+	line "#MON"
+	cont "hauria de fer"
 
-	para "should use this TM"
-	line "on…"
+	para "servir aquesta"
+	line "MT…"
 	done
 
 CeladonDeptStore3FGameboyKid1Text:
-	text "Uh-oh! I traded my"
-	line "#MON without"
+	text "Oh, no! He"
+	line "intercanviat el"
 
-	para "removing the UP-"
-	line "GRADE from it."
+	para "meu #MON sense"
+	line "treure-li la"
+	cont "MILLORA."
 	done
 
 CeladonDeptStore3FGameboyKid2Text:
-	text "Yeah! I'm finally"
-	line "getting a PORYGON!"
+	text "Sí! Per fi tinc"
+	line "un PORYGON!"
 
-	para "I'm no good at the"
-	line "slots, so I could"
+	para "No se'm donen bé"
+	line "les màquines"
 
-	para "never get enough"
-	line "coins…"
+	para "escurabutxaques i"
+	line "mai no tenia prou"
+	cont "monedes…"
 
-	para "…Huh?"
+	para "…Eh?"
 
-	para "The traded PORYGON"
-	line "turned into a dif-"
-	cont "ferent #MON!"
+	para "El PORYGON s'ha"
+	line "transformat en un"
+	cont "#MON diferent!"
 	done
 
 CeladonDeptStore3FSuperNerdText:
-	text "The TM SHOP sells"
-	line "some rare moves."
+	text "La BOTIGA de MT"
+	line "ven moviments"
+	cont "rars."
 	done
 
 CeladonDeptStore3FDirectoryText:
-	text "3F: TM SHOP"
+	text "3P: BOTIGA de MT"
 
-	para "Make Your #MON"
-	line "Stronger!"
+	para "Fes els teus"
+	line "#MON més forts!"
 	done
 
 CeladonDeptStore3F_MapEvents:

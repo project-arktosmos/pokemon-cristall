@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const GOLDENRODCITY_POKEFAN_M1
 	const GOLDENRODCITY_YOUNGSTER1
 	const GOLDENRODCITY_COOLTRAINER_F1
@@ -104,7 +104,7 @@ MoveTutorScript:
 	db "FLAMETHROWER@"
 	db "THUNDERBOLT@"
 	db "ICE BEAM@"
-	db "CANCEL@"
+	db "CANCEL·LAR@"
 
 .Refused:
 	writetext GoldenrodCityMoveTutorAwwButTheyreAmazingText
@@ -282,266 +282,274 @@ GoldenrodCityMoveTutorWalkAroundPlayerThenEnterGameCornerMovement:
 	step_end
 
 GoldenrodCityPokefanMText:
-	text "They built the new"
-	line "RADIO TOWER to"
+	text "Van construir la"
+	line "nova TORRE RÀDIO"
 
-	para "replace the old,"
-	line "creaky one."
+	para "per substituir"
+	line "l'antiga."
 	done
 
 GoldenrodCityYoungster1Text:
-	text "I know there's a"
-	line "new BIKE SHOP, but"
+	text "Sé que hi ha una"
+	line "nova BOTIGA DE"
 
-	para "I can't find it"
-	line "anywhere."
+	para "BICIS, però no la"
+	line "trobo enlloc."
 	done
 
 GoldenrodCityCooltrainerF1Text:
-	text "Is that man in"
-	line "black dressed up"
+	text "Aquell home de"
+	line "negre va vestit"
 
-	para "like a TEAM ROCKET"
-	line "member? How silly!"
+	para "com un membre del"
+	line "TEAM ROCKET?"
+
+	para "Que ximple!"
 	done
 
 GoldenrodCityCooltrainerF1Text_ClearedRadioTower:
-	text "Was that man in"
-	line "black really part"
+	text "Aquell home de"
+	line "negre era part"
 
-	para "of TEAM ROCKET? I"
-	line "can't believe it!"
+	para "del TEAM ROCKET?"
+	line "No m'ho crec!"
 	done
 
 GoldenrodCityCooltrainerF2Text:
-	text "The RADIO TOWER in"
-	line "GOLDENROD CITY is"
-	cont "a landmark."
+	text "La TORRE RÀDIO de"
+	line "CIUTAT GOLDRADA"
+	cont "és emblemàtica."
 
-	para "They're running a"
-	line "promotional cam- "
-	cont "paign right now."
+	para "Ara tenen una"
+	line "campanya de"
+	cont "promoció."
 
-	para "They'll modify"
-	line "your #GEAR,"
+	para "Et modifiquen el"
+	line "#GEAR perquè"
 
-	para "so it can also"
-	line "serve as a radio."
+	para "també funcioni"
+	line "com a ràdio."
 	done
 
 GoldenrodCityCooltrainerF2Text_GotRadioCard:
-	text "Oh, your #GEAR"
-	line "works as a radio!"
+	text "Oh, el teu"
+	line "#GEAR"
+	cont "funciona com a"
+	cont "ràdio!"
 	done
 
 GoldenrodCityYoungster2Text:
-	text "E-he-he-he…"
+	text "Eh-he-he-he…"
 
-	para "I got in trouble"
-	line "for playing in the"
+	para "Em van renyar per"
+	line "jugar al soterrani"
 
-	para "basement of the"
-	line "DEPT.STORE."
+	para "dels GRANS"
+	line "MAGATZEMS."
 	done
 
 GoldenrodCityLassText:
-	text "The man at that"
-	line "house rates your"
-	cont "#MON names."
+	text "L'home d'aquella"
+	line "casa puntua els"
+	cont "noms dels #MON."
 
-	para "He can even rename"
-	line "your #MON."
+	para "Fins i tot pot"
+	line "canviar-los el nom"
+	cont "als teus #MON."
 	done
 
 GoldenrodCityGrampsText:
-	text "Whew! This is one"
-	line "big town. I don't"
+	text "Uf! Aquesta ciutat"
+	line "és enorme. No sé"
 
-	para "know where any-"
-	line "thing is."
+	para "on és res de"
+	line "res."
 	done
 
 GoldenrodCityRocketScoutText1:
-	text "So this is the"
-	line "RADIO TOWER…"
+	text "Així que aquesta"
+	line "és la TORRE"
+	cont "RÀDIO…"
 	done
 
 GoldenrodCityRocketScoutText2:
-	text "What do you want,"
-	line "you pest? Scram!"
+	text "Què vols, ximple?"
+	line "Fora d'aquí!"
 	done
 
 GoldenrodCityRocket1Text:
-	text "Stay out of the"
-	line "way! Beat it!"
+	text "No et fiquis pel"
+	line "mig! Fora!"
 	done
 
 GoldenrodCityRocket2Text:
-	text "Take over the"
-	line "RADIO TOWER…"
+	text "Ocupar la TORRE"
+	line "RÀDIO…"
 
-	para "What? It's none of"
-	line "your business!"
+	para "Què? No és cosa"
+	line "teva!"
 	done
 
 GoldenrodCityRocket3Text:
-	text "#MON? They're"
-	line "nothing more than"
+	text "Els #MON? No"
+	line "són més que eines"
 
-	para "tools for making"
-	line "money!"
+	para "per fer diners!"
 	done
 
 GoldenrodCityRocket4Text:
-	text "Our dream will"
-	line "soon come true…"
+	text "El nostre somni"
+	line "aviat es farà"
+	cont "realitat…"
 
-	para "It was such a long"
-	line "struggle…"
+	para "Ha estat una"
+	line "lluita tan llarga…"
 	done
 
 GoldenrodCityRocket5Text:
-	text "Hey, brat! You"
-	line "don't belong here!"
-	cont "Get lost!"
+	text "Ei, marrec! No"
+	line "hauries de ser"
+	cont "aquí! Marxa!"
 	done
 
 GoldenrodCityRocket6Text:
-	text "Come taste the"
-	line "true terror of"
-	cont "TEAM ROCKET!"
+	text "Vine a tastar el"
+	line "veritable terror"
+	cont "del TEAM ROCKET!"
 	done
 
 GoldenrodCityStationSignText:
-	text "GOLDENROD CITY"
-	line "STATION"
+	text "CIUTAT GOLDRADA"
+	line "ESTACIÓ"
 	done
 
 GoldenrodCityRadioTowerSignText:
-	text "GOLDENROD CITY"
-	line "RADIO TOWER"
+	text "CIUTAT GOLDRADA"
+	line "TORRE RÀDIO"
 	done
 
 GoldenrodDeptStoreSignText:
-	text "Full Selection of"
-	line "#MON Goods!"
+	text "Selecció completa"
+	line "d'articles"
+	cont "#MON!"
 
-	para "GOLDENROD CITY"
-	line "DEPT.STORE"
+	para "GRANS MAGATZEMS"
+	line "CIUTAT GOLDRADA"
 	done
 
 GoldenrodGymSignText:
-	text "GOLDENROD CITY"
-	line "#MON GYM"
-	cont "LEADER: WHITNEY"
+	text "CIUTAT GOLDRADA"
+	line "GIMNÀS #MON"
+	cont "LÍDER: BLANCA"
 
-	para "The Incredibly"
-	line "Pretty Girl!"
+	para "La noia increïble-"
+	line "ment bonica!"
 	done
 
 GoldenrodCitySignText:
-	text "GOLDENROD CITY"
+	text "CIUTAT GOLDRADA"
 
-	para "The Festive City"
-	line "of Opulent Charm"
+	para "La Ciutat Festiva"
+	line "d'Encant Opulent"
 	done
 
 GoldenrodCityBikeShopSignText:
-	text "The World is a"
-	line "Cycle Path!"
-	cont "BIKE SHOP"
+	text "El Món és un"
+	line "Carril Bici!"
+	cont "BOTIGA DE BICIS"
 	done
 
 GoldenrodCityGameCornerSignText:
-	text "Your Playground!"
+	text "El teu Parquet!"
 
-	para "GOLDENROD CITY"
-	line "GAME CORNER"
+	para "SALA DE JOCS"
+	line "CIUTAT GOLDRADA"
 	done
 
 GoldenrodCityNameRaterSignText:
-	text "NAME RATER"
+	text "JUTGE DE NOMS"
 
-	para "Get Your #MON"
-	line "Nicknames Rated"
+	para "Fes que avaluïn"
+	line "els sobrenoms dels"
+	cont "teus #MON"
 	done
 
 GoldenrodCityUndergroundSignNorthText:
-	text "UNDERGROUND"
-	line "ENTRANCE"
+	text "ENTRADA AL"
+	line "SOTERRANI"
 	done
 
 GoldenrodCityUndergroundSignSouthText:
-	text "UNDERGROUND"
-	line "ENTRANCE"
+	text "ENTRADA AL"
+	line "SOTERRANI"
 	done
 
 GoldenrodCityPokeComCenterSignText: ; unreferenced
-	text "For Mobile Tips!"
-	line "#COM CENTER"
+	text "Consells Mòbils!"
+	line "CENTRE #COM"
 	done
 
 GoldenrodCityFlowerShopSignText:
-	text "Blooming Beautiful"
-	line "FLOWER SHOP"
+	text "Bellesa Florida"
+	line "BOTIGA DE FLORS"
 	done
 
 GoldenrodCityMoveTutorAskTeachAMoveText:
-	text "I can teach your"
-	line "#MON amazing"
+	text "Puc ensenyar als"
+	line "teus #MON"
 
-	para "moves if you'd"
-	line "like."
+	para "moviments incre-"
+	line "ïbles, si vols."
 
-	para "Should I teach a"
-	line "new move?"
+	para "Vols que ensenyi"
+	line "un moviment nou?"
 	done
 
 GoldenrodCityMoveTutorAsk4000CoinsOkayText:
-	text "It will cost you"
-	line "4000 coins. Okay?"
+	text "Costarà 4000"
+	line "monedes. D'acord?"
 	done
 
 GoldenrodCityMoveTutorAwwButTheyreAmazingText:
-	text "Aww… But they're"
-	line "amazing…"
+	text "Oh… Però són"
+	line "increïbles…"
 	done
 
 GoldenrodCityMoveTutorWhichMoveShouldITeachText:
-	text "Wahahah! You won't"
-	line "regret it!"
+	text "Wahaha! No te'n"
+	line "penediràs!"
 
-	para "Which move should"
-	line "I teach?"
+	para "Quin moviment"
+	line "vols que ensenyi?"
 	done
 
 GoldenrodCityMoveTutorHmTooBadText:
-	text "Hm, too bad. I'll"
-	line "have to get some"
-	cont "cash from home…"
+	text "Hm, quina llàsti-"
+	line "ma. Hauré d'anar"
+	cont "a buscar diners…"
 	done
 
 GoldenrodCityMoveTutorIfYouUnderstandYouveMadeItText:
-	text "If you understand"
-	line "what's so amazing"
+	text "Si entens què té"
+	line "d'increïble aquest"
 
-	para "about this move,"
-	line "you've made it as"
-	cont "a trainer."
+	para "moviment, ja has"
+	line "triomfat com a"
+	cont "entrenador."
 	done
 
 GoldenrodCityMoveTutorFarewellKidText:
-	text "Wahahah!"
-	line "Farewell, kid!"
+	text "Wahaha!"
+	line "Adéu, marrec!"
 	done
 
 GoldenrodCityMoveTutorBButText:
-	text "B-but…"
+	text "P-però…"
 	done
 
 GoldenrodCityMoveTutorYouDontHaveEnoughCoinsText:
-	text "…You don't have"
-	line "enough coins here…"
+	text "…No tens prou"
+	line "monedes aquí…"
 	done
 
 GoldenrodCityMoveTutorMoveText:

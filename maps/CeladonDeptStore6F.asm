@@ -90,10 +90,10 @@ CeladonDeptStore6FVendingMachine:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "FRESH WATER  ¥{d:CELADONDEPTSTORE6F_FRESH_WATER_PRICE}@"
-	db "SODA POP     ¥{d:CELADONDEPTSTORE6F_SODA_POP_PRICE}@"
-	db "LEMONADE     ¥{d:CELADONDEPTSTORE6F_LEMONADE_PRICE}@"
-	db "CANCEL@"
+	db "AIGUA FRESCA ¥{d:CELADONDEPTSTORE6F_FRESH_WATER_PRICE}@"
+	db "REFRESC      ¥{d:CELADONDEPTSTORE6F_SODA_POP_PRICE}@"
+	db "LLIMONADA    ¥{d:CELADONDEPTSTORE6F_LEMONADE_PRICE}@"
+	db "ANUL·LA@"
 
 CeladonDeptStore6FDirectory:
 	jumptext CeladonDeptStore6FDirectoryText
@@ -102,8 +102,9 @@ CeladonDeptStore6FElevatorButton: ; unreferenced
 	jumpstd ElevatorButtonScript
 
 CeladonVendingText:
-	text "A vending machine!"
-	line "Here's the menu."
+	text "Una màquina"
+	line "expenedora! El"
+	cont "menú és aquest."
 	done
 
 CeladonClangText:
@@ -112,38 +113,37 @@ CeladonClangText:
 	para "@"
 	text_ram wStringBuffer3
 	text_start
-	line "popped out."
+	line "ha sortit."
 	done
 
 CeladonVendingNoMoneyText:
-	text "Oops, not enough"
-	line "money…"
+	text "Ui, no tens prou"
+	line "diners…"
 	done
 
 CeladonVendingNoSpaceText:
-	text "There's no more"
-	line "room for stuff…"
+	text "No hi ha lloc"
+	line "per a més coses…"
 	done
 
 CeladonDeptStore6FSuperNerdText:
-	text "A vending machine"
-	line "with a prize rou-"
-	cont "lette…"
+	text "Una màquina"
+	line "expenedora amb"
+	cont "ruleta de premis…"
 
-	para "You never see"
-	line "those anymore."
+	para "Ja no se'n veuen."
 	done
 
 CeladonDeptStore6FYoungsterText:
-	text "Aww! There's no"
-	line "games here!"
+	text "Oh! Aquí no hi ha"
+	line "jocs!"
 
-	para "I wanted to play…"
+	para "Volia jugar…"
 	done
 
 CeladonDeptStore6FDirectoryText:
-	text "6F: ROOFTOP SQUARE"
-	line "VENDING MACHINES"
+	text "6F: TERRAT"
+	line "MÀQUINES EXPEN."
 	done
 
 CeladonDeptStore6F_MapEvents:

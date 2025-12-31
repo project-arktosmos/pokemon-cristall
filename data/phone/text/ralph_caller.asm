@@ -1,133 +1,131 @@
 RalphNeglectingKidsText:
-	text "I've been spending"
-	line "more time with my"
+	text "Passo més temps"
+	line "amb el meu"
 
 	para "@"
 	text_ram wStringBuffer4
-	text " than I"
-	line "have with my kids."
+	text " que"
+	line "amb els meus"
+	cont "fills."
 
-	para "That's a bit sad,"
-	line "actually."
+	para "És una mica trist,"
+	line "la veritat."
 	done
 
 RalphDefeatedMonText:
-	text "I just beat a wild"
-	line "@"
+	text "Acabo de vèncer"
+	line "un @"
 	text_ram wStringBuffer4
-	text "."
+	text " salvatge."
 
-	para "I told my kid, but"
-	line "he scoffed that he"
+	para "Li vaig dir al meu"
+	line "fill, però es va"
 
-	para "could do the same"
-	line "thing easily."
+	para "burlar dient que"
+	line "ell ho faria"
+	cont "fàcil."
 
-	para "Boy, has he gotten"
-	line "cocky…"
+	para "S'ha tornat molt"
+	line "arrogant…"
 	done
 
 RalphLostAMonText:
-	text "Yesterday a wild"
-	line "@"
+	text "Ahir un @"
 	text_ram wStringBuffer4
-	text " slipped"
 
-	para "away from me, in"
-	line "front of my kid."
+	para "salvatge se'm va"
+	line "escapar davant"
 
-	para "I was feeling down"
-	line "about it until he"
+	para "del meu fill."
 
-	para "shared his #"
-	line "BALLS with me."
+	para "Estava desanimat"
+	line "fins que ell va"
 
-	para "Hahah, that sure"
-	line "made my day!"
+	para "compartir les"
+	line "seves POKÉBALLS."
+
+	para "Hahah, això em va"
+	line "alegrar el dia!"
 	done
 
 RalphBattleRematchText:
-	text "What do you say to"
-	line "a battle with me?"
+	text "Què tal un combat"
+	line "amb mi?"
 
-	para "Good, you're going"
-	line "to do it!"
+	para "Bé, ho faràs!"
 
-	para "For a kid, you're"
-	line "quite agreeable."
+	para "Per ser un nano,"
+	line "ets força amable."
 
 	para "@"
 	text_ram wStringBuffer5
-	text " is"
-	line "the spot!"
+	text " és"
+	line "el lloc!"
 	done
 
 RalphHangUpText:
-	text "You call your mom"
-	line "sometimes too!"
+	text "Truca a la teva"
+	line "mare de tant en"
+	cont "tant!"
 	done
 
 RalphItemText:
-	text "Listen, I… Yowch!"
+	text "Escolta, jo…Ai!"
 
-	para "Uh, sorry! See,"
-	line "@"
+	para "Perdona! És que"
+	line "els @"
 	text_ram wStringBuffer4
-	text " are"
+	text " estan"
 
-	para "biting like there"
-	line "is no tomorrow"
+	para "picant com si no"
+	line "hi hagués demà"
 
-	para "over here on"
+	para "aquí a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 
-	para "Aiyee! Ouch!"
-	line "One jabbed me!"
+	para "Aiii! Au!"
+	line "Un m'ha punxat!"
 
-	para "Heh, they're some"
-	line "kind of feisty!"
+	para "Estan molt"
+	line "esvalotats!"
 
-	para "<PLAY_G>, you have"
-	line "to see this rare"
+	para "<PLAY_G>, has de"
+	line "veure això!"
 
-	para "sight! Get ready"
-	line "to fish!"
+	para "Prepara't per"
+	line "pescar!"
 	done
 
 RalphNoItemText:
-	text "Yeah, I know."
+	text "Sí, ja ho sé."
 
-	para "You're looking for"
-	line "rare #MON."
+	para "Busques #MON"
+	line "rars."
 
-	para "Recently, all I've"
-	line "been catching are"
-	cont "MAGIKARP, though…"
+	para "Darrerament només"
+	line "atrapo MAGIKARP…"
 	done
 
 RalphReminderText:
-	text "So where are you?"
-	line "I'm waiting for"
+	text "On ets? T'estic"
+	line "esperant a"
 
-	para "you to show up on"
-	line "@"
+	para "@"
 	text_ram wStringBuffer5
 	text "."
 
-	para "You shouldn't make"
-	line "your elders wait!"
+	para "No hauries de fer"
+	line "esperar els grans!"
 	done
 
 RalphHurryText:
-	text "Hey, what's the"
-	line "matter with you?"
+	text "Ei, què et passa?"
 
-	para "Aren't you coming"
-	line "over to fish for"
-	cont "QWILFISH?"
+	para "No véns a pescar"
+	line "QWILFISH?"
 
-	para "I'm on ROUTE 32,"
-	line "so hurry up!"
+	para "Sóc a la RUTA 32,"
+	line "afanya't!"
 	done

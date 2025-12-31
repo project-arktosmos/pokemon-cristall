@@ -202,98 +202,98 @@ PlateauRivalLeavesMovement:
 	step_end
 
 IndigoPlateauPokecenter1FCooltrainerMText:
-	text "At the #MON"
-	line "LEAGUE, you'll get"
+	text "A la LLIGA #MON"
+	line "et posaran a"
 
-	para "tested by the"
-	line "ELITE FOUR."
+	para "prova els QUATRE"
+	line "MILLORS."
 
-	para "You have to beat"
-	line "them all. If you"
+	para "Has de vèncer-los"
+	line "a tots. Si perds,"
 
-	para "lose, you have to"
-	line "start all over!"
+	para "hauràs de tornar"
+	line "a començar!"
 	done
 
 PlateauRivalText1:
-	text "Hold it."
+	text "Para."
 
-	para "You're going to"
-	line "take the #MON"
+	para "Ara aniràs a la"
+	line "LLIGA #MON a"
 
-	para "LEAGUE challenge"
-	line "now?"
+	para "passar el"
+	line "desafiament?"
 
-	para "That's not going"
-	line "to happen."
+	para "Això no"
+	line "passarà."
 
-	para "My super-well-"
-	line "trained #MON"
+	para "Els meus #MON"
+	line "superentrenats"
 
-	para "are going to pound"
-	line "you."
+	para "t'esclafaran."
 
 	para "<PLAYER>!"
-	line "I challenge you!"
+	line "Et desafio!"
 	done
 
 PlateauRivalWinText:
 	text "…"
 
-	para "OK--I lost…"
+	para "D'acord, he"
+	line "perdut…"
 	done
 
 PlateauRivalText2:
-	text "…Darn… I still"
-	line "can't win…"
+	text "…Maleït… Encara"
+	line "no puc guanyar…"
 
-	para "I… I have to think"
-	line "more about my"
+	para "He… He de pensar"
+	line "més en els meus"
 	cont "#MON…"
 
-	para "Humph! Try not to"
-	line "lose!"
+	para "Bah! Intenta no"
+	line "perdre!"
 	done
 
 PlateauRivalLoseText:
 	text "…"
 
-	para "Whew…"
-	line "With my partners,"
+	para "Buf…"
+	line "Amb els meus"
 
-	para "I'm going to be"
-	line "the CHAMPION!"
+	para "companys, seré"
+	line "el CAMPIÓ!"
 	done
 
 TeleportGuyText1:
-	text "Ah! You're chal-"
-	line "lenging the ELITE"
+	text "Ah! Desafiaràs"
+	line "els QUATRE"
 
-	para "FOUR? Are you sure"
-	line "you're ready?"
+	para "MILLORS? Segur"
+	line "que estàs a punt?"
 
-	para "If you need to"
-	line "train some more,"
+	para "Si necessites"
+	line "entrenar més,"
 
-	para "my ABRA can help"
-	line "you."
+	para "el meu ABRA et"
+	line "pot ajudar."
 
-	para "It can TELEPORT"
-	line "you home."
+	para "Et pot portar"
+	line "a casa amb"
+	cont "TELEPORT."
 
-	para "Would you like to"
-	line "go home now?"
+	para "Vols anar a casa"
+	line "ara?"
 	done
 
 TeleportGuyYesText:
-	text "OK, OK. Picture"
-	line "your house in your"
-	cont "mind…"
+	text "D'acord. Imagina"
+	line "casa teva al cap…"
 	done
 
 TeleportGuyNoText:
-	text "OK, OK. The best"
-	line "of luck to you!"
+	text "D'acord. Molta"
+	line "sort!"
 	done
 
 AbraText:

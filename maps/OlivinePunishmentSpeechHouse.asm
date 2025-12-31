@@ -1,6 +1,6 @@
-	object_const_def
-	const OLIVINEPUNISHMENTSPEECHHOUSE_POKEFAN_M
-	const OLIVINEPUNISHMENTSPEECHHOUSE_LASS
+object_const_def
+const OLIVINEPUNISHMENTSPEECHHOUSE_POKEFAN_M
+const OLIVINEPUNISHMENTSPEECHHOUSE_LASS
 
 OlivinePunishmentSpeechHouse_MapScripts:
 	def_scene_scripts
@@ -20,21 +20,21 @@ OlivinePunishmentSpeechHouseBookshelf1:
 	jumpstd MagazineBookshelfScript
 
 OlivinePunishmentSpeechHouseDadText:
-	text "Along the way to"
-	line "CIANWOOD, there"
+	text "Pel camí cap a"
+	line "CIANWOOD, hi ha"
 
-	para "are four deserted"
-	line "islands."
+	para "quatre illes"
+	line "desertes."
 
-	para "Bad kids are taken"
-	line "to the islands as"
-	cont "punishment!"
+	para "Hi porten els"
+	line "nens dolents com"
+	cont "a càstig!"
 	done
 
 OlivinePunishmentSpeechHouseDaughterText:
-	text "Whenever I get in"
-	line "trouble, Daddy"
-	cont "always scares me."
+	text "Quan em fico en"
+	line "problemes, el"
+	cont "papa m'espanta."
 	done
 
 OlivinePunishmentSpeechHouse_MapEvents:

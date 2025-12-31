@@ -1,66 +1,67 @@
 ErinMonIsMuchStrongerText:
-	text_ram wStringBuffer3
-	text "'s @"
+	text "El @"
 	text_ram wStringBuffer4
-	text_start
-	line "is much stronger"
-	cont "than before!"
+	text ""
+	line "de l'"
+	text_ram wStringBuffer3
+	text " és"
+	cont "molt més fort!"
 	done
 
 ErinDefeatedMonText:
-	text "And, and…"
-	line "I just battled and"
-	cont "beat @"
+	text "I, i…"
+	line "Acabo de lluitar"
+	cont "i vèncer @"
 	text_ram wStringBuffer4
 	text "!"
 
-	para "I've raised my"
-	line "#MON properly!"
+	para "He entrenat bé"
+	line "els meus #MON!"
 	done
 
 ErinLostAMonText:
-	text "But, but…"
+	text "Però, però…"
 
-	para "A wild @"
+	para "Un @"
 	text_ram wStringBuffer4
-	text_start
-	line "got away from me"
+	text ""
+	line "salvatge m'ha"
 
-	para "again. It's just"
-	line "not fair!"
+	para "tornat a fugir."
+	line "No és just!"
 	done
 
 ErinBattleRematchText:
-	text "I'm ERIN. Want to"
-	line "battle me again?"
+	text "Soc l'ERIN. Vols"
+	line "tornar a lluitar?"
 
-	para "I won't lose this"
-	line "time!"
+	para "Aquesta vegada no"
+	line "perdré!"
 
-	para "I'll be waiting on"
+	para "T'espero a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
 	done
 
 ErinHangUpText:
-	text "See you. Bye-bye!"
+	text "Adéu. Fins aviat!"
 	done
 
 ErinWorkingHardText:
-	text "I'm working hard"
-	line "to raise my"
+	text "Estic entrenant"
+	line "molt els meus"
 	cont "#MON!"
 
-	para "Come back for"
-	line "another battle!"
+	para "Torna per un"
+	line "altre combat!"
 	done
 
 ErinComeBattleText:
 	text "Oh, <PLAY_G>!"
-	line "Come battle ERIN!"
+	line "Vine a lluitar!"
 
-	para "I'll be waiting on"
+	para "T'espero a"
 	line "@"
 	text_ram wStringBuffer5
 	text "!"

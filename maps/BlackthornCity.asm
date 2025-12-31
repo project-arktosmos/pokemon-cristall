@@ -1,4 +1,4 @@
-	object_const_def
+object_const_def
 	const BLACKTHORNCITY_SUPER_NERD1
 	const BLACKTHORNCITY_SUPER_NERD2
 	const BLACKTHORNCITY_GRAMPS1
@@ -143,98 +143,101 @@ BlackthornCityMartSign:
 	jumpstd MartSignScript
 
 Text_ClairIsOut:
-	text "I am sorry."
+	text "Ho sento."
 
-	para "CLAIR, our GYM"
-	line "LEADER, entered"
+	para "La CLAIR, la"
+	line "LÍDER del GIMNÀS,"
 
-	para "the DRAGON'S DEN"
-	line "behind the GYM."
+	para "és a la COVA DEL"
+	line "DRAC, darrere del"
+	cont "GIMNÀS."
 
-	para "I have no idea"
-	line "when our LEADER"
-	cont "will return."
+	para "No tinc ni idea"
+	line "de quan tornarà"
+	cont "la nostra LÍDER."
 	done
 
 Text_ClairIsIn:
-	text "CLAIR, our GYM"
-	line "LEADER, is waiting"
-	cont "for you."
+	text "La CLAIR, la"
+	line "LÍDER del GIMNÀS,"
+	cont "t'espera."
 
-	para "However, it would"
-	line "be impossible for"
+	para "Però seria"
+	line "impossible per a"
 
-	para "a run-of-the-mill"
-	line "trainer to win."
+	para "un entrenador del"
+	line "munt guanyar."
 	done
 
 Text_ClairIsBeaten:
-	text "You defeated"
-	line "CLAIR?"
+	text "Has derrotat"
+	line "la CLAIR?"
 
-	para "That's amazing!"
+	para "Increïble!"
 
-	para "I've never heard"
-	line "of her losing to"
+	para "Mai havia sentit"
+	line "que hagués perdut"
 
-	para "anyone other than"
-	line "LANCE."
+	para "contra ningú que"
+	line "no fos el LANCE."
 	done
 
 BlackthornGrampsRefusesEntryText:
-	text "No. Only chosen"
-	line "trainers may train"
+	text "No. Només els"
+	line "entrenadors"
 
-	para "here."
-	line "Please leave."
+	para "escollits poden"
+	line "entrenar aquí."
+	cont "Si us plau, marxa."
 	done
 
 BlackthornGrampsGrantsEntryText:
-	text "If CLAIR allows"
-	line "it, her grand-"
-	cont "father--our MASTER"
-	cont "--will also."
+	text "Si la CLAIR ho"
+	line "permet, el seu"
+	cont "avi, el nostre"
+	cont "MESTRE, també."
 
-	para "You may enter."
+	para "Pots entrar."
 	done
 
 BlackBeltText_WeirdRadio:
-	text "My radio's busted?"
-	line "Lately, I only get"
-	cont "this weird signal."
+	text "La ràdio s'ha"
+	line "espatlat? Només"
+	cont "capto un senyal"
+	cont "estrany."
 	done
 
 BlackBeltText_VoicesInMyHead:
-	text "Arooo! Voices in"
-	line "my head!"
+	text "Auuu! Veus al cap!"
 
-	para "Huh? I'm listening"
-	line "to my radio!"
+	para "Eh? Estic"
+	line "escoltant la"
+	cont "ràdio!"
 	done
 
 BlackthornCooltrainerF1Text:
-	text "Are you going to"
-	line "make your #MON"
-	cont "forget some moves?"
+	text "Faràs que el teu"
+	line "# oblidi"
+	cont "algun moviment?"
 	done
 
 BlackthornYoungsterText:
-	text "Dragon masters all"
-	line "come from the city"
-	cont "of BLACKTHORN."
+	text "Els mestres de"
+	line "dracs vénen tots"
+	cont "de BLACKTHORN."
 	done
 
 MeetSantosText:
 	text "SANTOS: …"
 
-	para "It's Saturday…"
+	para "És dissabte…"
 
-	para "I'm SANTOS of"
-	line "Saturday…"
+	para "Sóc el SANTOS,"
+	line "el de dissabte…"
 	done
 
 SantosGivesGiftText:
-	text "You can have this…"
+	text "Pots tenir això…"
 	done
 
 SantosGaveGiftText:
@@ -242,72 +245,74 @@ SantosGaveGiftText:
 
 	para "SPELL TAG…"
 
-	para "Ghost-type moves"
-	line "get stronger…"
+	para "Els moviments de"
+	line "tipus fantasma es"
+	cont "tornen més forts…"
 
-	para "It will frighten"
-	line "you…"
+	para "T'espantarà…"
 	done
 
 SantosSaturdayText:
 	text "SANTOS: …"
 
-	para "See you again on"
-	line "another Saturday…"
+	para "Ens veiem un"
+	line "altre dissabte…"
 
-	para "I won't have any"
-	line "more gifts…"
+	para "No tindré més"
+	line "regals…"
 	done
 
 SantosNotSaturdayText:
-	text "SANTOS: Today's"
-	line "not Saturday…"
+	text "SANTOS: Avui no"
+	line "és dissabte…"
 	done
 
 BlackthornCooltrainerF2Text:
-	text "Wow, you came"
-	line "through the ICE"
-	cont "PATH?"
+	text "Uau, has passat"
+	line "pel CAMÍ DE GEL?"
 
-	para "You must be a real"
-	line "hotshot trainer!"
+	para "Has de ser un"
+	line "entrenador de"
+	cont "primera!"
 	done
 
 BlackthornCitySignText:
-	text "BLACKTHORN CITY"
+	text "BLACKTHORN"
 
-	para "A Quiet Mountain"
-	line "Retreat"
+	para "Un Retir"
+	line "Tranquil de"
+	cont "Muntanya"
 	done
 
 BlackthornGymSignText:
-	text "BLACKTHORN CITY"
-	line "#MON GYM"
-	cont "LEADER: CLAIR"
+	text "GIMNÀS # DE"
+	line "BLACKTHORN"
+	cont "LÍDER: CLAIR"
 
-	para "The Blessed User"
-	line "of Dragon #MON"
+	para "La Benaurada"
+	line "Usuària de # de"
+	cont "tipus Drac"
 	done
 
 MoveDeletersHouseSignText:
-	text "MOVE DELETER'S"
-	line "HOUSE"
+	text "CASA DE"
+	line "L'ESBORRAMOVIM."
 	done
 
 DragonDensSignText:
-	text "DRAGON'S DEN"
-	line "AHEAD"
+	text "COVA DEL DRAC"
+	line "ENDAVANT"
 	done
 
 BlackthornCityTrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSELLS"
 
-	para "A #MON holding"
-	line "a MIRACLEBERRY"
+	para "Un # que porti"
+	line "una BAIA MIRACLE"
 
-	para "will cure itself"
-	line "of any status"
-	cont "problem."
+	para "es curarà sol de"
+	line "qualsevol"
+	cont "problema d'estat."
 	done
 
 BlackthornCity_MapEvents:

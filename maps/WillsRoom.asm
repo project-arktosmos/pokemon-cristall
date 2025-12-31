@@ -79,51 +79,53 @@ WillsRoom_EnterMovement:
 	step_end
 
 WillScript_WillBeforeText:
-	text "Welcome to #MON"
-	line "LEAGUE, <PLAYER>."
+	text "Benvingut a la"
+	line "LLIGA #,"
+	cont "<PLAYER>."
 
-	para "Allow me to intro-"
-	line "duce myself. I am"
-	cont "WILL."
+	para "Deixa'm presentar-"
+	line "me. Sóc WILL."
 
-	para "I have trained all"
-	line "around the world,"
+	para "He entrenat arreu"
+	line "del món, fent els"
 
-	para "making my psychic"
-	line "#MON powerful."
+	para "meus # psíquics"
+	line "molt poderosos."
 
-	para "And, at last, I've"
-	line "been accepted into"
-	cont "the ELITE FOUR."
+	para "I, per fi, m'han"
+	line "acceptat a l'ALTA"
+	cont "COMANDÀNCIA."
 
-	para "I can only keep"
-	line "getting better!"
+	para "Només puc seguir"
+	line "millorant!"
 
-	para "Losing is not an"
-	line "option!"
+	para "Perdre no és una"
+	line "opció!"
 	done
 
 WillScript_WillBeatenText:
-	text "I… I can't…"
-	line "believe it…"
+	text "No… no puc"
+	line "creure-ho…"
 	done
 
 WillScript_WillDefeatText:
-	text "Even though I was"
-	line "defeated, I won't"
-	cont "change my course."
+	text "Tot i que m'han"
+	line "derrotat, no"
+	cont "canviaré de camí."
 
-	para "I will continue"
-	line "battling until I"
+	para "Seguiré lluitant"
+	line "fins que estigui"
 
-	para "stand above all"
-	line "trainers!"
+	para "per sobre de tots"
+	line "els entrenadors!"
 
-	para "Now, <PLAYER>, move"
-	line "on and experience"
+	para "Ara, <PLAYER>,"
+	line "avança"
+	cont "i experimenta"
 
-	para "the true ferocity"
-	line "of the ELITE FOUR."
+	para "la ferocitat de"
+	line "l'ALTA"
+	cont "COMANDÀNCIA."
 	done
 
 WillsRoom_MapEvents:

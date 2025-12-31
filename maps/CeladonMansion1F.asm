@@ -43,18 +43,19 @@ CeladonMansion1FBookshelf:
 	jumpstd PictureBookshelfScript
 
 CeladonMansionManagerText:
-	text "My dear #MON"
-	line "keep me company,"
+	text "Els meus estimats"
+	line "#MON em fan"
 
-	para "so I don't ever"
-	line "feel lonely."
+	para "companyia, així no"
+	line "em sento mai sola."
 
-	para "MEOWTH even brings"
-	line "money home."
+	para "MEOWTH fins i tot"
+	line "porta diners a"
+	cont "casa."
 	done
 
 CeladonMansion1FMeowthText:
-	text "MEOWTH: Meow!"
+	text "MEOWTH: Miauu!"
 	done
 
 CeladonMansion1FClefairyText:
@@ -68,8 +69,8 @@ CeladonMansion1FNidoranFText:
 	done
 
 CeladonMansionManagersSuiteSignText:
-	text "CELADON MANSION"
-	line "MANAGER'S SUITE"
+	text "MANSIÓ CELESTE"
+	line "APARTAMENT GERENT"
 	done
 
 CeladonMansion1F_MapEvents:

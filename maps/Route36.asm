@@ -409,252 +409,257 @@ Route36SuicuneMovement:
 	step_end
 
 UseSquirtbottleText:
-	text "It's a weird tree."
-	line "Use SQUIRTBOTTLE?"
+	text "És un arbre rar."
+	line "Usar SQUIRTBOTTLE?"
 	done
 
 UsedSquirtbottleText:
-	text "<PLAYER> used the"
-	line "SQUIRTBOTTLE."
+	text "<PLAYER> ha usat"
+	line "la SQUIRTBOTTLE."
 	done
 
 SudowoodoAttackedText:
-	text "The weird tree"
-	line "doesn't like the"
+	text "A l'arbre rar no"
+	line "li agrada la"
 	cont "SQUIRTBOTTLE!"
 
-	para "The weird tree"
-	line "attacked!"
+	para "L'arbre rar"
+	line "ha atacat!"
 	done
 
 FloriaText1:
-	text "I'm the FLOWER"
-	line "SHOP's FLORIA!"
+	text "Sóc la FLORIA de"
+	line "la BOTIGA FLORS!"
 
-	para "Listen, listen!"
+	para "Escolta, escolta!"
 
-	para "When I sprinkled"
-	line "water on that"
+	para "Quan he ruixat"
+	line "amb aigua aquell"
 
-	para "wiggly tree, it"
-	line "jumped right up!"
+	para "arbre tremolós,"
+	line "ha saltat!"
 
-	para "It just has to be"
-	line "a #MON."
+	para "Ha de ser un"
+	line "#MON segur."
 
-	para "I bet it would be"
-	line "shocked out of its"
+	para "Aposto que si"
+	line "el mulles bé,"
 
-	para "disguise if you"
-	line "soaked it!"
+	para "deixarà de fer"
+	line "la disfressa!"
 
-	para "I know! I'll tell"
-	line "my sis and borrow"
-	cont "her water bottle!"
+	para "Ja ho sé! Li diré"
+	line "a la meva germana"
+	cont "i li manllevaré!"
 	done
 
 FloriaText2:
-	text "When I told my sis"
-	line "about the jiggly"
+	text "Quan li he dit a"
+	line "la meva germana"
 
-	para "tree, she said"
-	line "it's dangerous."
+	para "de l'arbre, m'ha"
+	line "dit que és"
+	cont "perillós."
 
-	para "If I beat WHITNEY,"
-	line "I wonder if she'll"
+	para "Si guanyo WHITNEY,"
+	line "potser em deixarà"
 
-	para "lend me her water"
-	line "bottle…"
+	para "l'ampolla"
+	line "d'aigua…"
 	done
 
 RockSmashGuyText1:
-	text "Wa-hey!"
+	text "Ei, ep!"
 
-	para "I was going to"
-	line "snap that tree"
+	para "Volia trencar"
+	line "aquell arbre"
 
-	para "with my straight-"
-	line "arm punch."
+	para "amb el meu cop"
+	line "de puny directe."
 
-	para "But I couldn't!"
-	line "I'm a failure!"
+	para "Però no he pogut!"
+	line "Sóc un fracàs!"
 	done
 
 RockSmashGuyText2:
-	text "Did you clear that"
-	line "wretched tree?"
+	text "Has tret aquell"
+	line "arbre maleït?"
 
-	para "I'm impressed!"
-	line "I want you to"
-	cont "have this."
+	para "Impressionant!"
+	line "Vull que tinguis"
+	cont "això."
 	done
 
 Text_ReceivedTM08: ; unreferenced
-	text "<PLAYER> received"
-	line "TM08."
+	text "<PLAYER> ha rebut"
+	line "MT08."
 	done
 
 RockSmashGuyText3:
-	text "That happens to be"
+	text "Això és"
 	line "ROCK SMASH."
 
-	para "You can shatter"
-	line "rocks with just a"
+	para "Pots destrossar"
+	line "roques amb un sol"
 
-	para "single well-aimed"
-	line "smack."
+	para "cop ben apuntat."
 
-	para "If any rocks are"
-	line "in your way, just"
-	cont "smash 'em up!"
+	para "Si hi ha roques"
+	line "al teu camí,"
+	cont "destrossa-les!"
 	done
 
 UnusedOddTreeText: ; unreferenced
-	text "An odd tree is"
-	line "blocking the way"
-	cont "to GOLDENROD CITY."
+	text "Un arbre estrany"
+	line "bloqueja el camí"
+	cont "a GOLDENROD CITY."
 
-	para "I wanted to go see"
-	line "the huge #MON"
+	para "Volia anar a veure"
+	line "el gran CENTRE"
 
-	para "CENTER they just"
-	line "opened…"
+	para "#MON que acaben"
+	line "d'obrir…"
 	done
 
 Route36LassText:
-	text "An odd tree is"
-	line "blocking the way"
-	cont "to GOLDENROD CITY."
+	text "Un arbre estrany"
+	line "bloqueja el camí"
+	cont "a GOLDENROD CITY."
 
-	para "It's preventing"
-	line "me from shopping."
+	para "M'impedeix anar"
+	line "a comprar."
 
-	para "Something should"
-	line "be done about it."
+	para "S'hauria de fer"
+	line "alguna cosa."
 	done
 
 Route36LassText_ClearedSudowoodo:
-	text "That odd tree dis-"
-	line "appeared without a"
-	cont "trace."
+	text "Aquell arbre rar"
+	line "ha desaparegut"
+	cont "sense deixar"
+	cont "rastre."
 
-	para "Oh! That tree was"
-	line "really a #MON?"
+	para "Oh! Aquell arbre"
+	line "era un #MON?"
 	done
 
 PsychicMarkSeenText:
-	text "I'm going to read"
-	line "your thoughts!"
+	text "Llegiré els teus"
+	line "pensaments!"
 	done
 
 PsychicMarkBeatenText:
-	text "I misread you!"
+	text "T'he llegit"
+	line "malament!"
 	done
 
 PsychicMarkAfterBattleText:
-	text "I'd be strong if"
-	line "only I could tell"
+	text "Seria fort si"
+	line "pogués saber què"
 
-	para "what my opponent"
-	line "was thinking."
+	para "pensa el meu"
+	line "oponent."
 	done
 
 SchoolboyAlan1SeenText:
-	text "Thanks to my stud-"
-	line "ies, I'm ready for"
-	cont "any #MON!"
+	text "Gràcies als meus"
+	line "estudis, estic a"
+	cont "punt per a tot!"
 	done
 
 SchoolboyAlan1BeatenText:
-	text "Oops! Computation"
-	line "error?"
+	text "Ui! Error de"
+	line "càlcul?"
 	done
 
 SchoolboyAlanBooksText:
-	text "Darn. I study five"
-	line "hours a day too."
+	text "Caram. Estudio 5"
+	line "hores al dia."
 
-	para "There's more to"
-	line "learning than just"
-	cont "reading books."
+	para "Aprendre és més"
+	line "que només llegir"
+	cont "llibres."
 	done
 
 MeetArthurText:
-	text "ARTHUR: Who are"
-	line "you?"
+	text "ARTHUR: Qui ets?"
 
-	para "I'm ARTHUR of"
-	line "Thursday."
+	para "Sóc l'ARTHUR"
+	line "del dijous."
 	done
 
 ArthurGivesGiftText:
-	text "Here. You can have"
-	line "this."
+	text "Té. Pots quedar-te"
+	line "això."
 	done
 
 ArthurGaveGiftText:
-	text "ARTHUR: A #MON"
-	line "that uses rock-"
+	text "ARTHUR: Un #MON"
+	line "que usi moviments"
 
-	para "type moves should"
-	line "hold on to that."
+	para "de tipus roca"
+	line "hauria de"
+	cont "portar-ho."
 
-	para "It pumps up rock-"
-	line "type attacks."
+	para "Potencia atacs de"
+	line "tipus roca."
 	done
 
 ArthurThursdayText:
-	text "ARTHUR: I'm ARTHUR"
-	line "of Thursday. I'm"
+	text "ARTHUR: Sóc"
+	line "l'ARTHUR del"
 
-	para "the second son out"
-	line "of seven children."
+	para "dijous. Sóc el 2n"
+	line "fill de 7 germans."
 	done
 
 ArthurNotThursdayText:
-	text "ARTHUR: Today's"
-	line "not Thursday. How"
-	cont "disappointing."
+	text "ARTHUR: Avui no és"
+	line "dijous. Quina"
+	cont "decepció."
 	done
 
 Route36SignText:
-	text "ROUTE 36"
+	text "RUTA 36"
 	done
 
 RuinsOfAlphNorthSignText:
-	text "RUINS OF ALPH"
-	line "NORTH ENTRANCE"
+	text "RUÏNES D'ALPH"
+	line "ENTRADA NORD"
 	done
 
 Route36TrainerTips1Text:
-	text "TRAINER TIPS"
+	text "CONSELLS"
+	line "ENTRENADOR"
 
-	para "#MON stats"
-	line "vary--even within"
-	cont "the same species."
+	para "Les stats dels"
+	line "#MON varien,"
+	cont "fins i tot entre"
+	cont "la mateixa"
+	cont "espècie."
 
-	para "Their stats may be"
-	line "similar at first."
+	para "Les stats poden"
+	line "ser similars al"
+	cont "principi."
 
-	para "However, differ-"
-	line "ences will become"
-
-	para "pronounced as the"
-	line "#MON grow."
+	para "Però les diferèn-"
+	line "cies es notaran"
+	cont "quan creixin."
 	done
 
 Route36TrainerTips2Text:
-	text "TRAINER TIPS"
+	text "CONSELLS"
+	line "ENTRENADOR"
 
-	para "Use DIG to return"
-	line "to the entrance of"
-	cont "any place."
+	para "Usa DIG per tornar"
+	line "a l'entrada de"
+	cont "qualsevol lloc."
 
-	para "It is convenient"
-	line "for exploring"
+	para "És convenient per"
+	line "explorar coves i"
 
-	para "caves and other"
-	line "landmarks."
+	para "altres llocs"
+	line "d'interès."
 	done
 
 Route36_MapEvents:

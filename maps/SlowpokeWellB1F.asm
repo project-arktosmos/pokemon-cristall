@@ -143,179 +143,183 @@ KurtSlowpokeWellVictoryMovementData:
 	step_end
 
 SlowpokeWellB1FKurtText:
-	text "KURT: Hey there,"
+	text "KURT: Ei, hola,"
 	line "<PLAYER>!"
 
-	para "The guard up top"
-	line "took off when I"
-	cont "shouted at him."
+	para "El guàrdia de"
+	line "dalt ha fugit"
+	cont "quan li he cridat."
 
-	para "But then I took a"
-	line "tumble down the"
-	cont "WELL."
+	para "Però després he"
+	line "caigut dins el"
+	cont "POU."
 
-	para "I slammed down"
-	line "hard on my back,"
-	cont "so I can't move."
+	para "M'he colpejat fort"
+	line "l'esquena i no em"
+	cont "puc moure."
 
-	para "Rats! If I were"
-	line "fit, my #MON"
+	para "Rai! Si estigués"
+	line "bé, els meus"
+	cont "#MON"
 
-	para "would've punished"
-	line "them…"
+	para "els haurien"
+	line "castigat…"
 
-	para "Ah, it can't be"
-	line "helped."
+	para "Bé, no s'hi pot"
+	line "fer res."
 
-	para "<PLAYER>, show them"
-	line "how gutsy you are"
-	cont "in my place!"
+	para "<PLAYER>,"
+	line "demostra'ls"
+	cont "el teu coratge en"
+	cont "el meu lloc!"
 	done
 
 KurtLeaveSlowpokeWellText:
-	text "KURT: Way to go,"
+	text "KURT: Ben fet,"
 	line "<PLAYER>!"
 
-	para "TEAM ROCKET has"
-	line "taken off."
+	para "El TEAM ROCKET ha"
+	line "fugit."
 
-	para "My back's better"
-	line "too. Let's get out"
-	cont "of here."
+	para "L'esquena ja em va"
+	line "millor. Marxem"
+	cont "d'aquí."
 	done
 
 GruntM29SeenText:
-	text "Darn! I was stand-"
-	line "ing guard up top"
+	text "Uf! Estava"
+	line "vigilant"
+	cont "a dalt quan un"
 
-	para "when some old coot"
-	line "yelled at me."
+	para "vell ximple m'ha"
+	line "cridat."
 
-	para "He startled me so"
-	line "much that I fell"
-	cont "down here."
+	para "M'ha espantat tant"
+	line "que he caigut"
+	cont "aquí baix."
 
-	para "I think I'll vent"
-	line "my anger by taking"
-	cont "it out on you!"
+	para "Crec que em"
+	line "desfogaré amb tu!"
 	done
 
 GruntM29BeatenText:
-	text "Arrgh! This is NOT"
-	line "my day!"
+	text "Argh! Avui NO és"
+	line "el meu dia!"
 	done
 
 GruntM29AfterBattleText:
-	text "Sure, we've been"
-	line "hacking the tails"
+	text "Sí, hem estat"
+	line "tallant les cues"
 
-	para "off SLOWPOKE and"
-	line "selling them."
+	para "dels SLOWPOKE i"
+	line "les venem."
 
-	para "Everything we do"
-	line "is for profit."
+	para "Tot el que fem és"
+	line "per guanyar."
 
-	para "That's right!"
-	line "We're TEAM ROCKET,"
+	para "Això mateix! Som"
+	line "el TEAM ROCKET,"
 
-	para "and we'll do any-"
-	line "thing for money!"
+	para "i farem qualsevol"
+	line "cosa per diners!"
 	done
 
 GruntM1SeenText:
-	text "What do you want?"
+	text "Què vols?"
 
-	para "If you interrupt"
-	line "our work, don't"
-	cont "expect any mercy!"
+	para "Si interromps la"
+	line "nostra feina, no"
+	cont "esperis pietat!"
 	done
 
 GruntM1BeatenText:
-	text "You did OK today,"
-	line "but wait till next"
-	cont "time!"
+	text "Avui ho has fet"
+	line "bé, però espera"
+	cont "la propera vegada!"
 	done
 
 TrainerGruntM1WhenTalkText:
-	text "Yeah, TEAM ROCKET"
-	line "was broken up"
-	cont "three years ago."
+	text "Sí, el TEAM ROCKET"
+	line "es va dissoldre"
+	cont "fa tres anys."
 
-	para "But we continued"
-	line "our activities"
-	cont "underground."
+	para "Però vam continuar"
+	line "les activitats"
+	cont "en secret."
 
-	para "Now you can have"
-	line "fun watching us"
-	cont "stir up trouble!"
+	para "Ara pots gaudir"
+	line "mirant com causem"
+	cont "problemes!"
 	done
 
 GruntM2SeenText:
-	text "Quit taking SLOW-"
-	line "POKETAILS?"
+	text "Que deixem de"
+	line "tallar"
+	cont "CUESLOWPOKE?"
 
-	para "If we obeyed you,"
-	line "TEAM ROCKET's rep"
-	cont "would be ruined!"
+	para "Si t'obeiéssim, la"
+	line "reputació del TEAM"
+	cont "ROCKET es perdria!"
 	done
 
 GruntM2BeatenText:
-	text "Just…"
-	line "Too strong…"
+	text "Simplement…"
+	line "Massa fort…"
 	done
 
 GruntM2AfterBattleText:
-	text "We need the money,"
-	line "but selling SLOW-"
-	cont "POKETAILS?"
+	text "Necessitem diners,"
+	line "però vendre"
+	cont "CUESLOWPOKE?"
 
-	para "It's tough being a"
-	line "ROCKET GRUNT!"
+	para "És dur ser un"
+	line "RECLU ROCKET!"
 	done
 
 GruntF1SeenText:
-	text "Stop taking TAILS?"
+	text "Que parem de"
+	line "tallar CUES?"
 
-	para "Yeah, just try to"
-	line "defeat all of us!"
+	para "Prova a derrotar-"
+	line "nos a tots!"
 	done
 
 GruntF1BeatenText:
-	text "You rotten brat!"
+	text "Ximple fastigós!"
 	done
 
 GruntF1AfterBattleText:
-	text "SLOWPOKETAILS"
-	line "grow back fast!"
+	text "Les CUESLOWPOKE"
+	line "creixen ràpid!"
 
-	para "What's wrong with"
-	line "selling them?"
+	para "Què hi ha de"
+	line "dolent en vendre-"
+	cont "les?"
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A SLOWPOKE with"
-	line "its TAIL cut off…"
+	text "Un SLOWPOKE amb"
+	line "la CUA tallada…"
 
-	para "Huh? It has MAIL."
-	line "Read it?"
+	para "Eh? Porta CORREU."
+	line "El llegeixes?"
 	done
 
 SlowpokeWellB1FSlowpokeMailText:
-	text "<PLAYER> read the"
-	line "MAIL."
+	text "<PLAYER> ha llegit"
+	line "el CORREU."
 
-	para "Be good and look"
-	line "after the house"
+	para "Sigues bo i cuida"
+	line "la casa amb l'avi"
 
-	para "with Grandpa and"
-	line "SLOWPOKE."
+	para "i el SLOWPOKE."
 
-	para "Love, Dad"
+	para "Amb amor, Papa"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A SLOWPOKE with"
-	line "its TAIL cut off…"
+	text "Un SLOWPOKE amb"
+	line "la CUA tallada…"
 	done
 
 SlowpokeWellB1F_MapEvents:
